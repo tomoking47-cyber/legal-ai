@@ -172,14 +172,64 @@ Representative**」
 
 ---
 
-# 3. 二者択一 ── どちらでも重大
+# 3. 【確定】ロックアップ契約は締結されていない ── ケースB
 
-| ケース | 帰結 |
-|---|---|
-| **A：Lock-Up Agreements / Non-D&O Lock-Up Agreement が実際に締結された** | **Relativity 側は、12か月ロックアップ期間中の 2026年7〜8月に DTC 移管・処分を行った。明白な契約違反。** |
-| **B：締結されなかった** | **F-4（当社が SEC に提出した登録届出書）の記載が事実と異なる。** かつ BCA §7.1(j)・§7.2(j) のクロージング条件が未充足。**当社自身の Section 11 の問題にもなる。** |
+**2026年9月6日、会長により確認：Lock-Up Agreement・Non-D&O Lock-Up Agreement とも、
+締結されていない。**
 
-**A なら攻撃材料。B なら当社の防御が必要。どちらであるかを確定させることが最優先。**
+## 3-1. 攻撃材料としては、弱い
+
+Recital J の義務（「本契約の締結・交付の直後速やかに Lock-Up Agreement を締結する」）は
+**クロージング前の誓約**である。
+
+BCA §10.1：
+> The covenants and agreements ... **shall not survive the Closing**, except for those ...
+> **that by their terms apply or are to be performed in whole or in part after the Closing**.
+
+**→ Recital J はクロージング前に履行されるべき誓約であり、§10.1 により存続しない。**
+**→ §7.1(j)・§7.2(d)・§7.3(e) は「条件」であり、クロージングした時点で充足または放棄。**
+
+**結論：「ロックアップ契約を締結しなかった」ことを理由に Relativity を追及するのは難しい。**
+
+## 3-2. 当社側のリスクは、現実のものになった
+
+**F-4（当社が SEC に提出し、有効となった登録届出書）は、投資家に対してこう述べている：**
+
+> the remaining sponsor subscriber parties ... **will agree**, pursuant to the Non-D&O Lock Up
+> Agreement, ... **not to transfer any such shares during the period commencing from the Closing
+> and ending on the earlier of (i) 12 months after the date of the Closing** ...
+
+**その契約は存在しない。**
+
+### 論点：Securities Act Section 11
+
+登録届出書に重要な事実についての虚偽記載または記載漏れがある場合、
+**発行体は無過失責任**を負う。署名した取締役・役員も責任主体となる（相当な注意の抗弁あり）。
+
+### ただし、断定はできない。以下を確認しなければならない
+
+1. **上記の文言は F-4 の最終版（効力発生時）にも残っていたか。**
+   入手した抜粋は 70〜71頁のリスクファクター。修正版（F-4/A）で変更された可能性がある。
+2. **文言は将来予測形（"expect to enter into" / "will agree"）である。**
+   記載時点で真に「そうする予定」であったなら、直ちに虚偽記載とはならない。
+3. **効力発生前に、状況変化を反映する更新義務が履行されたか。**
+4. **クロージング時の 6-K／プレスリリースで、ロックアップが存在しない旨が開示されたか。**
+5. **当社は、ロックアップが締結されないことを、いつ認識したか。**
+
+**→ 1〜5 は、米国証券弁護士が最優先で判断すべき事項である。**
+
+## 3-3. 戦略上の意味 ── 局面が変わった
+
+**本件は「Relativity を追及する案件」から「当社自身の開示問題を含む案件」に変わった。**
+
+| | 変更前 | 変更後 |
+|---|---|---|
+| 弁護士の要否 | 攻撃のために必要 | **当社の防御のために必須** |
+| 緊急度 | 今週 | **即日** |
+| Nasdaq レター | 明日送付可 | **第7項(b)を無害化するまで送付しない** |
+
+**依然として有効な論点は、Rule 144(i)／Section 5 と Schedule 13D。
+これらはロックアップの有無と無関係に成立する。**
 
 ---
 
@@ -245,7 +295,50 @@ F-4 はこう書いている：
 
 ---
 
-# 6. Nasdaq 宛レター第7項(b)の差し替え案
+# 6-0. 【改訂】Nasdaq 宛レター第7項(b) ── 無害化案
+
+**ロックアップが存在しないことが確定した以上、第7項(b)の現行記述は「事実として正しい」。
+虚偽記載ではない。**
+
+**しかし、そのまま送るべきではない。理由：**
+
+- 本レターは **Listing Qualifications 部門（Wayne Bush 氏）にも写しが送られる**
+- Nasdaq は当社の F-4 を読む。**F-4 は12か月のロックアップを述べている**
+- **当社が「ロックアップは無かった」とだけ書けば、Nasdaq は F-4 との食い違いに気づく**
+- そのとき、当社が先にその食い違いを認識していたかどうかで、印象が決定的に変わる
+
+**かといって、いま F-4 の食い違いを自ら書面で指摘するのは、弁護士の判断なしには危険である。**
+
+## 推奨：ロックアップに一切言及しない
+
+**事実（DTC 移管）だけを述べ、ロックアップの有無について何も述べない。**
+
+> (b) **Deposits into DTC by sponsor entities and by the Company's placement agent.**
+> Between 28 and 30 July 2026, 5,060,735 shares were transferred from direct registration into
+> DTC by Chardan Capital Markets LLC (1,615,385, its entire holding), BRACS Capital Sponsor LLC
+> (1,003,175, its entire holding), Paramount Merger Corp Sponsor LLC (1,003,175, its entire
+> holding), MGMTT LLC (1,289,000) and Hithos II LLC (150,000). **The Company is presently
+> reviewing the closing record and the transfer restrictions applicable to those shares and will
+> revert to the Department on that question.** A deposit into DTC is the step that precedes a
+> sale through a brokerage account. This is the second reason the question in section 5 is
+> confined to the two sessions that precede those deposits.
+
+**削除するのは、次の一文のみ：**
+> ~~None of those shares was subject to a lock-up undertaking; the lock-up given at closing binds
+> the founder side of the transaction.~~
+
+**効果：**
+- **虚偽を述べない**
+- **当社に不利な断定をしない**
+- **F-4 との食い違いを、弁護士の判断前に自ら持ち出さない**
+- **Regulation SHO に関する第5・6・8項（本レターの核心）は一切損なわれない**
+- **上場廃止の時計が動いている以上、送付を遅らせずに済む**
+
+**→ この一文を削るだけで、レターは送付可能になる。**
+
+---
+
+# 6. Nasdaq 宛レター第7項(b)の差し替え案（旧・ロックアップが存在する場合を想定）
 
 **現行の断定を削除し、事実と留保に置き換える。**
 
