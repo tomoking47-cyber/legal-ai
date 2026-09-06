@@ -2,16 +2,31 @@
 
 ## 0. 結論
 
-**2026年9月7日付 Nasdaq MarketWatch 宛レターの第7項(b)は、BCA の条文と正面から矛盾する。
-送付前に必ず解消すること。**
+**確認済みの事実：Sponsor 側のロックアップ契約は締結されていない。**
 
-レターの記述：
-> "None of those shares was subject to a lock-up undertaking;
-> the lock-up given at closing binds the founder side of the transaction."
-> （それらの株式はいずれもロックアップの対象ではなかった。クロージング時に付されたロック
-> アップは創業者側を拘束するものである。）
+したがって Nasdaq 宛レター第7項(b)の記述（"None of those shares was subject to a lock-up
+undertaking"）は**事実として正しい**。ただし**不完全**であり、そのままでは当社に不利に働く。
 
-これは**当社の最も強い主張を、規制当局に対して書面で自ら放棄する記述**になりうる。
+理由：BCA は Recital J および §7.2(j) で **Sponsor のロックアップ契約締結を要求し**、
+§7.2(k) で **Sponsor Shares と Escrow Shares のエスクロー預託を要求している**。
+「ロックアップが無かった」とだけ書くと、**それが当初からの合意であったかのように読める**。
+実際には、**BCA が要求した条件が充足されていない**という事実である。
+
+**→ 第7項(b)に BCA の条文を一文加えるだけでよい。送付を遅らせる必要はない（第5節の修正案）。**
+
+### 最重要：ロックアップが無いことは、売却を正当化しない
+
+| | 性質 | 効果 |
+|---|---|---|
+| ロックアップ | **契約** | 無ければ契約上の制限は無い |
+| **Rule 144(i)** | **法律** | **契約の有無と無関係に適用される** |
+| Schedule 13D | **法律** | **契約の有無と無関係に適用される** |
+
+BIOT は元シェル会社（SPAC）の承継会社であり、Rule 144 は Form 10 相当情報の提出から
+12か月を経過するまで利用できない（＝2027年7月頃まで）。**ロックアップが無くても、有効な
+再販売登録届出書が無ければ、そもそも適法に売却できない。**
+
+**ロックアップの不在は、むしろ「なぜ売れたのか」という問いを鋭くする。**
 
 ---
 
@@ -60,19 +75,25 @@
 | BCA の要求 | 実際（Continental の記録） |
 |---|---|
 | Sponsor Shares + Escrow Shares をエスクローに預託（§7.2(k)） | **2026-07-24 の登録株主名簿にエスクロー口座は存在しない**（該当は DWAC Control Account 15,279株のみ） |
-| Sponsor のロックアップが Closing 時点で有効（§7.2(j)・Recital J） | 上場当日 2026-07-24 に 2,855,381 株の**制限が解除**されている |
+| Sponsor のロックアップが Closing 時点で有効（§7.2(j)・Recital J） | **Sponsor 側のロックアップ契約は締結されていない**（確認済み）。上場当日 2026-07-24 に 2,855,381 株の制限が解除されている |
 | Sponsor = 1社（Relativity Acquisition Sponsor, LLC） | 名簿上、同系列とみられる**6社**に分散されている |
 
-**※ 未入手：Lock-Up Agreement 本体、Sponsor Escrow Agreement 本体、クロージング証書一式。
-これらを見るまで「違反」と断定してはならない。** 想定される説明は次の3つ。
+**確認済み：Sponsor 側のロックアップ契約は存在しない。**
 
-1. 実際に締結された Lock-Up Agreement が、交渉の結果 Sponsor 株を対象外としていた
-   （Recital J は "in a form reasonably acceptable to the Seller, Pubco and Sponsor"）
-2. §7.2(j)(k) のクロージング条件が**放棄（waive）された**
-3. 条件が満たされないままクロージングされた
+したがって残る説明は次の2つに絞られる。
 
-**→ 2 の場合、「誰が、どの権限で放棄したのか」が最大の論点になる。§7.2 は当社側の利益の
-ための条件であり、放棄できるのは当社側だけである。**
+1. §7.2(j)(k) のクロージング条件が**放棄（waive）された**
+2. 条件が満たされないままクロージングされた
+
+**→ どちらであれ、次が最大の論点になる。**
+
+> **§7.2 は当社（Target Company）の利益のために置かれた条件である。**
+> **放棄できるのは当社側だけである。誰が、どの権限で放棄したのか。**
+
+1 であれば放棄書が存在するはずであり、その署名者を確認すること。
+2 であれば、Sponsor は BCA 上の義務を履行しないままクロージングしたことになる。
+
+**社内で先に確定させること。外部に出す前に、ここだけは。**
 
 ---
 
@@ -124,21 +145,34 @@ Closing 時点で実際には6社へ配分されていたのであれば、F-4 �
 
 ## 5. Nasdaq 宛レターの修正案（第7項(b)）
 
-現行の断定を、事実の記載と留保に置き換える。
+既存の文は残し、**BCA の条文を述べる一文を挿入するのみ**。断定も非難も加えない。
+（**太字部分が追加箇所。**）
 
-> (b) Deposits into DTC by sponsor entities and by the Company's placement agent.
+> (b) **Deposits into DTC by sponsor entities and by the Company's placement agent.**
 > Between 28 and 30 July 2026, 5,060,735 shares were transferred from direct registration
-> into DTC by [各社・株数はそのまま].
-> **The Business Combination Agreement dated 28 February 2025 provides at Recital J that the
-> Sponsor, defined as Relativity Acquisition Sponsor, LLC, would enter into a Lock-Up
-> Agreement effective as of the Effective Time, and at Section 7.2(k) that the Sponsor would
-> deposit the Sponsor Shares and Escrow Shares into escrow at Closing. The Company is
-> reviewing the executed ancillary documents and the closing record to establish the position
-> as it in fact stands, and will revert to the Department promptly. The Company does not at
-> this stage assert that any undertaking has been breached.**
-> A deposit into DTC is the step that precedes a sale through a brokerage account.
+> into DTC by Chardan Capital Markets LLC (1,615,385, its entire holding), BRACS Capital
+> Sponsor LLC (1,003,175, its entire holding), Paramount Merger Corp Sponsor LLC (1,003,175,
+> its entire holding), MGMTT LLC (1,289,000) and Hithos II LLC (150,000). No lock-up agreement
+> was executed by any sponsor entity; the lock-up given at closing binds the founder side of
+> the transaction. **The Company notes, so that the Department has the position in full, that
+> the Business Combination Agreement dated 28 February 2025 provided at Recital J for the
+> Sponsor, defined in that agreement as Relativity Acquisition Sponsor, LLC, to enter into a
+> lock-up agreement effective at the Effective Time, and at Section 7.2(k) for the deposit of
+> the Sponsor Shares and the Escrow Shares into escrow at Closing. The Company is establishing
+> the closing record and makes no complaint at this stage.** A deposit into DTC is the step
+> that precedes a sale through a brokerage account. This is the second reason the question in
+> section 5 is confined to the two sessions that precede those deposits.
 
-**この書き方であれば、事実を隠さず、かつ主張を放棄しない。**
+**効果：**
+- 事実を隠さない（レター全体の姿勢と整合する）
+- 「ロックアップが無いのは当初からの合意」という誤読を防ぐ
+- 違反を主張しないので、当社の立証責任が生じない
+- **送付を遅らせる必要がない。** 放棄書の有無が判明する前でも成立する書き方である
+
+**判断が必要な点：** 本件は Listing Qualifications 部門（Wayne Bush 氏）にも写しが送られる。
+クロージング条件の不充足は、理論上は de-SPAC の成立過程に関する論点にもなりうる。
+それでも記載を推奨する理由は、**Nasdaq は同じ記録を必ず入手するため、当社が先に出した方が
+一貫性を保てる**こと。ただし最終判断は米国証券弁護士に委ねること。
 
 ---
 
