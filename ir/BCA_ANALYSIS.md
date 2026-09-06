@@ -132,6 +132,67 @@ Form 4 は存在しない。Section 13(d) は適用される。
 
 ---
 
+## 3-5. 「Relativity Sponsor は実際には数十社の総称だった」との情報について
+
+### BCA の文言上は "Sponsor" は単数・1社のみ
+全87頁を検索した結果：
+
+- **"Sponsors"（複数形）は一度も出現しない。**
+- **"Sponsor" = Relativity Acquisition Sponsor, LLC, a Delaware limited liability company**
+  （Article XI 定義, p.81）の1社のみ。
+
+**→ 当社が「1社」と理解していたのは誤解ではない。契約書がそう書いてある。**
+
+### 開示されるべきだった場所 ── Schedule 3.5(a) / 3.5(c)
+
+§3.5(a)：
+> The issued and outstanding Purchaser Securities as of the date of this Agreement are
+> **set forth on Schedule 3.5(a)**.
+
+§3.5(b)：
+> **Except as set forth on Schedule 3.5(a) or Schedule 3.5(c)**, there are no ... (iii)
+> subscriptions or other rights, **agreements, arrangements, Contracts or commitments of any
+> character** ... (A) **relating to the issued or unissued shares or any other equity
+> securities of Purchaser**
+
+§3.5(c)：
+> **Except as set forth on Schedule 3.5(c)**, there are no **shareholders' agreements, voting
+> trusts or other agreements or understandings** to which Purchaser is a party or of which it
+> has Knowledge **with respect to the voting of any shares of the Purchaser**.
+
+**→ 数十社の関与を定める取決めが存在したのであれば、Schedule 3.5(a) または 3.5(c) に
+記載されていなければならない。記載がなければ §3.5(b)(iii) の表明保証違反。**
+
+**⚠️ 署名版87頁の PDF に Schedule 3.5(a) および 3.5(c) は添付されていない（Annex I のみ）。
+最優先で取り寄せること。**
+
+### 法的効果 ── 過度に頼るべき論点と、そうでない論点
+
+| 論点 | 数十社という事実の影響 | 依存度 |
+|---|---|---|
+| Section 13(d)(3) グループ認定 | **有利になる**。ただし「共同して行動する合意」の立証が必要 | **頼りすぎないこと** |
+| **Rule 144(i)** | **一切影響なし。1社でも数十社でも全員が使えない** | **本命。ここが崩れない** |
+| Sponsor 自身による 19.15% の処分 | **一切影響なし。受領者が誰であれ処分は処分** | **崩れない** |
+| BCA §3.5 表明保証違反 | **有利になる**（Schedule に記載がない場合） | 中 |
+
+**結論：グループ論は補強材料に留め、Rule 144(i) と「処分そのものが報告事由」の2点を軸に
+据えること。この2つは相手方の構成がどうであれ揺るがない。**
+
+### 要確認 ── 「数十社」の意味
+
+次のどちらかで法的評価が大きく変わる。
+
+1. **Relativity Acquisition Sponsor, LLC の「社員（メンバー／出資者）」が数十名いた**
+   → SPAC では極めて一般的。それ自体は問題ではない。クロージング時の現物分配
+     （in-kind distribution）が Sponsor による処分にあたる、という筋になる。
+2. **数十の別法人が実際に株式を保有していた**
+   → 異常。ただし 2026-07-24 の登録株主名簿にはスポンサー系は6社しか存在しない。
+     残りは DTC 経由（street name）か、後日の移転か、あるいは名簿に現れない層か。
+
+**→ 会長に確認すること。**
+
+---
+
 ## 4. F-4 の開示
 
 BCA も F-4 も "Sponsor" を単数の Relativity Acquisition Sponsor, LLC として記載している。
