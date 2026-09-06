@@ -20,6 +20,107 @@ Nasdaq 宛レター第7項(b)の現行記述：
 
 ---
 
+# 0-2. BCA におけるロックアップの記載 ── 全6か所（原文）
+
+**BCA 全87頁を検索した結果、"Lock-Up" は6か所に出現する。以下がその全部である。**
+
+## ① Recital J（3頁）── 中核となる約束
+
+> J. Promptly following the execution and delivery of this Agreement, **the Seller and the
+> Sponsor will have each entered into a Lock-Up Agreement with Pubco, the Purchaser and the
+> Purchaser Representative**, in a form reasonably acceptable to the Seller, Pubco and Sponsor
+> (each, a "**Lock-Up Agreement**"), **each of which Lock-Up Agreement shall become effective
+> as of the Effective Time**;
+
+**読み方：**
+- **締結すべき者：Seller（当社側）と Sponsor（＝Relativity Acquisition Sponsor, LLC）の「各々」**
+- **相手方：Pubco（＝BIOT、当社）、Purchaser、Purchaser Representative**
+- **時期：本契約の締結・交付の「直後速やかに」**（＝2025年2月28日の直後）
+- **効力発生：Effective Time（＝クロージング時）**
+- 様式：Seller・Pubco・Sponsor が合理的に受け入れられる形式（＝後日合意）
+
+## ② §4.6 Ownership of Merger Consideration（18頁）── Pubco の表明保証
+
+> All shares of Pubco Common Stock to be issued and delivered ... shall be ... free and clear
+> of all Liens, **other than restrictions arising from applicable securities Laws, any
+> applicable Lock-Up Agreement** and any Liens incurred by such Seller or security holder of
+> Purchaser ...
+
+**→ 交付される Pubco 株には「ロックアップ契約による制限」がかかることが、
+　表明保証の中で前提とされている。**
+
+## ③ §6.11(b) Efforts（48頁）── 様式合意の努力義務
+
+> During the Interim Period, each Party that is a party to the below agreements shall use
+> commercially reasonable efforts with the other Parties party thereto to **agree upon forms of
+> all ancillary documents hereto, including but not limited to the Lock-Up Agreement**, the
+> Non-Competition Agreement, the Registration Rights Amendment, the Founder Registration Rights
+> Amendment, the Amended Pubco Organizational Documents, and the Incentive Plan.
+
+## ④ §7.1(j) 全当事者共通のクロージング条件（59頁）
+
+> (j) **Certain Ancillary Documents. The Lock-Up Agreements**, and the Non-Competition
+> Agreements **shall be in full force and effect** in accordance with the terms thereof
+> **as of the Closing**.
+
+## ⑤ §7.2(d) 当社側の義務のクロージング条件（60頁）
+
+> (d) **Certain Ancillary Documents. The Lock-Up Agreements**, and the Non-Competition
+> Agreements **shall be in full force and effect** in accordance with the terms thereof
+> **as of the Closing**.
+
+## ⑥ §7.3(e) Purchaser 側の義務のクロージング条件（61頁）
+
+> (e) **Certain Ancillary Documents. The Lock-Up Agreements**, and the Non-Competition
+> Agreements **shall be in full force and effect** in accordance with the terms thereof
+> **as of the Closing**.
+
+---
+
+## 分析
+
+### (1) クロージング条件の3か所すべてに置かれている
+
+ロックアップは、**§7.1（全当事者共通）・§7.2（当社側）・§7.3（Purchaser 側）の
+3つの条件条項すべて**に登場する。
+
+**→ 双方が、自らのクロージング義務の条件としていた。極めて強い位置づけである。**
+**→ Relativity 側も、ロックアップが有効であることを自分の条件にしていた。**
+
+### (2) ただし BCA は「期間」を定めていない
+
+BCA が定めているのは **「ロックアップ契約を締結し、クロージング時点で有効であること」** まで。
+**具体的な期間・対象株式数は、Lock-Up Agreement 本体に委ねられている。**
+
+**「12か月」という期間は、F-4 に書かれている（下記第1節）。**
+
+**→ BCA と F-4 を合わせて初めて全体像になる。片方だけでは不十分。**
+
+### (3) 【最重要】当社（Pubco）は、そのロックアップ契約の当事者である
+
+Recital J：「a Lock-Up Agreement **with Pubco, the Purchaser and the Purchaser
+Representative**」
+
+**Pubco ＝ BIOT ＝ 当社。**
+
+**→ ロックアップ契約が締結されていれば、当社はその契約の当事者であり、直接執行できる。**
+
+**そして決定的に重要なのは、これが BCA とは別個の契約であることである。**
+
+| BCA の足枷 | ロックアップ契約への影響 |
+|---|---|
+| **§10.1 Survival**（クロージング後は存続しない） | **ロックアップは「その文言上クロージング後に履行される」ものであり、§10.1 の例外に明確に該当する** |
+| **§10.2 Non-Recourse**（明示的当事者のみ） | **ロックアップ契約は自らの当事者を定める。BCA の当事者制限に縛られない可能性が高い** |
+| **§10.16 Purchaser Representative**（相手が当社の代理人） | **§10.16 の代理権は「this Agreement」＝BCA の条項に関するもの。別契約には及ばない可能性が高い** |
+| **§10.6 Arbitration**（AAA 仲裁） | ロックアップ契約が自らの紛争解決条項を持つ可能性がある |
+
+**→ ロックアップ契約は、BCA よりも遥かに使いやすい執行手段になりうる。**
+
+**→ 【最優先】Lock-Up Agreement および Non-D&O Lock-Up Agreement の本体を、
+　今日中に入手すること。これが本件の帰趨を決める。**
+
+---
+
 # 1. F-4 の原文（該当箇所）
 
 > Relativity and Pubco expect to enter into **Lock-Up Agreements with the Purchaser
