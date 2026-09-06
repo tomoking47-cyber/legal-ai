@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Principal Shareholders — Change Since Listing</title>
+<style>
+  :root{
+    --bg:#faf9f7; --card:#ffffff; --fg:#1a1a18; --muted:#6b6a66;
+    --line:#e6e2da; --gold:#b8894a; --gold-bg:#f7f1e6;
+    --neg:#c0281f; --neg-bg:#fdf3f2; --pos:#2f6d4f;
+    --serif: "Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+    --sans: -apple-system,"Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;padding:40px 20px;background:var(--bg);color:var(--fg);
+       font-family:var(--sans);line-height:1.65;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1000px;margin:0 auto}
+  h2{font-family:var(--serif);font-weight:400;font-size:30px;margin:0 0 20px;letter-spacing:.005em}
+
+  /* ---- SOURCE box (既存HPの様式を踏襲) ---- */
+  .source{background:var(--gold-bg);border-left:3px solid var(--gold);
+          padding:16px 20px;margin:0 0 28px;border-radius:2px}
+  .source .lbl{font-size:11px;letter-spacing:.18em;color:var(--gold);font-weight:600;margin-bottom:6px}
+  .source .main{font-family:var(--serif);font-size:17px;margin-bottom:4px}
+  .source .note{font-size:12.5px;color:var(--muted)}
+
+  /* ---- table ---- */
+  .scroll{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:3px}
+  table{width:100%;border-collapse:collapse;min-width:760px}
+  thead th{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+           font-weight:600;padding:16px 18px 10px;text-align:right;white-space:nowrap;
+           border-bottom:1px solid var(--line)}
+  thead th:first-child{text-align:left}
+  thead tr.groups th{padding-bottom:4px;border-bottom:none;color:var(--fg);letter-spacing:.14em}
+  thead tr.groups th.sep{border-left:1px solid var(--line)}
+  tbody td{padding:20px 18px;text-align:right;border-bottom:1px solid var(--line);
+           font-variant-numeric:tabular-nums;white-space:nowrap;font-size:17px}
+  tbody td:first-child{text-align:left;font-family:var(--serif);font-size:19px;white-space:normal}
+  tbody td.sep{border-left:1px solid var(--line)}
+  tbody tr:last-child td{border-bottom:none}
+  .pct{display:block;font-size:13px;color:var(--gold);margin-top:2px}
+
+  /* ---- 減少：会計表示の慣行に従い ▲ + 赤 + 太字 ---- */
+  .down{color:var(--neg);font-weight:700}
+  .down .pct{color:var(--neg);font-weight:700}
+  .up{color:var(--pos);font-weight:600}
+  .up .pct{color:var(--pos)}
+  .flat,.flat .pct{color:var(--muted);font-weight:400}
+  tr.flagged{background:var(--neg-bg)}
+  tr.flagged td:first-child{box-shadow:inset 3px 0 0 var(--neg)}
+
+  .footnotes{margin-top:20px;font-size:12.5px;color:var(--muted)}
+  .footnotes ol{padding-left:20px;margin:8px 0 0}
+  .footnotes li{margin-bottom:5px}
+  .footnotes a{color:var(--gold)}
+  @media (max-width:640px){ body{padding:24px 12px} h2{font-size:24px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h2>Principal shareholders — change since listing</h2>
+
+  <div class="source">
+    <div class="lbl">SOURCE</div>
+    <div class="main">Form 20-F, Item 7.A (Major Shareholders) | As of July 23, 2026
+      &nbsp;&rarr;&nbsp; [ 直近ソース名 ] | As of [ YYYY年MM月DD日 ]</div>
+    <div class="note">Transcribed from SEC filings; not a forward-looking statement.</div>
+  </div>
+
+  <div class="scroll">
+    <table>
+      <thead>
+        <tr class="groups">
+          <th></th>
+          <th class="sep">At listing<span style="display:block;font-size:9.5px;letter-spacing:.1em;color:var(--muted);font-weight:400">Jul 23, 2026</span></th>
+          <th class="sep">Current<span style="display:block;font-size:9.5px;letter-spacing:.1em;color:var(--muted);font-weight:400">[ 基準日 ]</span></th>
+          <th class="sep">Change</th>
+        </tr>
+        <tr>
+          <th>Shareholder</th>
+          <th class="sep">Shares / Ownership</th>
+          <th class="sep">Shares / Ownership</th>
+          <th class="sep">Shares / Ownership</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Tomoki Nagano<span class="src"></span></td>
+          <td class="sep">10,425,365<span class="pct">36.21%</span></td>
+          <td class="sep">0,000,000<span class="pct">00.00%</span></td>
+          <td class="sep flat">±0<span class="pct">±0.00pt</span></td>
+        </tr>
+        <tr class="flagged">
+          <td>Relativity Acquisition Sponsor, LLC</td>
+          <td class="sep">5,515,481<span class="pct">19.15%</span></td>
+          <td class="sep">0,000,000<span class="pct">00.00%</span></td>
+          <td class="sep down">▲0,000,000<span class="pct">▲00.00pt</span></td>
+        </tr>
+        <tr>
+          <td>Chardan Capital Markets LLC</td>
+          <td class="sep">1,615,385<span class="pct">5.61%</span></td>
+          <td class="sep">0,000,000<span class="pct">00.00%</span></td>
+          <td class="sep flat">±0<span class="pct">±0.00pt</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="footnotes">
+    <strong>Notes</strong>
+    <ol>
+      <li>“At listing” figures are as disclosed in Form 20-F, Item 7.A (Major Shareholders), as of July 23, 2026.</li>
+      <li>“Current” figures are as disclosed in [ 出典書類名・提出日 ]. ※ここは必ずSEC提出書類を出典にすること。</li>
+      <li>Figures shown in red indicate a decrease, following standard accounting presentation.</li>
+      <li>Percentages are based on shares outstanding as of each respective date and are not directly comparable if the total share count has changed.</li>
+    </ol>
+  </div>
+
+</div>
+</body>
+</html>
