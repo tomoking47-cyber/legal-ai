@@ -1,12 +1,20 @@
 # Q. What do people get wrong about refill packs in Japan?｜Japanese Everyday Wisdom #15
 
-- Shelf: `wisdom` ／ URL: `/en/wisdom/refill-packs` ／ Status: **Draft — legal review pending**
+- Shelf: `wisdom` ／ URL: `/en/wisdom/refill-packs` ／ Status: **Draft — sources unverified**
 
-Walk down a household aisle here and a large share of the shelf is contents without a container.
+Walk down a household aisle here and a large share of the shelf is contents without a container. The numbers behind that are more complicated than they look.
 
-## A. The common misunderstanding is that refills are simply a cheaper option. They are closer to a default format.
+## A. The common misunderstanding is that refills are simply a cheaper option. They are a default format that cuts packaging by 70–80% per unit — and yet total plastic use has still risen.
 
-For many products, the bottle is bought once and the contents are bought repeatedly.
+## What the industry's own figures say
+
+The Japan Soap and Detergent Association reports that a **refill pouch uses roughly 70–80% less plastic than the original bottle** it replaces.
+
+The same association also tracks total packaging plastic across its member companies. For its five main product groups, **plastic use in 2022 was about 606,000 tonnes — roughly flat on the year, but 25.3% higher than in 1995.**
+
+**Both facts are true.** Per-unit packaging fell sharply; total volume rose because consumption grew. Refills are a real saving, not a solved problem.
+
+> **[Verify]** Figures from JSDA environmental reporting and its 2024 Statistical Annual Report. Confirm the latest year before publication.
 
 ## Misunderstanding 1｜Refills are a budget choice
 
@@ -14,7 +22,7 @@ They are the ordinary way many households buy shampoo, detergent and soap. **The
 
 ## Misunderstanding 2｜It is only about waste
 
-Less packaging is part of it. So is weight, shelf space at home, and the fact that a familiar pump keeps working. **Several small reasons stack up.**
+Less packaging is part of it. So is weight, shelf space at home, and a familiar pump that keeps working. **Several small reasons stack up.**
 
 ## Misunderstanding 3｜Any refill fits any bottle
 
@@ -31,15 +39,21 @@ Refills exist for cosmetics, seasonings, stationery and more. **Once the format 
 ---
 
 ### Sources
-- Ministry of the Environment — waste reduction and recycling https://www.env.go.jp/
-- Consumer Affairs Agency — product labelling https://www.caa.go.jp/
+- Japan Soap and Detergent Association — "Packaging and 3R measures"
+  https://jsda.org/w/02_anzen/3kankyo_7.htm
+- Japan Soap and Detergent Association, *Statistical Annual Report No. 74 (2024)*
+  https://jsda.org/w/00_jsda/9_Annual-Report/No74_2024_Statistical_Annual_Report.pdf
+- Ministry of the Environment — plastic resource circulation
+  https://www.env.go.jp/recycle/plastic/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
 **Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products. If you rent your home, check with your landlord before making any changes.
+Always follow the instructions on any product you use, and never mix cleaning products.

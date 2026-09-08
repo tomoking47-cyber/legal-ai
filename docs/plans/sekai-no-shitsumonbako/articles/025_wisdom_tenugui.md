@@ -1,42 +1,54 @@
 # Q. What do people get wrong about tenugui in Japan?｜Japanese Everyday Wisdom #25
 
-- Shelf: `wisdom` ／ URL: `/en/wisdom/tenugui` ／ Status: **Draft — legal review pending**
+- Shelf: `wisdom` ／ URL: `/en/wisdom/tenugui` ／ Status: **Draft — sources unverified**
 
-A tenugui is a thin cotton cloth, roughly 90 by 35 centimetres, usually sold with the short ends left uncut.
+A tenugui is a thin cotton cloth, roughly 90 by 35 centimetres, sold with the short ends left uncut.
 
-## A. The common misunderstanding is that it is a decorative towel. The unfinished edges and the thinness are deliberate.
+## A. The common misunderstanding is that it is a decorative towel. The unfinished edges and the thinness are design decisions made for a humid climate.
 
-It is designed to dry quickly and to be cut and reused.
+## Why the edges are not hemmed
 
-## Misunderstanding 1｜The unhemmed edge is a fault
+A hem holds water. A cut edge lets the cloth dry faster and lets the owner tear it to length — as a bandage, a strap, a cover. **After a few washes the fraying stops on its own.**
 
-The cut ends allow the cloth to dry faster and to be torn to a needed length. **It frays a little at first, then stops.**
+That single choice — no hem — tells you the priority: **dry quickly, adapt freely.** In a country where summer relative humidity regularly sits above 70%, a towel that dries in an hour is worth more than a towel that absorbs more.
 
-## Misunderstanding 2｜It is a worse towel
+> **[Verify]** Dimensions and the "fraying stops" behaviour are standard descriptions from tenugui makers. Confirm with a manufacturer or the Agency for Cultural Affairs' living-culture material before publication.
 
-It absorbs less at once but dries far faster, which matters in a humid climate. **It is built for a different job.**
+## Misunderstanding 1｜It is a worse towel
 
-## Misunderstanding 3｜It has one use
+It absorbs less at once but dries far faster. **It is built for a different job.**
 
-It is used as a hand towel, a wrap, a cover for food, a head covering while cleaning, and a cloth for wiping. **One flat rectangle, several jobs.**
+## Misunderstanding 2｜It has one use
 
-## Misunderstanding 4｜The patterns are only decoration
+Hand towel, head covering while cleaning, wrap for a bottle or lunch box, cover for a rising dough, cloth for wiping a counter. **One flat rectangle, several jobs — and it packs flat.**
 
-Many patterns carry seasonal or regional meaning. **They are also how people tell one household's cloth from another's.**
+## Misunderstanding 3｜The patterns are only decoration
 
-## Misunderstanding 5｜It is a souvenir item
+Many patterns carry seasonal or regional meaning, and shops and shrines commission their own. **They are also how one household's cloth is told from another's.**
 
-It is an everyday item that also happens to travel well: flat, light and inexpensive. **That is why it ends up in suitcases.**
+## Misunderstanding 4｜It is a souvenir item
+
+It is an everyday item that happens to travel well: flat, light, inexpensive, and legal in any hand luggage. **That is why it ends up in suitcases.**
+
+## Misunderstanding 5｜It belongs with kimono
+
+It is used with ordinary clothes, in ordinary kitchens. **The cloth outlived the wardrobe it started in.**
 
 ---
 
 ### Sources
-- Agency for Cultural Affairs — information on living culture https://www.bunka.go.jp/
-- Ministry of Economy, Trade and Industry — traditional crafts information https://www.meti.go.jp/
+- Agency for Cultural Affairs — living culture information
+  https://www.bunka.go.jp/seisaku/bunkashingikai/kondankaito/seikatsubunka/
+- Japan Meteorological Agency — climate statistics (humidity)
+  https://www.data.jma.go.jp/stats/etrn/
+- Ministry of Economy, Trade and Industry — traditional crafts
+  https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 

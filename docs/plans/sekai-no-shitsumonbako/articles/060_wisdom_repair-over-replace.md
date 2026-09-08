@@ -1,12 +1,18 @@
 # Q. What do people get wrong about repairing rather than replacing in Japan?｜Japanese Everyday Wisdom #60
 
-- Shelf: `wisdom` ／ URL: `/en/wisdom/repair-over-replace` ／ Status: **Draft — legal review pending**
+- Shelf: `wisdom` ／ URL: `/en/wisdom/repair-over-replace` ／ Status: **Draft — sources unverified**
 
-Mending is often presented abroad as a philosophy about imperfection. In daily life it is more ordinary than that.
+Mending is often presented abroad as a philosophy about imperfection. In daily life it is more ordinary than that — and the government has been counting the waste it prevents.
 
-## A. The common misunderstanding is that it is about sentiment. Much of it is about things being built to be taken apart.
+## A. The common misunderstanding is that it is about sentiment. Much of it is about things being built to be taken apart, and services being nearby to do it.
 
-If a handle can be replaced, replacing the handle is simply the cheaper move.
+## The context in numbers
+
+Japan generated about **4.64 million tonnes of food loss in fiscal 2023** — half of it from households. The Ministry of the Environment tracks this alongside broader circular-economy targets. Repair sits in the same policy space: **keeping objects in use is treated as waste prevention, not nostalgia.**
+
+Shoe-repair counters in stations, knife-sharpening services and clothing-alteration shops remain common because **the infrastructure for repair never went away.**
+
+> **[Verify]** Food-loss figure from the Ministry of the Environment (June 2025 release). Confirm before publication.
 
 ## Misunderstanding 1｜It is a spiritual practice
 
@@ -14,7 +20,7 @@ Some crafts do carry that meaning. **Most repair is practical: shoes resoled, kn
 
 ## Misunderstanding 2｜It happens because things are expensive
 
-It also happens because **repair services are available and nearby** — shoe repair counters, knife sharpening, clothing alteration.
+It also happens because **repair services are available and nearby.**
 
 ## Misunderstanding 3｜Only old items get repaired
 
@@ -31,12 +37,18 @@ Repair counters remain common in stations and shopping centres. **It has not gon
 ---
 
 ### Sources
-- Ministry of the Environment — circular economy and waste reduction https://www.env.go.jp/
-- Ministry of Economy, Trade and Industry — traditional crafts information https://www.meti.go.jp/
+- Ministry of the Environment — food loss estimates (fiscal 2023)
+  https://www.env.go.jp/press/press_00002.html
+- Ministry of the Environment — circular economy and waste reduction
+  https://www.env.go.jp/recycle/
+- Ministry of Economy, Trade and Industry — traditional crafts
+  https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 

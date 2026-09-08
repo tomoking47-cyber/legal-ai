@@ -1,45 +1,57 @@
 # Q. What do people get wrong about indoor drying in Japan?｜Japanese Everyday Wisdom #35
 
-- Shelf: `wisdom` ／ URL: `/en/wisdom/indoor-drying` ／ Status: **Draft — legal review pending**
+- Shelf: `wisdom` ／ URL: `/en/wisdom/indoor-drying` ／ Status: **Draft — sources unverified**
 
-Many homes here dry laundry indoors as a matter of course, not as a fallback.
+Many homes here dry laundry indoors as a matter of course. The smell people worry about has a name, a cause and a clock.
 
-## A. The common misunderstanding is that it is a compromise. Indoors is often the deliberate choice, and airflow is what makes it work.
+## A. The common misunderstanding is that indoor drying is a compromise. It is a deliberate choice — and the only real risk is a bacterium that gets going after about five hours of damp.
 
-Drying is not about heat. **It is about moving air across wet fabric.**
+## The five-hour clock
 
-## Misunderstanding 1｜Indoor drying is a last resort
+In 2011, research by Kao Corporation identified the cause of the characteristic "indoor-dried" smell as **metabolites of Moraxella bacteria** — common skin bacteria that thrive in damp fabric and feed on sebum and moisture. **They begin multiplying in earnest after roughly five hours** of the fabric staying wet.
 
-Rain, pollen, dust and lack of outdoor space all make indoors the sensible option. **Homes are laid out expecting it — hence the fittings in ceilings and bathrooms.**
+So the target is simple: **dry within five hours.** Everything below follows from that.
 
-## Misunderstanding 2｜Warm air is what matters
+> **[Verify]** The 2011 finding and the five-hour figure are widely reported citing Kao's research. Confirm against Kao's published material before publication.
 
-A fan moving air past the laundry usually does more than raising the temperature. **Air movement, then ventilation.**
+## Misunderstanding 1｜Warm air is what matters
 
-## Misunderstanding 3｜Packing items close saves space
+A fan moving air past the laundry usually does more than raising the temperature. **Airflow, then ventilation or dehumidifying.** Air conditioning in dry mode plus a circulating fan is the common combination.
 
-Items that touch each other dry slowly and can develop odour. **Space between pieces is the point.**
+## Misunderstanding 2｜Packing items close saves space
 
-## Misunderstanding 4｜Any room will do
+Items that touch each other stay wet longer — and cross the five-hour line. **Space between pieces is the point.**
 
-A closed room fills with the moisture you removed from the clothes. **Ventilate, or use a dehumidifier, or the water simply relocates.**
+## Misunderstanding 3｜Any room will do
 
-## Misunderstanding 5｜Smell means the detergent failed
+A closed room fills with the moisture you removed from the clothes. **Ventilate, or dehumidify, or the water simply relocates.**
+
+## Misunderstanding 4｜Smell means the detergent failed
 
 Slow drying is the more common cause. **Shorten the drying time and the problem usually goes with it.**
+
+## Misunderstanding 5｜It is a last resort
+
+Rain, pollen, dust and lack of outdoor space all make indoors the sensible option. **Homes are laid out expecting it — hence the fittings in ceilings and bathrooms.**
 
 ---
 
 ### Sources
-- Ministry of the Environment — indoor air and living environment https://www.env.go.jp/
-- Consumer Affairs Agency — household product labelling https://www.caa.go.jp/
+- Kao Corporation — research on the cause of indoor-drying odour (2011)
+  https://www.kao.com/jp/
+- Ministry of Health, Labour and Welfare — indoor environment and health
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
+- Consumer Affairs Agency — household product labelling
+  https://www.caa.go.jp/policies/policy/representation/household_goods/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
 **Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any appliance or product you use, and never mix cleaning products. If you rent your home, check with your landlord before installing anything.
+Always follow the instructions on any appliance or product you use, and never mix cleaning products.

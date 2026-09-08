@@ -1,13 +1,22 @@
 # Q. What do people get wrong about tax-free shopping in Japan?｜Japan Questions #59
 
-- Shelf: `inbound` ／ URL: `/en/questions/tax-free-shopping` ／ **Caution: rules and regulations**
-- Status: **Draft — legal review pending**
+- Shelf: `inbound` ／ URL: `/en/questions/tax-free-shopping` ／ **Caution: rules change on 1 November 2026**
+- Status: **Draft — sources unverified**
 
-This is among the most searched practical questions before a trip, and among the most out of date online.
+This is among the most searched practical questions before a trip, and among the most out of date online — because the system is being replaced.
 
-## A. The common misunderstanding is treating it as an automatic discount. It is a procedure, with conditions, at participating shops.
+## A. The common misunderstanding is treating it as an automatic discount. It is a procedure with conditions, and from 1 November 2026 it becomes a refund claimed before departure.
 
-**The system is also subject to change**, which is why old advice circulates.
+## Old system vs new system
+
+| | Until 31 October 2026 | From 1 November 2026 |
+|---|---|---|
+| How it works | Tax not charged at purchase | **Pay full price including 10% tax, claim refund before departure** |
+| Minimum spend | ¥5,000 before tax, same shop, same day | ¥5,000 — **categories can be combined** |
+| Consumables | Must be sealed in approved packaging; cannot be opened in Japan | **Sealed-packaging requirement abolished** |
+| Passport | Required | Required |
+
+> **[Verify]** Confirm dates, thresholds and the refund procedure with the National Tax Agency before publication. **This article may be read after the change takes effect — state clearly which system applies.**
 
 ## Misunderstanding 1｜Every shop offers it
 
@@ -15,35 +24,35 @@ Only licensed shops can process tax-free purchases. **Look for the signage or as
 
 ## Misunderstanding 2｜It is applied at any till
 
-Many shops handle it at a designated counter, sometimes on another floor. **Ask first; it can be difficult to process after payment.**
+Many shops handle it at a designated counter. **Ask first; it is difficult to process after payment.**
 
 ## Misunderstanding 3｜Your passport is optional
 
 A passport is required. **A photograph or a copy is generally not accepted.**
 
-## Misunderstanding 4｜Anything qualifies
+## Misunderstanding 4｜Tax-free means duty-free at home
 
-Conditions differ by category, and minimum spend thresholds apply. **Consumable goods and general goods are treated differently.**
+Tax-free removes Japanese consumption tax. **Your own country's duty and allowance limits still apply.**
 
-## Misunderstanding 5｜You can use it before leaving
+## Misunderstanding 5｜What you read last year still applies
 
-Goods bought tax-free are for export. **Conditions apply to how consumables are packaged and when items may be used.**
-
-## The one thing to check yourself
-
-**This system has been subject to reform.** Requirements, thresholds and the refund method can change.
-**Confirm the current rules with the National Tax Agency or the shop before relying on any figure you read online — including this article.**
+**It may not.** See the table.
 
 ---
 
 ### Sources
-- National Tax Agency — consumption tax exemption for foreign visitors https://www.nta.go.jp/
-- Japan Customs https://www.customs.go.jp/
-- Japan Tourism Agency https://www.mlit.go.jp/kankocho/
+- National Tax Agency — consumption tax exemption for foreign visitors
+  https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6551.htm
+- Japan Tourism Agency — tax-free shop information
+  https://www.mlit.go.jp/kankocho/tax-free/
+- Japan Customs
+  https://www.customs.go.jp/english/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
