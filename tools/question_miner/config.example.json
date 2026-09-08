@@ -1,0 +1,23 @@
+{
+  "_comment1": "このファイルをコピーして config.json という名前で保存し、中身を書き換えてください。",
+
+  "_comment2": "▼ VVサイトのアドレス。Search Console の登録方式に合わせて片方を使います。",
+  "_comment3": "ドメイン全体で登録している場合 → sc-domain:example.com",
+  "_comment4": "URLで登録している場合       → https://example.com/  （末尾のスラッシュまで正確に）",
+  "site_url": "sc-domain:example.com",
+
+  "_comment5": "▼ Googleからダウンロードした認証ファイルの名前（STEP 2 参照）",
+  "client_secrets_file": "client_secrets.json",
+  "token_file": "token.json",
+
+  "_comment6": "▼ 表示回数がこの数より少ないクエリは無視します（ノイズ除去）",
+  "min_impressions": 10,
+
+  "_comment7": "▼ サイト内検索ログのCSV。無ければこの2行は消してかまいません。",
+  "site_search_csv": "input/site_search.csv",
+  "site_search_column": "query",
+
+  "_comment8": "▼ カスタマーサポートの問い合わせCSV。無ければこの2行は消してかまいません。",
+  "support_csv": "input/support.csv",
+  "support_column": "body"
+}

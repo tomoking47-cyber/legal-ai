@@ -80,7 +80,7 @@
 
 1. **CODE**：3連載のURL設計を確定（`/questions/` `/goodnews/` `/recipes/`）。**連載開始前に。後から変えると計測が分断される**。→ `13_implementation_spec.md`
 2. **CODE**：`robots.txt` でAI検索クローラーをブロックしていないか確認。**ブロックしていたら引用されようがない**。
-3. **情報戦略室 / CODE**：**自社データ（Search Consoleクエリ・サイト内検索・CS問い合わせ）からの質問自動抽出を実装**。→ `14_data_sourcing_decision.md`
+3. **情報戦略室 / CODE**：自社データからの質問自動抽出 → **実装完了**。`tools/question_miner/README.md` の手順で実行。判断根拠は `14_data_sourcing_decision.md`
 4. **法務**：VV会員規約にUGC利用許諾条項を追加（第2フェーズへの布石）。
 5. **情報戦略室**：対照群となる通常記事を**開始時点で先に選定・記録**。
 

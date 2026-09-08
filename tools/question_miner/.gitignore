@@ -1,0 +1,10 @@
+# 認証情報 — 絶対にコミットしないこと
+client_secrets.json
+token.json
+config.json
+
+# 入力・出力データ
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
