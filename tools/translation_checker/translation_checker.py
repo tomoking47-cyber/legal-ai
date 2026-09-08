@@ -163,13 +163,41 @@ def check_required(text: str, rows: list[dict[str, str]], key: str, label: str) 
     return findings
 
 
+HIRAGANA = re.compile(r"^[ぁ-ん]+$")
+# アレルゲン名の直後に来てもおかしくない助詞・記号
+TRAILING_OK = set("をはがもとやのにでか、。・）」\n\t 　:：")
+
+
+def contains_allergen(ja_text: str, term: str) -> bool:
+    """
+    日本語本文にアレルゲン名が含まれるかを判定する。
+
+    「ほかに」の中の「かに」、「負いかねます」の中の「いか」のような
+    誤検出を避けるため、ひらがなだけの語は前後の文字を見て判断する。
+    """
+    if not HIRAGANA.match(term):
+        return term in ja_text
+
+    for m in re.finditer(re.escape(term), ja_text):
+        before = ja_text[m.start() - 1] if m.start() > 0 else ""
+        after = ja_text[m.end()] if m.end() < len(ja_text) else ""
+        # 直前がひらがななら、別の語の一部とみなす
+        if before and "ぁ" <= before <= "ん":
+            continue
+        # 直後がひらがなの場合、助詞なら本物、それ以外は別の語の一部
+        if after and "ぁ" <= after <= "ん" and after not in TRAILING_OK:
+            continue
+        return True
+    return False
+
+
 def check_allergens(ja_text: str, en_text: str, glossary) -> list[Finding]:
     """日本語にあるアレルゲンが、英語版から落ちていないか"""
     findings = []
     en_hay = norm_en(en_text)
     seen: set[str] = set()
     for row in glossary["アレルゲン"]:
-        if not row["ja"] or row["ja"] not in ja_text:
+        if not row["ja"] or not contains_allergen(ja_text, row["ja"]):
             continue
         term = norm_en(row["en"])
         if term in seen:
