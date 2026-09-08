@@ -12,7 +12,7 @@ generate.py — カテゴリー別に質問候補を大量生成する
 """
 import argparse, csv, unicodedata
 from pathlib import Path
-from topics import CATEGORIES
+from topics import CATEGORIES, SEQUENCE_TOPICS, SEQ_FRAME, topic_type
 
 # 薬機法・健康増進法・景表法のチェックが要る話題
 LEGAL_KEYWORDS = [
@@ -38,10 +38,21 @@ def flag(text: str, words: list[str]) -> bool:
 
 
 def build(cat: dict, n: int) -> list[dict]:
-    """フレームを外側で回し、話題が偏らないように並べる"""
+    """フレームを外側で回して話題の偏りを防ぐ。話題の種類に合わないフレームは使わない。"""
     seen, rows = set(), []
-    for frame in cat["frames"]:
+    frames = list(cat["frames"])
+    if cat["lang"] == "ja":
+        frames.insert(0, SEQ_FRAME)   # 順番フレームは対象話題が少ないので先に
+
+    for frame, allowed in frames:
         for topic in cat["topics"]:
+            if cat["lang"] == "ja":
+                ttype = topic_type(topic)
+                if allowed and ttype not in allowed:
+                    continue
+                if frame is SEQ_FRAME[0]:
+                    if topic not in SEQUENCE_TOPICS or "順番" in topic:
+                        continue
             q = frame.format(t=topic)
             key = unicodedata.normalize("NFKC", q).lower()
             if key in seen:

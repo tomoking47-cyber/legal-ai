@@ -93,39 +93,93 @@ WISDOM_TOPICS = [
     "reading a Japanese label","product lot numbers","warranty culture","repair over replace",
 ]
 
+# ---------------------------------------------------------------- 話題の種類
+
+# 状態・現象（自分で「やる」ものではない）
+STATE_TOPICS = {
+    "冷え","むくみ","肩こり","腰の張り","首の疲れ","目の疲れ","スマホ首","いびき",
+    "寝つきの悪さ","中途覚醒","夏バテ","梅雨の不調","冬の乾燥","花粉の季節",
+    "季節の変わり目の体調","季節の変わり目の肌","マスクによる肌荒れ","静電気対策",
+    "衣類の毛玉","クローゼットの湿気","在宅勤務の運動不足","日照時間と気分",
+    "紫外線と体調","時差ぼけ","食品ロス","体内時計","腸内環境","肌質の見分け方",
+}
+
+# 行為・手順（「やる」もの）
+ACTION_TOPICS = {
+    "洗顔の回数","スキンケアの順番","朝のスキンケア","夜のスキンケア","メイク直し",
+    "メイク落とし","二重洗顔","眉の描き方","ドライヤーの使い方","香水のつけ方",
+    "化粧筆の洗い方","衣替えの手順","部屋干しの工夫","アイロンのかけ方",
+    "昼寝","二度寝","寝返り","休日の寝だめ","半身浴","サウナ","足湯","深呼吸","瞑想",
+    "水分補給","朝の一杯の水","朝食を抜くこと","間食","夜食","食べる順番","よく噛むこと",
+    "休憩の取り方","気分転換","階段の上り下り","ウォーキング","ストレッチ","ラジオ体操",
+    "体重の測り方","体温の測り方","血圧の測り方","健康診断の受け方","医療機関の選び方",
+    "冷凍のコツ","解凍のコツ","作り置き","下ごしらえ","下味","炊飯","煮物","焼き物",
+    "蒸し物","揚げ物","炒め物","電子レンジ活用","保温調理","献立の立て方","一人分の調理",
+    "買い物の頻度","水出し","氷の作り方",
+}
+
+# 手順が複数ステップある話題（「順番」を問えるもの）
+SEQUENCE_TOPICS = {
+    "スキンケアの順番","朝のスキンケア","夜のスキンケア","メイク落とし","二重洗顔",
+    "衣替えの手順","下ごしらえ","献立の立て方","食べる順番","洗濯表示の読み方",
+}
+
+ACTION_SUFFIXES = ("の使い方","の取り方","の洗い方","の淹れ方","の研ぎ方","の手入れ",
+                   "の選び方","の描き方","のかけ方","ケア","対策","補給","の保存","の管理")
+
+
+def topic_type(topic: str) -> str:
+    """話題を state（状態）/ act（行為）/ obj（モノ）に分ける"""
+    if topic in STATE_TOPICS:
+        return "state"
+    if topic in ACTION_TOPICS or topic.endswith(ACTION_SUFFIXES):
+        return "act"
+    return "obj"
+
+
 # ---------------------------------------------------------------- 質問フレーム
+# (フレーム, 使ってよい話題の種類)
 
 JA_FRAMES = [
-    "{t}は毎日やったほうがいいの？",
-    "{t}の正しい順番はあるの？",
-    "{t}は本当に意味があるの？",
-    "{t}はいつやるのがいいの？",
-    "{t}はやりすぎるとどうなるの？",
-    "{t}に決まりはあるの？",
-    "{t}はなぜ必要なの？",
-    "{t}を選ぶときは何を見ればいいの？",
-    "{t}は季節で変えたほうがいいの？",
-    "{t}の目安はどれくらい？",
-    "{t}をやめるとどうなるの？",
-    "{t}は人によって違うの？",
-    "{t}は自分でもできるの？",
-    "{t}はどこまでやればいいの？",
-    "{t}について、よくある誤解は？",
+    ("{t}について、よくある誤解は？",              {"act","obj","state"}),
+    ("{t}は人によって違うの？",                    {"act","obj","state"}),
+    ("{t}はなぜ必要なの？",                        {"act","obj"}),
+    ("{t}の目安はどれくらい？",                    {"act","obj"}),
+    ("{t}は季節で変えたほうがいいの？",            {"act","obj"}),
+    ("{t}に決まりはあるの？",                      {"act","obj"}),
+    ("{t}は毎日やったほうがいいの？",              {"act"}),
+    ("{t}はいつやるのがいいの？",                  {"act"}),
+    ("{t}はやりすぎるとどうなるの？",              {"act"}),
+    ("{t}をやめるとどうなるの？",                  {"act"}),
+    ("{t}はどこまでやればいいの？",                {"act"}),
+    ("{t}は本当に意味があるの？",                  {"act"}),
+    ("{t}を選ぶときは何を見ればいいの？",          {"obj"}),
+    ("{t}の正しい使い方は？",                      {"obj"}),
+    ("{t}はどう保管すればいいの？",                {"obj"}),
+    ("{t}はどう見分ければいいの？",                {"obj"}),
+    ("{t}はなぜ起こるの？",                        {"state"}),
+    ("{t}が気になるときは、どうすればいいの？",    {"state"}),
+    ("{t}は放っておいても大丈夫なの？",            {"state"}),
+    ("{t}は何が原因で変わるの？",                  {"state"}),
 ]
 
+# 順番を問えるのは SEQUENCE_TOPICS だけ
+SEQ_FRAME = ("{t}は、どの順番でやればいいの？", {"act"})
+
+# 英語フレーム。主語の単複で文法が崩れない形だけを使う
 EN_FRAMES = [
-    "What should I know about {t} in Japan?",
-    "How does {t} work in Japan?",
-    "Why is {t} different in Japan?",
-    "Do I need to worry about {t} when visiting Japan?",
-    "What do people in Japan actually do about {t}?",
-    "Is {t} worth the trouble in Japan?",
-    "How do I read {t} correctly?",
-    "What is the etiquette around {t} in Japan?",
-    "What surprises visitors about {t} in Japan?",
-    "How has {t} changed in Japan?",
-    "What is the practical way to handle {t} in Japan?",
-    "What do people get wrong about {t} in Japan?",
+    ("What should I know about {t} in Japan?",                 None),
+    ("What do people get wrong about {t} in Japan?",            None),
+    ("What surprises visitors about {t} in Japan?",             None),
+    ("Why are things different in Japan when it comes to {t}?", None),
+    ("What do people in Japan actually do about {t}?",          None),
+    ("What is the etiquette around {t} in Japan?",              None),
+    ("How do I deal with {t} in Japan?",                        None),
+    ("What is the practical way to handle {t} in Japan?",       None),
+    ("Do I need to think about {t} before visiting Japan?",     None),
+    ("What is worth knowing about {t} before you go?",          None),
+    ("What has changed about {t} in Japan?",                    None),
+    ("Is {t} something visitors should plan for?",              None),
 ]
 
 CATEGORIES = {
