@@ -213,11 +213,30 @@ Excelでそのまま開けます。編集部に渡すのはこちらです。
 
 ```
 python question_miner.py --demo              サンプルデータで動作確認
+python question_miner.py --inbound           訪日外国人モード（日本以外からの検索だけ）
+python question_miner.py --country usa,gbr   特定の国だけ（ISO3文字の国コード）
 python question_miner.py --days 180          過去180日ぶんを対象にする（既定は90日）
 python question_miner.py --limit 500         CSVに500件まで出す（既定は300件）
 python question_miner.py --top 50            レポートに50件出す（既定は30件）
 python question_miner.py --outdir 保存先      出力先フォルダを変える
 ```
+
+### 訪日外国人モードについて
+
+```
+python question_miner.py --inbound
+```
+
+**日本以外の国からの検索クエリだけ**を抽出します。訪日前・訪日中の外国人が
+何を知りたがっているかを取り出すためのモードです。
+
+出力ファイル名には `_inbound` が付き、通常版と混ざりません。
+`inbound` という棚が自動で付与されます（旅行文脈の語を含むものが該当）。
+
+> **【重要】このモードは、VVに英語ページが1枚もない状態では、ほぼ0件になります。**
+> 表示されていないページの検索クエリは、Search Console に記録されないためです。
+> **先に英語記事を数本公開してデータを溜めてから使ってください。**
+> 立ち上げの手順は `docs/plans/sekai-no-shitsumonbako/15_japan_to_world_plan.md` にあります。
 
 ---
 

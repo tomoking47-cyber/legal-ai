@@ -62,15 +62,35 @@ MEDIUM_MARKERS = [
 # 英語クエリの疑問詞（先頭に来たら質問とみなす）
 EN_QUESTION_HEAD = re.compile(
     r"^(what|why|how|when|where|which|who|whose|whom|is|are|was|were|"
-    r"can|could|should|would|does|do|did|will|difference)\b",
+    r"can|could|should|would|does|do|did|will|difference|any|anyone)\b",
     re.IGNORECASE,
 )
+
+# 英語クエリで、文中にあれば質問とみなす言い回し
+EN_QUESTION_PHRASES = [
+    "do i need", "can i", "should i", "is it ok", "is it safe", "is it worth",
+    "worth it", "how much", "how many", "how long", "how to", "where to",
+    "what to", "best time", "difference between", " vs ", " or ",
+    "do they", "can you", "is there", "are there", "need to bring",
+    "allowed", "recommend", "reddit",
+]
 
 # ---------------------------------------------------------------------------
 # 棚（カテゴリー）の判定に使う語
 # ---------------------------------------------------------------------------
 
 SHELF_KEYWORDS: dict[str, list[str]] = {
+    # 訪日外国人向け。他の棚より先に判定する（旅行文脈が最優先のため）
+    "inbound": [
+        "japan", "japanese", "tokyo", "kyoto", "osaka", "hokkaido", "okinawa",
+        "narita", "haneda", "jr pass", "suica", "pasmo", "ic card", "shinkansen",
+        "tax free", "tax-free", "duty free", "konbini", "convenience store",
+        "drugstore", "drug store", "pharmacy", "don quijote", "donki",
+        "onsen", "ryokan", "hostel", "airbnb", "yen", "cash", "atm",
+        "luggage", "suitcase", "carry on", "customs", "visa", "sim",
+        "esim", "wifi", "pocket wifi", "translate", "english menu",
+        "訪日", "インバウンド", "外国人", "免税", "旅行者", "観光客",
+    ],
     "fashion": [
         "化粧", "コスメ", "スキンケア", "化粧水", "乳液", "美容液", "クリーム",
         "日焼け", "ファンデ", "クレンジング", "洗顔", "肌", "毛穴", "角質",
@@ -116,6 +136,7 @@ class Candidate:
     position_sum: float = 0.0
     position_weight: float = 0.0
     hits: int = 0  # サイト内検索・CS問い合わせでの出現件数
+    countries: set[str] = field(default_factory=set)
 
     @property
     def avg_position(self) -> float:
@@ -160,6 +181,9 @@ def is_question(query: str) -> bool:
     if EN_QUESTION_HEAD.search(q):
         return True
 
+    if any(phrase in q for phrase in EN_QUESTION_PHRASES):
+        return True
+
     medium_hits = sum(1 for marker in MEDIUM_MARKERS if marker in q)
     return medium_hits >= 2
 
@@ -171,6 +195,9 @@ def assign_shelf(query: str) -> str:
         shelf: sum(1 for kw in keywords if kw in q)
         for shelf, keywords in SHELF_KEYWORDS.items()
     }
+    # 旅行文脈の語が1つでもあれば inbound を優先する
+    if scores.get("inbound", 0) > 0:
+        return "inbound"
     best = max(scores, key=lambda s: scores[s])
     return best if scores[best] > 0 else "要判断"
 
@@ -267,6 +294,10 @@ def fetch_search_console(config: dict, start: str, end: str, verbose: bool = Tru
     service = build("searchconsole", "v1", credentials=creds)
     site_url = config["site_url"]
 
+    dimensions = ["query"]
+    if config.get("include_country", False):
+        dimensions.append("country")
+
     rows: list[dict] = []
     start_row = 0
     page_size = 25000
@@ -275,7 +306,7 @@ def fetch_search_console(config: dict, start: str, end: str, verbose: bool = Tru
         body = {
             "startDate": start,
             "endDate": end,
-            "dimensions": ["query"],
+            "dimensions": dimensions,
             "rowLimit": page_size,
             "startRow": start_row,
             "type": "web",
@@ -328,6 +359,8 @@ def build_candidates(
     gsc_rows: list[dict],
     csv_items: list[tuple[str, str]],
     min_impressions: int,
+    exclude_countries: set[str] | None = None,
+    only_countries: set[str] | None = None,
 ) -> list[Candidate]:
     """各情報源のデータを1つの質問候補リストにまとめる"""
     table: dict[str, Candidate] = {}
@@ -339,7 +372,14 @@ def build_candidates(
 
     # Search Console
     for row in gsc_rows:
-        raw = row["keys"][0]
+        keys = row["keys"]
+        raw = keys[0]
+        country = keys[1].lower() if len(keys) > 1 else ""
+
+        if only_countries and country and country not in only_countries:
+            continue
+        if exclude_countries and country and country in exclude_countries:
+            continue
         if not is_question(raw):
             continue
         impressions = int(row.get("impressions", 0))
@@ -347,6 +387,8 @@ def build_candidates(
             continue
         c = get(normalize(raw), raw)
         c.sources.add("検索")
+        if country:
+            c.countries.add(country)
         c.impressions += impressions
         c.clicks += int(row.get("clicks", 0))
         position = float(row.get("position", 0))
@@ -380,6 +422,7 @@ CSV_HEADER = [
     "平均掲載順位",
     "直接の声",
     "情報源",
+    "主な国",
     "法務チェック",
 ]
 
@@ -400,6 +443,7 @@ def write_csv(candidates: list[Candidate], path: Path, limit: int) -> None:
                 f"{c.avg_position:.1f}" if c.avg_position else "-",
                 c.hits,
                 " / ".join(sorted(c.sources)),
+                " ".join(sorted(c.countries)[:5]),
                 "必須" if needs_legal_review(c.query) else "",
             ])
 
@@ -417,7 +461,7 @@ def write_report(candidates: list[Candidate], path: Path, start: str, end: str, 
         per_shelf[assign_shelf(c.query)] += 1
     lines.append("| 棚 | 件数 |")
     lines.append("|---|---|")
-    for shelf in ["fashion", "health", "trend", "要判断"]:
+    for shelf in ["inbound", "fashion", "health", "trend", "要判断"]:
         lines.append(f"| {shelf} | {per_shelf.get(shelf, 0)} |")
     lines.append("")
 
@@ -479,10 +523,26 @@ def demo_rows() -> list[dict]:
         ("VALUE VILLAGE 送料", 12000, 3100, 1.2),  # 質問ではないので除外される
         ("ヴァリューヴィレッジ 店舗", 8000, 2400, 1.1),  # 同上
     ]
-    return [
-        {"keys": [q], "impressions": imp, "clicks": clicks, "position": pos}
+    # 訪日外国人からの英語クエリ（国コード付き）
+    inbound = [
+        ("do i need to bring toiletries to japan", 2400, 4, 41.2, "usa"),
+        ("japanese sunscreen for sensitive skin", 5600, 31, 27.8, "usa"),
+        ("is tax free shopping worth it in japan", 4100, 12, 35.4, "gbr"),
+        ("what to buy at japanese drugstore", 8900, 60, 24.1, "usa"),
+        ("can i drink tap water in japan", 6200, 18, 33.6, "aus"),
+        ("how much cash should i bring to japan", 7400, 22, 29.9, "can"),
+        ("japanese skincare routine order", 3300, 15, 31.0, "sgp"),
+        ("best souvenirs from japan food", 2800, 9, 38.5, "twn"),
+    ]
+    rows = [
+        {"keys": [q, "jpn"], "impressions": imp, "clicks": clicks, "position": pos}
         for q, imp, clicks, pos in samples
     ]
+    rows += [
+        {"keys": [q, country], "impressions": imp, "clicks": clicks, "position": pos}
+        for q, imp, clicks, pos, country in inbound
+    ]
+    return rows
 
 
 # ---------------------------------------------------------------------------
@@ -515,7 +575,24 @@ def main() -> None:
         action="store_true",
         help="認証なしで、サンプルデータを使って動作確認する",
     )
+    parser.add_argument(
+        "--inbound",
+        action="store_true",
+        help="訪日外国人モード。日本以外の国からの検索だけを対象にする",
+    )
+    parser.add_argument(
+        "--country",
+        default="",
+        help="特定の国だけを対象にする（例: usa,gbr,aus）。国コードはISO3文字",
+    )
     args = parser.parse_args()
+
+    only_countries: set[str] | None = None
+    exclude_countries: set[str] | None = None
+    if args.country:
+        only_countries = {c.strip().lower() for c in args.country.split(",") if c.strip()}
+    elif args.inbound:
+        exclude_countries = {"jpn"}
 
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
@@ -541,6 +618,9 @@ def main() -> None:
     else:
         config = load_config(Path(args.config))
         min_impressions = int(config.get("min_impressions", 10))
+        if args.inbound or args.country:
+            # 国で絞り込むには、Search Console に国ディメンションを要求する必要がある
+            config["include_country"] = True
 
         print(f"Search Console からデータを取得します（{start} 〜 {end}）")
         gsc_rows = fetch_search_console(config, start, end)
@@ -566,11 +646,21 @@ def main() -> None:
             print(f"  CS問い合わせログ: {len(items)} 件")
             csv_items += items
 
-    candidates = build_candidates(gsc_rows, csv_items, min_impressions)
+    candidates = build_candidates(
+        gsc_rows, csv_items, min_impressions,
+        exclude_countries=exclude_countries,
+        only_countries=only_countries,
+    )
 
     stamp = today.isoformat()
-    csv_path = outdir / f"questions_{stamp}.csv"
-    report_path = outdir / f"report_{stamp}.md"
+    suffix = "_inbound" if (args.inbound or args.country) else ""
+    csv_path = outdir / f"questions_{stamp}{suffix}.csv"
+    report_path = outdir / f"report_{stamp}{suffix}.md"
+
+    if args.inbound:
+        print("=== 訪日外国人モード（日本以外の国からの検索のみ）===")
+    elif args.country:
+        print(f"=== 国を限定（{args.country}）===")
 
     write_csv(candidates, csv_path, args.limit)
     write_report(candidates, report_path, start, end, args.top)

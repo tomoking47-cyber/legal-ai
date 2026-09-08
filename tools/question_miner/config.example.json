@@ -13,6 +13,9 @@
   "_comment6": "▼ 表示回数がこの数より少ないクエリは無視します（ノイズ除去）",
   "min_impressions": 10,
 
+  "_comment6b": "▼ 国別に見たい場合は true。--inbound / --country を使うときは自動で有効になります",
+  "include_country": false,
+
   "_comment7": "▼ サイト内検索ログのCSV。無ければこの2行は消してかまいません。",
   "site_search_csv": "input/site_search.csv",
   "site_search_column": "query",
