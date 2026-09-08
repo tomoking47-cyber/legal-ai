@@ -1,0 +1,54 @@
+区分,日本語,英語,メモ
+禁止,,cures,治癒の断定。薬機法・FTC双方で問題
+禁止,,cure,同上
+禁止,,heals,治癒の断定
+禁止,,treats,治療の標榜
+禁止,,treatment for,治療の標榜
+禁止,,remedy,治療の標榜
+禁止,,anti-aging,老化を止める含意。エイジングケアの範囲を超える
+禁止,,anti aging,同上
+禁止,,whitening,漂白の含意。brightening を使う
+禁止,,removes wrinkles,シワ除去の断定
+禁止,,eliminates,除去の断定
+禁止,,regenerates,細胞再生の標榜
+禁止,,repairs skin cells,同上
+禁止,,boosts immunity,免疫への効果の断定
+禁止,,immune boosting,同上
+禁止,,detox,医学的根拠のない標榜
+禁止,,detoxifies,同上
+禁止,,burns fat,痩身の断定
+禁止,,slimming,痩身の断定
+禁止,,guaranteed,効果の保証
+禁止,,100% safe,安全性の断定
+禁止,,completely safe,同上
+禁止,,clinically proven,根拠の誇張。出典が示せない限り使わない
+禁止,,doctor recommended,推奨主体の誇張
+禁止,,medical grade,医療用の含意
+禁止,,prevents disease,疾病予防の標榜
+禁止,,best in japan,優良誤認のおそれ
+禁止,,superior to,他社比較
+禁止,,better than other brands,他社比較
+アレルゲン,そば,buckwheat,特定原材料。誤訳は健康被害に直結
+アレルゲン,小麦,wheat,特定原材料
+アレルゲン,卵,egg,特定原材料
+アレルゲン,乳,milk,特定原材料
+アレルゲン,牛乳,milk,特定原材料
+アレルゲン,落花生,peanut,特定原材料
+アレルゲン,ピーナッツ,peanut,特定原材料
+アレルゲン,えび,shrimp,特定原材料
+アレルゲン,エビ,shrimp,特定原材料
+アレルゲン,かに,crab,特定原材料
+アレルゲン,カニ,crab,特定原材料
+アレルゲン,くるみ,walnut,特定原材料
+アレルゲン,大豆,soy,特定原材料に準ずるもの
+アレルゲン,ごま,sesame,特定原材料に準ずるもの
+アレルゲン,さば,mackerel,特定原材料に準ずるもの
+アレルゲン,いか,squid,特定原材料に準ずるもの
+アレルゲン,ゼラチン,gelatin,特定原材料に準ずるもの
+固定訳,薬機法,Pharmaceuticals and Medical Devices Act,法令名は揺らさない
+固定訳,消費期限,use-by date,安全の期限。best-before と混同しない
+固定訳,賞味期限,best-before date,おいしさの期限。use-by と混同しない
+固定訳,加熱してください,cook thoroughly,食品衛生に関わる指示
+固定訳,生食用,for raw consumption,食品衛生に関わる表示
+固定訳,医療機関にご相談ください,consult a healthcare professional,非診断注記の定型
+固定訳,個人差があります,results vary from person to person,効果の断定回避
