@@ -91,12 +91,16 @@ SHELF_KEYWORDS: dict[str, list[str]] = {
         "esim", "wifi", "pocket wifi", "translate", "english menu",
         "訪日", "インバウンド", "外国人", "免税", "旅行者", "観光客",
     ],
-    "fashion": [
+    "beauty": [
         "化粧", "コスメ", "スキンケア", "化粧水", "乳液", "美容液", "クリーム",
         "日焼け", "ファンデ", "クレンジング", "洗顔", "肌", "毛穴", "角質",
-        "香水", "フレグランス", "服", "洋服", "洗濯", "毛玉", "ニット",
-        "素材", "靴", "バッグ", "アクセサリー", "時計", "ヘア", "髪",
-        "シャンプー", "ネイル", "メイク", "リップ", "まつげ", "眉",
+        "香水", "フレグランス", "ヘア", "髪", "シャンプー", "ネイル", "メイク",
+        "リップ", "まつげ", "眉", "美容",
+    ],
+    "fashion": [
+        "服", "洋服", "衣類", "洗濯", "毛玉", "ニット", "素材", "靴", "スニーカー",
+        "バッグ", "アクセサリー", "時計", "コート", "デニム", "シャツ", "アイロン",
+        "衣替え", "クローゼット", "防虫", "ハンガー", "ファッション",
     ],
     "health": [
         "睡眠", "眠", "寝", "疲れ", "疲労", "ストレス", "運動", "ストレッチ",
@@ -461,7 +465,7 @@ def write_report(candidates: list[Candidate], path: Path, start: str, end: str, 
         per_shelf[assign_shelf(c.query)] += 1
     lines.append("| 棚 | 件数 |")
     lines.append("|---|---|")
-    for shelf in ["inbound", "fashion", "health", "trend", "要判断"]:
+    for shelf in ["inbound", "beauty", "fashion", "health", "trend", "要判断"]:
         lines.append(f"| {shelf} | {per_shelf.get(shelf, 0)} |")
     lines.append("")
 
@@ -488,7 +492,7 @@ def write_report(candidates: list[Candidate], path: Path, start: str, end: str, 
     )
     lines.append("## 次にやること\n")
     lines.append(
-        "1. 上位から、棚が偏らないように選ぶ（fashion → health → trend の順で回す）\n"
+        "1. 上位から、棚が偏らないように選ぶ（beauty → fashion → health → trend の順で回す）\n"
         "2. 質問文を、編集部の言葉で読みやすく書き直す\n"
         "3. 出典（一次情報）を2件以上確保する\n"
         "4. `03_editorial_workflow.md` の公開前チェックリストを通す\n"

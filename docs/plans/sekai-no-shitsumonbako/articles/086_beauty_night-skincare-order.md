@@ -1,6 +1,6 @@
 # Q. 夜のスキンケアは、どの順番でやればいいの？｜世界の質問箱 #86
 
-- 棚：`fashion` ／ URL：`/questions/night-skincare-order` ／ 法務チェック：**必須**
+- 棚：`beauty` ／ URL：`/questions/night-skincare-order` ／ 法務チェック：**必須**
 - ステータス：**ドラフト（法務レビュー前・出典未検証）**
 
 夜は工程が増えがちで、順番の議論もここに集中します。

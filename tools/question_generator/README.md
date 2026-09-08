@@ -25,7 +25,7 @@ python generate.py --n 1000   各カテゴリー1000件
 `topics.py` の話題リストに語を足すだけです。フレーム数は変えなくて構いません。
 
 - 話題を10語足すと、日本語カテゴリーは150件、英語カテゴリーは120件増えます。
-- 現在の上限：fashion 1,185／health 1,215／trend 1,185／inbound 912／wisdom 912
+- 現在の上限（概算）：beauty 約880／fashion 約600／health 1,215／trend 1,185／inbound 912／wisdom 912
 
 ## CSVの列
 
@@ -33,7 +33,7 @@ python generate.py --n 1000   各カテゴリー1000件
 |---|---|
 | 質問候補 | 生成された質問文（**要リライト**） |
 | 話題 | 元になった話題 |
-| 棚 | fashion / health / trend / inbound / wisdom |
+| 棚 | beauty / fashion / health / trend / inbound / wisdom |
 | **法務チェック** | **「必須」なら薬機法等のレビューへ** |
 | 要注意 | 制度・安全に関わる話題 |
 | 状態 | 既定は「未確認」 |

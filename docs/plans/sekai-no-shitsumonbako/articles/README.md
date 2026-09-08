@@ -7,6 +7,18 @@
 | **新基準で書き直し済み（出典未検証・法務レビュー前）** | **100本**（#1〜#100） |
 | 雛形のみ（未執筆） | **0本** |
 
+## 2026-09-08 棚の分割（fashion → beauty / fashion）
+
+会長の指摘「日焼け止めやクレンジングは Fashion ではなく Beauty」により、旧 `fashion` 棚を2つに分けました。
+
+| 棚 | 内容 | 本数 | 法務 |
+|---|---|---|---|
+| **beauty** | スキンケア・メイク・化粧品の保管と期限 | 14本 | 薬機法チェック必須 |
+| **fashion** | 衣類・靴・洗濯表示・部屋干し・衣替え | 6本 | 製品表示に従う旨の注記 |
+
+ファイル名は `NNN_beauty_…` に変更しました。通し番号（#1〜#100）と URL は変えていません。
+今後の質問生成（`tools/question_generator`）も beauty / fashion の2カテゴリーで出ます。
+
 ## 2026-09-08 書き直しについて
 
 会長の決定（`../18_quality_standard.md` 第5節）により、100本すべてを **出典を資料名・年度・深いURLまで特定し、具体的な数値を本文に入れる** 基準で書き直しました。
@@ -53,7 +65,7 @@ python translation_checker.py --en 記事.md
 
 - [ ] 3ソース原則の確認（編集部が実際に観察して記録する）
 - [ ] **出典URLを開いて、記載内容と一致するか確認する**
-- [ ] 薬機法の法務レビュー（fashion・health 棚）
+- [ ] 薬機法の法務レビュー（beauty・health 棚）
 
 ## samples/ フォルダとの重複について
 
@@ -64,7 +76,7 @@ python translation_checker.py --en 記事.md
 |---|---|
 | `02_wellness_morning_light.md` | `022_health_morning-light.md` |
 | `08_phone_before_bed.md` | `017_health_phone-before-bed.md` |
-| `10_cosmetics_fridge.md` | `011_fashion_storing-cosmetics.md` |
+| `10_cosmetics_fridge.md` | `011_beauty_storing-cosmetics.md` |
 | `en/02_sunscreen_label_*.md` | （重複なし。そのまま使えます） |
 
 `samples/` は企画時の見本、`articles/` が実際の制作ラインです。**迷ったら `articles/` を優先してください。**

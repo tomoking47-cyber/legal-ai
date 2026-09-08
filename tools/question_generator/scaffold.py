@@ -13,7 +13,8 @@ import argparse, csv, re, unicodedata
 from pathlib import Path
 
 SERIES = {
-    "fashion": ("世界の質問箱", "/questions/", "スキンケア"),
+    "beauty":  ("世界の質問箱", "/questions/", "ビューティー"),
+    "fashion": ("世界の質問箱", "/questions/", "ファッション"),
     "health":  ("世界の質問箱", "/questions/", "ウェルネス"),
     "trend":   ("世界の質問箱", "/questions/", "フード"),
     "inbound": ("Japan Questions", "/en/questions/", "Inbound"),
@@ -41,7 +42,8 @@ This is general information. Results vary from person to person and depend on yo
 We cannot accept responsibility for any damage, loss or injury arising from following this article."""
 
 EXTRA = {
-    "fashion": "\n\n化粧品は疾病の治療・予防を目的とするものではありません。\n肌に異常を感じた際は使用を中止し、皮膚科専門医にご相談ください。",
+    "beauty":  "\n\n化粧品は疾病の治療・予防を目的とするものではありません。\n肌に異常を感じた際は使用を中止し、皮膚科専門医にご相談ください。",
+    "fashion": "\n\n衣類や靴のお手入れは、製品の洗濯表示・取扱説明に従ってください。\n高価な品や思い入れのある品は、専門店に相談することをおすすめします。",
     "health":  "\n\n本記事は、特定の症状の診断・治療・予防を目的としたものではありません。\n体調に不安がある場合は、自己判断せず医療機関にご相談ください。",
     "trend":   "\n\n食材によっては十分な加熱が必要です。生食は、生食用として流通しているものに限ってください。\nアレルギーのある方は、原材料をご確認ください。",
     "inbound": "\n\nRules and procedures can change. Please confirm the latest official information before you act.",

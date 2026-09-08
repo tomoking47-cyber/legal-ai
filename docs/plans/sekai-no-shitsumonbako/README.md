@@ -23,7 +23,7 @@
 
 | 連載 | URL | 棚 | ペース | 主目的 |
 |---|---|---|---|---|
-| **世界の質問箱** | `/questions/` | fashion / health / trend | 週2〜3本 | AI検索での引用獲得（GEO検証） |
+| **世界の質問箱** | `/questions/` | beauty / fashion / health / trend | 週2〜3本 | AI検索での引用獲得（GEO検証） |
 | **世界のいいニュース** | `/goodnews/` | 横断 | 週2〜3本 | ブランド確立・回遊・シェア |
 | **世界にひらく郷土レシピ** | `/recipes/` | trend | 週1〜2本 | 多言語での海外流入・GEO本命 |
 

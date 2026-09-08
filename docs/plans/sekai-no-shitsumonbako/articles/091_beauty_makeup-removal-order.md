@@ -1,6 +1,6 @@
 # Q. メイク落としは、どの順番でやればいいの？｜世界の質問箱 #91
 
-- 棚：`fashion` ／ URL：`/questions/makeup-removal-order` ／ 法務チェック：**必須**
+- 棚：`beauty` ／ URL：`/questions/makeup-removal-order` ／ 法務チェック：**必須**
 - ステータス：**ドラフト（法務レビュー前・出典未検証）**
 
 落とす順番は、肌への負担を左右する工程です。

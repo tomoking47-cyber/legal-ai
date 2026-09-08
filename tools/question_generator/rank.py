@@ -53,7 +53,7 @@ HIGH_DEMAND = [
     "repair over replace","earthquake preparation","indoor drying",
 ]
 
-CATS = ["fashion", "health", "trend", "inbound", "wisdom"]
+CATS = ["beauty", "fashion", "health", "trend", "inbound", "wisdom"]
 
 
 def norm(s: str) -> str:
