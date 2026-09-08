@@ -1,0 +1,31 @@
+順位,質問候補,推定棚,根拠,情報源の種別,法務チェック,備考
+1,What can I actually buy at a Japanese drugstore?,inbound/fashion,訪日客の大多数が滞在中にドラッグストアを訪れているとの民間調査あり,調査記事(要一次確認),,買い物カテゴリの入口。VVの棚と直結
+2,How do I read a Japanese sunscreen label? What does PA++++ mean?,inbound/fashion,SPFに加えPA表示があり海外の表示と異なるため混乱が多い,複数の英語解説記事,必須,効能断定NG。表示の説明にとどめる
+3,Why does Japanese skincare say "lotion" and "milk"?,inbound/fashion,英語のlotion/milkと日本の化粧水/乳液で意味が異なる,複数の英語解説記事,必須,表示の説明。製品推奨はしない
+4,Why is there no expiry date on Japanese cosmetics?,inbound/fashion,薬機法上3年超は表示義務がないためロット番号のみの製品が多い,複数の英語解説記事,必須,制度の説明。一次資料で要確認
+5,What does ノンケミカル / 紫外線吸収剤フリー mean?,inbound/fashion,敏感肌の読者が探す表示だが英訳が定着していない,複数の英語解説記事,必須,効能断定NG
+6,Is tax-free shopping worth it? What are the rules?,inbound/trend,免税の要件と手続きに関する質問が非常に多い,英語ガイド記事多数,,★制度改正の予定あり。一次資料で必ず確認
+7,Which Japanese foods can I take home through customs?,inbound/trend,加工食品は可だが肉・乳・生鮮は各国で制限,税関・各国規制,,★相手国の規制はVVが断定しない旨を明記
+8,Can I drink the tap water in Japan?,inbound/health,滞在中の基本的な不安として頻出,一般的な旅行者の疑問,,断定を避け出典必須
+9,How much cash should I bring to Japan?,inbound/trend,カード利用可否が困りごと上位に入る,観光庁調査(要一次確認),,金額は断定しない
+10,Do I need to bring my own toiletries?,inbound/fashion,現地調達可否の判断ができず荷造りで迷う,一般的な旅行者の疑問,,VV棚と直結
+11,What do I do about trash while sightseeing?,inbound/trend,「ごみ箱の少なさ」が困りごと1位との調査結果,観光庁調査(要一次確認),,生活習慣の説明として書ける
+12,How do people communicate if staff don't speak English?,inbound/trend,「スタッフとのコミュニケーション」が困りごと上位,観光庁調査(要一次確認),,VV棚との接続は弱い。優先度は中
+13,Which convenience store items are worth trying?,inbound/trend,コンビニは訪日客の関心が高い,英語ガイド記事多数,,社名を出さず業態で書く
+14,Is Japanese sunscreen different from what I use at home?,inbound/fashion,PA表示・使用感の違いに関する関心が高い,複数の英語解説記事,必須,他国製品との優劣比較はしない
+15,What is the humidity like and how do people cope?,inbound/health,梅雨・夏の湿度は海外からの旅行者の想定外,季節要因,必須,体調に関わるため非診断注記
+16,How do I know if a product contains allergens?,inbound/trend,アレルギー表示の読み方,食品表示制度,必須,★誤訳が健康被害に直結。ネイティブ確認必須
+17,Why do Japanese homes ask you to remove shoes?,inbound/wisdom,文化の説明として英語圏で需要が大きい,文化・生活習慣,,トラックB旗艦候補
+18,Why are Japanese everyday products so specific?,inbound/wisdom,アイデア商品文化の構造説明,会長CEO発案,,★シリーズ旗艦。社名を出さない
+19,What is a refill culture and why does it exist?,inbound/wisdom,詰め替え文化の説明,生活習慣,,環境配慮の文脈にも接続
+20,How do Japanese households handle small storage spaces?,inbound/wisdom,住宅事情と収納の工夫,生活習慣,,DIY実践編に接続
+21,What is the order of a Japanese skincare routine?,inbound/fashion,順番に関する質問が英語圏で非常に多い,英語解説記事多数,必須,効能断定NG
+22,Can I use Japanese medicine sold at drugstores?,inbound/health,一般用医薬品の可否,薬機法・各国規制,必須,★医薬品は扱い注意。原則として踏み込まない
+23,What souvenirs actually get used rather than thrown away?,inbound/trend,土産選びの実用的な疑問,英語ガイド記事多数,,VV棚と直結
+24,How does seasonal food work in Japan?,inbound/trend,旬の考え方,食文化,,郷土レシピ連載に接続
+25,What is dashi and can I make it at home?,inbound/trend,だしの説明と再現,食文化,,★実際に作ること
+26,How do people clean their homes in Japan?,inbound/wisdom,掃除の順番と考え方,生活習慣,必須,★洗剤の混合に関する注意必須
+27,What is a tenugui and what is it for?,inbound/wisdom,手ぬぐいの用途,生活道具,,自社撮影で成立
+28,Do I need cash for temples and small shops?,inbound/trend,決済手段の困りごと,観光庁調査(要一次確認),,断定を避ける
+29,What should I pack for a Japanese summer?,inbound/health,気候への備え,季節要因,必須,体調に関わる
+30,How do I dispose of packaging correctly?,inbound/trend,分別ルールの説明,自治体ルール,,自治体で異なる旨を明記
