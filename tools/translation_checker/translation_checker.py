@@ -49,7 +49,9 @@ def load_glossary(path: Path) -> dict[str, list[dict[str, str]]]:
         print(f"エラー: 用語集 {path} が見つかりません。", file=sys.stderr)
         sys.exit(1)
 
-    rows: dict[str, list[dict[str, str]]] = {"禁止": [], "アレルゲン": [], "固定訳": [], "必須": []}
+    rows: dict[str, list[dict[str, str]]] = {
+        "禁止": [], "禁止JA": [], "アレルゲン": [], "固定訳": [], "必須": [], "必須JA": [],
+    }
     with path.open(encoding="utf-8-sig", newline="") as f:
         for row in csv.DictReader(f):
             kind = (row.get("区分") or "").strip()
@@ -117,6 +119,45 @@ def check_forbidden(en_text: str, glossary) -> list[Finding]:
                 severity="重大",
                 category="禁止表現",
                 message=f'英語版に「{row["en"]}」が含まれています',
+                detail=row["note"],
+            ))
+    return findings
+
+
+def check_forbidden_ja(ja_text: str, glossary) -> list[Finding]:
+    """日本語版に、断定・優良誤認にあたる言い切り表現がないか"""
+    findings = []
+    hay = unicodedata.normalize("NFKC", ja_text)
+    seen: set[str] = set()
+    for row in glossary["禁止JA"]:
+        term = unicodedata.normalize("NFKC", row["ja"])
+        # 全角と半角は同じ語として扱うので、重複した指摘は出さない
+        if term in seen:
+            continue
+        if term and term in hay:
+            seen.add(term)
+            findings.append(Finding(
+                severity="重大",
+                category="言い切り表現",
+                message=f'日本語版に「{row["ja"]}」が含まれています',
+                detail=row["note"],
+            ))
+    return findings
+
+
+def check_required(text: str, rows: list[dict[str, str]], key: str, label: str) -> list[Finding]:
+    """全記事に必須の記述（自己判断の免責など）が入っているか"""
+    if not text.strip():
+        return []
+    hay = norm_en(text) if key == "en" else unicodedata.normalize("NFKC", text)
+    findings = []
+    for row in rows:
+        needle = norm_en(row[key]) if key == "en" else unicodedata.normalize("NFKC", row[key])
+        if needle and needle not in hay:
+            findings.append(Finding(
+                severity="重大",
+                category="必須記述の欠落",
+                message=f'{label}に「{row[key]}」に相当する記述がありません',
                 detail=row["note"],
             ))
     return findings
@@ -226,12 +267,21 @@ def looks_health_related(ja_text: str, en_text: str) -> bool:
 
 def run_checks(ja_text: str, en_text: str, glossary) -> list[Finding]:
     findings: list[Finding] = []
-    findings += check_forbidden(en_text, glossary)
+
     if ja_text:
+        findings += check_forbidden_ja(ja_text, glossary)
+        findings += check_required(ja_text, glossary["必須JA"], "ja", "日本語版")
+
+    if en_text:
+        findings += check_forbidden(en_text, glossary)
+        findings += check_required(en_text, glossary["必須"], "en", "英語版")
+        findings += check_disclaimer(en_text, looks_health_related(ja_text, en_text))
+
+    if ja_text and en_text:
         findings += check_allergens(ja_text, en_text, glossary)
         findings += check_fixed_terms(ja_text, en_text, glossary)
         findings += check_numbers(ja_text, en_text)
-    findings += check_disclaimer(en_text, looks_health_related(ja_text, en_text))
+
     return sorted(findings, key=lambda f: SEVERITY_ORDER.get(f.severity, 9))
 
 
@@ -277,6 +327,7 @@ DEMO_JA = """# おやき — 長野県の郷土料理
 そば粉と小麦粉で作った皮に、野菜のあんを包みます。
 生地は30分ほど休ませ、フライパンで5分焼いてください。
 加熱してください。賞味期限は製造から3日です。
+この方法なら100%失敗しません。肌荒れも治ります。
 肌の調子が気になる方は医療機関にご相談ください。
 """
 
@@ -303,23 +354,23 @@ def main() -> None:
         print("=== デモモード（わざと問題のある訳文を検査します）===")
         ja_text, en_text = DEMO_JA, DEMO_EN
     else:
-        if not args.en:
-            parser.error("--en を指定してください（英語版のファイル）")
-        en_path = Path(args.en)
-        if not en_path.exists():
-            print(f"エラー: {en_path} が見つかりません。", file=sys.stderr)
-            sys.exit(1)
-        en_text = strip_markdown_noise(en_path.read_text(encoding="utf-8"))
+        if not args.en and not args.ja:
+            parser.error("--ja か --en の少なくとも一方を指定してください")
 
-        ja_text = ""
-        if args.ja:
-            ja_path = Path(args.ja)
-            if not ja_path.exists():
-                print(f"エラー: {ja_path} が見つかりません。", file=sys.stderr)
+        def read(path_str: str) -> str:
+            path = Path(path_str)
+            if not path.exists():
+                print(f"エラー: {path} が見つかりません。", file=sys.stderr)
                 sys.exit(1)
-            ja_text = strip_markdown_noise(ja_path.read_text(encoding="utf-8"))
-        else:
-            print("※ 日本語版が指定されていないため、禁止表現と注記のみを検査します。")
+            return strip_markdown_noise(path.read_text(encoding="utf-8"))
+
+        ja_text = read(args.ja) if args.ja else ""
+        en_text = read(args.en) if args.en else ""
+
+        if not en_text:
+            print("※ 日本語版のみを検査します（言い切り表現・必須記述）。")
+        elif not ja_text:
+            print("※ 英語版のみを検査します（アレルゲン照合と数字照合はできません）。")
 
     sys.exit(report(run_checks(ja_text, en_text, glossary)))
 
