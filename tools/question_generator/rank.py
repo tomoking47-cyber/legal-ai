@@ -82,51 +82,55 @@ def main() -> None:
     args = ap.parse_args()
     out = Path(args.outdir)
 
+    # 話題ごとに、その話題に一番合う問い方を選ぶ。
+    # 同じ話題で複数書くと中身が重複し、検索でも共食いするため1話題1本にする。
     per_cat = {}
     for cat in CATS:
         rows = list(csv.DictReader((out / f"questions_{cat}.csv").open(encoding="utf-8-sig")))
         for r in rows:
             r["score"] = round(score(r), 2)
-        per_cat[cat] = sorted(rows, key=lambda r: -r["score"])
+        by_topic: dict[str, list[dict]] = {}
+        for r in rows:
+            by_topic.setdefault(r["話題"], []).append(r)
+        for lst in by_topic.values():
+            lst.sort(key=lambda r: -r["score"])
+        # 話題は「その話題の最高スコア」順に並べる
+        per_cat[cat] = sorted(by_topic.values(), key=lambda l: -l[0]["score"])
 
-    # 棚が偏らないようカテゴリーを順番に取り、
-    # 同じ言い回しばかりにならないようフレームごとに上限をかける
     def frame_of(row: dict) -> str:
         return norm(row["質問候補"]).replace(norm(row["話題"]), "{t}")
 
-    cap = max(2, args.n // (len(CATS) * 10))  # 1フレームあたりの上限
+    # 同じ言い回しばかりにならないよう上限をかけ、
+    # 上限に当たった話題は2番目に合う問い方へ落とす
+    # 話題が重複しない以上、問い方が揃うのは問題ない（シリーズとして成立する）。
+    # 上限は緩めにし、話題ごとに一番合う問い方を優先する。
+    cap = max(6, args.n // len(CATS))
     used, picked, idx = {}, [], {c: 0 for c in CATS}
 
     while len(picked) < args.n:
         added = False
         for cat in CATS:
-            rows = per_cat[cat]
-            while idx[cat] < len(rows):
-                r = rows[idx[cat]]
+            groups = per_cat[cat]
+            while idx[cat] < len(groups):
+                cands = groups[idx[cat]]
                 idx[cat] += 1
-                f = frame_of(r)
-                if used.get((cat, f), 0) >= cap:
-                    continue
-                used[(cat, f)] = used.get((cat, f), 0) + 1
-                picked.append((cat, r))
+                chosen_row = None
+                for r in cands:                      # その話題の問い方を良い順に試す
+                    f = frame_of(r)
+                    if used.get((cat, f), 0) < cap:
+                        used[(cat, f)] = used.get((cat, f), 0) + 1
+                        chosen_row = r
+                        break
+                if chosen_row is None:               # どの問い方も上限なら最良を使う
+                    chosen_row = cands[0]
+                    used[(cat, frame_of(chosen_row))] = used.get((cat, frame_of(chosen_row)), 0) + 1
+                picked.append((cat, chosen_row))
                 added = True
                 break
             if len(picked) >= args.n:
                 break
         if not added:
             break
-
-    # 上限で弾かれて件数が足りない場合は、上限をゆるめて埋める
-    if len(picked) < args.n:
-        chosen = {id(r) for _, r in picked}
-        for i in range(max(len(v) for v in per_cat.values())):
-            for cat in CATS:
-                rows = per_cat[cat]
-                if i < len(rows) and id(rows[i]) not in chosen and len(picked) < args.n:
-                    picked.append((cat, rows[i]))
-                    chosen.add(id(rows[i]))
-            if len(picked) >= args.n:
-                break
 
     path = out / f"priority_top{args.n}.csv"
     with path.open("w", encoding="utf-8-sig", newline="") as f:
