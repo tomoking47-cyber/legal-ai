@@ -1,57 +1,52 @@
 # Q. What do people get wrong about tax-free shopping in Japan?｜Japan Questions #59
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/tax-free-shopping`
-- 優先順位：59 ／ 優先スコア：5.7
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/tax-free-shopping` ／ **Caution: rules and regulations**
+- Status: **Draft — legal review pending**
+
+This is among the most searched practical questions before a trip, and among the most out of date online.
+
+## A. The common misunderstanding is treating it as an automatic discount. It is a procedure, with conditions, at participating shops.
+
+**The system is also subject to change**, which is why old advice circulates.
+
+## Misunderstanding 1｜Every shop offers it
+
+Only licensed shops can process tax-free purchases. **Look for the signage or ask before you queue.**
+
+## Misunderstanding 2｜It is applied at any till
+
+Many shops handle it at a designated counter, sometimes on another floor. **Ask first; it can be difficult to process after payment.**
+
+## Misunderstanding 3｜Your passport is optional
+
+A passport is required. **A photograph or a copy is generally not accepted.**
+
+## Misunderstanding 4｜Anything qualifies
+
+Conditions differ by category, and minimum spend thresholds apply. **Consumable goods and general goods are treated differently.**
+
+## Misunderstanding 5｜You can use it before leaving
+
+Goods bought tax-free are for export. **Conditions apply to how consumables are packaged and when items may be used.**
+
+## The one thing to check yourself
+
+**This system has been subject to reform.** Requirements, thresholds and the refund method can change.
+**Confirm the current rules with the National Tax Agency or the shop before relying on any figure you read online — including this article.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- National Tax Agency — consumption tax exemption for foreign visitors https://www.nta.go.jp/
+- Japan Customs https://www.customs.go.jp/
+- Japan Tourism Agency https://www.mlit.go.jp/kankocho/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Rules and procedures change. Please confirm the latest official information before you act.

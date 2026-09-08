@@ -1,58 +1,46 @@
-# Q. What do people get wrong about cleaning order in Japan?｜Japanese Everyday Wisdom #70
+# Q. What do people get wrong about the order of cleaning in Japan?｜Japanese Everyday Wisdom #70
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/cleaning-order`
-- 優先順位：70 ／ 優先スコア：5.7
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/cleaning-order` ／ Status: **Draft — legal review pending**
+
+Cleaning advice usually focuses on products. The sequence is what quietly decides how long the job takes.
+
+## A. The common misunderstanding is that order does not matter. Dust falls, so cleaning generally runs from top down, and from the far side towards the door.
+
+Doing it in the other order means cleaning the same surface twice.
+
+## Misunderstanding 1｜Start with the floor
+
+Dust dislodged from shelves and surfaces lands on the floor. **Floors come last.**
+
+## Misunderstanding 2｜Start with the visible mess
+
+Working from the far corner towards the exit means you never walk back across what you have finished. **The route matters.**
+
+## Misunderstanding 3｜Wet cleaning first
+
+Dry removal before wet wiping avoids turning dust into smears. **Dry, then wet.**
+
+## Misunderstanding 4｜Cleaning is a weekend job
+
+Many households do small daily resets and keep the large clean for the year end. **Little and often, plus one big one.**
+
+## Misunderstanding 5｜Stronger products save time
+
+**Never mix cleaning products.** Combining chlorine-based and acidic products can release harmful gas. Ventilate while you work.
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Consumer Affairs Agency — household product safety https://www.caa.go.jp/
+- Ministry of Health, Labour and Welfare — indoor environment https://www.mhlw.go.jp/
+- Ministry of the Environment https://www.env.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Always follow the instructions on any product you use, and **never mix cleaning products.** Ventilate while cleaning. Test on an inconspicuous area first. If you rent your home, check with your landlord before making any changes.

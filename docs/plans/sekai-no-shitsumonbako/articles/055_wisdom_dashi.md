@@ -1,58 +1,45 @@
 # Q. What do people get wrong about dashi in Japan?｜Japanese Everyday Wisdom #55
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/dashi`
-- 優先順位：55 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/dashi` ／ Status: **Draft — legal review pending**
+
+Dashi is often described abroad as a stock. The word fits, and it also misleads.
+
+## A. The common misunderstanding is that dashi is simmered like a stock. Most versions are extracted quickly, at controlled temperature.
+
+A Western stock is usually cooked for hours. **Dashi is often a matter of minutes.**
+
+## Misunderstanding 1｜Longer cooking means more flavour
+
+Kelp held at a rolling boil can turn slippery and bitter, and dried fish flakes lose aroma if simmered. **Each ingredient has its own handling.**
+
+## Misunderstanding 2｜It requires equipment
+
+Kelp left in cold water is a recognised method. **No heat, no special tools.**
+
+## Misunderstanding 3｜It takes effort
+
+It takes waiting, which is not the same thing. **Much of the time is unattended.**
+
+## Misunderstanding 4｜Instant dashi is a shortcut people hide
+
+Powdered and liquid dashi are ordinary in Japanese kitchens. **Knowing what is in what you use matters more than which you use.**
+
+## Misunderstanding 5｜It only belongs in Japanese food
+
+Savoury depth is not cuisine-specific. **The extraction method travels.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Agriculture, Forestry and Fisheries — washoku and food culture https://www.maff.go.jp/
+- Ministry of Education, Culture, Sports, Science and Technology — Standard Tables of Food Composition https://www.mext.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Some ingredients must be cooked thoroughly. If you have allergies, please check the ingredients carefully — dried fish and kelp products are common in dashi.

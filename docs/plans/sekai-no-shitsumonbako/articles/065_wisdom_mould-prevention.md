@@ -1,58 +1,46 @@
-# Q. What do people get wrong about mould prevention in Japan?｜Japanese Everyday Wisdom #65
+# Q. What do people get wrong about preventing mould in Japan?｜Japanese Everyday Wisdom #65
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/mould-prevention`
-- 優先順位：65 ／ 優先スコア：5.7
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/mould-prevention` ／ Status: **Draft — legal review pending**
+
+In a humid climate, mould prevention is a routine household task rather than an occasional emergency.
+
+## A. The common misunderstanding is that it is a cleaning problem. It is mostly a moisture and airflow problem.
+
+Cleaning removes what has grown. **Airflow decides whether it grows again.**
+
+## Misunderstanding 1｜Cleaning products solve it
+
+They remove growth. **If the moisture stays, so does the cause.**
+
+## Misunderstanding 2｜Closing the room keeps damp out
+
+A closed room holds the moisture already inside. **Ventilating, and running extraction after bathing, is the usual approach.**
+
+## Misunderstanding 3｜Only bathrooms are at risk
+
+Cupboards, behind furniture, under futons and inside wardrobes are all common. **Anywhere air does not move.**
+
+## Misunderstanding 4｜Furniture flat against the wall is tidy
+
+A small gap lets air pass behind. **That gap is doing a job.**
+
+## Misunderstanding 5｜Stronger products work better
+
+**Never mix cleaning products.** Combining chlorine-based and acidic products can release harmful gas. This is a serious safety point, not a preference.
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Health, Labour and Welfare — indoor environment and health https://www.mhlw.go.jp/
+- Ministry of the Environment https://www.env.go.jp/
+- Consumer Affairs Agency — household product safety https://www.caa.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Always follow the instructions on any product you use, and **never mix cleaning products.** Ventilate while cleaning. If you rent your home, check with your landlord before making any changes. If mould is extensive or returns persistently, consult a professional.

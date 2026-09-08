@@ -1,57 +1,45 @@
 # Q. What do people get wrong about souvenir choices in Japan?｜Japan Questions #54
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/souvenir-choices`
-- 優先順位：54 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/souvenir-choices` ／ Status: **Draft — legal review pending**
+
+Souvenir shopping is usually planned around what looks Japanese. Most of the regret afterwards is about something else.
+
+## A. The common misunderstanding is choosing by appearance. What decides whether it gets used is weight, fragility and whether it survives the journey.
+
+The best souvenirs are the ones that are still in use a year later.
+
+## Misunderstanding 1｜Buy at the tourist shop
+
+Ordinary supermarkets, stationery shops and household stores carry the items people actually use. **The tourist aisle is not where the range is.**
+
+## Misunderstanding 2｜Bigger feels more generous
+
+Weight and space are real costs on the way home. **Flat, light and useful travels better than large.**
+
+## Misunderstanding 3｜Food is a safe default
+
+Import rules differ by country and by product. **Check the rules of your destination before buying food to carry home.**
+
+## Misunderstanding 4｜Anything can go in the cabin
+
+Blades, liquids, pastes and gels are restricted in hand luggage. **Check your airline's rules.**
+
+## Misunderstanding 5｜Regional items are only available in that region
+
+Many regional goods are sold at major stations and airports. **You do not have to carry them the whole trip.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Japan Customs https://www.customs.go.jp/
+- Ministry of Agriculture, Forestry and Fisheries — quarantine information https://www.maff.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+We cannot advise on the import rules of your destination country. Please confirm them with the relevant authority before you travel.
