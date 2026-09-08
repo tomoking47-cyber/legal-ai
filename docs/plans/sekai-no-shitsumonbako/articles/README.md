@@ -4,8 +4,8 @@
 
 | 状態 | 本数 |
 |---|---|
-| **本文完成（法務レビュー前）** | **20本**（#1〜#20） |
-| 雛形のみ（未執筆） | 80本（#21〜#100） |
+| **本文完成（法務レビュー前）** | **30本**（#1〜#30） |
+| 雛形のみ（未執筆） | 70本（#31〜#100） |
 
 ## 雛形に最初から入っているもの
 
@@ -46,3 +46,17 @@ python translation_checker.py --en 記事.md
 - [ ] 3ソース原則の確認（編集部が実際に観察して記録する）
 - [ ] **出典URLを開いて、記載内容と一致するか確認する**
 - [ ] 薬機法の法務レビュー（fashion・health 棚）
+
+## samples/ フォルダとの重複について
+
+企画初期に `samples/` へ書いた記事のうち、以下は `articles/` の記事と話題が近接します。
+**公開時はどちらか一方に統合してください。両方出すと検索で共食いします。**
+
+| samples/ | articles/ |
+|---|---|
+| `02_wellness_morning_light.md` | `022_health_morning-light.md` |
+| `08_phone_before_bed.md` | `017_health_phone-before-bed.md` |
+| `10_cosmetics_fridge.md` | `011_fashion_storing-cosmetics.md` |
+| `en/02_sunscreen_label_*.md` | （重複なし。そのまま使えます） |
+
+`samples/` は企画時の見本、`articles/` が実際の制作ラインです。**迷ったら `articles/` を優先してください。**

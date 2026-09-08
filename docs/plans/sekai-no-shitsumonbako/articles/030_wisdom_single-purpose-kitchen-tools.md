@@ -1,58 +1,45 @@
 # Q. What do people get wrong about single-purpose kitchen tools in Japan?｜Japanese Everyday Wisdom #30
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/single-purpose-kitchen-tools`
-- 優先順位：30 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/single-purpose-kitchen-tools` ／ Status: **Draft — legal review pending**
+
+Japanese kitchen shops are full of tools that do exactly one thing. From outside, this looks like clutter.
+
+## A. The common misunderstanding is that these are gimmicks. A narrow tool is usually solving a task that happens often.
+
+The question is not how many jobs a tool does. It is how often you do that one job.
+
+## Misunderstanding 1｜Multi-purpose tools are always better
+
+A tool that does five things often does none of them quickly. **If you do a task daily, a tool shaped for it saves time every day.**
+
+## Misunderstanding 2｜They exist because kitchens are large
+
+The opposite is closer to true. Small kitchens push tools to be **thin, flat, stackable and hangable** rather than bulky.
+
+## Misunderstanding 3｜It is a modern retail trend
+
+Specialised utensils have long existed in Japanese cooking. **The 100-yen shops made them cheap; they did not invent them.**
+
+## Misunderstanding 4｜More tools means more washing
+
+Many are designed to be rinsed in seconds. **Ease of cleaning is part of the design, not an afterthought.**
+
+## Misunderstanding 5｜They only work with Japanese cooking
+
+A tool that drains, grates, peels or holds does the same job in any cuisine. **Buy for the task you already do.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Economy, Trade and Industry — traditional crafts and manufacturing https://www.meti.go.jp/
+- Agency for Cultural Affairs — information on living culture https://www.bunka.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Follow the instructions supplied with any tool you buy, and keep blades away from children.

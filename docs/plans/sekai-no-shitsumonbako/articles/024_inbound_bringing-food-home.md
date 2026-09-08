@@ -1,57 +1,46 @@
-# Q. What do people get wrong about bringing food home in Japan?｜Japan Questions #24
+# Q. What do people get wrong about bringing food home from Japan?｜Japan Questions #24
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/bringing-food-home`
-- 優先順位：24 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/bringing-food-home` ／ **Caution: rules and regulations**
+- Status: **Draft — legal review pending**
+
+Food is one of the most popular things to carry home, and one of the most commonly confiscated.
+
+## A. The common misunderstanding is that the question is about Japan. What matters is the rules of the country you are returning to.
+
+Japan controls what comes in. **Your own country controls what you bring back.**
+
+## Misunderstanding 1｜If it is sold in a shop, it can be taken home
+
+Being on sale here says nothing about another country's import rules. **Check with the customs authority of your destination.**
+
+## Misunderstanding 2｜Sealed packaging makes it acceptable
+
+Many countries restrict meat, dairy, fresh produce, seeds and plants **regardless of packaging.**
+
+## Misunderstanding 3｜Small amounts do not need declaring
+
+Some countries require every food item to be declared, sealed or not. **Declaring costs nothing; failing to declare can carry a penalty.**
+
+## Misunderstanding 4｜Anything can go in hand luggage
+
+Liquids, pastes and gels are restricted, and that includes some sauces and sweets. **Check your airline's rules.**
+
+## Misunderstanding 5｜Heat and time do not matter
+
+Chocolate, fresh sweets and chilled items may not survive a long journey. **Look at the storage instructions before you buy.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Japan Customs https://www.customs.go.jp/
+- Ministry of Agriculture, Forestry and Fisheries — animal and plant quarantine https://www.maff.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+We cannot advise on the import rules of your destination country. Please confirm them with the relevant authority before you travel. Rules and procedures can change.

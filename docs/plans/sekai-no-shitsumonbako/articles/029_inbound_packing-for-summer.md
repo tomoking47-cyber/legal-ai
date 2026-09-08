@@ -1,57 +1,51 @@
 # Q. What do people get wrong about packing for summer in Japan?｜Japan Questions #29
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/packing-for-summer`
-- 優先順位：29 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/packing-for-summer` ／ Legal check: **required**
+- Status: **Draft — legal review pending**
+
+Visitors pack for heat. What catches most of them out is the humidity that comes with it.
+
+## A. The common misunderstanding is packing for temperature alone. Humidity changes what clothing actually does.
+
+At high humidity, sweat evaporates slowly. **Fabric choice matters as much as how much you bring.**
+
+## Misunderstanding 1｜Less clothing is the answer
+
+Thin, loose, breathable fabric usually works better than less fabric. **Cover can be cooler than exposure in strong sun.**
+
+## Misunderstanding 2｜Indoors will be a relief
+
+Air conditioning can be strong on trains and in shops. **A light layer you can put on indoors is genuinely useful.**
+
+## Misunderstanding 3｜One pair of shoes is enough
+
+Shoes take a long time to dry in humid weather, and sudden rain is common. **A second pair saves a day.**
+
+## Misunderstanding 4｜Sun protection is only for the beach
+
+UV levels can be high in cities. **Look at the PA rating as well as SPF — it indicates UVA protection.** Check the product's instructions.
+
+## Misunderstanding 5｜You can buy anything you forget
+
+Most things, yes — but sizes, particularly shoes and some clothing, may not match what you expect. **Bring what has to fit.**
+
+## One thing that is not about packing
+
+Heat-related illness is a real risk in Japanese summers, indoors as well as outdoors. **Drink regularly, use air conditioning, and seek medical help if you feel unwell.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of the Environment — heat illness prevention https://www.env.go.jp/
+- Japan Meteorological Agency — UV and weather information https://www.jma.go.jp/
+- Ministry of Health, Labour and Welfare https://www.mhlw.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+This article is not intended to diagnose, treat, or prevent any condition. If you feel unwell, please consult a healthcare professional. Rules and procedures can change.
