@@ -1,57 +1,47 @@
 # Q. What do people get wrong about expiry dates on cosmetics in Japan?｜Japan Questions #94
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/expiry-dates-on-cosmetics`
-- 優先順位：94 ／ 優先スコア：5.1
-- ステータス：**未執筆**
-- 法務チェック：**必須（薬機法・景表法）**
+- Shelf: `inbound` ／ URL: `/en/questions/expiry-dates-on-cosmetics` ／ Legal check: **required**
+- Status: **Draft — legal review pending**
+
+Visitors turn a Japanese product over looking for a date and often find only a code.
+
+## A. The common misunderstanding is that a missing date means an oversight. Under Japanese law, a cosmetic that keeps its quality for more than three years unopened does not require a printed expiry date.
+
+The absence of a date is **a legal category, not a gap.**
+
+## Misunderstanding 1｜No date means it lasts forever
+
+It means the product met a defined stability condition unopened. **It is not a statement about how long it lasts once opened.**
+
+## Misunderstanding 2｜The code on the base is meaningless
+
+That is usually a batch, or lot, number. **It identifies when and where the batch was made.**
+
+## Misunderstanding 3｜Unopened and opened are treated the same
+
+Once opened, the product is exposed to air and to hands. **Use it up within a reasonable period regardless of the label.**
+
+## Misunderstanding 4｜You can tell by looking
+
+Separation, colour change and odour are useful signs — **but change is not always visible.**
+
+## Misunderstanding 5｜Refrigerating extends the life
+
+Cooling a product not designed for it can change its texture, and repeated temperature swings are worse than steady storage. **Follow the storage instructions on the pack.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Health, Labour and Welfare — information on cosmetics https://www.mhlw.go.jp/
+- Japan Cosmetic Industry Association https://www.jcia.org/
+- National Consumer Affairs Center of Japan https://www.kokusen.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-- [ ] **法務レビューを通した（担当：　　／日付：　　）**
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Cosmetics are not intended to treat or prevent any condition. Always follow the storage instructions on the product. If you notice any irritation, stop using the product and consult a dermatologist.

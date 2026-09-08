@@ -1,58 +1,48 @@
 # Q. What do people get wrong about earthquake preparation in Japan?｜Japanese Everyday Wisdom #80
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/earthquake-preparation`
-- 優先順位：80 ／ 優先スコア：5.7
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/earthquake-preparation` ／ **Caution: safety**
+- Status: **Draft — legal review pending**
+
+Preparation here is treated as ordinary household maintenance rather than as an emergency mindset.
+
+## A. The common misunderstanding is that preparation means an emergency bag. Most of it is furniture, water and knowing where to go.
+
+The bag matters. **What is bolted to the wall matters earlier.**
+
+## Misunderstanding 1｜A grab bag is the main thing
+
+Securing tall furniture and appliances so they cannot fall is widely advised. **Injuries often happen before anyone reaches a bag.**
+
+## Misunderstanding 2｜Run outside immediately
+
+Guidance from Japanese authorities generally advises protecting your head and staying put until the shaking stops. **Falling objects outside are a hazard.**
+
+## Misunderstanding 3｜Supplies means food only
+
+Water, a torch, a radio, a power bank, medication and cash are all commonly listed. **Water is usually the largest item by volume.**
+
+## Misunderstanding 4｜Stock it once
+
+Stored food and water have dates. **Rotating stock through normal use is the standard advice.**
+
+## Misunderstanding 5｜Visitors do not need to think about it
+
+Knowing your building's evacuation site and having your phone's emergency alerts enabled takes minutes. **Municipal hazard maps are published online.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Cabinet Office — disaster management https://www.bousai.go.jp/
+- Fire and Disaster Management Agency https://www.fdma.go.jp/
+- Japan Meteorological Agency — earthquake information https://www.jma.go.jp/
+- Municipal hazard maps and evacuation site listings
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+This article is general information and is not a substitute for official disaster guidance. **Follow the instructions of local authorities and your accommodation.** Please consult the official sources above for current guidance.

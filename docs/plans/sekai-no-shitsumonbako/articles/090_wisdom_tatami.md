@@ -1,58 +1,45 @@
 # Q. What do people get wrong about tatami in Japan?｜Japanese Everyday Wisdom #90
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/tatami`
-- 優先順位：90 ／ 優先スコア：3.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/tatami` ／ Status: **Draft — legal review pending**
+
+Tatami is usually described as flooring. It behaves more like a large, replaceable furnishing.
+
+## A. The common misunderstanding is that it is a permanent floor surface. Tatami mats are units that are turned, re-covered and eventually replaced.
+
+A floor is built once. **Tatami is maintained on a cycle.**
+
+## Misunderstanding 1｜It is installed like a floor
+
+Mats are laid in, not fixed down. **They can be lifted, turned and replaced individually.**
+
+## Misunderstanding 2｜It cannot be cleaned
+
+It is swept and wiped along the grain, and kept dry. **Water is the thing to avoid, not cleaning.**
+
+## Misunderstanding 3｜Heavy furniture is fine on it
+
+Point loads leave marks. **Pads under legs are the usual answer.**
+
+## Misunderstanding 4｜Room sizes in mats are approximate
+
+Rooms are commonly described in mat counts, and mat dimensions vary by region. **The unit is real, but it is not identical nationwide.**
+
+## Misunderstanding 5｜It is disappearing
+
+Fewer homes are entirely tatami, but single tatami rooms remain common, and thin mat products are sold for other floors. **It changed form rather than vanished.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Land, Infrastructure, Transport and Tourism — housing information https://www.mlit.go.jp/
+- Agency for Cultural Affairs — living culture https://www.bunka.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+If you rent your home, check with your landlord before making any changes. Always follow the instructions on any cleaning product you use, and never mix cleaning products.

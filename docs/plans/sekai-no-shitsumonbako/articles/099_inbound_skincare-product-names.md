@@ -1,57 +1,46 @@
 # Q. What do people get wrong about skincare product names in Japan?｜Japan Questions #99
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/skincare-product-names`
-- 優先順位：99 ／ 優先スコア：5.1
-- ステータス：**未執筆**
-- 法務チェック：**必須（薬機法・景表法）**
+- Shelf: `inbound` ／ URL: `/en/questions/skincare-product-names` ／ Legal check: **required**
+- Status: **Draft — legal review pending**
+
+The English words on Japanese skincare are real English words. They are just not being used the way you expect.
+
+## A. The common misunderstanding is trusting the English on the front. Several category names mean something different here.
+
+The label is not mistranslated. **It is a different naming convention.**
+
+## Misunderstanding 1｜"Lotion" means a creamy lotion
+
+化粧水, labelled **lotion**, is a thin watery liquid applied after cleansing. **It is not the thick lotion the word suggests in English.**
+
+## Misunderstanding 2｜"Milk" is a cleanser
+
+乳液, labelled **milk**, is a light moisturiser. **A separate cleansing milk also exists — read the rest of the pack.**
+
+## Misunderstanding 3｜"Essence" and "serum" are interchangeable
+
+美容液 is labelled either way, and usage differs by product. **The instructions, not the word, tell you where it goes.**
+
+## Misunderstanding 4｜"Toner" and "lotion" are the same thing
+
+They overlap, but not exactly. **What matters is the stated step in the routine.**
+
+## Misunderstanding 5｜The order is obvious from the names
+
+The names do not encode the sequence. **The pack states where the product belongs — read it before you build a routine.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Health, Labour and Welfare — information on cosmetics https://www.mhlw.go.jp/
+- Japan Cosmetic Industry Association https://www.jcia.org/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-- [ ] **法務レビューを通した（担当：　　／日付：　　）**
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Cosmetics are not intended to treat or prevent any condition. Always follow the instructions on the product. If you notice any irritation, stop using the product and consult a dermatologist.

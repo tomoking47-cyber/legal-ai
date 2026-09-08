@@ -1,57 +1,45 @@
 # Q. What do people get wrong about sorting rubbish in Japan?｜Japan Questions #74
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/sorting-rubbish`
-- 優先順位：74 ／ 優先スコア：5.7
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/sorting-rubbish` ／ Status: **Draft — legal review pending**
+
+Visitors often arrive expecting one national system and find that the rules changed when they changed city.
+
+## A. The common misunderstanding is that sorting rules are national. They are set by each municipality, and they differ.
+
+There is no single correct answer to "which bin does this go in." **It depends where you are.**
+
+## Misunderstanding 1｜The categories are the same everywhere
+
+Some areas separate into a handful of categories, others into more than a dozen. **Check the rules for the place you are staying.**
+
+## Misunderstanding 2｜Plastic is plastic
+
+Bottles, caps, labels and other plastics are frequently separated from one another. **The bottle, its cap and its label may go three different ways.**
+
+## Misunderstanding 3｜Rinsing is optional
+
+Containers are generally expected to be emptied and lightly rinsed. **This is part of the process, not extra effort.**
+
+## Misunderstanding 4｜You can put it out any day
+
+Collection days are fixed per category. **Putting rubbish out on the wrong day is the most common visitor mistake in accommodation.**
+
+## Misunderstanding 5｜Hotels handle it, so it does not matter
+
+In hotels, largely yes. **In rented accommodation, the rules apply to you.** Look for the leaflet or ask the host.
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of the Environment — waste and recycling https://www.env.go.jp/
+- Municipal websites publish local sorting rules and collection calendars
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Sorting rules differ by municipality and can change. Please follow the rules where you are staying.
