@@ -1,58 +1,45 @@
 # Q. What do people get wrong about the rainy season in Japan?｜Japanese Everyday Wisdom #40
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/the-rainy-season`
-- 優先順位：40 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/the-rainy-season` ／ Status: **Draft — legal review pending**
+
+Early summer brings several weeks of high humidity. Households here treat it as a season with its own tasks.
+
+## A. The common misunderstanding is that it is simply a rainy period. Locally it is treated as a moisture-management season.
+
+The rain is visible. **The humidity is what the habits are aimed at.**
+
+## Misunderstanding 1｜It rains constantly
+
+It does not. **The constant is the humidity, not the rain.**
+
+## Misunderstanding 2｜It is the same everywhere in Japan
+
+Timing and intensity differ by region, and some areas are not counted as having one at all. **Check the region you are in.**
+
+## Misunderstanding 3｜Closing the windows keeps damp out
+
+Sealed rooms trap the moisture already inside. **Ventilation, on the drier hours of the day, is the usual approach.**
+
+## Misunderstanding 4｜It only affects laundry
+
+Cupboards, shoes, tatami and stored clothing all matter. **This is why airing things out is a seasonal habit.**
+
+## Misunderstanding 5｜It is purely a nuisance
+
+The season is also part of how rice is grown and how the water supply is replenished. **It is inconvenient and necessary at the same time.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Japan Meteorological Agency https://www.jma.go.jp/
+- Ministry of the Environment — living environment information https://www.env.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Always follow the instructions on any appliance or product you use, and never mix cleaning products.

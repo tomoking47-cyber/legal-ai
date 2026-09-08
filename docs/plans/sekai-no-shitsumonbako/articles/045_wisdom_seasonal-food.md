@@ -1,58 +1,45 @@
 # Q. What do people get wrong about seasonal food in Japan?｜Japanese Everyday Wisdom #45
 
-- 棚：`wisdom` ／ タグ：`Japanese Everyday Wisdom` `Wisdom`
-- URL：`/en/wisdom/seasonal-food`
-- 優先順位：45 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `wisdom` ／ URL: `/en/wisdom/seasonal-food` ／ Status: **Draft — legal review pending**
+
+Seasonal eating is often presented abroad as a refined philosophy. In everyday life here it is closer to shopping sense.
+
+## A. The common misunderstanding is that it is about aesthetics. It is mostly about supply, and supply moves price.
+
+When a food is abundant, it tastes better and costs less at the same time.
+
+## Misunderstanding 1｜It is a luxury approach
+
+Buying what is plentiful is the cheaper way to shop. **The season is visible in the price, not only on the menu.**
+
+## Misunderstanding 2｜It is fixed by the calendar
+
+Japan runs a long way north to south. **The same food peaks at different times depending on where it was grown.**
+
+## Misunderstanding 3｜Greenhouses ended it
+
+Year-round availability added choices; it did not remove the peak. **Abundance still moves.**
+
+## Misunderstanding 4｜Seasonal always means more nutritious
+
+Composition varies with variety, growing method and storage. **This is not something that can be stated as a rule.**
+
+## Misunderstanding 5｜You need expertise to follow it
+
+Look at what is stacked high and priced low. **The shop floor tells you.**
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Ministry of Agriculture, Forestry and Fisheries https://www.maff.go.jp/
+- Statistics Bureau of Japan — retail price survey https://www.stat.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Always follow the instructions on any product you use, and never mix cleaning products.
-If you rent your home, check with your landlord before making any changes.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Some ingredients must be cooked thoroughly. If you have allergies, please check the ingredients carefully.

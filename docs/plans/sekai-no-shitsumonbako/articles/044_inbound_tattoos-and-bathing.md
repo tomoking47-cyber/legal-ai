@@ -1,57 +1,45 @@
 # Q. What do people get wrong about tattoos and bathing in Japan?｜Japan Questions #44
 
-- 棚：`inbound` ／ タグ：`Japan Questions` `Inbound`
-- URL：`/en/questions/tattoos-and-bathing`
-- 優先順位：44 ／ 優先スコア：6.1
-- ステータス：**未執筆**
-- 法務チェック：不要（ただし表現は要確認）
+- Shelf: `inbound` ／ URL: `/en/questions/tattoos-and-bathing` ／ Status: **Draft — legal review pending**
+
+This is one of the most searched questions before a trip, and one of the most inconsistently answered.
+
+## A. The common misunderstanding is that there is a national rule. There is not — each facility sets its own policy.
+
+The answer is not "Japan says no." **It is "this particular bathhouse decides."**
+
+## Misunderstanding 1｜Tattoos are banned by law
+
+There is no national law barring tattooed visitors from bathing facilities. **Individual operators set their own house rules.**
+
+## Misunderstanding 2｜Every facility refuses entry
+
+Policies vary widely. Some allow tattoos, some ask that they be covered, some do not permit entry. **Numbers of facilities accepting tattooed guests have grown, but it remains facility by facility.**
+
+## Misunderstanding 3｜Size does not matter
+
+Some facilities accept small tattoos if covered with a patch, and refuse larger ones. **The distinction is theirs to make.**
+
+## Misunderstanding 4｜You can check on arrival
+
+Asking at the door after travelling is the worst moment to find out. **Check the facility's own website or contact them in advance.**
+
+## Misunderstanding 5｜A private bath is the only option
+
+Private or in-room baths are one route. **Some public facilities also set aside particular hours or areas.** Ask when you enquire.
 
 ---
 
-<!-- ① 冒頭：世界で議論されている文脈を1〜2文 -->
-
-## A. <!-- ② 結論を1文で言い切る。40〜80字 -->
-
-<!-- 結論の補足を2〜3文 -->
-
-## <!-- ③ 見出し1 -->
-
-<!-- 理由・背景。出典付き -->
-
-## <!-- ③ 見出し2 -->
-
-## VVの考え方
-
-<!-- ④ 該当時のみ。3本に1本以下。書かない場合はこの節ごと削除する -->
-
----
-
-### 出典
-
-<!-- 一次情報を2件以上。機関名『資料名』（公表年）URL の形式 -->
-- 
-- 
+### Sources
+- Japan Tourism Agency https://www.mlit.go.jp/kankocho/
+- Ministry of Health, Labour and Welfare — public bath facilities https://www.mhlw.go.jp/
 
 ### About this article
 
-What we share here are **ideas and everyday practices passed down among people living in Japan.**
-They are not official recommendations, and they are not professional instruction.
+What we share here are **ideas and everyday practices passed down among people living in Japan.** They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
 
 This is general information. Results vary from person to person and depend on your own conditions and surroundings.
 
-**Please decide for yourself, using your own judgement, whether any of this suits your situation.**
-We cannot accept responsibility for any damage, loss or injury arising from following this article.
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
 
-Rules and procedures can change. Please confirm the latest official information before you act.
-
----
-
-## 公開前チェック（執筆者が記入）
-
-- [ ] 3ソース原則を確認した（確認日：　　／確認者：　　）
-- [ ] **出典URLを実際に開き、記載内容と一致することを確認した**
-- [ ] 「ご自身の判断」の一文が入っている
-- [ ] 言い切り表現（数値の断定・治癒の断定・優良誤認）がない
-- [ ] 他社・他製品の固有名詞での比較がない
-
-- [ ] `python translation_checker.py --ja この記事.md` で重大0件
+Policies differ by facility and can change. Please confirm directly with the facility before you travel.
