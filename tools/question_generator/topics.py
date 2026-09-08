@@ -1,0 +1,137 @@
+# -*- coding: utf-8 -*-
+"""カテゴリー別の話題リストと質問フレーム。ここを増やせば出力件数が増える。"""
+
+# ---------------------------------------------------------------- 日本語カテゴリー
+
+FASHION_TOPICS = [
+    "化粧水","乳液","美容液","クリーム","日焼け止め","クレンジング","洗顔料","洗顔の回数",
+    "パック","シートマスク","角質ケア","毛穴ケア","スクラブ","ふきとり化粧水","導入美容液",
+    "スキンケアの順番","朝のスキンケア","夜のスキンケア","化粧下地","ファンデーション",
+    "コンシーラー","フェイスパウダー","チーク","アイシャドウ","アイライナー","マスカラ",
+    "リップ","リップクリーム","眉の描き方","メイク直し","メイク落とし","二重洗顔",
+    "シャンプー","コンディショナー","トリートメント","ヘアオイル","ドライヤーの使い方",
+    "頭皮ケア","ヘアブラシ","ネイルケア","ハンドクリーム","ボディクリーム","ボディソープ",
+    "入浴剤","制汗剤","香水のつけ方","フレグランスの保管","化粧品の保管","化粧品の使用期限",
+    "化粧筆の洗い方","メイクスポンジ","鏡の選び方","肌質の見分け方","乾燥肌のケア",
+    "脂性肌のケア","混合肌のケア","敏感肌のケア","季節の変わり目の肌","マスクによる肌荒れ",
+    "衣類の毛玉","ニットの洗濯","シルクの手入れ","デニムの洗い方","白いシャツの管理",
+    "革靴の手入れ","スニーカーの洗い方","バッグの保管","アクセサリーの手入れ","時計の手入れ",
+    "洗濯表示の読み方","柔軟剤の使い方","部屋干しの工夫","アイロンのかけ方","衣替えの手順",
+    "防虫剤の使い方","クローゼットの湿気","静電気対策","毛布の洗濯","羽毛布団の手入れ",
+]
+
+HEALTH_TOPICS = [
+    "睡眠時間","寝る時刻","起きる時刻","昼寝","二度寝","寝返り","枕の高さ","マットレスの硬さ",
+    "寝室の温度","寝室の明るさ","寝る前のスマホ","寝る前の食事","寝る前の入浴","寝つきの悪さ",
+    "中途覚醒","朝の光","体内時計","時差ぼけ","休日の寝だめ","いびき",
+    "水分補給","朝の一杯の水","カフェイン","アルコール","炭酸水","スポーツドリンク","経口補水液",
+    "白湯","お茶","ハーブティー",
+    "ウォーキング","ストレッチ","ラジオ体操","階段の上り下り","デスクワークの姿勢","立ち仕事",
+    "肩こり","腰の張り","首の疲れ","目の疲れ","スマホ首",
+    "入浴の温度","入浴の時間","湯船とシャワー","半身浴","サウナ","足湯","冷え","むくみ",
+    "深呼吸","瞑想","休憩の取り方","気分転換","季節の変わり目の体調","梅雨の不調","夏バテ",
+    "冬の乾燥","花粉の季節","紫外線と体調","日照時間と気分","在宅勤務の運動不足",
+    "サプリメントの選び方","ビタミン","鉄分","たんぱく質","食物繊維","発酵食品","腸内環境",
+    "朝食を抜くこと","間食","夜食","食べる順番","よく噛むこと","塩分","糖分","脂質",
+    "体重の測り方","体温の測り方","血圧の測り方","健康診断の受け方","医療機関の選び方",
+]
+
+TREND_TOPICS = [
+    "米の保存","パンの保存","野菜の保存","果物の保存","肉の保存","魚の保存","卵の保存",
+    "冷凍のコツ","解凍のコツ","作り置き","下ごしらえ","下味","冷蔵庫の使い方","野菜室",
+    "チルド室","保存容器","ラップの使い方","アルミホイルの使い方","キッチンペーパー",
+    "だしの取り方","味噌","しょうゆ","みりん","酒","酢","塩","砂糖","油の選び方",
+    "オリーブオイル","ごま油","スパイス","ハーブ","にんにく","しょうが","梅干し","漬物",
+    "発酵食品","納豆","ヨーグルト","チーズ","豆腐","納豆の食べ方",
+    "包丁の研ぎ方","まな板の手入れ","フライパンの手入れ","鍋の選び方","土鍋","鉄鍋",
+    "炊飯","味噌汁","煮物","焼き物","蒸し物","揚げ物","炒め物","電子レンジ活用",
+    "オーブンの使い方","トースターの使い方","炊飯器の活用","保温調理",
+    "賞味期限","消費期限","食品ロス","買い物の頻度","献立の立て方","一人分の調理",
+    "お弁当","水筒","キャンプ飯","旬の食材","地域の特産品","郷土料理","行事食","おせち",
+    "コーヒーの淹れ方","紅茶の淹れ方","緑茶の淹れ方","水出し","氷の作り方",
+]
+
+# ---------------------------------------------------------------- 英語カテゴリー
+
+INBOUND_TOPICS = [
+    "drugstores","convenience stores","supermarkets","department stores","100-yen shops",
+    "home centres","tax-free shopping","consumption tax","cash and cards","IC cards",
+    "coin lockers","luggage forwarding","carry-on rules","customs on the way home",
+    "bringing food home","bringing medicine","packing for summer","packing for winter",
+    "packing for the rainy season","humidity","the heat in August","pollen season",
+    "UV levels","sunscreen labels","SPF and PA","cosmetics labels","ingredient lists",
+    "expiry dates on cosmetics","skincare product names","face masks","hand soap",
+    "toiletries you can buy locally","laundry while travelling","coin laundries",
+    "hotel amenities","slippers and shoes indoors","public baths","onsen etiquette",
+    "tattoos and bathing","towels","tap water","vending machines","bottle recycling",
+    "rubbish bins","sorting rubbish","eating while walking","convenience-store food",
+    "onigiri","bento","instant noodles","matcha products","wagashi","seasonal sweets",
+    "allergy labelling","vegetarian options","halal options","reading a menu",
+    "restaurant etiquette","tipping","queueing","reservations","English-speaking staff",
+    "translation apps","pharmacy staff","over-the-counter medicine","first aid supplies",
+    "power plugs","SIM and eSIM","pocket wifi","postal services","souvenir choices",
+    "gift wrapping","seasonal shopping","sales seasons","sizing differences","shoe sizes",
+]
+
+WISDOM_TOPICS = [
+    "taking shoes off indoors","the genkan","tatami","futon airing","seasonal bedding",
+    "sliding doors","small apartments","storage in narrow spaces","under-bed storage",
+    "the gap beside the fridge","vertical storage","seasonal clothing rotation",
+    "refill packs","reusable cloth","furoshiki","tenugui","bento boxes","chopstick rests",
+    "single-purpose kitchen tools","drying racks","laundry poles","indoor drying",
+    "dehumidifiers","the rainy season","mould prevention","ventilation habits",
+    "cleaning order","cleaning cloths","newspaper for windows","baking soda","citric acid",
+    "the year-end clean","daily tidying","the entrance mat","shoe cabinets","umbrella care",
+    "seasonal food","the concept of shun","dashi","fermentation","pickling","rice storage",
+    "tea culture","hot and cold drinks by season","hand towels","wet towels at restaurants",
+    "gift-giving customs","packaging","seasonal greetings","the new year","festivals",
+    "kotatsu","heated carpets","hot water bottles","layering clothes","cooling towels",
+    "summer heat habits","insect prevention","plants indoors","balcony gardening",
+    "waste separation","local rules","community boards","neighbourhood etiquette",
+    "noise consideration","earthquake preparation","emergency bags","water storage",
+    "torches and radios","first aid at home","stockpiling food","rotating supplies",
+    "reading a Japanese label","product lot numbers","warranty culture","repair over replace",
+]
+
+# ---------------------------------------------------------------- 質問フレーム
+
+JA_FRAMES = [
+    "{t}は毎日やったほうがいいの？",
+    "{t}の正しい順番はあるの？",
+    "{t}は本当に意味があるの？",
+    "{t}はいつやるのがいいの？",
+    "{t}はやりすぎるとどうなるの？",
+    "{t}に決まりはあるの？",
+    "{t}はなぜ必要なの？",
+    "{t}を選ぶときは何を見ればいいの？",
+    "{t}は季節で変えたほうがいいの？",
+    "{t}の目安はどれくらい？",
+    "{t}をやめるとどうなるの？",
+    "{t}は人によって違うの？",
+    "{t}は自分でもできるの？",
+    "{t}はどこまでやればいいの？",
+    "{t}について、よくある誤解は？",
+]
+
+EN_FRAMES = [
+    "What should I know about {t} in Japan?",
+    "How does {t} work in Japan?",
+    "Why is {t} different in Japan?",
+    "Do I need to worry about {t} when visiting Japan?",
+    "What do people in Japan actually do about {t}?",
+    "Is {t} worth the trouble in Japan?",
+    "How do I read {t} correctly?",
+    "What is the etiquette around {t} in Japan?",
+    "What surprises visitors about {t} in Japan?",
+    "How has {t} changed in Japan?",
+    "What is the practical way to handle {t} in Japan?",
+    "What do people get wrong about {t} in Japan?",
+]
+
+CATEGORIES = {
+    "fashion":  {"label":"ビューティー・スキンケア・衣類", "shelf":"fashion", "topics":FASHION_TOPICS,  "frames":JA_FRAMES, "lang":"ja"},
+    "health":   {"label":"ウェルネス・健康",             "shelf":"health",  "topics":HEALTH_TOPICS,   "frames":JA_FRAMES, "lang":"ja"},
+    "trend":    {"label":"フード・暮らし",               "shelf":"trend",   "topics":TREND_TOPICS,    "frames":JA_FRAMES, "lang":"ja"},
+    "inbound":  {"label":"訪日外国人向け（英語）",       "shelf":"inbound", "topics":INBOUND_TOPICS,  "frames":EN_FRAMES, "lang":"en"},
+    "wisdom":   {"label":"日本の暮らしの知恵（英語）",   "shelf":"wisdom",  "topics":WISDOM_TOPICS,   "frames":EN_FRAMES, "lang":"en"},
+}
