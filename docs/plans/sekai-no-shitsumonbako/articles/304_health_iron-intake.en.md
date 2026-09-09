@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/iron-intake` ／ Status: **Draft — English edition, sources unverified**
 
-Iron deficiency is the most common nutritional deficiency in the world, and in Japan too around one in five menstruating women is generally described as tending towards anaemia. Here we set the beliefs "spinach gives you iron" and "a supplement will sort it out" against what Japan's Dietary Reference Intakes actually say.
+Iron deficiency is the most common nutritional deficiency in the world, and in Japan too around 15–20 per cent of menstruating women are generally described as tending towards anaemia. Here we set the beliefs "spinach gives you iron" and "a supplement will sort it out" against what Japan's Dietary Reference Intakes actually say.
 
 ## A. The biggest misunderstanding is "eat spinach or hijiki seaweed and you get enough iron." Plant iron (non-haem iron) is absorbed at a rate of only a few per cent, while animal haem iron (red meat, fish, liver) is absorbed at a high 15–25%. The basics are "a small amount of haem-iron food every day" and "non-haem iron together with vitamin C"; if you have symptoms, a blood test to find the cause comes first.
 
