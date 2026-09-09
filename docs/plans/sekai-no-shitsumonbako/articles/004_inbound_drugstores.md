@@ -18,10 +18,10 @@ Every over-the-counter medicine in Japan falls into one of these categories:
 | 要指導医薬品 (guidance-required) | **Pharmacist, face to face** | Recently switched from prescription; still under safety review |
 | 第1類 (Class 1) | **Pharmacist** | Some acid reducers, some hair-loss products |
 | 指定第2類 (Designated Class 2) | Pharmacist or registered seller | Higher-risk Class 2 items, kept away from self-service reach |
-
-Separately, since **1 May 2026** products containing eight abuse-prone ingredients (e.g. codeine, dextromethorphan, pseudoephedrine, bromovalerylurea) are "designated abuse-prevention medicines": **normally one pack per person, name and age checked for under-18s, and large packs not sold to under-18s.**
 | 第2類 (Class 2) | Pharmacist or registered seller | Most cold, pain and allergy remedies |
 | 第3類 (Class 3) | Pharmacist or registered seller | Vitamins, mild digestive aids |
+
+Separately, since **1 May 2026** products containing eight abuse-prone ingredients (e.g. codeine, dextromethorphan, pseudoephedrine, bromovalerylurea) are "designated abuse-prevention medicines": **normally one pack per person, name and age checked for under-18s, and large packs not sold to under-18s.**
 
 Class 1 and guidance-required products are kept behind the counter. **If a member of staff asks you questions before handing something over, that is the law working, not unhelpfulness.**
 

@@ -13,7 +13,7 @@ Around the world, silk is avoided as "difficult to look after". Japan, however, 
 | Care label (Japan uses the international JIS L0001 symbols) | **Tub with a hand = hand-wash OK**; tub with × = do not wash at home | JIS L0001 |
 | Water temperature | **30°C (86°F) or below** | Protein fibres shrink and stiffen with heat |
 | Detergent | **Neutral, sold for "delicates" (おしゃれ着用洗剤, oshare-gi-yō senzai)**. **No alkaline detergent, no bleach, no enzyme detergent** | Silk is a protein (fibroin) and is weak against alkali and enzymes |
-| How to wash | **Press-wash for 2–3 minutes**. Do not rub, do not soak | Friction causes fuzzing and whitening |
+| How to wash | **Press-wash for 2–3 minutes**. Do not rub, do not soak | Friction causes fuzzing and brightening |
 | How to dry | **In the shade**. Direct sun causes yellowing | UV light discolours and degrades the fibre |
 | Ironing | **Up to two dots (150°C)**, with a pressing cloth; **many items say no steam** | Water drops leave marks (water stains) |
 
@@ -36,7 +36,7 @@ Silk is a fibre whose **dyes dissolve easily in water**. **Test for colour-fastn
 
 ## Misunderstanding 4｜The white patches are dirt
 
-They may be **fuzzing caused by friction (whitening, or fibrillation)**. This is fibre damage, not dirt, and **it does not come back.** Prevention means not rubbing when washing, and avoiding a bag strap rubbing the fabric when wearing.
+They may be **fuzzing caused by friction (brightening, or fibrillation)**. This is fibre damage, not dirt, and **it does not come back.** Prevention means not rubbing when washing, and avoiding a bag strap rubbing the fabric when wearing.
 
 ## Misunderstanding 5｜For storage, plenty of moth repellent is the safe choice
 

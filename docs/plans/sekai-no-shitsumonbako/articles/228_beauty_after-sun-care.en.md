@@ -4,14 +4,14 @@
 
 What to do after sunburn is a summer staple in expat forums. In Japan, dermatologists' public-education material describes sunburn as "a mild burn", and the order of steps is well established.
 
-## A. The biggest misunderstanding is "put on a whitening product straight after sunburn and the skin goes back to normal." Red sunburn is inflammation of the skin. The first step is cooling, then moisturising, then keeping out of the sun. Cosmetics cannot act on inflammation, and blisters or fever mean it is a matter for a doctor.
+## A. The biggest misunderstanding is "put on a brightening product straight after sunburn and the skin goes back to normal." Red sunburn is inflammation of the skin. The first step is cooling, then moisturising, then keeping out of the sun. Cosmetics cannot act on inflammation, and blisters or fever mean it is a matter for a doctor.
 
 ## The order of steps
 
 | Stage | Do | Do not |
 |---|---|---|
 | **Immediately, same day** | **Cool** (wet towel, running water; no ice directly on the skin), **drink fluids** | Rub; hot baths; lotions containing alcohol |
-| While red and hot | **Gentle moisturiser** (one whose label says it can be used after sun), **loose clothing** | Whitening ingredients, peels, scrubs (irritation) |
+| While red and hot | **Gentle moisturiser** (one whose label says it can be used after sun), **loose clothing** | Brightening ingredients, peels, scrubs (irritation) |
 | When the skin starts to peel | **Do not pull it off**; keep moisturising | Exfoliation |
 | **Blisters, severe pain, fever, chills** | **Dermatology clinic or other medical care** (as a burn) | Piling on over-the-counter medicines on your own judgement |
 | Once settled | Use **sunscreen** to keep UV off (skin after sunburn is even more vulnerable) | — |
@@ -22,9 +22,9 @@ What to do after sunburn is a summer staple in expat forums. In Japan, dermatolo
 
 > **[Verify]** Check the relevant passages of the Dermatological Association's explanation and the Ministry of the Environment manual. Check quasi-drug claim wording against Ministry of Health, Labour and Welfare (MHLW) materials.
 
-## Misunderstanding 1｜Whitening products straight after sunburn
+## Misunderstanding 1｜Brightening products straight after sunburn
 
-**Whitening and peeling ingredients irritate** inflamed skin. **Cool → moisturise** comes first; **whitening waits until the skin has settled** (and the quasi-drug claim goes only as far as "prevents").
+**Brightening and peeling ingredients irritate** inflamed skin. **Cool → moisturise** comes first; **brightening waits until the skin has settled** (and the quasi-drug claim goes only as far as "prevents").
 
 ## Misunderstanding 2｜Aloe or cucumber straight on the skin is enough
 

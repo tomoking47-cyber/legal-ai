@@ -15,7 +15,7 @@ Japanese cosmetics shelves are full of products marked "薬用" (yakuyō, "medic
 | **Cosmetics (化粧品)** | **Cleansing, beautifying, adding attractiveness, keeping healthy** | Notification only (no approval) | No label, or "化粧品" | Within the **56 items** (moisturises, protects, etc.) |
 
 - **"Yakuyō" (medicated) is not a legal term**; it is the customary word for a quasi-drug. Look for the words "医薬部外品" on the package to be sure.
-- **Typical quasi-drug active ingredients**: brightening (**tranexamic acid, arbutin, vitamin C derivatives, niacinamide**), anti-inflammatory (**dipotassium glycyrrhizinate**), antibacterial (**isopropyl methylphenol**). **The Japanese term "bihaku" (美白, "whitening") is limited to the meaning "suppresses melanin production and prevents dark spots and freckles"**; **"makes skin whiter" or "erases spots" cannot be claimed.**
+- **Typical quasi-drug active ingredients**: brightening (**tranexamic acid, arbutin, vitamin C derivatives, niacinamide**), anti-inflammatory (**dipotassium glycyrrhizinate**), antibacterial (**isopropyl methylphenol**). **The Japanese term "bihaku" (美白, "brightening") is limited to the meaning "suppresses melanin production and prevents dark spots and freckles"**; **"makes skin whiter" or "erases spots" cannot be claimed.**
 - **The 2013 case of leukoderma (white patches) caused by the brightening ingredient Rhododenol** showed that quasi-drugs can also cause skin trouble; the Ministry of Health, Labour and Welfare (MHLW) ordered a recall.
 
 > **[Verify]** Check the category definitions against Article 2 of the Pharmaceuticals and Medical Devices Act, the scope of quasi-drug claims and active ingredients against MHLW materials, and the Rhododenol history against MHLW's published documents.
@@ -28,9 +28,9 @@ Japanese cosmetics shelves are full of products marked "薬用" (yakuyō, "medic
 
 **It is not a medicine.** It is a quasi-drug. **It cannot be used for medical purposes.**
 
-## Misunderstanding 3｜Whitening cosmetics make dark spots disappear
+## Misunderstanding 3｜Brightening cosmetics make dark spots disappear
 
-The approved "whitening" claim for quasi-drugs is **"suppresses melanin production and prevents dark spots and freckles" — that is, prevention**. **No cosmetic or quasi-drug is approved to remove spots that already exist.** That is the domain of a dermatology clinic (covered by Japanese health insurance).
+The approved "brightening" claim for quasi-drugs is **"suppresses melanin production and prevents dark spots and freckles" — that is, prevention**. **No cosmetic or quasi-drug is approved to remove spots that already exist.** That is the domain of a dermatology clinic (covered by Japanese health insurance).
 
 ## Misunderstanding 4｜A quasi-drug cannot cause skin trouble
 

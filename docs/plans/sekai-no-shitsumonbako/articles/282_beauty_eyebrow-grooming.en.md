@@ -2,7 +2,7 @@
 
 - Shelf: `beauty` ／ URL: `/en/beauty/eyebrow-grooming` ／ Status: **Draft — English edition, sources unverified**
 
-Eyebrows set the impression of a face, and the fashionable shape changes with the times. This article is not about fashion. It covers the safety of plucking, shaving and drawing, and the hygiene of the tools — including how Japanese law treats eyebrow tattooing.
+Eyebrows set the impression of a face, and the fashionable shape changes with the times. This article is not about fashion. It covers the safety of plucking, shaving and drawing, and the hygiene of the tools — including where Japanese law places eyebrow tattooing.
 
 ## A. The biggest misunderstanding is "the more you pluck, the neater the brow." Repeated plucking weakens the follicle, and hair may stop growing back. The basics are: "pluck only a few stray hairs on the outer edge, and shape with scissors and a razor", "shave with a clean blade after protecting the skin", and "when drawing, add only where hair is missing."
 

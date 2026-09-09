@@ -1,0 +1,66 @@
+# Q. What are the common misunderstandings about sunscreen for children?｜Japan Questions #289
+
+- Shelf: `beauty` ／ URL: `/en/beauty/sunscreen-for-children` ／ Status: **Draft — English edition, sources unverified**
+
+Whether to put sunscreen on children divides parents in every country. In Japan the official position is unusually clear: the Ministry of the Environment, the Japan Organization of Clinical Dermatologists and the Japanese Society for Pediatric Dermatology have issued a joint view. This article sets out what it says, and what it means at school and at the pool.
+
+## A. The biggest misunderstanding is "children get stronger by getting a tan." The Ministry of the Environment and the dermatology societies recommend UV protection for children, and answer the claim that "some UV is needed for the bones" by saying that everyday life provides enough. The basics: put "hat, clothing, shade" first; use a children's sunscreen (low-irritant, about SPF 15–30) on exposed skin; and keep babies under 6 months out of direct sunlight.
+
+## The official view and the numbers
+
+| Item | Details | Source |
+|---|---|---|
+| UV protection for children | **Recommended.** A **substantial share of lifetime UV exposure is generally described as received by age 18**, so **prevention of skin cancer and cataracts starts in childhood** | Ministry of the Environment manual; Japan Organization of Clinical Dermatologists |
+| Reply to "UV is needed for the bones" | The UV needed to make vitamin D is **obtained in the short exposures of everyday life** (e.g. on a clear summer day, **the backs of both hands for a few minutes to ten-odd minutes**) | Ministry of the Environment; National Institute for Environmental Studies |
+| Under 6 months | **Avoid direct sunlight and, as a rule, do not use sunscreen** (use clothing, a hat and shade instead) | Japanese Society for Pediatric Dermatology |
+| 6 months and over | **A children's product (low-irritant, mainly mineral UV filters), about SPF 15–30, PA++** on exposed skin | Same |
+| Order of priority | **1. Shade and timing (avoid 10:00–14:00) 2. Hat (brim 7 cm or wider) 3. Clothing 4. Sunscreen** | Ministry of the Environment |
+| School | The Ministry of Education (MEXT) and the Ministry of the Environment **do not stand in the way of sunscreen use at school**. **Whether it is allowed at the pool is for each school to decide** (most allow it) | MEXT |
+
+- Sunscreen is a **cosmetic (or quasi-drug — a Japanese category between cosmetics and medicines)**, and **"for children" and "for babies" are not legal categories**. They indicate features such as **low-irritant formulation, mainly mineral (physical) UV filters, and washing off with soap**.
+- **Both chemical UV absorbers and mineral filters are approved ingredients**; mineral-based products are chosen for children on the grounds of **lower irritation**.
+
+> **[Verify]** Check the wording of the Ministry of the Environment manual and of the "Joint statement on UV protection for children" by the Japan Organization of Clinical Dermatologists and the Japanese Society for Pediatric Dermatology.
+
+## Misunderstanding 1｜Children get tougher by getting a tan
+
+**Sunburn is inflammation of the skin**, and **accumulated UV exposure in childhood is generally described as linked to pigmentation spots and skin-cancer risk in adulthood.** The societies **recommend UV protection for children**.
+
+## Misunderstanding 2｜Avoiding UV weakens the bones
+
+The Ministry of the Environment's explanation is that **the UV needed for vitamin D is obtained in the short exposures of everyday life.** It also comes **from food (fish, mushrooms)**.
+
+## Misunderstanding 3｜A thin layer of the adults' sunscreen will do
+
+**A thin layer lowers the protection.** Use **a children's product in the stated amount (for the face, about two one-yen coins' worth — a one-yen coin is 2 cm across)**, and **re-apply every 2–3 hours and after sweating or swimming**.
+
+## Misunderstanding 4｜With sunscreen on, no hat is needed
+
+**Shade, hat and clothing come first**; sunscreen is **a supplement for exposed skin**. **A hat with a brim of 7 cm or more is generally described as cutting UV to the face by about 60%.**
+
+## Misunderstanding 5｜Sunscreen is banned at the pool
+
+**The Ministry of the Environment and MEXT do not stand in the way of its use, and many schools allow it on condition that it is a "washes off with soap" type.** Check your own school's policy. **Rash guards (ラッシュガード — UV-blocking tops worn over swimwear)** are also widely used.
+
+---
+
+### Sources
+
+- Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
+  https://www.env.go.jp/chemi/uv/uv_manual.html
+- Japan Organization of Clinical Dermatologists and Japanese Society for Pediatric Dermatology, "Joint statement on UV protection for children" [こどもの紫外線対策に関する統一見解]
+  https://www.jocd.org/
+- Ministry of Education, Culture, Sports, Science and Technology (MEXT), "UV protection and sunscreen use at school" [学校における紫外線対策・日焼け止めの使用について]
+  https://www.mext.go.jp/
+
+> **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
+
+### About this article
+
+What we share here are **ideas and everyday practices passed down among people living in Japan,** together with general information drawn from public sources. They are not official recommendations, and they are not professional instruction. Practices vary between households and regions.
+
+This is general information. Results vary from person to person and depend on your own conditions and surroundings.
+
+**Please decide for yourself, using your own judgement, whether any of this suits your situation.** We cannot accept responsibility for any damage, loss or injury arising from following this article.
+
+Cosmetics are not medicines and are not meant to diagnose, heal or prevent any condition. If your skin reacts, stop using the product and see a dermatologist.

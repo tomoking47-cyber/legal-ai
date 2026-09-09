@@ -41,7 +41,7 @@ Unsweetened sparkling water (炭酸水, tansansui) took off in Japan in the 2010
 
 ## Misunderstanding 5｜Sparkling water makes you fat / makes you slim
 
-**If unsweetened, it has 0 kcal**, so there is nothing to make you gain weight. **There is also no evidence of a slimming effect**: its effect on how much you eat **works in opposite directions depending on amount and timing**.
+**If unsweetened, it has 0 kcal**, so there is nothing to make you gain weight. **There is also no evidence of a weight-loss effect**: its effect on how much you eat **works in opposite directions depending on amount and timing**.
 
 ---
 

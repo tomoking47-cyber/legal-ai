@@ -4,7 +4,7 @@
 
 The habit of drinking a cup of plain hot water first thing in the morning — *sayu* (白湯) — is widely known in Japan, and is sometimes presented abroad as "Japanese hot water." Here we sort out which of the effects claimed for it hold up, and which cannot be supported.
 
-## A. The biggest misunderstanding is "sayu has special health effects." Sayu is hot water. What is certain is that it rehydrates you on waking and that, being warm, it is gentle on the stomach and easy to drink in winter. We could find no public source supporting effects such as "detox" or a faster metabolism.
+## A. The biggest misunderstanding is "sayu has special health effects." Sayu is hot water. What is certain is that it rehydrates you on waking and that, being warm, it is gentle on the stomach and easy to drink in winter. We could find no public source supporting effects such as "toxin-flushing" or a faster metabolism.
 
 ## What to base your judgement on
 
@@ -13,7 +13,7 @@ The habit of drinking a cup of plain hot water first thing in the morning — *s
 | Rehydration on waking | **Reasonable.** It replaces water lost during sleep (**several hundred mL** through breath and sweat) |
 | Gentler on the stomach than cold water | **Generally reasonable.** Warm drinks are less of a shock to the digestive system |
 | Warms the body | **Reasonable, but temporary.** The temperature of a drink changes how you feel |
-| Detox — flushes out toxins | **No evidence found.** "Detox" is not a medical term |
+| Toxin-flushing — flushes out toxins | **No evidence found.** "Toxin-flushing" is not a medical term |
 | Raises metabolism, so you lose weight | **No evidence found.** Any rise in metabolism from drinking water is temporary and very small |
 | Improves bowel movements | **Varies from person to person.** Taking in fluid on waking is generally described as a trigger that gets the gut moving |
 
@@ -34,9 +34,9 @@ If the aim is **to drive off the chlorine smell of tap water**, a few minutes' b
 
 Sayu is water. Take in **about 1.2 L a day of fluid apart from meals** (the MHLW guide figure), **at whatever temperature you like**.
 
-## Misunderstanding 4｜Sayu detoxes you
+## Misunderstanding 4｜Sayu flushes out toxins you
 
-**"Detox" is not a medically defined concept; the liver and kidneys process the body's waste products.** Taking in fluid is a precondition for the kidneys to work, but that is not an effect specific to sayu.
+**"Toxin-flushing" is not a medically defined concept; the liver and kidneys process the body's waste products.** Taking in fluid is a precondition for the kidneys to work, but that is not an effect specific to sayu.
 
 ## Misunderstanding 5｜If it has no special effect, there is no point
 

@@ -4,7 +4,7 @@
 
 In Japan, where soaking up to the shoulders is the norm, the foot bath (足湯, ashiyu) and the half-body bath (半身浴, hanshin-yoku — sitting in water up to the solar plexus) spread as gentler ways of warming up. The "Japanese foot bath" is known abroad too, but care is needed in how its benefits are described. Here we separate what public sources support from what is shared as everyday wisdom.
 
-## A. The biggest misunderstanding is "a half-body bath detoxes you or burns fat." The solid advantages of half-body and foot baths are that water pressure puts less strain on the heart, so older or less robust people warm up more easily. Weight lost through sweating is water, and dehydration is a risk. The guide is around 40°C (104°F) for 15–20 minutes, and remember to drink water.
+## A. The biggest misunderstanding is "a half-body bath flushes out toxins you or melts fat away." The solid advantages of half-body and foot baths are that water pressure puts less strain on the heart, so older or less robust people warm up more easily. Weight lost through sweating is water, and dehydration is a risk. The guide is around 40°C (104°F) for 15–20 minutes, and remember to drink water.
 
 ## What to consider
 
@@ -15,7 +15,7 @@ In Japan, where soaking up to the shoulders is the norm, the foot bath (足湯, 
 | **Foot bath** | Up to the calves. **40–42°C (104–108°F), 10–15 minutes** | Can be done fully clothed. **An alternative on days you are not well enough for a bath** | Some people feel heat poorly in the feet (**people with diabetes should take care with temperature**) |
 
 - Deaths during bathing are estimated at **about 19,000 a year** (Consumer Affairs Agency, based on research by the Tokyo Metropolitan Institute for Geriatrics and Gerontology), mostly **older people in hot water for long periods**. **Half-body and foot baths are described as one option for lowering that risk.**
-- **"Detox" and "fat burning"** are not medical terms; **what sweat carries out is water and salt**. **Weight lost in the bath is dehydration**, and it returns when you drink.
+- **"Toxin-flushing" and "fat burning"** are not medical terms; **what sweat carries out is water and salt**. **Weight lost in the bath is dehydration**, and it returns when you drink.
 - Under the Hot Springs Act, **"therapeutic effects of hot springs"** may be displayed only at hot-spring facilities; **no health claims may be made for bathing or foot baths at home.**
 
 > **[Verify]** Check the bathing-death estimate against Consumer Affairs Agency publications, and the temperature and time guides against the Consumer Affairs Agency and the Japanese Society of Balneology, Climatology and Physical Medicine.

@@ -16,7 +16,7 @@ Japanese skincare has many steps: lotion (化粧水, keshōsui — a watery tone
 | Cream | More oil; a firmer **lid** | Thick | Cosmetic |
 
 - These classes are **industry custom** and **have no legal definition.** The Pharmaceuticals and Medical Devices Act (Japan's cosmetics and drugs law) has only three categories: "cosmetics", "quasi-drugs" and "medicines".
-- A cosmetic may claim only **56 listed effects** ("moisturises the skin", "protects the skin", "keeps the skin healthy", and so on). The **same range** applies to a serum and to an emulsion. "Erases wrinkles" or "heals dark spots" cannot be claimed.
+- A cosmetic may claim only **56 listed effects** ("moisturises the skin", "protects the skin", "keeps the skin healthy", and so on). The **same range** applies to a serum and to an emulsion. "Erases wrinkles" or "makes dark spots disappear" cannot be claimed.
 - A **quasi-drug ("medicated", 薬用) serum** — a quasi-drug is a Japanese category between cosmetics and medicines — may state **approved claims** for its approved active ingredient (e.g. niacinamide, tranexamic acid, retinol): "suppresses melanin production and prevents dark spots and freckles", or "makes fine lines caused by dryness less visible (efficacy evaluation test completed)".
 
 > **[Verify]** Check the 56 items against MHLW notice Yakushoku-hatsu 0721 No. 1, and the scope of quasi-drug claims against Ministry of Health, Labour and Welfare (MHLW) materials. "Makes fine lines caused by dryness less visible" is wording based on the Japan Cosmetic Industry Association's efficacy evaluation test guideline.
