@@ -15,7 +15,7 @@ Come winter, shins and elbows turn flaky and itchy. Dry skin (kansō-hada) and x
 | **How often** | **Once or twice a day.** Mornings too in very dry spells | Reapplying keeps water in the stratum corneum |
 | **Bath temperature** | **38–40°C**, **around 10 minutes** | Above 42°C (108°F) or long soaks wash out sebum and moisturising components |
 | **How to wash** | Gently, with hands or a cotton towel. **No scrubbing with a nylon towel** | Do not scrape the stratum corneum |
-| **Indoor humidity** | **40–60%** | Below 30%, dryness and itching increase |
+| **Indoor humidity** | **40–60%** (the Building Sanitation Management Standard gives 40–70%) | Below 30%, dryness and itching increase |
 
 - **How to apply**: spread it on your palms and smooth it on gently **along the direction of the skin's lines**. Do not rub it in. If **a tissue sticks lightly** afterwards, the amount is right; if the skin shines and feels sticky, it is on the generous side.
 - **Choosing the texture**: lotion (light, good for large areas) < cream < ointment (most protective; for elbows, heels and severe dryness). In winter, cream or heavier suits many people.

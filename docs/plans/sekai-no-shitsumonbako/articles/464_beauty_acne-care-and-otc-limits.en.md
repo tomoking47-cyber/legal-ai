@@ -15,13 +15,13 @@ Acne is a common skin problem: more than 90% of Japanese people are generally de
 | **OTC medicines** | Topical products containing ibuprofen piconol, sulphur, resorcinol and similar. Short-term care for mild spots | A few mild red spots |
 | **Dermatology clinic** | Prescriptions such as adapalene, benzoyl peroxide and topical antibiotics. Highly recommended options in the guidelines | Many red spots, marks remaining, lasting more than 3 months |
 
-- **The Japanese Dermatological Association's "Guidelines for the Management of Acne Vulgaris 2017"** [尋常性ざ瘡治療ガイドライン2017] recommend adapalene or benzoyl peroxide for comedones (whiteheads and blackheads), and combination with topical antibiotics for inflamed red spots. These ingredients **require a dermatologist's prescription** in Japan.
+- **The Japanese Dermatological Association's "Guidelines for the Management of Acne Vulgaris and Rosacea 2023"** [尋常性痤瘡・酒皶治療ガイドライン2023] recommend adapalene or benzoyl peroxide for comedones (whiteheads and blackheads), and combination with topical antibiotics for inflamed red spots. These ingredients **require a dermatologist's prescription** in Japan.
 - **Wash your face twice a day** as a guide. More than that strips too much sebum and can make things worse.
 - **Do not touch or squeeze.** Squeezing spreads inflammation deeper and raises the risk of permanent marks (scars).
 - **Acne marks (redness, dark pigmentation, pitting)**: pitted scars do not recover with cosmetics; they are the domain of dermatology and cosmetic dermatology clinics.
 - **The quasi-drug claim "helps prevent acne"** refers to prevention, not to any effect on spots that already exist. A cosmetics advert that claims to make acne go away breaks the Pharmaceuticals and Medical Devices Act (Japan's cosmetics and drugs law).
 
-> **[Verify]** The guideline recommendations are based on the 2017 edition. Check before publication whether a revised edition exists and the current approval status of the OTC active ingredients.
+> **[Verify]** The guideline recommendations are based on the 2023 edition (a revision of the 2017 one). Check the current approval status of the OTC active ingredients before publication.
 
 ## Misunderstanding 1｜If I use acne cosmetics my acne will disappear
 
@@ -47,8 +47,8 @@ Acne is a common skin problem: more than 90% of Japanese people are generally de
 
 ### Sources
 
-- Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris 2017" [尋常性ざ瘡治療ガイドライン2017]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/acne_GL2017.pdf
+- Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - Ministry of Health, Labour and Welfare, "Scope of Efficacy or Effects of Quasi-drugs" [医薬部外品の効能又は効果の範囲] (Notice Yakushoku-hatsu 0721 No. 1, 2011)
   https://www.mhlw.go.jp/
 - Japanese Dermatological Association, "Dermatology Q&A: Acne" [皮膚科Q&A：にきび]
