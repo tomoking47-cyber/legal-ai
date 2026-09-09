@@ -4,7 +4,7 @@
 
 The end of a Japan trip has its own small rules: a ¥1,000 departure tax you never see, a tax-free receipt check that can be enforced, a Suica balance you may not get back, and airport trains that stop earlier than you think. Here is the exit checklist.
 
-## A. Budget three hours at Narita or Kansai and two and a half at Haneda for international departures, plus the train time (Narita is 60–90 minutes from central Tokyo, and the last Narita Express leaves Tokyo around 20:00–21:00 — later flights need the Keisei line, a bus or a hotel near the airport). The ¥1,000 International Tourist Tax is already in your ticket. If you bought tax-free consumables, keep them sealed until you leave; customs can spot-check the record linked to your passport and charge the tax. Refund Suica/PASMO at a JR East or PASMO-operator station before the airport (¥220 fee applies to Suica; Welcome Suica is non-refundable), spend the balance, or keep it — it stays valid 10 years. Declare cash over ¥1,000,000 equivalent, don't pack knives or lighters in hand luggage, and check your home country's rules on food (meat products and many fresh items are banned almost everywhere).
+## A. Budget three hours at Narita or Kansai and two and a half at Haneda for international departures, plus the train time (Narita is 60–90 minutes from central Tokyo, and the last Narita Express leaves Tokyo around 20:00–21:00 — later flights need the Keisei line, a bus or a hotel near the airport). The ¥1,000 International Tourist Tax is already in your ticket. If you bought tax-free consumables, keep them sealed until you leave; customs can spot-check the record linked to your passport and charge the tax. Refund Suica/PASMO at a JR East or PASMO-operator station before the airport (JR East also has ticket offices at the Narita Airport stations; Haneda has no JR East counter) (¥220 fee applies to Suica; Welcome Suica is non-refundable), spend the balance, or keep it — it stays valid 10 years. Declare cash over ¥1,000,000 equivalent, don't pack knives or lighters in hand luggage, and check your home country's rules on food (meat products and many fresh items are banned almost everywhere).
 
 ## Timing and transport
 
@@ -23,16 +23,16 @@ The end of a Japan trip has its own small rules: a ¥1,000 departure tax you nev
 
 | Item | Detail |
 |---|---|
-| **Departure tax** | **¥1,000 International Tourist Tax, included in the ticket** since 2019. No separate payment |
+| **Departure tax** | **¥1,000 International Tourist Tax, included in the ticket** since January 2019. No separate payment. (An increase — around ¥3,000 has been discussed — is under government consideration; confirm the rate before publishing) |
 | **Tax-free purchases** | **Consumables (cosmetics, food, medicine) must stay in the sealed bag and leave Japan within 30 days**; **customs at departure can scan your passport, see the purchase record and charge the 10% tax if goods were consumed/unsealed**. **General goods can be used**. **From 1 November 2026 you pay the tax at the till; customs confirms the goods when you leave (within 90 days of purchase) and the shop or its refund operator then refunds the tax, e.g. to your card — check which rule applies on your travel dates** |
 | **Cash** | **Declare if carrying more than ¥1,000,000 (or equivalent) in cash/cheques** |
-| **IC cards** | **Suica refund at JR East stations (¥220 fee, deposit ¥500 returned); PASMO at PASMO operators (no fee); ICOCA at JR West**. **Welcome Suica: non-refundable — spend it (convenience stores at the airport take it)**. Cards stay **valid 10 years** from last use — keep for a return trip |
-| **Immigration** | **Automated gates for departure** for many nationalities; **the paper "Visit Japan Web" QR** is for arrival, not departure. **Your passport is stamped/recorded on exit** — the residence-card style stub is not needed for tourists |
+| **IC cards** | **Suica refund at JR East stations (¥220 fee, deposit ¥500 returned); PASMO at PASMO operators (no fee); ICOCA at JR West**. **Welcome Suica: non-refundable and expires 28 days after issue (the Welcome Suica Mobile app version lasts 180 days) — spend it (airport convenience stores take it)**. Cards stay **valid 10 years** from last use — keep for a return trip |
+| **Immigration** | **Automated gates for departure** for many nationalities; **the Visit Japan Web QR code** is for arrival, not departure. **Your passport is stamped/recorded on exit** — the residence-card style stub is not needed for tourists |
 | **Lost passport** | Embassy emergency document takes **1–3 days**; **police report (kōban) first** |
 
 ## Things people forget
 
-- **Knives and scissors** bought as souvenirs → **checked baggage** (see the knives article). **Lighters**: one on your person, none in checked bags; **power banks** in hand luggage only (**under 160 Wh**; airlines now ban use/charging in flight on some carriers).
+- **Knives and scissors** bought as souvenirs → **checked baggage** (see the knives article). **Lighters**: one on your person, none in checked bags; **power banks** in hand luggage only (**up to 100 Wh freely, 100–160 Wh max two, over 160 Wh banned**); since 8 July 2025 Japanese airlines require them to stay out of the overhead bin and within sight, and some foreign carriers ban in-flight use/charging.
 - **Food to take home**: **your destination's rules, not Japan's**. **Meat products (jerky, some instant ramen with meat, curry with meat), fresh fruit, seeds, dairy** are banned by **Australia, NZ, the US, EU, UK, Taiwan** among others; **Kit Kats, dried seaweed, sealed sweets, tea, sake** are generally fine. **Wagyu is not allowed into most countries**.
 - **Medicines**: Japanese OTC medicines are fine to take home in personal quantities; some (**pseudoephedrine-containing cold medicines**) are restricted in a few countries.
 - **Hotel check-out is 10:00–11:00**: **leave bags at the front desk** for the day (free) or use lockers.

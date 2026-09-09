@@ -4,7 +4,7 @@
 
 Japan's 4,000 game centres and 300,000-plus capsule-toy machines are a genuine attraction, and also a place where visitors drop ¥5,000 on a plush they could buy for ¥1,500 next door. The machines are not rigged in the Western sense — they are regulated — but the skill and the settings are real.
 
-## A. Crane games (UFO catchers) are legal amusement machines, not gambling; prizes are capped by law at about ¥1,000 in value, and staff are expected to help — ask "ちょっと手伝ってもらえますか" and they will often reposition a prize or show the trick for that machine. Set a budget per prize (¥500–1,000), watch the machine for a few plays first, learn the two or three standard techniques (pushing, hooking a tag, sliding a box off a ledge), and stop when you hit the budget. Capsule toys (gachapon) are ¥300–500 a turn with no skill involved; buy where the set you want is, not from the first machine you see. Photo booths (purikura) and rhythm games are the other visitor favourites; note the smoking rules and closing times (most centres shut 23:00–24:00, minors out by 18:00–22:00 depending on age).
+## A. Crane games (UFO catchers) are legal amusement machines, not gambling; prizes are limited to about ¥1,000 in value under National Police Agency guidance (raised from ¥800 in 2022), and staff are expected to help — ask "ちょっと手伝ってもらえますか" and they will often reposition a prize or show the trick for that machine. Set a budget per prize (¥500–1,000), watch the machine for a few plays first, learn the two or three standard techniques (pushing, hooking a tag, sliding a box off a ledge), and stop when you hit the budget. Capsule toys (gachapon) are ¥300–500 a turn with no skill involved; buy where the set you want is, not from the first machine you see. Photo booths (purikura) and rhythm games are the other visitor favourites; note the smoking rules and closing times (most centres shut 23:00–24:00, minors out by 18:00–22:00 depending on age).
 
 ## Crane games (UFO catchers)
 
@@ -22,7 +22,7 @@ Japan's 4,000 game centres and 300,000-plus capsule-toy machines are a genuine a
 
 | Machine | Cost | Notes |
 |---|---|---|
-| **Gachapon (capsule toys)** | **¥300–500 per turn** (¥100–200 for older machines) | **No skill**. Sets have 5–8 variants; **duplicates are the trade-off**. Big halls (Gachapon Department Store Ikebukuro, Akihabara) have thousands of machines. Coins only — **change machines** nearby; some take IC cards now |
+| **Gachapon (capsule toys)** | **¥300–500 per turn** (¥100–200 for older machines) | **No skill**. Sets have 5–8 variants; **duplicates are the trade-off**. Big halls (Gashapon Department Store in Sunshine City Ikebukuro, Gachapon Kaikan in Akihabara) have thousands of machines. Coins only — **change machines** nearby; some take IC cards now |
 | **Purikura (photo booths)** | **¥400–500** for 4–6 shots printed as stickers; digital download | **Booth areas are often women/couples only** in Tokyo (solo men barred); **shoes stay on**; **heavy skin filters** are the aesthetic |
 | **Rhythm games (Taiko, maimai, Chunithm, DDR)** | **¥100–200 per credit** | **Wait your turn (queue by placing a coin or card)**; **wipe the machine after** (wipes provided). Amusement IC cards (Aime, Banapass) save scores |
 | **Medal games** | Buy medals ¥100 = 10–20 medals | **Cannot be exchanged for money or prizes** — pure time-killers. That's the law |

@@ -4,21 +4,21 @@
 
 Japan holds more than 1,000 fireworks festivals (hanabi taikai) each summer, some launching 20,000 shells over 90 minutes to crowds of a million. They are free, spectacular and logistically brutal — the transport crush afterwards is the part every visitor underestimates.
 
-## A. The season is late July to late August (with some in autumn and winter). The big ones — Sumida River (Tokyo, last Saturday of July, ~950,000 people), Nagaoka (Niigata, 2–3 August), Omagari (Akita, late August, the national competition), Lake Biwa, Osaka Yodogawa, PL (Osaka, early August) — are free to watch from designated public areas, but the good viewing needs either a paid reserved seat (¥3,000–15,000, on sale in June, sell out) or arriving 4–6 hours early with a mat to claim a spot. Trains afterwards are the crush: expect 60–90 minutes to get into a station. Wear yukata if you like (locals do), bring a mat, water, insect repellent and cash for the food stalls, check the rain postponement rule, and take your rubbish with you.
+## A. The season is late July to late August (with some in autumn and winter). The big ones — Sumida River (Tokyo, last Saturday of July, ~950,000 people), Nagaoka (Niigata, 2–3 August), Omagari (Akita, late August, the national competition), Lake Biwa, Osaka Yodogawa, PL (Osaka, early August) — are mostly free to watch from designated public areas (Nagaoka's main venue is now all-paid), but the good viewing needs either a paid reserved seat (¥3,000–15,000, on sale in June, sell out) or arriving 4–6 hours early with a mat to claim a spot. Trains afterwards are the crush: expect 60–90 minutes to get into a station. Wear yukata if you like (locals do), bring a mat, water, insect repellent and cash for the food stalls, check the rain postponement rule, and take your rubbish with you.
 
 ## The big festivals
 
 | Festival | When | Shells | Crowd | Reserved seats |
 |---|---|---|---|---|
 | **Sumida River (Tokyo)** | **Last Saturday of July**, 19:00–20:30 | ~20,000 | **~950,000** | Very few; **rooftops, river cruises, hotel plans** are the paid options. Free areas fill by **15:00** |
-| **Nagaoka (Niigata)** | **2–3 August**, 19:20–21:10 | ~20,000 per night incl. the **Phoenix** and **Shosanshakudama (90 cm shell)** | ~350,000 per night | **Yes, on sale in May–June (lottery + general), ¥3,000–10,000**; widely considered Japan's best |
+| **Nagaoka (Niigata)** | **2–3 August**, 19:20–21:10 | ~20,000 over the two nights incl. the **Phoenix** and **Shosanshakudama (90 cm shell)** | ~350,000 per night | **Yes — and effectively required: since 2024 the main riverside viewing areas are all paid (spring lottery, then general sale), roughly ¥3,000–10,000 per person**; widely considered Japan's best |
 | **Omagari (Akita)** | **Last Saturday of August** | Competition — pyrotechnicians compete, day and night sections | ~700,000 | Yes, sold out early |
 | **Tsuchiura (Ibaraki)** | Early November (autumn) | Competition | ~700,000 | Yes |
 | **Osaka: Naniwa Yodogawa** | Early August | ~20,000 | ~500,000 | Yes, ¥4,000–15,000 |
-| **PL Fireworks (Tondabayashi, Osaka)** | 1 August | Historically huge, scaled back recently | — | Limited |
+| **PL Fireworks (Tondabayashi, Osaka)** | Traditionally 1 August — **not held since 2019**; suspended with no announced return, check before planning | Historically Japan's largest by shell count | — | — |
 | **Lake Biwa (Otsu)** | Early August | ~10,000 | ~350,000 | Yes |
 | **Kumano (Mie)** | 17 August | Shells launched from boats and rocks | — | Yes; famous for the sea-surface bursts |
-| **Miyajima (Hiroshima)** | Cancelled since 2019 | — | — | — |
+| **Miyajima (Hiroshima)** | Discontinued — last held 2019; organisers ended it permanently in 2020 | — | — | — |
 
 ## How to do it well
 
@@ -35,7 +35,7 @@ Japan holds more than 1,000 fireworks festivals (hanabi taikai) each summer, som
 | **Rubbish** | **Take it home** or to the designated collection points; the morning-after litter is the festivals' biggest problem |
 | **Photos** | Tripods only in designated areas; **no drones** (illegal at festivals) |
 
-- **Smaller festivals** (5,000–10,000 shells, tens of thousands of people) in **Atami (monthly in summer), Kamakura, Chōfu, Itabashi, Kōbe** give **90% of the spectacle with a fraction of the crush** — a good choice with children.
+- **Smaller festivals** (5,000–10,000 shells, tens of thousands of people) in **Atami (several dates each summer), Kamakura, Chōfu, Itabashi**; Kōbe now runs short 10-minute shows over several evenings ("Minato HANABI") instead of one big night give **90% of the spectacle with a fraction of the crush** — a good choice with children.
 - **Why the shells are different**: **Japanese shells are spherical and burst symmetrically (the chrysanthemum)**, graded by size in **shaku (30 cm)**; the **Nagaoka Shosanshakudama (3 shaku, 90 cm) bursts 650 m wide**.
 - **Firework etiquette on the ground**: **don't stand up during the show**, **cheer the "tamaya!"** (the Edo-period shout) if you like, **keep flash off**.
 - **Safety**: heatstroke is the main risk (see that article); **children on shoulders block views** — bring a step stool.

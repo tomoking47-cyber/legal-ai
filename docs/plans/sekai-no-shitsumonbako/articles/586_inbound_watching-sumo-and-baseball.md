@@ -10,9 +10,9 @@ Sumo tournaments and professional baseball are the two spectator events visitors
 
 | Item | Detail |
 |---|---|
-| **Calendar** | **Jan, May, Sep: Tokyo (Ryōgoku Kokugikan). Mar: Osaka. Jul: Nagoya. Nov: Fukuoka.** Each **15 days, starting on a Sunday** |
+| **Calendar** | **Jan, May, Sep: Tokyo (Ryōgoku Kokugikan). Mar: Osaka (Edion Arena). Jul: Nagoya (IG Arena, since 2025). Nov: Fukuoka (Kokusai Center).** Each **15 days, starting on a Sunday** |
 | **Tickets on sale** | **About 4–5 weeks before day 1**, 10:00 JST, at **Ticket Oosumo (official, English)**, convenience-store terminals, and travel agencies. **Weekends and days 13–15 sell out in hours**; **weekday arena (chair) seats survive for days** |
-| **Seat types** | **Ringside (tamari, ¥15,000–20,000)**: cushion on the floor, wrestlers can land on you, **no photos/eating**. **Box (masu, ¥10,000–15,000 per person, sold as 4-person boxes)**: floor cushions, shoes off, food allowed. **Arena chairs (isu, ¥3,500–9,000)**: 2nd floor, best value and the only ones foreigners usually get |
+| **Seat types** | **Ringside (tamari, ¥20,000)**: cushion on the floor, wrestlers can land on you, **no photos/eating**. **Box (masu, ¥10,000–15,000 per person, sold as 4-person boxes)**: floor cushions, shoes off, food allowed. **Arena chairs (isu, ¥3,500–9,000)**: 2nd floor, best value and the only ones foreigners usually get |
 | **Timetable** | Doors **08:00**; lower divisions from morning; **jūryō (2nd division) ring entering ~14:15**; **makuuchi (top) ring entering ~15:40**; **yokozuna ceremony ~15:45**; **top bouts 16:00–18:00**. Arrive **14:00–15:00** for the atmosphere |
 | **Food** | **Yakitori (Kokugikan's basement makes it), bento, beer** sold inside; **bringing food in is allowed** |
 | **Etiquette** | **Stay seated during bouts**, **no flash**, **don't throw cushions** (a Kokugikan tradition after an upset, technically banned), **bow to nothing — just watch**. Leaving early is fine |
@@ -24,13 +24,13 @@ Sumo tournaments and professional baseball are the two spectator events visitors
 |---|---|
 | **Season** | **Late March – early October**, playoffs (Climax Series) and Japan Series in **October–November**. Games mostly **18:00 weekdays, 14:00 weekends** |
 | **Tickets** | **¥2,000–4,000 outfield, ¥4,000–8,000 infield, ¥10,000+ premium**. **Team websites (some English), Lawson Ticket, Ticket Pia, 7-Eleven terminals**, and the **stadium box office on the day (often available)**. **Giants (Tokyo Dome), Tigers (Koshien), Hawks (Fukuoka) derbies sell out** |
-| **Stadiums** | **Tokyo Dome (Giants), Jingu (Swallows — outdoor, beer garden vibe), Yokohama, Koshien (Tigers — the cathedral), Kyocera Osaka (Buffaloes), Fukuoka PayPay Dome, Sapporo Escon Field (new, with onsen), Hiroshima Mazda (old-school), Nagoya Vantelin** |
-| **The show** | **Ōendan (cheering squads) in the outfield** lead **chants for every batter, trumpets, flags**; **7th-inning "lucky 7"**: team song and **balloon release (Tigers, Carp, Hawks)** — buy balloons at the stand. **Beer girls (uriko)** with kegs on their backs: **¥800–900 a cup**, pay cash or card |
+| **Stadiums** | **Tokyo Dome (Giants), Jingu (Swallows — outdoor, beer garden vibe), Yokohama, Koshien (Tigers — the cathedral), Kyocera Osaka (Buffaloes), Fukuoka PayPay Dome, Sapporo Escon Field (new, with onsen), Hiroshima Mazda (2009 ballpark with lawn and picnic seats), Nagoya Vantelin** |
+| **The show** | **Ōendan (cheering squads) in the outfield** lead **chants for every batter, trumpets, flags**; **7th-inning "lucky 7"**: team song and **balloon release (Tigers at Koshien, Hawks at PayPay Dome and several other parks — not the Carp, who did not bring balloons back after 2019, nor the Giants at Tokyo Dome)** — buy balloons at the stand. **Beer girls (uriko)** with kegs on their backs: **¥800–900 a cup**, pay cash or card |
 | **Food** | **Team bento, karaage, yakisoba, "stadium curry"**; **bringing your own food is allowed at most parks** (cans/bottles poured into cups at the gate) |
 | **Etiquette** | **Sit with your team's fans**; **stand for the chants if you're in the outfield**; **catch foul balls carefully** (you keep them); **leave the seat clean** — fans bag their rubbish |
 | **Pace** | **Games run 3–3.5 hours**; **ties after 12 innings are allowed** in the regular season; **last trains** are an issue at Jingu/Koshien night games |
 
-- **Other sport**: **J-League football** (¥2,500–6,000, family-friendly, big-club derbies sell out), **B-League basketball**, **rugby (Top League)** — all easy tickets. **High-school baseball at Koshien (August)** is a national event with free/cheap tickets and legendary atmosphere.
+- **Other sport**: **J-League football** (¥2,500–6,000, family-friendly, big-club derbies sell out), **B-League basketball**, **rugby (Japan Rugby League One, December–May)** — all easy tickets. **High-school baseball at Koshien (August)** is a national event with cheap tickets (all seats reserved and paid since 2022 — outfield from about ¥700, infield ¥2,000–4,000, sold online in advance) and legendary atmosphere.
 - **Resale**: official resale platforms exist for sumo (Ticket Oosumo) and some teams; **scalping is illegal (2019 law)** and touts outside venues sell fakes.
 - **Kids**: baseball is ideal; sumo's afternoon length suits older children.
 

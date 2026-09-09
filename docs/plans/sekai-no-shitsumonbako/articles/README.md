@@ -40,6 +40,10 @@
 3. 英語版の逆翻訳チェック（inbound / wisdom 200本、`../16_translation_protocol.md`）
 4. 統計数値の年度更新（公開時点の最新版へ）
 
+## 2026-09-09 インバウンド棚の第2パス（AI事実確認）
+
+inbound 100本を別のAIレビュアー10並列で事実確認し、**228件の修正**（重大 9）を反映しました。詳細は `../18_quality_standard.md` 第7節。未確認事項は `../20_inbound_unverified_claims.csv`。
+
 ## 2026-09-08 棚の分割（fashion → beauty / fashion）
 
 会長の指摘「日焼け止めやクレンジングは Fashion ではなく Beauty」により、旧 `fashion` 棚を2つに分けました。

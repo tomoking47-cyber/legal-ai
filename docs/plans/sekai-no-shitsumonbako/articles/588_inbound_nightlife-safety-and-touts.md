@@ -4,7 +4,7 @@
 
 Japan is one of the safest countries to walk at night, and its nightlife districts — Kabukichō, Roppongi, Osaka's Dōtonbori and Minami — still produce a steady stream of visitors who wake up with a ¥300,000 card charge. The risk is not violence; it is being led into a bar by a friendly stranger.
 
-## A. The scam is called bottakuri: a tout (kyacchi) on the street offers a cheap "all-you-can-drink" or a club with women, leads you to a bar where the bill arrives with hidden charges (seating, "service", per-drink extras) in the tens or hundreds of thousands of yen, and staff block the door until you pay by card. A related version is drink spiking followed by card fraud at ATMs, concentrated in Roppongi and Kabukichō. The rules are simple: never follow a tout (following touts is itself banned by ordinance in Shinjuku and Osaka), choose bars yourself from Google Maps or a hotel recommendation, confirm prices and cover charges before sitting down, pay in cash or watch your card, never leave a drink unattended, and if you are trapped, call 110 or walk to a kōban — the police will come.
+## A. The scam is called bottakuri: a tout (kyacchi) on the street offers a cheap "all-you-can-drink" or a club with women, leads you to a bar where the bill arrives with hidden charges (seating, "service", per-drink extras) in the tens or hundreds of thousands of yen, and staff block the door until you pay by card. A related version is drink spiking followed by card fraud at ATMs, concentrated in Roppongi and Kabukichō. The rules are simple: never follow a tout (the Shinjuku and Osaka ordinances ask the public not to respond to touts — a duty of effort with no penalty for the customer; the tout and the venue are the ones committing the offence), choose bars yourself from Google Maps or a hotel recommendation, confirm prices and cover charges before sitting down, pay in cash or watch your card, never leave a drink unattended, and if you are trapped, call 110 or walk to a kōban — the police will come.
 
 ## How the scams work
 
@@ -18,7 +18,7 @@ Japan is one of the safest countries to walk at night, and its nightlife distric
 
 ## The law and where to get help
 
-- **Touting is banned** under prefectural nuisance ordinances, and **Shinjuku (2016) and Osaka (2014) ordinances also ban following a tout into a venue** — the bar and the tout are both liable; **you are not committing an offence by reporting**.
+- **Touting is banned** under prefectural nuisance ordinances, and **Shinjuku Ward's anti-touting ordinance (in force since September 2013, with penalties later strengthened) and Osaka City's (August 2014) also oblige the public to try not to respond to touts, and let authorities name and penalise venues that use them** — the bar and the tout are both liable; **you are not committing an offence by reporting**.
 - **Bottakuri is fraud/extortion**: **call 110** or walk to the **Kabukichō kōban (by Don Quijote) / Roppongi kōban (at the crossing)**. Police will come to the bar and typically the "bill" collapses to something realistic. **Saying "police" (keisatsu) in the bar often ends it.**
 - **Card charges**: **contact your card issuer immediately to dispute**; **keep the receipt, time, venue name (photograph the door)**. Japanese police issue a **damage report (higai todoke)** that helps the dispute.
 - **Embassies**: the **US Embassy publishes a standing warning on Roppongi/Kabukichō drink spiking**; several embassies have lists of reported venues.
@@ -34,7 +34,7 @@ Japan is one of the safest countries to walk at night, and its nightlife distric
 | **Sake bars, craft beer bars, listening bars (jazz kissa)** | Japan's real nightlife culture |
 
 - **Prices to expect at honest places**: **beer ¥500–800, highball ¥400–600, cover charge (otōshi) ¥300–800 at izakaya, ¥500–2,000 at bars** — anything charged beyond this without warning is a red flag.
-- **Alcohol and the street**: **public drinking is legal** but Shibuya bans it in the centre at night; **passing out on the pavement is common and usually safe in Japan, but your wallet may not survive the night**.
+- **Alcohol and the street**: **public drinking is legal**, but Shibuya Ward bans street drinking around Shibuya Station year-round from 18:00 to 05:00 (since October 2024; no fine, but patrols enforce it); **passing out on the pavement is common but not safe — drunk sleepers are the main target for pickpockets and card theft in Kabukichō and Roppongi, and hypothermia is a real risk in winter**.
 - **Women travellers**: Japan's night streets are safe by international standards; **groping on crowded trains and unwanted touts** are the realistic issues. **Women-only train cars** run in the morning rush; late trains are mixed.
 - **LGBTQ+ nightlife**: **Shinjuku Ni-chōme** has 300+ bars, many tiny; **cover charges posted**, touts rare; **some bars are members-only or Japanese-only — a polite refusal at the door is not hostility**.
 
