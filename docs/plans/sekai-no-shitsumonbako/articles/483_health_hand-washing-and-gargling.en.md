@@ -37,7 +37,7 @@ Japanese children are taught at school: "when you come home, wash your hands and
 
 ## Misunderstanding 4｜Gargling washes viruses out of the throat
 
-**Viruses enter the cells within a short time of landing**, so the "washing out" effect is limited. Why gargling helps is not fully understood, and treating it as "a habit on getting home" is the fair position.
+**Viruses enter the cells within a short time of landing**, so the "washing out" effect is limited. Why gargling helps is not fully understood, and regarding it as "a habit on getting home" is the fair position.
 
 ## Misunderstanding 5｜Hot water washes more germs away
 

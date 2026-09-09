@@ -34,7 +34,7 @@ Japan reports blood glucose in mg/dL (140 mg/dL is about 7.8 mmol/L).
 - **Strong sleepiness or heaviness after meals** is generally described as one sign of post-meal hyperglycaemia, but it also happens for other reasons (lack of sleep, overeating).
 - **When to ask about a test**: **HbA1c 5.6% or above**, **diabetes in a parent or sibling**, **BMI 25 or above**, **a history of gestational diabetes**, **over 40 with no exercise habit**.
 
-> **[Verify]** Check the diagnostic thresholds against the Japan Diabetes Society's *Clinical Practice Guideline for Diabetes 2024* and *Treatment Guide for Diabetes*. Update the diabetes population estimate to the latest National Health and Nutrition Survey.
+> **[Verify]** Check the diagnostic thresholds against the Japan Diabetes Society's *Clinical Practice Guideline for Diabetes 2024* and its *Guide to Diabetes Care* [糖尿病治療ガイド]. Update the diabetes population estimate to the latest National Health and Nutrition Survey.
 
 ## Misunderstanding 1｜If my health-check glucose is normal, I need not worry about diabetes
 
