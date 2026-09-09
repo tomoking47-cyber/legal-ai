@@ -50,7 +50,7 @@
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/
 - 消费者厅食品标示课《食品期限标示制度的变迁等》[食品の期限表示制度の変遷等]（资料4，2024 年 5 月）
   https://www.caa.go.jp/policies/policy/food_labeling/meeting_materials/assets/food_labeling_cms201_240527_05.pdf
-- 环境省新闻发布「关于公布我国食品损失发生量的推算值（令和5年度）」[我が国の食品ロスの発生量の推計値（令和５年度）の公表について]
+- 环境省新闻发布「关于公布我国食品损失发生量的推算值（2023 年度）」[我が国の食品ロスの発生量の推計値（令和５年度）の公表について]
   https://www.env.go.jp/press/press_00002.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
