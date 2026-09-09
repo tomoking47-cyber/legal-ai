@@ -50,7 +50,7 @@
   https://www.qtec.or.jp/
 - 消費者庁「洗濯表示（令和6年8月20日以降）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 経済産業省「電気用品安全法（PSE）」（電動毛玉取り器）
+- 経済産業省「電気用品安全法（PSE）」（電動毛玉取り器のACアダプター・充電器）
   https://www.meti.go.jp/policy/consumer/seian/denan/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**

@@ -50,7 +50,7 @@ The fabric shaver (毛玉取り器, *kedama-tori-ki* — an electric tool whose 
   https://www.qtec.or.jp/
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [消費者庁「洗濯表示（令和6年8月20日以降）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- Ministry of Economy, Trade and Industry, "Electrical Appliance and Material Safety Act (PSE)" (electric fabric shavers) [経済産業省「電気用品安全法（PSE）」]
+- Ministry of Economy, Trade and Industry, "Electrical Appliance and Material Safety Act (PSE)" (the AC adapter or charger of an electric fabric shaver) [経済産業省「電気用品安全法（PSE）」]
   https://www.meti.go.jp/policy/consumer/seian/denan/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

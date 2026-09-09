@@ -50,7 +50,7 @@
   https://www.qtec.or.jp/
 - 消费者厅 [消費者庁]「洗涤表示（令和6年8月20日以后）」[洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 经济产业省 [経済産業省]「电气用品安全法（PSE）」（电动去毛球器）[電気用品安全法（PSE）]
+- 经济产业省 [経済産業省]「电气用品安全法（PSE）」（电动去毛球器的AC适配器与充电器）[電気用品安全法（PSE）]
   https://www.meti.go.jp/policy/consumer/seian/denan/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
