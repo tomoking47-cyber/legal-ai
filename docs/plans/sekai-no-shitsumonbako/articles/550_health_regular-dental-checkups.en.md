@@ -27,7 +27,7 @@ Many people in Japan still see the dentist as "somewhere you go when it hurts", 
 | **Why teeth are lost** | **Gum disease about 37%, decay about 29%, fracture about 18%** (8020 Promotion Foundation survey) |
 | **Prevalence of gum disease** | **About half of adults** have gum pockets of 4 mm or more; **a majority of those aged 45 and over** |
 | **Cost** | A check-up (basic periodontal examination + scaling): **about ¥3,000–4,000 per visit at the 30% co-payment**. **Filling one decayed tooth: ¥3,000–10,000; an implant after extraction: ¥300,000–500,000, not covered by insurance** |
-| **National policy** | In 2022 the government announced that it would consider **"universal dental check-ups"**; **from fiscal 2025 the age range for gum-disease check-ups is being widened in some areas** (ages 20, 30, 40, 50, 60 and 70) |
+| **National policy** | In 2022 the government announced that it would consider **"universal dental check-ups"**; **in fiscal 2025 the age range for gum-disease check-ups was widened in some areas** (ages 20, 30, 40, 50, 60 and 70) |
 
 - **Why "before it hurts" matters**: **early decay (enamel only) can sometimes be halted by remineralisation**, with no drilling. **Gum disease advances with almost no pain**, and **by the time teeth are loose it is often too late**. **Links between gum disease and diabetes, cardiovascular disease, aspiration pneumonia and premature birth** have also been reported.
 - **The interval**: **3 months** (existing gum disease, lots of missed spots, smokers), **6 months** (stable), **1 year** (the minimum). **Your dentist will suggest an interval for you**; the rule is to follow it.
