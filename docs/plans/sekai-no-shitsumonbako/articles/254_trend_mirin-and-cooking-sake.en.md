@@ -21,7 +21,7 @@ Mirin (sweet rice seasoning) and cooking sake are basic seasonings in Japanese c
 | **Cooking sake (料理酒, ryōri-shu; salted)** | **About 2–3% salt** added so it cannot be drunk (no liquor tax, cheap) | **Reduce the salt in the recipe**. A recipe that says "sake" normally assumes **unsalted** |
 | **Sake (清酒, seishu / nihonshu)** | None | Follow the recipe. Sold as liquor |
 
-- Under the **Liquor Tax Act**, any drink of 1% ABV or more is "liquor". **Hon-mirin is liquor, so it cannot be sold to minors and is sold only by shops with a liquor licence** (supermarkets in Japan usually have one; convenience stores may not).
+- Under the **Liquor Tax Act**, any drink of 1% ABV or more is "liquor". **Hon-mirin is liquor, so it cannot be sold to minors and is sold only by shops with a liquor licence**.
 - Hon-mirin is **about 40–45% sugar**; the **gloss** is generally attributed to this sugar, and **keeping food intact while simmering** to the combined action of the alcohol and sugar.
 
 > **[Verify]** Check the alcohol strengths and categories against the Liquor Tax Act and the National Mirin Association's materials, and the salt figures against product labels.

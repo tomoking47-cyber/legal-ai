@@ -13,7 +13,7 @@
 | Number of complaints | **Dry-cleaning complaints to the National Consumer Affairs Center and local consumer centres run at 4,000–6,000 a year** (2010s onward) |
 | Main complaints | **Discolouration, shrinkage, damage, loss, stains not removed, late return** |
 | **Dry-Cleaning Accident Compensation Standard** | **A voluntary industry standard** set by Zenkuren, the national federation of dry-cleaning trade associations. Calculated as **purchase price × compensation ratio (depreciated by time since purchase)** |
-| Example ratios | **Under 1 year from purchase: about 70–100% of the purchase price**; **at 3 years about 30–50%**; **5 years or more: about 10–20%** (varies with the average service life of the item type) |
+| Example ratios | **Under 1 year from purchase: about 70 per cent up to the full purchase price**; **at 3 years about 30–50%**; **5 years or more: about 10–20%** (varies with the average service life of the item type) |
 | Time limits for a claim | Under the standard, **within 6 months of collecting the item**; the shop cannot be held liable once **1 year has passed since the item was due for collection** |
 
 - Cleaners are registered under the **Dry Cleaning Business Act (クリーニング業法)** and **are obliged to process items according to the care label**. **Anything not covered by the label (wet cleaning, for example) requires the shop's own judgement and an explanation to you.**

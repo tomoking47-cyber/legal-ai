@@ -10,7 +10,7 @@ Yoghurt is the classic example of a food people assume "is fermented, so the dat
 
 | Item | Details |
 |---|---|
-| Storage | **Refrigerate (10°C / 50°F or below)**. Avoid the door pocket, where the temperature rises easily |
+| Storage | **Refrigerate (10°C or below)**. Avoid the door pocket, where the temperature rises easily |
 | Best-before date while sealed | Usually **2–3 weeks** from manufacture. **If unopened and refrigerated, it is often still fine a few days past the date** (check its condition) |
 | Once opened (large 400 g tubs etc.) | **2–3 days**. **Serve with a clean spoon; do not eat straight from the tub** |
 | Liquid on the surface | **Whey (乳清)**. Contains protein and calcium. **Stir it back in** |
