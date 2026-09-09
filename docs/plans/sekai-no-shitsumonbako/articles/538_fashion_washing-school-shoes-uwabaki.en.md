@@ -4,7 +4,7 @@
 
 Uwabaki (上履き) are the white canvas-and-rubber indoor shoes every Japanese schoolchild wears in the building. At most primary schools the routine is: bring them home on Friday, wash them, take them back on Monday. Rubber and canvas soil quickly, and every weekend brings the same complaints — "the dark marks won't scrub off", "they won't dry", "they've gone yellow". Here is a routine that cuts the effort.
 
-## A. Uwabaki are washed in five steps — soak → brush → rinse → spin → dry — and almost none of it is hard scrubbing. Dissolve oxygen bleach (酸素系漂白剤, sanso-kei hyōhakuzai) or laundry detergent in water at about 40°C (104°F) and soak for 30 minutes to an hour; most of the dirt lifts on its own. Then brush lightly, rinse well, wrap in a towel and spin 30 seconds in the washing machine (or press out the water with a towel), and dry heel-up in a well-ventilated shady spot. To prevent yellowing from sunlight, dry in the shade and rinse until no detergent remains. In winter, when drying takes longer, wash on Friday and dry on Saturday, or rotate two pairs.
+## A. Uwabaki are washed in six steps — knock off the grit → soak → brush → rinse → spin → dry — and almost none of it is hard scrubbing. Dissolve oxygen bleach (酸素系漂白剤, sanso-kei hyōhakuzai) or laundry detergent in water at about 40°C (104°F) and soak for 30 minutes to an hour; most of the dirt lifts on its own. Then brush lightly, rinse well, wrap in a towel and spin 30 seconds in the washing machine (or press out the water with a towel), and dry heel-up in a well-ventilated shady spot. To prevent yellowing from sunlight, dry in the shade and rinse until no detergent remains. In winter, when drying takes longer, wash on Friday and dry on Saturday, or rotate two pairs.
 
 ## Steps and timing
 

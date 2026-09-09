@@ -4,7 +4,7 @@
 
 Cars, buses, ferries, planes — and lately VR headsets. Motion sickness is most common in children (especially ages 4–12), but plenty of adults suffer on boats or in the back seats of buses. Here are the measures passed down in Japanese households, and how to use the medicines properly.
 
-## A. Motion sickness happens when what your eyes see and the motion your inner ear (balance organ) senses do not match. In order of priority: (1) choose a seat with little motion and a view ahead (front seat in a car, front of the bus, centre and lower deck on a ship, over the wing on a plane); (2) look at the distant scenery, and stay off your phone and books; (3) avoid an empty or over-full stomach, lack of sleep and strong smells; (4) take travel-sickness tablets "30 minutes to 1 hour before boarding" (they work poorly once you already feel sick); (5) if it starts, close your eyes, lie down and get cool air on your face. Children under 3 hardly ever get motion sickness, and it improves as they grow.
+## A. Motion sickness happens when what your eyes see and the motion your inner ear (balance organ) senses do not match. In order of priority: (1) choose a seat with little motion and a view ahead (front seat in a car, front of the bus, centre and lower deck on a ship, over the wing on a plane); (2) look at the distant scenery, and stay off your phone and books; (3) avoid an empty or over-full stomach, lack of sleep and strong smells; (4) take travel-sickness tablets "30 minutes to 1 hour before boarding" (they work poorly once you already feel sick); (5) if it starts, close your eyes, lie down and get cool air on your face. Children under 2 hardly ever get motion sickness, and it improves as they grow.
 
 ## The measures in order
 

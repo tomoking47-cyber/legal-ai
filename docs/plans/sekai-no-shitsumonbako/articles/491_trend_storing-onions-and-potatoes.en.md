@@ -48,7 +48,7 @@ Potatoes and onions are staples of the Japanese kitchen, but the same failures c
 
 ## Misunderstanding 5｜It is handy to keep potatoes and onions in one box
 
-**The moisture from the onions and the ethylene from the potatoes make both spoil faster.** Keep them in separate containers.
+**The moisture from the onions makes the potatoes spoil faster, and sprouting or rot on the potatoes spreads to the onions.** Keep them in separate containers.
 
 ---
 

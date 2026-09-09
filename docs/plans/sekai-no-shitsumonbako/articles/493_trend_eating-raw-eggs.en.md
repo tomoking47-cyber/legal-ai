@@ -18,7 +18,7 @@ Raw egg over hot rice (tamago-kake-gohan), beaten raw egg as a dip for sukiyaki,
 | **After the best-before date** | **Cook** (centre at **70°C for at least 1 minute, or until yolk and white are firm**) before eating. Do not eat raw |
 | **Once cracked** | **Eat straight away**. **Wari-oki (leaving beaten egg at room temperature) is strictly out**. Do not touch other food with hands that have touched the shell |
 
-- **How this differs from other countries**: **in the US, some shops sell shell eggs unrefrigerated, while washing and refrigeration are mandated**; **the EU does not wash eggs and instead relies on vaccinating hens**. **Few countries set the best-before date on the assumption of raw consumption.** It is safer not to eat raw egg abroad the way you would in Japan.
+- **How this differs from other countries**: **the US requires shell eggs to be washed and refrigerated**; **the EU does not wash eggs, relies instead on vaccinating hens**. **Few countries set the best-before date on the assumption of raw consumption.** It is safer not to eat raw egg abroad the way you would in Japan.
 - **Food poisoning in practice**: in the 1990s there were years with **several hundred Salmonella outbreaks and more than 10,000 patients a year**, but numbers **fell sharply** once GP centres were established and labelling became compulsory. Today there are **around 20–30 outbreaks a year**, most caused by **undercooked dishes, wari-oki or cracked eggs**.
 - **Cracked eggs**: bacteria get in easily through a cracked shell. **Do not eat raw any egg that was already cracked when you bought it.**
 - **Who should avoid raw egg**: **children under 2, older people, pregnant women and people with weakened immunity** (MHLW). For them, **thoroughly cooked egg dishes**.

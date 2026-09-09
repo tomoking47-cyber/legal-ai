@@ -2,7 +2,7 @@
 
 - Shelf: `fashion` ／ URL: `/en/fashion/counterfeit-goods-and-customs` ／ Status: **Draft — English edition, sources unverified**
 
-Counterfeit luxury goods reach consumers in Japan through overseas online shops and flea-market apps such as Mercari. If you buy one thinking "it's cheap, so who cares if it's fake", it is not only that customs may seize it: since a 2023 change in the law, even imports for personal use fall within the rules. Here is how to tell a fake, and where the law stands.
+Counterfeit luxury goods reach consumers in Japan through overseas online shops and flea-market apps such as Mercari. If you buy one thinking "it's cheap, so who cares if it's fake", it is not only that customs may seize it: since the amendments that took effect in October 2022, even imports for personal use fall within the rules. Here is how to tell a fake, and where the law stands.
 
 ## A. Under the October 2022 amendments to the Trademark Act and the Design Act, an overseas business sending counterfeit branded goods to an individual in Japan infringes the trademark "even for personal use", and the goods are seized at customs. The buyer is not normally punished, but the money is not refunded. The three basic warning signs are: a price far below the market, a channel outside the official network (social-media adverts, unknown websites, flea-market listings of many "new, unused" items), and crude logos, stitching, hardware engraving or accessories. But a well-made fake cannot be identified from photographs. The only reliable route is an official boutique, an authorised dealer, or a major reuse chain with in-house authenticators. If you buy on a flea-market app, use an authentication service afterwards (a few thousand yen per item) and, if it is fake, start the cancellation process.
 
@@ -62,7 +62,7 @@ Counterfeit luxury goods reach consumers in Japan through overseas online shops 
 
 - Ministry of Finance / Japan Customs, "Seizures of goods infringing intellectual property rights (2023)" [知的財産侵害物品の差止状況（2023年）]
   https://www.customs.go.jp/mizugiwa/chiteki/
-- Japan Patent Office, "Amendments to the Trademark Act and Design Act (in force October 2022): regulation of counterfeits imported for individuals by overseas businesses" [商標法・意匠法の改正（2023年10月施行）：海外事業者による模倣品の個人向け輸入の規制]
+- Japan Patent Office, "Amendments to the Trademark Act and Design Act (in force October 2022): regulation of counterfeits imported for individuals by overseas businesses" [商標法・意匠法の改正（2021年改正、2022年10月1日施行）：海外事業者による模倣品の個人向け輸入の規制]
   https://www.jpo.go.jp/system/laws/rule/
 - National Consumer Affairs Center of Japan, "Trouble after buying counterfeit branded goods" [ブランド品の偽物を購入してしまったトラブル]
   https://www.kokusen.go.jp/

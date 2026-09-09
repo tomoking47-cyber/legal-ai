@@ -59,7 +59,7 @@
 
 ### 出典
 
-- 消費者庁「家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）」
+- 厚生労働省「家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）」
   https://www.caa.go.jp/policies/policy/consumer_safety/
 - 日本産業標準調査会「JIS L1905：繊維製品の洗濯後の外観保持性試験方法」
   https://www.jisc.go.jp/

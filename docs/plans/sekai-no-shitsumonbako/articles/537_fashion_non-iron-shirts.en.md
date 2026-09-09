@@ -59,7 +59,7 @@
 
 ### Sources
 
-- Consumer Affairs Agency, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits (textiles)" [家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）]
+- Ministry of Health, Labour and Welfare, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits (textiles)" [家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）]
   https://www.caa.go.jp/policies/policy/consumer_safety/
 - Japanese Industrial Standards Committee, "JIS L1905: Test method for appearance retention of textiles after washing" [JIS L1905：繊維製品の洗濯後の外観保持性試験方法]
   https://www.jisc.go.jp/
