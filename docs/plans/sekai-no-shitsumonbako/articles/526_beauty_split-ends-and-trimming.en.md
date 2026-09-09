@@ -2,7 +2,7 @@
 
 - Shelf: `beauty` ／ URL: `/en/beauty/split-ends-and-trimming` ／ Status: **Draft — English edition, sources unverified**
 
-You look at your ends and they are split in two; short broken hairs stick out mid-length. Almost everyone has some split ends and breakage, and the advice you hear is divided between "repair them with a hair mask" and "the only answer is to cut". In Japan, "treatment" (トリートメント, torītomento) is simply the everyday word for a conditioner or hair mask, which adds to the confusion. Starting from how hair is built, we sort out what can and cannot be fixed, and how to stop making more.
+You look at your ends and they are split in two; short broken hairs stick out mid-length. Almost everyone has some split ends and breakage, and the advice you hear is divided between "repair them with a hair mask" and "the only answer is to cut". In Japan, the loanword トリートメント (torītomento) is simply the everyday name for a conditioner or hair mask, which adds to the confusion. Starting from how hair is built, we sort out what can and cannot be fixed, and how to stop making more.
 
 ## A. A split end or a broken hair is one whose cuticle has worn away, letting the inner cortex tear. Hair is dead cells, so it does not go back to how it was. A conditioner or hair mask only coats the surface for a while to improve feel and appearance; a split end can only be cut off. Prevention is the whole game: ① do not rub wet hair, and dry it promptly; ② hold the hairdryer 20 cm away and keep irons at 160°C or below; ③ brush dry hair, starting from the ends; ④ avoid UV; ⑤ colour and bleach less often; ⑥ trim 1–2 cm off the ends every 6–8 weeks. Do these six things and new split ends visibly decrease.
 
@@ -22,7 +22,7 @@ You look at your ends and they are split in two; short broken hairs stick out mi
 - **Cutting**: left alone, a split **travels up the hair**, so **trimming 1–2 cm off the ends every 6–8 weeks** is the surest fix. If you cut at home, use **hairdressing scissors** and cut **straight across.** Stationery scissors crush the cut end and cause new splits.
 - **Reading your ends**: **forked in a Y (split end)**, **a white dot (a node — about to break)**, **frizzy short hairs sticking out (breakage).**
 - **Hair grows about 1–1.5 cm a month.** Hair that reaches your shoulders **grew more than two years ago** and has taken that much friction and heat. Long hair naturally has more split ends; the accumulated care shows in the result.
-- **Leave-in conditioner (アウトバストリートメント, "out-bath treatment" in Japanese shops)**: apply **after towel-drying, mainly to the ends.** **Oil types** protect from heat; **milk types** add moisture. Keep it off the scalp.
+- **Leave-in conditioner (アウトバス, "out-bath" products in Japanese shops)**: apply **after towel-drying, mainly to the ends.** **Oil types** protect from heat; **milk types** add moisture. Keep it off the scalp.
 
 > **[Verify]** The denaturation temperature of hair protein and the loss of strength in wet hair are standard figures from hair science. Check against material from the Japan Hair Science Association and the Japan Cosmetic Industry Association.
 

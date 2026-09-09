@@ -19,7 +19,7 @@ Fine hair around the eyebrows, above the lip, on the cheeks. In Japan, women hav
 | **Time of day** | **Evening** is safest (freshly shaved skin is vulnerable to UV and cosmetics sting more easily) |
 
 - **Eyebrows**: shape them with **brow scissors and tweezers**; use the razor only on the fine hair around the brows. **Shaving inside the brow can stop hair growing back** (disrupted growth cycle), so pluck and shave as little as possible.
-- **Barber-shop shaving**: a **face shave (顔そり, kaosori) by a licensed barber (理容師, riyōshi)** is a distinctly Japanese service, costing **¥3,000–6,000**. The razor handling is professional, and many people find it **gentler on the skin than shaving at home.** It is a classic **pre-wedding** treat.
+- **Barber-shop shaving**: a **face shave (顔そり, kaosori) by a licensed barber (理容師, riyōshi)** is a distinctly Japanese service, costing **¥3,000–6,000**. The razor handling is professional, and many people find it **gentler on the skin than shaving at home.** It is a classic **pre-wedding** ritual.
 - **Hair-removal creams**: **many are not for use on the face** (check the label). They are alkaline and irritating.
 - **Light and laser hair removal**: fine facial hair contains little melanin, so **light-based (IPL) removal works poorly** on it. Medical laser removal can deal with it but needs several sessions.
 - **Why it "feels thicker"**: besides the flat cut end, **hairs in their growth phase come through at the same time**, so density looks higher for a while. It returns to normal in **2–3 weeks**.
