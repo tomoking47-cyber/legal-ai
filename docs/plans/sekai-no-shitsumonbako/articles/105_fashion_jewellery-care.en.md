@@ -26,7 +26,7 @@ The blackening is **sulphurisation** (a reaction with sulphur in the air or in s
 
 ## Misunderstanding 2｜Toothpaste is fine for polishing
 
-The abrasive is coarse: **plating wears off, and soft stones such as pearl, opal and turquoise get scratched.** Even for solid silver (SV925), a dedicated cloth is the safer choice.
+The abrasive is coarse: **plating wears off, and soft stones such as pearl, opal and turquoise get scratched.** Only solid silver (SV925) should be polished this way, and then with a dedicated silver cloth rather than an abrasive one.
 
 ## Misunderstanding 3｜Gold does not tarnish
 
