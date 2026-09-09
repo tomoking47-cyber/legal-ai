@@ -4,14 +4,14 @@
 
 Counterfeit luxury goods reach consumers in Japan through overseas online shops and flea-market apps such as Mercari. If you buy one thinking "it's cheap, so who cares if it's fake", it is not only that customs may seize it: since a 2023 change in the law, even imports for personal use fall within the rules. Here is how to tell a fake, and where the law stands.
 
-## A. Under the October 2023 amendments to the Trademark Act and the Design Act, an overseas business sending counterfeit branded goods to an individual in Japan infringes the trademark "even for personal use", and the goods are seized at customs. The buyer is not normally punished, but the money is not refunded. The three basic warning signs are: a price far below the market, a channel outside the official network (social-media adverts, unknown websites, flea-market listings of many "new, unused" items), and crude logos, stitching, hardware engraving or accessories. But a well-made fake cannot be identified from photographs. The only reliable route is an official boutique, an authorised dealer, or a major reuse chain with in-house authenticators. If you buy on a flea-market app, use an authentication service afterwards (a few thousand yen per item) and, if it is fake, start the cancellation process.
+## A. Under the October 2022 amendments to the Trademark Act and the Design Act, an overseas business sending counterfeit branded goods to an individual in Japan infringes the trademark "even for personal use", and the goods are seized at customs. The buyer is not normally punished, but the money is not refunded. The three basic warning signs are: a price far below the market, a channel outside the official network (social-media adverts, unknown websites, flea-market listings of many "new, unused" items), and crude logos, stitching, hardware engraving or accessories. But a well-made fake cannot be identified from photographs. The only reliable route is an official boutique, an authorised dealer, or a major reuse chain with in-house authenticators. If you buy on a flea-market app, use an authentication service afterwards (a few thousand yen per item) and, if it is fake, start the cancellation process.
 
 ## The law and customs
 
 | Item | Detail |
 |---|---|
 | **Seizure at customs** | Counterfeit branded goods are **prohibited imports as goods infringing intellectual property**. Once customs confirms this, they are **seized and destroyed**. **In fiscal 2023 there were about 29,000 seizure cases covering about 1 million items**, **most from China and Hong Kong** |
-| **The October 2023 amendment** | **An overseas business posting goods to an individual in Japan now counts as trademark infringement.** The old loophole — "personal use is not commercial importation" — has been closed |
+| **The October 2022 amendment** | **An overseas business posting goods to an individual in Japan now counts as trademark infringement.** The old loophole — "personal use is not commercial importation" — has been closed |
 | **The buyer's liability** | **The buyer does not normally face criminal penalties**, but **the money is lost and the goods are seized**. **Reselling is a breach of the Trademark Act (up to 10 years' imprisonment or a fine of up to ¥10 million)** |
 | **Buying and selling on flea-market apps** | **Listing a fake even unknowingly may breach the Trademark Act.** Platforms delete the listing and suspend the account. **A buyer is eligible for a refund once the item is confirmed fake** (each platform's compensation scheme) |
 | **A notice from customs** | If a "Notice of Commencement of Identification Procedure" (認定手続開始通知書) arrives, **and the item is fake, reply that you do not contest it** and it ends with destruction. **If you claim it is genuine, submit evidence (proof of purchase)** |
@@ -34,11 +34,11 @@ Counterfeit luxury goods reach consumers in Japan through overseas online shops 
 - **Sites labelling goods "super copy" or "N-grade"** are **admitting they sell fakes**; buy from them and expect seizure.
 - **Buying on holiday**: **assume the "designer goods" on street stalls and markets are fake.** **They are seized at customs when you return**, and **repeat offenders are warned and recorded**.
 
-> **[Verify]** Check the customs seizure figures (fiscal 2023) and the content of the October 2023 amendment against published material from the Ministry of Finance and the Japan Patent Office. Authentication fees are guide figures.
+> **[Verify]** Check the customs seizure figures (fiscal 2023) and the content of the October 2022 amendment against published material from the Ministry of Finance and the Japan Patent Office. Authentication fees are guide figures.
 
 ## Misunderstanding 1｜Buying a fake for my own use is no problem
 
-**Since October 2023, shipments from abroad to individuals also count as trademark infringement and are seized at customs.** You do not get your money back.
+**Since October 2022, shipments from abroad to individuals also count as trademark infringement and are seized at customs.** You do not get your money back.
 
 ## Misunderstanding 2｜An authenticity card and serial number prove it is genuine
 
@@ -62,7 +62,7 @@ Counterfeit luxury goods reach consumers in Japan through overseas online shops 
 
 - Ministry of Finance / Japan Customs, "Seizures of goods infringing intellectual property rights (2023)" [知的財産侵害物品の差止状況（2023年）]
   https://www.customs.go.jp/mizugiwa/chiteki/
-- Japan Patent Office, "Amendments to the Trademark Act and Design Act (in force October 2023): regulation of counterfeits imported for individuals by overseas businesses" [商標法・意匠法の改正（2023年10月施行）：海外事業者による模倣品の個人向け輸入の規制]
+- Japan Patent Office, "Amendments to the Trademark Act and Design Act (in force October 2022): regulation of counterfeits imported for individuals by overseas businesses" [商標法・意匠法の改正（2023年10月施行）：海外事業者による模倣品の個人向け輸入の規制]
   https://www.jpo.go.jp/system/laws/rule/
 - National Consumer Affairs Center of Japan, "Trouble after buying counterfeit branded goods" [ブランド品の偽物を購入してしまったトラブル]
   https://www.kokusen.go.jp/
