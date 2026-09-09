@@ -4,7 +4,7 @@
 
 In Japan, where soaking up to the shoulders is the norm, the foot bath (足湯, ashiyu) and the half-body bath (半身浴, hanshin-yoku — sitting in water up to the solar plexus) spread as gentler ways of warming up. The "Japanese foot bath" is known abroad too, but care is needed in how its benefits are described. Here we separate what public sources support from what is shared as everyday wisdom.
 
-## A. The biggest misunderstanding is "a half-body bath flushes out toxins you or melts fat away." The solid advantages of half-body and foot baths are that water pressure puts less strain on the heart, so older or less robust people warm up more easily. Weight lost through sweating is water, and dehydration is a risk. The guide is around 40°C (104°F) for 15–20 minutes, and remember to drink water.
+## A. The biggest misunderstanding is "a half-body bath flushes toxins out of you or melts fat away." The solid advantages of half-body and foot baths are that water pressure puts less strain on the heart, so older or less robust people warm up more easily. Weight lost through sweating is water, and dehydration is a risk. The guide is around 40°C (104°F) for 15–20 minutes, and remember to drink water.
 
 ## What to consider
 
