@@ -11,7 +11,7 @@ Japan's emergency numbers are not 911 or 112, most operators speak limited Engli
 | Number | Service | Notes |
 |---|---|---|
 | **110** | **Police** (accident, crime, disturbance) | Free from any phone. Say "**English please**"; three-way interpreting is available in Tokyo, Osaka and most prefectures |
-| **119** | **Fire and ambulance** | Free, ambulance free of charge. State **"kyūkyū" (ambulance) or "kaji" (fire)**, then location. Interpreting in major cities |
+| **119** | **Fire and ambulance** | The ambulance ride itself is free. **Since 2024 some hospitals (Mie and Ibaraki prefectures) charge a "selective care" fee of around ¥7,700 when a patient arrives by ambulance but is judged not to need admission** — the hospital charges it, not the ambulance service. State **"kyūkyū" (ambulance) or "kaji" (fire)**, then location. Interpreting in major cities |
 | **118** | **Coast guard** (sea, beaches, boats) | — |
 | **#7119** | **Emergency medical advice line** (Tokyo, Osaka, Saitama, Sapporo, Yokohama and others) | Nurses advise whether you need an ambulance or a clinic; some English |
 | **#8000** | Children's after-hours medical advice | Japanese |
