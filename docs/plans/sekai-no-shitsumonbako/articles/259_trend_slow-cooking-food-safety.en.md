@@ -4,7 +4,7 @@
 
 "Retained-heat cooking" (保温調理, hoon chōri), turning off the flame and letting the pot finish cooking in its own heat, spread in Japan as an energy-saving idea. Leaving curry or stew in the pot at room temperature and eating it the next day, however, is the classic route to Clostridium perfringens food poisoning, and the Ministry of Health, Labour and Welfare (MHLW) warns about it repeatedly.
 
-## A. The biggest misunderstanding is "a well-cooked stew cannot go off." Clostridium perfringens forms spores that survive cooking; they multiply rapidly while the pot cools (20–50°C), and reheating does not always remove what has built up. The basics: eat it as soon as it is made; divide leftovers into small portions, cool them quickly and refrigerate; and reheat thoroughly, stirring the whole pot, before eating.
+## A. The biggest misunderstanding is "a well-cooked stew cannot go off." Clostridium perfringens forms spores that survive cooking; they multiply rapidly while the pot cools (20–50°C), and some of the bacteria that have multiplied can survive reheating. The basics: eat it as soon as it is made; divide leftovers into small portions, cool them quickly and refrigerate; and reheat thoroughly, stirring the whole pot, before eating.
 
 ## The numbers
 
