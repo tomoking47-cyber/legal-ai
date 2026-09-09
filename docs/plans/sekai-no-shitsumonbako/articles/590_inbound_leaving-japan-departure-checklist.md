@@ -24,7 +24,7 @@ The end of a Japan trip has its own small rules: a ¥1,000 departure tax you nev
 | Item | Detail |
 |---|---|
 | **Departure tax** | **¥1,000 International Tourist Tax, included in the ticket** since 2019. No separate payment |
-| **Tax-free purchases** | **Consumables (cosmetics, food, medicine) must stay in the sealed bag and leave Japan within 30 days**; **customs at departure can scan your passport, see the purchase record and charge the 10% tax if goods were consumed/unsealed**. **General goods can be used**. **From late 2026 the system moves to refund-at-departure — check the current rule** |
+| **Tax-free purchases** | **Consumables (cosmetics, food, medicine) must stay in the sealed bag and leave Japan within 30 days**; **customs at departure can scan your passport, see the purchase record and charge the 10% tax if goods were consumed/unsealed**. **General goods can be used**. **From 1 November 2026 the system changes to refund-at-departure (pay tax at the till, claim it back at the airport) — check which rule applies on your travel dates** |
 | **Cash** | **Declare if carrying more than ¥1,000,000 (or equivalent) in cash/cheques** |
 | **IC cards** | **Suica refund at JR East stations (¥220 fee, deposit ¥500 returned); PASMO at PASMO operators (no fee); ICOCA at JR West**. **Welcome Suica: non-refundable — spend it (convenience stores at the airport take it)**. Cards stay **valid 10 years** from last use — keep for a return trip |
 | **Immigration** | **Automated gates for departure** for many nationalities; **the paper "Visit Japan Web" QR** is for arrival, not departure. **Your passport is stamped/recorded on exit** — the residence-card style stub is not needed for tourists |
