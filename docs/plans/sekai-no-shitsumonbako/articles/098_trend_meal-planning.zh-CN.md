@@ -50,7 +50,7 @@
   https://www.maff.go.jp/j/syokuiku/kenzensyokuseikatsu/about_b_guide.html
 - 农林水产省《饮食平衡指南 SV 速查表》[食事バランスガイド SV早見表]
   https://www.maff.go.jp/j/syokuiku/minna_navi/about/chart.html
-- 环境省新闻稿《我国食品损失发生量的推算值（令和五年度）》[我が国の食品ロスの発生量の推計値（令和５年度）]
+- 环境省新闻稿《我国食品损失发生量的推算值（2023 年度）》[我が国の食品ロスの発生量の推計値（令和５年度）]
   https://www.env.go.jp/press/press_00002.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**

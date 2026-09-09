@@ -50,7 +50,7 @@
   https://www.maff.go.jp/j/syokuiku/kenzensyokuseikatsu/about_b_guide.html
 - 농림수산성 「식사 밸런스 가이드 SV 조견표」 [食事バランスガイド SV早見表]
   https://www.maff.go.jp/j/syokuiku/minna_navi/about/chart.html
-- 환경성 보도자료 「일본의 음식물 손실 발생량 추계치(레이와 5년도)」 [我が国の食品ロスの発生量の推計値（令和５年度）]
+- 환경성 보도자료 「일본의 음식물 손실 발생량 추계치(2023년도)」 [我が国の食品ロスの発生量の推計値（令和５年度）]
   https://www.env.go.jp/press/press_00002.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
