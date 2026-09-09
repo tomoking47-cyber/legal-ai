@@ -38,7 +38,7 @@ Japan is one of the safest countries to walk at night, and its nightlife distric
 - **Women travellers**: Japan's night streets are safe by international standards; **groping on crowded trains and unwanted touts** are the realistic issues. **Women-only train cars** run in the morning rush; late trains are mixed.
 - **LGBTQ+ nightlife**: **Shinjuku Ni-chōme** has 300+ bars, many tiny; **cover charges posted**, touts rare; **some bars are members-only or Japanese-only — a polite refusal at the door is not hostility**.
 
-> **[Verify]** Ordinance years (Shinjuku 2016, Osaka 2014) and their exact scope; current embassy advisories; typical reported charge ranges from police releases.
+> **[Verify]** Ordinance years and their exact scope (the body gives Shinjuku September 2013 and Osaka August 2014; confirm both dates and whether penalties were later strengthened); current embassy advisories; typical reported charge ranges from police releases.
 
 ---
 

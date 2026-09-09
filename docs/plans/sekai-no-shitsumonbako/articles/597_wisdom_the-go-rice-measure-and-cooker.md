@@ -15,7 +15,7 @@ Japanese rice recipes, rice cookers and rice bags all speak in gō (合) — 1 g
 | **3 gō** | 540 ml ≈ 450 g | ≈ 1 kg | 5–6 bowls (family dinner + tomorrow's bento) |
 | **1 shō (升) = 10 gō** | 1.8 L ≈ 1.5 kg | — | The sake "isshōbin" bottle |
 | **1 to (斗) = 100 gō** | 18 L | — | Historic |
-| **5 kg bag** | ≈ **33 gō** | — | About a month for two adults at 1 gō/day |
+| **5 kg bag** | ≈ **33 gō** | — | About two to three weeks for two adults eating 1.5–2 gō a day |
 
 ## Using the cooker cup correctly
 
