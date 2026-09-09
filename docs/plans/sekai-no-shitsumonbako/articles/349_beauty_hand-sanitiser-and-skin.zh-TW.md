@@ -48,7 +48,7 @@
 
 ### 出處
 
-- 厚生勞動省《關於洗手・手指消毒》[手洗い・手指消毒について]（新冠相關資料）
+- 厚生勞動省《關於洗手・手指消毒》[手洗い・手指消毒について]（新冠肺炎 COVID-19 相關資料）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00094.html
 - WHO《醫療中的手部衛生指南》[Guidelines on Hand Hygiene in Health Care]（酒精濃度）
   https://www.who.int/publications/i/item/9789241597906

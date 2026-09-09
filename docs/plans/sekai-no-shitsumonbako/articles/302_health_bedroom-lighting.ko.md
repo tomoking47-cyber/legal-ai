@@ -1,4 +1,4 @@
-# Q. 침실은 얼마나 어두워야 하는가에 대한 흔한 오해는?｜Japan Questions #302
+# Q. 침실은 얼마나 밝아야 하는가에 대한 흔한 오해는?｜Japan Questions #302
 
 - Shelf: `health` ／ URL: `/ko/health/bedroom-lighting` ／ Status: **초안 — 출처 미확인**
 

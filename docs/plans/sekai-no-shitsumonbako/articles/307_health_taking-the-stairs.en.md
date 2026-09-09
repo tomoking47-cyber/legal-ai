@@ -4,7 +4,7 @@
 
 "Take the stairs, not the lift" is health advice heard everywhere, but in Japan station stairs are part of daily life, and many people climb several hundred steps a day. Here we look at the value of stairs as exercise, and at the misunderstandings about their effect on the knees.
 
-## A. The biggest misunderstanding is "stairs are bad for your knees, so avoid them." For healthy knees, stairs are a short burst of high-intensity physical activity (about 4–8 METs), and the easiest way to follow the Ministry of Health, Labour and Welfare guide's advice to "move even a little more than now". If your knees hurt, avoid going down, use the handrail and talk to a doctor.
+## A. The biggest misunderstanding is "stairs are bad for your knees, so avoid them." For healthy knees, stairs are a short burst of high-intensity physical activity (about 8 METs going up, about 3–4 METs coming down), and the easiest way to follow the Ministry of Health, Labour and Welfare guide's advice to "move even a little more than now". If your knees hurt, avoid going down, use the handrail and talk to a doctor.
 
 ## In numbers
 
