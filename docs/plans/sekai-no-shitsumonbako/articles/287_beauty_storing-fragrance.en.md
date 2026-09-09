@@ -19,9 +19,9 @@
 
 - In Japan perfume is a **cosmetic** under the Pharmaceuticals and Medical Devices Act (some products are sold as general goods), and **full ingredient labelling** is compulsory. **Alcohol (ethanol) helps preserve it** but **does not stop the fragrance oils oxidising.**
 - **Decanting into an atomiser** exposes the liquid to **air and light, so it degrades faster than the bottle.** **Decant only as much as you will use in a few weeks.**
-- Perfume is **a hazardous material under the Fire Service Act (depending on alcohol content)**: **keep it away from open flames**, **carry-on for aircraft is limited to 100 mL per container**, and **it cannot be posted by air mail** (see the article on posting parcels).
+- Perfume is **a hazardous material under the Fire Service Act (depending on alcohol content)**: **keep it away from open flames**, **carry-on for aircraft is limited to 100 mL per container**, and **perfume containing alcohol cannot be sent through Japan Post at all** (it is a prohibited item under the Postal Act). Some private courier firms accept it on condition of ground transport (see the article on posting parcels).
 
-> **[Verify]** The guide for opened bottles is based on general industry and maker guidance. Check the hazardous-material handling against the Fire Service Act and airline rules.
+> **[Verify]** The guide for opened bottles is based on general industry and maker guidance. Check the hazardous-material handling against the Fire Service Act and airline rules, and check whether it can be posted against the latest guidance from Japan Post and each courier firm.
 
 ## Misunderstanding 1｜It lasts longer in the fridge
 
