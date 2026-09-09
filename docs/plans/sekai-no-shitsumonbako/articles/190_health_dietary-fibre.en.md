@@ -4,7 +4,7 @@
 
 Dietary fibre is the classic "nutrient people do not get enough of" in every country, and Japan is no exception. Here we set out the gap between the national target and actual intake, and the easiest ways to add fibre at a Japanese table.
 
-## A. The biggest misunderstanding is "a green salad every day is enough." Leafy salads contain surprisingly little fibre, and Japanese intake falls 3–4 g a day short of the target. The efficient route is to switch your staple to brown rice, barley or wholemeal, and to eat more beans, mushrooms, seaweed and root vegetables and potatoes.
+## A. The biggest misunderstanding is "a green salad every day is enough." Leafy salads contain surprisingly little fibre, and Japanese intake falls short of the target by about 1–2 g a day (roughly 2 g for men; women are close to the target). The efficient route is to switch your staple to brown rice, barley or wholemeal, and to eat more beans, mushrooms, seaweed and root vegetables and potatoes.
 
 ## In numbers
 
