@@ -43,7 +43,7 @@
 
 ### 出处
 
-- 消费者厅《洗涤标识（令和6年8月20日以后）》熨斗记号 [消費者庁「洗濯表示（令和6年8月20日以降）」アイロン記号]
+- 消费者厅《洗涤标识（2024年8月20日以后）》熨斗记号 [消費者庁「洗濯表示（令和6年8月20日以降）」アイロン記号]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 独立行政法人制品评价技术基盘机构（NITE）《熨斗的事故》[独立行政法人製品評価技術基盤機構（NITE）「アイロンの事故」]
   https://www.nite.go.jp/jiko/chuikanki/

@@ -43,7 +43,7 @@
 
 ### 출처
 
-- 소비자청 「세탁 표시(레이와 6년 8월 20일 이후)」 다리미 기호 [消費者庁「洗濯表示（令和6年8月20日以降）」アイロン記号]
+- 소비자청 「세탁 표시(2024년 8월 20일 이후)」 다리미 기호 [消費者庁「洗濯表示（令和6年8月20日以降）」アイロン記号]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 독립행정법인 제품평가기술기반기구(NITE) 「다리미 사고」 [独立行政法人製品評価技術基盤機構（NITE）「アイロンの事故」]
   https://www.nite.go.jp/jiko/chuikanki/
