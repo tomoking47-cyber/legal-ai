@@ -61,8 +61,8 @@
 
 ### 出典
 
-- 日本皮膚科学会「尋常性ざ瘡治療ガイドライン2017」
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/acne_GL2017.pdf
+- 日本皮膚科学会「尋常性痤瘡・酒皶治療ガイドライン2023」
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - 日本皮膚科学会「皮膚科Q&A：にきび／マラセチア毛包炎」
   https://www.dermatol.or.jp/qa/
 - 厚生労働省「医薬部外品の効能又は効果の範囲」（薬用石けん・ボディソープ：にきびを防ぐ）

@@ -61,8 +61,8 @@ You want to wear something backless in the Japanese summer, but your back is cov
 
 ### Sources
 
-- Japanese Dermatological Association, "Guideline for the Management of Acne Vulgaris 2017" [尋常性ざ瘡治療ガイドライン2017]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/acne_GL2017.pdf
+- Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: acne / Malassezia folliculitis" [皮膚科Q&A：にきび／マラセチア毛包炎]
   https://www.dermatol.or.jp/qa/
 - Ministry of Health, Labour and Welfare (MHLW), "Scope of efficacy or effects of quasi-drugs" [医薬部外品の効能又は効果の範囲] (medicated soap and body wash: prevents acne)

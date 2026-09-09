@@ -61,8 +61,8 @@
 
 ### 출처
 
-- 일본피부과학회 「심상성 좌창 진료 지침 2017」 [尋常性ざ瘡治療ガイドライン2017]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/acne_GL2017.pdf
+- 일본피부과학회 「심상성 좌창·주사 진료 지침 2023」 [尋常性痤瘡・酒皶治療ガイドライン2023]
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - 일본피부과학회 「피부과 Q&A: 여드름／말라세지아 모낭염」 [皮膚科Q&A：にきび／マラセチア毛包炎]
   https://www.dermatol.or.jp/qa/
 - 후생노동성(MHLW) 「의약부외품의 효능 또는 효과의 범위」 [医薬部外品の効能又は効果の範囲] (약용 비누와 바디워시: 여드름 예방)

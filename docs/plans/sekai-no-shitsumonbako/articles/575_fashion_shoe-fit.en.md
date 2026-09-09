@@ -37,7 +37,7 @@
 | **Instep hurts** | Low-cut instep; laces too tight | A higher-instep model; **change the lacing (skip the eyelets over the instep)** |
 | **Sole or heel of the foot hurts** | Too little cushioning; **too little arch support**; worn too long | **Insoles** (see separate article); check sole wear |
 | **Tight in the evening** | Swelling | Try on in the evening; shoes with adjustable laces or straps; **rest with your feet raised** |
-| **Calluses, corns** | **Repeated** wear of shoes that are wrong in width or shape | Rethink your shoes; have them pared at a dermatology clinic (covered by Japanese health insurance) |
+| **Calluses, corns** | **Repeated** wear of shoes that are wrong in width or shape | Rethink your shoes; have them pared at a dermatology clinic |
 
 - **Children's shoes**: **check the size every 3–6 months** (feet grow **1–2 cm a year**). **Buying big** causes trips and foot deformity. **Sute-zun 0.5–1 cm**; **firm heel, wide toe box, flexes at the ball of the foot**.
 - **Heels**: **3–5 cm** is the usual guide for less strain on the foot. If your toes hurt from **sliding forward**, use **a toe cushion**.

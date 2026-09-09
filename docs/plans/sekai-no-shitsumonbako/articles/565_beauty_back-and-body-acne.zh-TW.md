@@ -61,8 +61,8 @@
 
 ### 出處
 
-- 日本皮膚科學會「尋常性痤瘡治療指引 2017」[尋常性ざ瘡治療ガイドライン2017]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/acne_GL2017.pdf
+- 日本皮膚科學會「尋常性痤瘡・酒皶治療指引 2023」[尋常性痤瘡・酒皶治療ガイドライン2023]
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - 日本皮膚科學會「皮膚科 Q&A：痘痘／馬拉色菌毛囊炎」[皮膚科Q&A：にきび／マラセチア毛包炎]
   https://www.dermatol.or.jp/qa/
 - 厚生勞動省（MHLW）「醫藥部外品的效能或效果範圍」[医薬部外品の効能又は効果の範囲]（藥用肥皂與沐浴乳：防止痘痘）
