@@ -20,7 +20,7 @@ Most shops now carry ¥300 and ¥500 lines alongside the standard range. **Check
 
 ## Misunderstanding 2｜The price on the shelf is what you pay
 
-Shelf prices are commonly shown before consumption tax (10%, or 8% on food). **The amount at the till may be slightly higher.**
+Since April 2021 shelf tags must show the tax-inclusive price, so a '¥100' item is labelled ¥110 (10% tax; 8% on food). **The '100' in the name is a nominal price - you pay ¥110 or more at the till.**
 
 ## Misunderstanding 3｜It is the same product everywhere
 
@@ -32,7 +32,7 @@ The items worth carrying home solve one specific annoyance you already have. **A
 
 ## Misunderstanding 5｜Anything can go in your luggage
 
-Scissors, knives and blades cannot travel in hand luggage, and liquids are restricted. **Check your airline's rules, and your own country's import rules, before buying.**
+Knives and blades cannot travel in hand luggage (small round-tipped scissors with blades under 6 cm are usually allowed), and liquids are restricted. **Check your airline's rules, and your own country's import rules, before buying.**
 
 ---
 

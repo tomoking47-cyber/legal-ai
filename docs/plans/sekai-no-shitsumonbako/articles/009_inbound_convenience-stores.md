@@ -8,7 +8,7 @@ Visitors arrive expecting a shop. What surprises most of them is how much of dai
 
 ## The scale
 
-The Japan Franchise Association's annual survey for 2025 reported **convenience-store sales up 1.9% on the year, the fifth consecutive annual increase**, with average spend per visit rising for the twelfth year. Store counts nationwide exceed **50,000**.
+The Japan Franchise Association's annual survey for 2025 reported **existing-store sales up 1.9% on the year, the fifth consecutive annual increase** (all-store sales rose 2.2% to a record ¥12.06 trillion), with average spend per visit rising for the twelfth year. The seven major chains ran **56,054 stores** at the end of 2025.
 
 > **[Verify]** Sales figures are from the Japan Franchise Association's 2025 annual tabulation. The nationwide store count is drawn from secondary reporting; confirm the current JFA figure before publication.
 

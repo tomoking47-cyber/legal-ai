@@ -39,7 +39,7 @@ They are also used at many shops, vending machines and lockers. **They function 
 
 ## Misunderstanding 5｜Tax-free is handled at any till
 
-Tax-free purchases require a passport, a minimum spend and often a specific counter. **The system changes to a refund model on 1 November 2026 — confirm the current rules.**
+Tax-free purchases require a passport, a minimum spend and often a specific counter. **From 1 November 2026 you pay the tax at the till and receive it back after customs confirms the goods at departure — confirm the current rules.**
 
 ---
 

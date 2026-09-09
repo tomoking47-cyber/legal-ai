@@ -4,7 +4,7 @@
 
 Japan's emergency numbers are not 911 or 112, most operators speak limited English, and the police are organised around 6,000 neighbourhood police boxes (kōban) that handle everything from lost wallets to directions. Knowing which number does what, and that the kōban is the place to go for almost anything, changes how a bad moment in Japan turns out.
 
-## A. Dial 110 for police and 119 for fire or ambulance — both free from any phone, including a locked mobile — and 118 for the coast guard at sea. English interpreters can be patched in on 110 and 119 in most large cities. For anything not life-threatening — lost items, directions, a minor dispute, a drunk friend — walk into the nearest kōban, the small police station on the corner; officers will help, file a lost-property report, and often lend you an umbrella. The Japan Visitor Hotline (050-3816-2787) offers 24-hour English help for tourists, and #7119 in Tokyo and other cities gives medical advice when you are not sure an ambulance is needed. Ambulances are free.
+## A. Dial 110 for police and 119 for fire or ambulance — both free from any phone, including a locked mobile — and 118 for the coast guard at sea. English interpreters can be patched in on 110 and 119 in most large cities. For anything not life-threatening — lost items, directions, a minor dispute, a drunk friend — walk into the nearest kōban, the small police station on the corner; officers will help, file a lost-property report, and often lend you an umbrella. The Japan Visitor Hotline (050-3816-2787) offers 24-hour English help for tourists, and #7119 in Tokyo and other cities gives medical advice when you are not sure an ambulance is needed. Ambulance transport is free nationwide, though since December 2024 some prefectures (e.g. Ibaraki) let large hospitals charge a ¥7,700+ 'selective treatment fee' when the call is judged non-urgent — hospital treatment itself is always charged.
 
 ## The numbers
 
@@ -17,14 +17,14 @@ Japan's emergency numbers are not 911 or 112, most operators speak limited Engli
 | **#8000** | Children's after-hours medical advice | Japanese |
 | **050-3816-2787** | **Japan Visitor Hotline (JNTO)** — 24 h, English/Chinese/Korean | Tourist information, emergencies, disaster help |
 | **171** | Disaster message board (record/retrieve messages after earthquakes) | — |
-| **0570-064-556** | Foreign Residents Support Center (FRESC) | Weekday hours |
+| **0570-011000** | Foreign Residents Support Center (FRESC) help desk — for residents, not tourists | Weekdays 09:00–17:00 |
 
-- **Calling from a mobile**: **110 and 119 work without a SIM or with a locked screen** (emergency call button). **Your location**: read the **address on a utility pole or vending machine** (all carry a block address), a **shop name**, or the **"Emergency" location number on train platforms**.
+- **Calling from a mobile**: **110 and 119 work from a locked screen (emergency call button) as long as the phone has an active SIM/eSIM — unlike in many countries, Japanese networks do not accept emergency calls from a phone with no SIM**; if you have no working line, use a public payphone (emergency calls are free, press the red button on older phones) or ask a shop to call. **Your location**: read the **address on a utility pole or vending machine** (all carry a block address), a **shop name**, or the **"Emergency" location number on train platforms**.
 - **What to say if no interpreter**: "**Keisatsu / kyūkyū onegai shimasu. Basho wa [place] desu.**" Keep the line open; the operator can trace many calls.
 
 ## The kōban
 
-- **About 6,000 kōban** (urban) and **6,500 chūzaisho** (rural, officer lives in) nationwide; **staffed 24 hours** in cities. The **red lamp and "KOBAN" sign** mark them.
+- **About 6,200 kōban** (urban) and **6,000 chūzaisho** (rural, officer lives in) nationwide; **staffed 24 hours** in cities. The **red lamp and "KOBAN" sign** mark them.
 - **Use them for**: **lost property** (the system that returns most wallets — see the lost-property article), **directions** (officers keep detailed local maps), **a minor accident or dispute**, **feeling unsafe**, **a lost child**, **someone drunk or ill**, **reporting a crime**.
 - **Etiquette**: **walk in**; no appointment. Officers will ask for **ID (passport)** for reports. A **lost-item report (ishitsu todoke)** takes 10 minutes and is what you need for insurance and for the finder's report to match.
 - **What kōban don't do**: **issue documents, handle visas, or provide medical help** — they will call an ambulance if needed.

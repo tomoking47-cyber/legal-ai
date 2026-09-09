@@ -22,7 +22,7 @@ Travelling light between cities is something Japan makes unusually easy — but 
 
 - Services such as Yamato Transport's **TA-Q-BIN** carry a suitcase from a hotel or convenience store to your next hotel or the airport.
 - Typical cost for a suitcase within the main islands: **roughly ¥2,000–3,000**, depending on size and distance.
-- **Standard delivery is the next day**; same-day is generally not available for ordinary bookings. Airport delivery usually needs **two days' lead time**.
+- **Standard delivery is the next day** (two days or more to Hokkaido, Okinawa and remote areas); same-day is only offered by a few station counters within the same city (e.g. Kyoto Station to Kyoto hotels with a morning drop-off). Airport delivery usually needs **two days' lead time**.
 
 > **[Verify]** Locker prices and sizes vary by operator and station; forwarding prices change annually. Check the JR East locker page and Yamato Transport's TA-Q-BIN English page before publication.
 

@@ -19,7 +19,7 @@ Japan's smoking rules have inverted in a decade: it was once easy to smoke in a 
 | **Heated tobacco (IQOS etc.)** | Treated as tobacco; **allowed in some "heated-tobacco rooms" where eating is permitted**; banned where cigarettes are | Health Promotion Act |
 | Taxis, trains, planes | **Banned** | — |
 
-- **Smoking rate**: **about 16% of adults** (men ~25%, women ~7%) in 2022, down from **~50% of men in 2000** (National Health and Nutrition Survey).
+- **Smoking rate**: **about 16% of adults** (men 25.6%, women 6.9%) in 2023, the latest survey, down from **~50% of men in 2000** (National Health and Nutrition Survey).
 - Tokyo's own **Ordinance to Prevent Passive Smoking** (April 2020) is stricter than the national law for restaurants with employees.
 - **Ashtrays on the street are rare**; carry a **portable ashtray** (sold at convenience stores) if you smoke — littering butts is fined in ordinance areas.
 

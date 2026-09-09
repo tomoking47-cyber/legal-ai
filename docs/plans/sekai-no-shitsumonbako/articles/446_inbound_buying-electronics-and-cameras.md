@@ -10,14 +10,14 @@ Akihabara and the big electronics chains are on many itineraries, and the assump
 
 | Item | Detail |
 |---|---|
-| **Tax-free** | **10% consumption tax refunded/waived** on general goods over ¥5,000 same day (see the tax-free article; procedure changes 1 November 2026). Large chains have dedicated counters |
+| **Tax-free** | **10% consumption tax waived** on goods over ¥5,000 (until 31 October 2026); **from 1 November 2026 you pay the tax at the till and are refunded after customs checks the goods at departure**, and the general/consumable split and ¥500,000 cap are abolished (see the tax-free article). Large chains have dedicated counters |
 | **Price** | **Cameras, lenses, some audio and gaming** are often good value; **phones, laptops, tablets** are usually **not cheaper** than in the US/EU. Compare online first |
 | **Model version** | **Domestic (国内) models** may have **Japanese-only menus, Japanese keyboards (JIS layout), 100 V-only chargers, no English manual, and Japan-specific features** (e.g. shutter sound that cannot be muted on Japanese-market phones). Ask for the **"overseas model" (海外モデル)** or check menu language in the box |
 | **Warranty** | **Manufacturer warranties are often Japan-only**; some brands offer **international warranty** (check the card). Retailer extended warranties are Japan-only |
 | **Voltage / plugs** | **Japan is 100 V, Type A** (see the plugs article). Chargers rated 100–240 V are fine abroad; **hair dryers, kettles, some appliances are 100 V only** |
 | **Frequency bands** | Phones: check **LTE/5G bands** for your country; Japanese-market phones may lack some |
 | **Region locks** | **Blu-ray/DVD regions** (Japan is Region A / 2); game consoles are mostly region-free now but **software may be Japanese-only** |
-| **Batteries in luggage** | **Lithium batteries in carry-on**, spares in original packaging; **power banks over 160 Wh** not allowed on flights |
+| **Batteries in luggage** | **Lithium batteries in carry-on only**, spares protected from short circuit; **power banks over 160 Wh** not allowed, 100–160 Wh limited to two with airline approval; on flights to/from Japan since July 2025 power banks must stay with you (not in the overhead bin) |
 | **Second-hand** | **Camera shops in Shinjuku/Ginza grade used gear rigorously** (A/B/C); prices firm, quality reliable; **Akihabara's used PC parts** likewise |
 
 - Big-chain **points programmes (10% "points") are not usable by tourists** in most cases but tax-free is; **some stores stack a tourist discount coupon (5–7%) with tax-free** — ask.

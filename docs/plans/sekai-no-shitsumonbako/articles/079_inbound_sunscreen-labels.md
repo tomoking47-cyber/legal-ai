@@ -9,7 +9,7 @@ This article covers the rest of the label. **For what SPF and PA mean, see #84.*
 
 ## The number nobody reads
 
-SPF and PA values are measured, under international test methods, with **2 mg (or 2 μL) of product per cm² of skin.** Surveys of actual use report people applying **around a quarter of the recommended amount**, or an average of **0.56 g** — about half the theoretical amount for a face. The guide for a whole face is **0.7–0.9 g**: two pearl-sized dabs of cream, or two one-yen-coin circles of liquid.
+SPF and PA values are measured, under international test methods, with **2 mg (or 2 μL) of product per cm² of skin.** Surveys of actual use report people applying **around a quarter to a half of the recommended amount**. The guide for a whole face is **0.7–0.9 g**: two pearl-sized dabs of cream, or two one-yen-coin circles of liquid.
 
 **A high rating applied thinly does not behave like a high rating.**
 

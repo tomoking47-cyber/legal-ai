@@ -17,7 +17,7 @@ Most visitors will feel a tremor during a two-week stay and almost none will be 
 | **Near the coast** | **Tsunami: move to high ground or the 3rd floor and above of a concrete building immediately**, before any warning | Tsunami can arrive within minutes |
 | After | **Check the JMA / NHK World app**; expect aftershocks; do not phone (networks jam) — text | — |
 
-- Japan records about **1,500–2,000 felt earthquakes a year**; the Japan Meteorological Agency's **Earthquake Early Warning** is pushed to **all phones (including roaming ones)** for shaking of intensity 4+ or 5-lower+ depending on setting.
+- Japan records about **2,000 felt earthquakes (intensity 1+) in a typical year** — far more in years like 2024 (over 3,600, after the Noto Peninsula quake); the Japan Meteorological Agency's **Earthquake Early Warning** is issued when intensity 5-lower or more is expected and pushed to phones in areas expecting **intensity 4 or more**. **Foreign phones on roaming may not receive it** — install the Safety tips or NHK World app on arrival.
 - **Buildings**: the **1981 New Earthquake Resistance Standard** is the dividing line; hotels and stations built since are designed not to collapse in a major quake. The **Shinkansen has never had a passenger fatality from an earthquake**, thanks to automatic braking.
 - The **JMA seismic intensity scale (震度 0–7)** describes shaking at your location; **magnitude** describes the quake's energy. A magnitude 6 far away may be shindo 2 where you stand.
 - **NHK World** (app, English) carries emergency information; **Safety tips** (Japan Tourism Agency app) pushes alerts in English.

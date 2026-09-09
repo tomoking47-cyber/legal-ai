@@ -10,13 +10,13 @@ Japan is one of the safest and most child-friendly countries to travel in, and o
 
 | Item | Detail |
 |---|---|
-| **Train fares** | **Under 6: free** (up to two per adult); **6–11: half fare**; 12+: adult. Shinkansen: under 6 free without a seat, half fare with a reserved seat |
+| **Train fares** | **Under 6: free** (up to two per fare-paying passenger; a third infant pays child fare); **6–11: half fare**; 12+: adult. Shinkansen: under 6 free without a seat, half fare if they occupy their own reserved seat |
 | **Strollers** | Allowed on all trains; **fold or use the wheelchair space** in rush hour; **elevators at almost all stations** (marked on station maps); **priority space stickers** in some cars |
 | **Nursing rooms (授乳室)** | **Department stores, malls, large stations, airports, some parks**; usually with **hot water, changing tables, microwaves, sinks**; apps (e.g. "Mamamap") list them |
 | **Changing tables** | In **women's and many men's toilets**, and in multipurpose (accessible) toilets |
 | **Restaurants** | **Kids' plates (お子様ランチ)** at family restaurants and department-store floors; **children's cutlery** on request almost everywhere; **high chairs** at family restaurants, **not at counters or izakaya** |
 | **Supplies** | **Nappies, wipes, baby food, formula (powder and liquid since 2019), children's medicine** at drugstores and many convenience stores |
-| **Medicine** | **Children's acetaminophen, cold medicine, ORS** OTC; **#8000** for night/weekend advice; **paediatric clinics** widespread |
+| **Medicine** | **Children's acetaminophen, cold medicine, ORS** OTC; **#8000** for night/weekend advice (Japanese-language; hours vary by prefecture, typically 19:00–08:00); **paediatric clinics** widespread |
 | **Hotels** | **Children under 6 often free sharing a bed** (co-sleeping is normal); **family rooms and ryokan** for 3+; request a **cot (ベビーベッド)** early |
 | **Discounts** | **Children under 6 free at most museums**, discounts to 12 or 15 |
 

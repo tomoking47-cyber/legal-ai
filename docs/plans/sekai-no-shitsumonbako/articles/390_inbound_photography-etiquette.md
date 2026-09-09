@@ -4,7 +4,7 @@
 
 Japan is among the most photographed countries and, since about 2019, among the most active in restricting photography where it has become a problem — geisha districts, certain temples, train platforms, and anywhere a person is the subject. The rules are a mix of law, signage and manners.
 
-## A. The common misunderstanding is that public space means free photography. Japan's privacy and portrait-rights case law makes photographing an identifiable person without consent a civil risk, several sites now post bans with fines (Gion's private lanes: ¥10,000), and the practical norm is to photograph places, not people. Ask before photographing anyone, put the phone down where a sign says 撮影禁止, and never step onto tracks, private lanes or gardens for a shot.
+## A. The common misunderstanding is that public space means free photography. Japan's privacy and portrait-rights case law makes photographing an identifiable person without consent a civil risk, several sites now post bans with penalty notices (Gion's private lanes: signs warning of a ¥10,000 charge, posted by the residents' council rather than set by law), and the practical norm is to photograph places, not people. Ask before photographing anyone, put the phone down where a sign says 撮影禁止, and never step onto tracks, private lanes or gardens for a shot.
 
 ## Where the lines are
 
@@ -17,12 +17,12 @@ Japan is among the most photographed countries and, since about 2019, among the 
 | **Train platforms** | **Photographing trains is allowed but the yellow line is the limit**; **flash at drivers is banned**; JR posts manner rules after incidents with rail fans |
 | **Restaurants and shops** | Food, yes; **staff and other customers, no**; some sushi counters and bars **ban photos** to protect the atmosphere |
 | **Onsen and changing rooms** | **Absolutely no cameras or phones** — treated as voyeurism (a criminal matter) |
-| **Drones** | **Banned in cities without permits under the Aviation Act**; banned at nearly all temples, parks and festivals |
+| **Drones** | **Any drone of 100 g or more must be registered (since June 2022) and needs an MLIT permit to fly over populated (DID) areas, at night or over crowds under the Civil Aeronautics Act**; banned at nearly all temples, parks and festivals |
 | **Private property** | **Do not enter gardens, doorways or fields** for a shot; rural Japan has posted signs after tourists damaged crops |
 
 - The **Gion Council's 2019 signs** followed harassment of maiko (touching kimono, blocking paths); **Kamakura, Fujikawaguchiko and Biei** have added restrictions or removed viewpoints after crowding and trespass.
-- **Photographing a stranger who is clearly the main subject** can violate portrait rights; **crowd scenes where no one is singled out** are generally fine. The **civil code (revised 2020)** and court decisions define it; there is no single statute.
-- **Filming or photographing under skirts or in bathrooms** is a **criminal offence** under the 2023 photography-voyeurism law (撮影罪), with prison terms.
+- **Photographing a stranger who is clearly the main subject** can violate portrait rights; **crowd scenes where no one is singled out** are generally fine. **Court decisions (based on the Constitution's Article 13 and the Civil Code's tort provisions)** define it; there is no single statute.
+- **Filming or photographing under skirts or in bathrooms** is a **criminal offence** under the photography-voyeurism law in force since 13 July 2023 (性的姿態等撮影罪), punishable by up to 3 years' imprisonment or a fine of up to ¥3 million.
 
 > **[Verify]** Gion rules with the Gion district council and Kyoto City; the 2023 voyeurism statute with the Ministry of Justice; drone rules with MLIT.
 

@@ -9,9 +9,9 @@ Travellers from places where tap water is avoided often assume the same applies 
 
 ## What the standard covers
 
-Under Article 4 of the Water Supply Act, tap water must meet the Ministerial Ordinance on Water Quality Standards. The standard lists **51 parameters**: **31 relating to human health** (from general bacteria through to formaldehyde) and **20 relating to the water's properties** (zinc through to turbidity).
+Under Article 4 of the Water Supply Act, tap water must meet the Ministerial Ordinance on Water Quality Standards. The standard lists **52 parameters** since 1 April 2026: **32 relating to human health** (from general bacteria to formaldehyde, plus PFOS and PFOA added in 2026) and **20 relating to the water's properties** (zinc through to turbidity).
 
-**In April 2024, responsibility for water supply moved from the Ministry of Health, Labour and Welfare to the Ministry of Land, Infrastructure, Transport and Tourism (infrastructure) and the Ministry of the Environment (water quality)** — the first such reorganisation in 67 years. The Ministry of the Environment's current page lists **52 parameters** following a 2025 revision.
+**In April 2024, responsibility for water supply moved from the Ministry of Health, Labour and Welfare to the Ministry of Land, Infrastructure, Transport and Tourism (infrastructure) and the Ministry of the Environment (water quality)** — the first such reorganisation in 67 years. The Ministry of the Environment's current page lists **52 parameters** following a 2025 revision that added PFOS and PFOA, in force since 1 April 2026.
 
 > **[Verify]** Confirm the current parameter count (51 vs 52) and the 2025 revision on the Ministry of the Environment's page before publication.
 

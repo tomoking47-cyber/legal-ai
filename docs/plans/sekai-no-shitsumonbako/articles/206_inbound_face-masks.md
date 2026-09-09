@@ -12,11 +12,11 @@ Masks in Japan predate the pandemic by a century and outlasted the guidance that
 |---|---|
 | Government position | **"Individual judgement" since 13 March 2023**; recommended only in medical facilities, care homes, and crowded trains during peak infection periods |
 | Pre-pandemic use | Widespread since the **1918 influenza**; annual **hay-fever season (Feb–Apr)** drives sales |
-| Domestic mask market | About **¥200–300 billion** a year at pandemic peak, now lower but well above 2019 |
+| Domestic mask market | Production peaked at about **16 billion masks in FY2021**, falling to about 8.5 billion in FY2022 — still above pre-pandemic levels |
 | Still common where | Trains at rush hour, hospitals, pharmacies, kitchens and food counters, winter |
 | Type sold | Mostly **non-woven disposable**; sizes are **small for Western faces** — look for "large" (大きめ) |
 
-- Surveys in 2024–25 still found **around 30–50% of people masking on urban trains** in winter, lower in summer.
+- Surveys in 2024–25 still found **roughly a quarter of people masking in public overall, and considerably more on crowded trains** in winter, lower in summer.
 - Reasons people give beyond infection: **pollen**, **dry throat on planes**, **no makeup day**, **not wanting to be spoken to**.
 
 > **[Verify]** The 13 March 2023 change with the MHLW mask page; market and survey figures with industry associations and press surveys.

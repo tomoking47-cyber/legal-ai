@@ -48,8 +48,8 @@ In spring, **masks are for pollen** (see the masks article). A non-woven mask an
 ### Sources
 - Ministry of the Environment — Pollen information and hay fever manual (花粉症環境保健マニュアル)
   https://www.env.go.jp/chemi/anzen/kafun/
-- Cabinet Office — Pollen allergy countermeasures (花粉症対策の全体像, 2023)
-  https://www.kantei.go.jp/jp/singi/kafun/index.html
+- Cabinet Secretariat — Ministerial Council on Hay Fever: 花粉症対策の全体像 (30 May 2023)
+  https://www.cas.go.jp/jp/seisaku/kafun/pdf/230530_honbun.pdf
 - Japan Weather Association — Pollen forecast (tenki.jp)
   https://tenki.jp/pollen/
 

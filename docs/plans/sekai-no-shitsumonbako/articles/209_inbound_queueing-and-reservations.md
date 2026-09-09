@@ -13,13 +13,13 @@ Japan's queues are orderly and its most famous restaurants are booked out months
 | **Train platforms** | Stand in the **painted lines**; two lines per door; **let passengers off first**, then board. Ladies-only cars (marked pink) on some lines during morning rush |
 | **Restaurants** | **Write your name on the list** at the door or take a ticket from a machine; **the whole party must be present** to be seated |
 | **Popular shops / releases** | Staff issue **numbered tickets (seiriken)** — often early morning; **one per person, present in person** |
-| **Escalators** | Stand on the **left** in Tokyo, **right** in Osaka; walking up is discouraged by rail operators |
+| **Escalators** | Stand on the **left** in Tokyo, **right** in Osaka; walking up is discouraged by rail operators, and **Saitama (2021) and Nagoya (2023) have ordinances requiring riders to stand still** (no fines) |
 | **Taxis** | Queue at the marked stand; doors open automatically |
 | **Convenience-store tills** | A single "fork" queue feeds several tills — **wait at the head of the one line** |
 
 ## Reservations
 
-- **Need a booking**: high-end sushi and kaiseki, restaurants with under 10 seats, famous ramen with online ticketing, teamLab-type attractions, Ghibli Museum/Park (**lottery/advance sale only**), popular hotels in cherry-blossom season.
+- **Need a booking**: high-end sushi and kaiseki, restaurants with under 10 seats, famous ramen with online ticketing, teamLab-type attractions, Ghibli Museum/Park (**advance sale only** — Museum tickets for the next month go on sale on the 10th via Lawson Ticket; no tickets at the door), popular hotels in cherry-blossom season.
 - **Walk-in is normal**: izakaya, teishoku, most ramen, department-store restaurant floors, chains.
 - **No-show culture**: cancellations without notice are a serious issue; some restaurants now take **credit-card guarantees or deposits**, and hotels may charge **100% for same-day cancellation**.
 

@@ -4,14 +4,14 @@
 
 Home centres are where many of the ideas foreigners admire — the storage solutions, the gadgets, the garden tools — actually come from. Visitors rarely enter one, because they are suburban and assumed to be for tradespeople.
 
-## A. The common misunderstanding is that Japanese household ingenuity is a 100-yen-shop phenomenon. The deeper source is the home centre, a suburban big-box format with 4,000-plus stores nationwide selling tools, storage, gardening, pet and camping goods — and increasingly a place visitors seek out for practical souvenirs.
+## A. The common misunderstanding is that Japanese household ingenuity is a 100-yen-shop phenomenon. The deeper source is the home centre, a suburban big-box format with 5,000-plus stores nationwide selling tools, storage, gardening, pet and camping goods — and increasingly a place visitors seek out for practical souvenirs.
 
 ## The sector
 
 | Item | Figure | Source |
 |---|---|---|
-| Number of home centres | **about 4,800** | Japan DIY Home Centre Association (2023) |
-| Annual sales | **about ¥4 trillion** | same |
+| Number of home centres | **about 5,000** (5,020 at end of FY2024) | Japan DIY Home Centre Association |
+| Annual sales | **about ¥3.4 trillion** (peaked at ¥3.5 trillion in FY2020) | same |
 | Typical store size | **3,000–10,000 m²**, with a garden centre and a timber-cutting service | — |
 | Typical location | Suburban, by road; some urban "compact" formats | — |
 

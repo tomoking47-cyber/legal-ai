@@ -4,7 +4,7 @@
 
 The two seasons that sell Japan — sakura in spring and kōyō in autumn — are also the ones most likely to disappoint through timing. The bloom lasts about a week in any one place, the date moves by up to two weeks year to year, and the forecasts that residents rely on are not the ones visitors read.
 
-## A. The common misunderstanding is that cherry blossom is "late March to early April" as a fixed window. Full bloom in Tokyo has ranged from 22 March to 5 April in the last decade, lasts about seven days, and moves north by roughly a week per 300 km. The Japan Meteorological Corporation and Weathernews issue forecasts from January that update weekly; booking flexible dates or a route that follows the front is how residents handle it. Autumn foliage is more predictable, peaking in Kyoto in the second half of November.
+## A. The common misunderstanding is that cherry blossom is "late March to early April" as a fixed window. Full bloom in Tokyo has ranged from 22 March (2021, 2023) to about 4 April (2024) in the last decade, lasts about seven days, and moves north by roughly a week per 300 km. The Japan Meteorological Corporation and Weathernews issue forecasts from January that update weekly; booking flexible dates or a route that follows the front is how residents handle it. Autumn foliage is more predictable, peaking in Kyoto in the second half of November.
 
 ## Cherry blossom (Somei-yoshino)
 
@@ -18,7 +18,7 @@ The two seasons that sell Japan — sakura in spring and kōyō in autumn — ar
 | **Sapporo** | **~1 May** | late Apr – early May |
 
 - **Duration**: first bloom to full bloom **about 5–7 days**; full bloom holds **about a week**, less in rain or wind. The petal-fall ("sakura fubuki") is itself a favourite moment.
-- **Forecasts**: the JMA stopped official forecasts in 2010; **Japan Meteorological Corporation (JMC), Weathernews and Weather Map** publish forecasts from **January**, updated weekly, based on winter cold and spring warmth. They have been **within 2–3 days** in most recent years.
+- **Forecasts**: the JMA stopped official forecasts in 2010; **private forecasters — Japan Meteorological Corporation (JMC), Weathernews, Weather Map and the Japan Weather Association (tenki.jp)** — publish forecasts from **January**, updated weekly, based on winter cold and spring warmth. They have been **within 2–3 days** in most recent years.
 - **Trend**: full bloom in Tokyo is now **about 10 days earlier than in 1953** (JMA records); 2021 and 2023 were record early (22 March).
 
 ## Autumn foliage (kōyō)

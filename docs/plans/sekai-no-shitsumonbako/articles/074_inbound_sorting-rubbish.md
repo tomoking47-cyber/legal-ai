@@ -28,7 +28,7 @@ Containers are generally expected to be emptied and lightly rinsed. **This is pa
 
 ## Misunderstanding 4｜You can put it out any day
 
-Collection days are fixed per category. **Putting rubbish out on the wrong day is the most common visitor mistake in rented accommodation.**
+Collection days are fixed per category. **Putting rubbish out on the wrong day is one of the most common complaints about visitors in rented accommodation.**
 
 ## Misunderstanding 5｜Hotels handle it, so it does not matter
 

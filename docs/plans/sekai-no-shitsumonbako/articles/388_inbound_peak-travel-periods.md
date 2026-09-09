@@ -15,7 +15,7 @@ Three times a year most of Japan travels at once, and visitors who arrive in the
 | **New Year** | **29 December – 3 January** | Outbound 28–30 Dec, return 2–4 Jan; **shops, museums, restaurants and government offices close 31 Dec–3 Jan** (department stores reopen 1 or 2 Jan); shrines packed | Plan for closures; see the New Year article |
 | Secondary | **Silver Week (September, when holidays align)**, **school holidays (late July–August, late March–early April)**, **cherry blossom (late March–early April)**, **autumn leaves in Kyoto (mid–late November)** | Hotel prices up; Kyoto foliage weekends rival Golden Week | Book Kyoto in November early |
 
-- **Golden Week transport**: JR Group reports **about 10–12 million Shinkansen passengers** over the period; reserved seats on the Tokaido line hit **100% on peak days**.
+- **Golden Week transport**: the six JR companies reported **over 13 million passengers on Shinkansen and limited-express trains** over Golden Week 2025 (up 3%; up a further 5% in 2026); reserved seats on the Tokaido line hit **100% on peak days**.
 - **Hotel prices**: Kyoto averages roughly **¥15,000–20,000** in an ordinary month and **¥40,000+** on peak Golden Week and November foliage weekends (market data).
 - **Public holidays** in Japan number **16 a year**; when one falls on a Sunday, Monday is a substitute holiday, which is how long weekends form.
 
@@ -31,7 +31,7 @@ Three times a year most of Japan travels at once, and visitors who arrive in the
 
 ## Misunderstanding 3｜Unreserved Shinkansen seats are a fallback
 
-**Unreserved cars are standing-room-only** on peak days, with queues on the platform. **Reserve a month ahead**, or travel on the peak-flow's counter-direction.
+**Nozomi trains have no unreserved cars at all during Golden Week, Obon and New Year** (all-reserved since late 2023); Hikari/Kodama unreserved cars are **standing-room-only** with platform queues. **Reserve a month ahead**, or travel against the peak flow.
 
 ## Misunderstanding 4｜Tokyo is worst during Golden Week
 

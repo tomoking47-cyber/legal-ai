@@ -5,14 +5,14 @@
 
 This is among the most searched practical questions before a trip, and among the most out of date online — because the system is being replaced.
 
-## A. The common misunderstanding is treating it as an automatic discount. It is a procedure with conditions, and from 1 November 2026 it becomes a refund claimed before departure.
+## A. The common misunderstanding is treating it as an automatic discount. It is a procedure with conditions, and from 1 November 2026 it becomes a refund paid after customs confirms your purchases at departure.
 
 ## Old system vs new system
 
 | | Until 31 October 2026 | From 1 November 2026 |
 |---|---|---|
-| How it works | Tax not charged at purchase | **Pay full price including 10% tax, claim refund before departure** |
-| Minimum spend | ¥5,000 before tax, same shop, same day | ¥5,000 — **categories can be combined** |
+| How it works | Tax not charged at purchase | **Pay full price including tax; customs confirms the goods when you leave (within 90 days of purchase); the shop or its refund operator then refunds the tax, e.g. to your card** |
+| Minimum spend | ¥5,000 before tax, same shop, same day (consumables capped at ¥500,000) | ¥5,000 before tax — **general goods and consumables no longer distinguished; the ¥500,000 consumables cap is removed** |
 | Consumables | Must be sealed in approved packaging; cannot be opened in Japan | **Sealed-packaging requirement abolished** |
 | Passport | Required | Required |
 

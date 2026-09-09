@@ -10,17 +10,17 @@ Two rates, one country, and a receipt that sometimes shows both: Japan's consump
 
 | Item | Rate |
 |---|---|
-| Most goods and services | **10%** (8% national + 2% local) |
+| Most goods and services | **10%** (7.8% national + 2.2% local) |
 | **Food and drink to take away**, groceries | **8%** |
 | Food and drink **eaten on the premises** (restaurants, food courts, convenience-store eat-in) | **10%** |
 | **Alcoholic drinks** (to take away or not) | **10%** |
 | Newspapers on subscription (twice weekly or more) | 8% |
-| Medicine, medical services, rent for housing, school fees | Exempt or non-taxable |
+| Insured medical treatment and prescription medicine, rent for housing, school tuition | Non-taxable (note: **over-the-counter medicine is taxed at 10%**) |
 
 - The current rates took effect on **1 October 2019**; the tax started at 3% in 1989, rose to 5% (1997) and 8% (2014).
 - **Tax-inclusive display** has been mandatory since **1 April 2021** — the shelf price is the price you pay.
 - The **invoice system** (qualified invoices) started **1 October 2023**; it matters for businesses, not for visitors.
-- Consumption tax is what **tax-free shopping** refunds (see that article); it does **not** apply to hotel accommodation tax, which is a separate local tax in Tokyo, Osaka, Kyoto and some other cities (typically **¥100–1,000 per night**).
+- Consumption tax is what **tax-free shopping** refunds (see that article); it does **not** apply to hotel accommodation tax, which is a separate local tax in Tokyo, Osaka, Kyoto and a growing number of other cities (typically **¥100–1,000 per night**; Kyoto now charges **¥200–10,000** depending on room price, and Tokyo moves to **3% of the room rate** from April 2027).
 
 > **[Verify]** Rates and dates with the National Tax Agency; accommodation tax rates with each city's official page.
 
@@ -38,7 +38,7 @@ Alcohol is **always 10%**, even in a supermarket basket. Non-alcoholic beer and 
 
 ## Misunderstanding 4｜Tax-free covers the hotel bill
 
-Accommodation is not eligible for tax-free refund, and some cities add an **accommodation tax** on top. Kyoto's rises to a maximum of **¥10,000 per night** from March 2026 for the most expensive rooms.
+Accommodation is not eligible for tax-free refund, and some cities add an **accommodation tax** on top. Kyoto's rose to a maximum of **¥10,000 per night** (rooms of ¥100,000 or more) from 1 March 2026; a ¥6,000–20,000 room now pays ¥400.
 
 ## Misunderstanding 5｜Tipping compensates for tax
 

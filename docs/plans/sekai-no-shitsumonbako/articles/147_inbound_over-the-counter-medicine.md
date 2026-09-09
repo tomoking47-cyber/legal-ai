@@ -10,14 +10,14 @@ Falling ill on holiday means a drugstore visit, and the Japanese system sorts me
 
 | Class | Who can sell | Examples | Where |
 |---|---|---|---|
-| **要指導医薬品 (guidance-required)** | Pharmacist only, face to face | Recently switched from prescription | Pharmacies with a pharmacist on duty |
-| **第1類 (Class 1)** | Pharmacist only | Some strong antacids (H2 blockers), loxoprofen patches, emergency-type products | Behind the counter |
-| **第2類 (Class 2)** | Pharmacist or registered seller | Most cold medicines, painkillers (ibuprofen, loxoprofen tablets), antihistamines | Open shelves, marked ②  |
+| **要指導医薬品 (guidance-required)** | Pharmacist only, in person or (since May 2026) by video consultation for most items | Recently switched from prescription; the emergency contraceptive (since Feb 2026) | Pharmacies with a pharmacist on duty |
+| **第1類 (Class 1)** | Pharmacist only | Some strong antacids (H2 blockers), **loxoprofen tablets (Loxonin S)**, some hair-growth and anti-fungal products | Behind the counter |
+| **第2類 (Class 2)** | Pharmacist or registered seller | Most cold medicines, painkillers (ibuprofen, acetaminophen), **loxoprofen patches**, antihistamines | Open shelves, marked ② |
 | **第3類 (Class 3)** | Pharmacist or registered seller | Vitamins, eye drops, mild digestives | Open shelves, marked ③ |
 
 - Packaging shows the class as a circled number **①②③** or the words 要指導医薬品.
-- **Acetaminophen (paracetamol)** and **ibuprofen** are available; **aspirin** dose forms differ. Typical Japanese doses are **lower** than Western products (e.g. ibuprofen 150 mg tablets).
-- **Codeine-containing cough medicines** were restricted for under-12s in 2019 and are Class 2 or "designated Class 2".
+- **Acetaminophen (paracetamol)** and **ibuprofen** are available; **aspirin** dose forms differ. Typical Japanese doses are **lower** than Western products (e.g. ibuprofen **150 mg per dose, max 600 mg/day** OTC, versus 200–400 mg per dose abroad).
+- **Codeine-containing cough medicines** have been contraindicated for under-12s since 2019 and are "designated Class 2". Since **1 May 2026** cold/cough medicines with abuse-prone ingredients (codeine, pseudoephedrine, dextromethorphan etc.) are "designated abuse-prevention drugs": sales are limited to one pack per person and restricted for under-18s, with ID checks.
 
 > **[Verify]** Class assignments change as products are reclassified; confirm examples with the MHLW OTC classification list before publication. Dose comparisons are indicative.
 

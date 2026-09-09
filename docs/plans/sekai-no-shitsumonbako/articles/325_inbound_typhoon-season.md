@@ -14,7 +14,7 @@ Typhoons reach Japan mostly from July to October, peaking in September, and each
 | Peak | **August–September** (September has the most landfalls) |
 | Most affected | **Okinawa, Kyushu, the Pacific coast**; Hokkaido least |
 | Duration at one place | **Roughly 6–24 hours** of strong wind and heavy rain |
-| Transport | **Planned suspensions announced 1–2 days ahead** (JR since 2019); **Shinkansen stops** when wind exceeds set limits; **domestic flights cancelled** in the hundreds; **expressways closed** |
+| Transport | **Planned suspensions announced 1–2 days ahead** (JR West since 2014, JR East since 2018; MLIT guidance from 2019); **Shinkansen stops** when wind exceeds set limits; **domestic flights cancelled** in the hundreds; **expressways closed** |
 | Warnings | JMA **advisory (注意報) → warning (警報) → emergency warning (特別警報)**; **"evacuation" levels 1–5** issued by municipalities |
 
 - **Planned suspension (計画運休)** became standard after the 2018 and 2019 typhoons: operators publish **the stop time and expected restart** so people stay home. **Restart is often the following morning**, after track inspections.

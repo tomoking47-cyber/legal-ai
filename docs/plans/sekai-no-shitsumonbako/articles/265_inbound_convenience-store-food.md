@@ -12,7 +12,7 @@ Japanese convenience-store food has a global reputation, mostly deserved. What v
 |---|---|
 | Stores | **about 56,000** nationwide; the big three (7-Eleven, FamilyMart, Lawson) hold ~90% |
 | Deliveries | **2–3 times a day** for chilled food; onigiri and bento carry a **consumption-by date and time** (消費期限) |
-| Onigiri | **¥130–250**; the **three-part wrapper** keeps the nori separate — pull tab 1 down the middle, then pull 2 and 3 sideways |
+| Onigiri | **¥150–300** (prices rose sharply in 2024–25; some premium types exceed ¥300); the **three-part wrapper** keeps the nori separate — pull tab 1 down the middle, then pull 2 and 3 sideways |
 | Heating | **"Atatamemasu ka?" (shall I heat it?)** — free, at the till; bento come out in about 1–2 minutes |
 | Hot counter | Fried chicken, croquettes, oden (winter) at the till |
 | Eat-in | Many stores have a counter; **eating in changes the tax to 10%** |

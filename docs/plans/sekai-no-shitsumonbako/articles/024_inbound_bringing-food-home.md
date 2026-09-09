@@ -11,7 +11,7 @@ Food is one of the most popular things to carry home, and one of the most common
 
 The Animal Quarantine Service (Ministry of Agriculture, Forestry and Fisheries) advises that travellers **taking meat products abroad as souvenirs should contact the quarantine office at their departure airport or port to discuss export inspection.**
 
-Export inspection is required where **the destination country demands a quarantine certificate**, and for products derived from **wild animals** (deer, boar, quail, pheasant, duck and similar). Requirements differ by destination and can take time to arrange — **early contact is recommended.**
+Export inspection is required where **the destination country demands a quarantine certificate**, and for products derived from **wild animals** (deer, boar, quail, pheasant, duck and similar). Requirements differ by destination and can take time to arrange — **early contact is recommended.** In practice, certificates for souvenir or personal-use quantities are hard to obtain, so most meat products cannot be taken into most countries.
 
 > **[Verify]** At the time of writing, the service noted that **export quarantine certificates for pork and wild-boar products were suspended** following domestic cases of classical swine fever. Confirm the current status before publication — this changes.
 

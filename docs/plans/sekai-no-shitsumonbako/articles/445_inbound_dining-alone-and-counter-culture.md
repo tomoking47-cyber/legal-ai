@@ -4,7 +4,7 @@
 
 Eating alone is so normal in Japan that whole restaurant formats exist for it — the ramen counter, the standing soba bar, the gyūdon chain, the solo booths. Visitors from cultures where solo dining is awkward find this liberating once they stop expecting to be judged.
 
-## A. The common misunderstanding is that dining alone is pitiable or inconvenient. In Japan roughly a third of adults eat alone daily, counters are designed for it, and nobody notices. The practical knowledge is which formats suit a solo diner (counters, ticket-machine shops, department-store food floors, convenience-store eat-in) and which do not (izakaya at peak hour, group-oriented hotpot), plus the ticket-machine and call-button conventions that remove the need to talk.
+## A. The common misunderstanding is that dining alone is pitiable or inconvenient. In Japan surveys suggest around a third of adults eat alone most days, counters are designed for it, and nobody notices. The practical knowledge is which formats suit a solo diner (counters, ticket-machine shops, department-store food floors, convenience-store eat-in) and which do not (izakaya at peak hour, group-oriented hotpot), plus the ticket-machine and call-button conventions that remove the need to talk.
 
 ## Solo-friendly formats
 

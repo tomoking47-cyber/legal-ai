@@ -15,7 +15,7 @@
 | **Late-night charge** | Some izakaya and karaoke after 22:00–23:00 | **10%** or a fixed fee |
 | Oshibori | Hot or cold wet towel for hands | Free |
 
-- Consumption tax is **10%** on eating in and **8%** on takeaway. Menu prices must be shown **tax-inclusive** (since April 2021).
+- Consumption tax is **10%** on eating in and **8%** on takeaway. Menu prices must be shown **tax-inclusive** (mandatory again since 1 April 2021, when the temporary exemption ended); a few places still print the pre-tax price alongside.
 - Payment is usually at the **cash register near the door**; take the bill slip from your table. In some izakaya you pay at the table.
 - **Cash is still widely used**; card acceptance is common in cities but not universal in small restaurants (see the article on cash and cards).
 

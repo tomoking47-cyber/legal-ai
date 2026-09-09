@@ -10,8 +10,8 @@ Japan's winter confuses packers because it is several climates at once: Hokkaido
 
 | City | Daily high / low | Precipitation | Note |
 |---|---|---|---|
-| **Sapporo** | **−1°C / −7°C** | Snow, ~110 cm on the ground | Ice on pavements; **spiked boots or grip attachments** |
-| **Tokyo** | **10°C / 1°C** | **Very dry**, 5–8 sunny days out of 10 | Humidity 30–40%; static, chapped lips |
+| **Sapporo** | **−1°C / −7°C** | Snow, typically **50–100 cm on the ground** (deepest in February) | Ice on pavements; **spiked boots or grip attachments** |
+| **Tokyo** | **10°C / 1°C** | **Very dry**, 5–8 sunny days out of 10 | Humidity often 30–40% in the afternoon (monthly average about 50%); static, chapped lips |
 | Kyoto | 9°C / 1°C | Occasional snow | Colder than Tokyo indoors; temples are unheated |
 | Kanazawa / Niigata | 6°C / 1°C | **Heavy snow or rain most days** | Waterproof shoes essential |
 | Fukuoka | 10°C / 4°C | Cloudy, some snow | — |
@@ -33,11 +33,11 @@ You will be **hot on every train and in every shop**. Locals wear a **thin heat-
 
 ## Misunderstanding 3｜Snow means slush; trainers will do
 
-Hokkaido pavements are **polished ice**; visitors fall in numbers each winter (Sapporo's emergency services log hundreds of falls a season). **Non-slip soles or clip-on spikes**, and walk with short steps.
+Hokkaido pavements are **polished ice**; visitors fall in numbers each winter (Sapporo's fire department takes well over 1,000 people a season to hospital after falls on snowy roads — a record 1,795 in FY2023). **Non-slip soles or clip-on spikes**, and walk with short steps.
 
 ## Misunderstanding 4｜It rains, bring a big umbrella
 
-On the Pacific side, **January is the driest month**; an umbrella is rarely needed. On the Sea of Japan side, **snow and wind make umbrellas useless** — a waterproof hooded coat works better.
+On the Pacific side, **December and January are the driest months**; an umbrella is rarely needed. On the Sea of Japan side, **snow and wind make umbrellas useless** — a waterproof hooded coat works better.
 
 ## Misunderstanding 5｜You can buy warm clothes cheaply anyway
 

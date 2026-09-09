@@ -4,18 +4,18 @@
 
 Hokkaido and the Japan Sea coast receive some of the heaviest snowfall on earth — Aomori city averages nearly 8 metres a season — and the ski resorts of Niseko, Hakuba and Nozawa have become a global draw. Visitors underestimate how different a Japanese winter is from a European one: the snow is deep but the cities keep running, the danger is on the pavement more than the piste, and the rules on backcountry are strict.
 
-## A. Pack for ice, not just cold: most winter injuries to visitors are falls on frozen pavements, so wear boots with grip (or buy slip-on spikes at any convenience store for ¥500–1,000). Trains and buses run through heavy snow but flights and some rural lines are cancelled at short notice, so build a buffer day before international departures. At ski resorts, stay in-bounds unless you have a guide and a beacon — Japan has no automatic mountain rescue for off-piste, and several resorts revoke passes for rope-ducking. Wear a helmet, carry cash for mountain lunches and onsen, and drink less in the hot spring than you think you can.
+## A. Pack for ice, not just cold: most winter injuries to visitors are falls on frozen pavements, so wear boots with grip (or buy slip-on spikes at any convenience store for ¥500–1,000). Trains and buses run through heavy snow but flights and some rural lines are cancelled at short notice, so build a buffer day before international departures. At ski resorts, stay in-bounds unless you have a guide and a beacon — public (police/fire) rescue for off-piste incidents is free but can take hours, and private helicopter or guided search is charged, and several resorts revoke passes for rope-ducking. Wear a helmet, carry cash for mountain lunches and onsen, and drink less in the hot spring than you think you can.
 
 ## Snow facts and the practical consequences
 
 | Item | Detail |
 |---|---|
 | **How much snow** | **Sapporo ~5 m, Aomori ~7–8 m, Niseko 10–15 m** per season; Tokyo/Kyoto a few cm a few times a year, which causes disproportionate disruption |
-| **Falls on ice** | Sapporo's winter-fall ambulance cases run to **around 1,000 a year**, peaking at crossings and stairs. **Small steps, weight forward, hands out of pockets**, ice spikes on shoes |
+| **Falls on ice** | Sapporo's winter-fall ambulance cases run to **well over 1,000 a season** (1,490 between 1 November 2024 and 5 February 2025 alone), peaking at crossings and stairs. **Small steps, weight forward, hands out of pockets**, ice spikes on shoes |
 | **Transport** | **Shinkansen and city trains run**; **flights** (Sapporo New Chitose in particular) and **rural lines/buses** cancel in storms. **Expressways close** and **winter tyres or chains are mandatory** for rental cars in snow regions |
 | **Roads** | Rental cars in Hokkaido/Tohoku come with **studless winter tyres**; visitors are involved in a rising share of accidents. **Black ice on bridges, whiteouts**; if you have never driven on snow, take the train |
 | **Temperatures** | Hokkaido inland **−10 to −20°C** at night; Tokyo **0–10°C**. Indoors is **hot (25°C)** — dress in layers you can remove |
-| **Ski season** | **Mid-December to early April**; Niseko and Hakuba peak in **January–February** ("Japow"). Lift passes **¥6,000–10,000/day**; rentals ¥5,000–8,000 |
+| **Ski season** | **Mid-December to early April**; Niseko and Hakuba peak in **January–February** ("Japow"). Lift passes **¥6,000–13,500/day** (Niseko United all-mountain ¥12,000 in 2025–26, up to ¥13,500 in peak 2026–27; smaller resorts far less); rentals ¥5,000–8,000 |
 | **Backcountry** | **Out-of-bounds skiing is not policed by law but by resort rules**; ducking ropes can mean **pass confiscation**, and **rescue is not free** — private helicopter rescue costs **¥500,000+** and many travel insurances exclude off-piste without a guide. **Avalanche deaths of foreign skiers occur most years** |
 | **Etiquette** | Helmets common; **no drinking on lifts**; **onsen after skiing — rinse before entering, no swimwear, tattoos may be an issue** (see the onsen article) |
 

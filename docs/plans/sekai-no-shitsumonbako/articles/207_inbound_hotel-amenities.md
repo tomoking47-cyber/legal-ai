@@ -10,7 +10,7 @@ Japanese hotel rooms surprise on both sides: smaller than expected, and stocked 
 
 | Item | Business hotel (¥8,000–15,000) | City hotel / ryokan |
 |---|---|---|
-| Room size | **12–18 m²** | 25 m² and up; ryokan rooms sized in tatami mats (**8–10 jo ≈ 13–16 m²**) |
+| Room size | **10–18 m²** (some as small as 10 m²) | 25 m² and up; ryokan rooms sized in tatami mats (**8–10 jo ≈ 13–16 m²**) |
 | Bed | Semi-double (**120 cm**) for one; twins are two 100–110 cm beds | Double 140–160 cm; ryokan futon on tatami |
 | Sleepwear | **Yes** (pyjamas or a gown) | Yukata at ryokan — worn to dinner and the bath |
 | Toiletries | Toothbrush, razor, comb, cotton, shampoo/conditioner/body wash | Same, often a brand |

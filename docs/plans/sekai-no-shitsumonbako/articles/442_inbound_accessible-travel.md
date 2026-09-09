@@ -10,12 +10,12 @@ Japan's cities are more accessible than their density suggests — elevators at 
 
 | Setting | Status | Notes |
 |---|---|---|
-| **Stations** | **About 95% of stations with 3,000+ daily users are step-free** (elevators or ramps); **tactile paving universal**; **staff bring a ramp for the train gap on request** | Ask at the ticket gate; allow 10 minutes |
-| **Trains** | **Wheelchair spaces** in designated cars (marked); **Shinkansen has wheelchair seats and accessible toilets** (book by phone or at a counter; some online) | Reserve **2 days ahead** for Shinkansen wheelchair spaces |
+| **Stations** | **About 94% of stations with 3,000+ daily users are step-free** (elevators or ramps; MLIT, end of FY2023); **tactile paving universal**; **staff bring a ramp for the train gap on request** | Ask at the ticket gate; allow 10 minutes |
+| **Trains** | **Wheelchair spaces** in designated cars (marked); **Shinkansen has wheelchair seats and accessible toilets** (book by phone or at a counter; some online) | Wheelchair spaces can now be **booked online** (Smart EX for Tokaido/Sanyo, eki-net for JR East) up to a few minutes before departure, but **book early in peak seasons** |
 | **Buses** | **Low-floor buses with ramps** in cities; driver assists | Rural buses vary |
 | **Toilets** | **Multipurpose toilets (多機能トイレ)** in stations, department stores, convenience stores, parks — with grab bars, ostomate facilities | Among the world's best coverage |
 | **Department stores, malls, museums** | Elevators, accessible toilets, wheelchair loan | — |
-| **Hotels** | **Universal rooms** required in hotels over 50 rooms (**1% of rooms**, raised from 1 room in 2019); **business hotels often have 1–2** | Book early; specify needs |
+| **Hotels** | **Universal rooms** required in **newly built or extended** hotels with 50+ rooms and 2,000 m²+ floor area (**1% of rooms**, raised from 1 room in September 2019); **older hotels are exempt, but business hotels often have 1–2** | Book early; specify needs |
 | **Taxis** | **Universal-design taxis (JPN Taxi, ramp-equipped)** are now a large share of Tokyo's fleet | Hail or app; drivers set up the ramp |
 
 ## What is often not
@@ -35,7 +35,7 @@ Japan's cities are more accessible than their density suggests — elevators at 
 
 ## Misunderstanding 3｜Wheelchair spaces on the Shinkansen are first come, first served
 
-**They are reserved seats, limited in number, and best booked 2 days ahead** by phone, at a counter, or online where available. Demand is high in peak seasons.
+**They are reserved seats, limited in number, and can be booked online (Smart EX, eki-net), by phone or at a counter right up to departure** — but demand is high in peak seasons, so book as early as you can.
 
 ## Misunderstanding 4｜Accessible toilets are rare
 

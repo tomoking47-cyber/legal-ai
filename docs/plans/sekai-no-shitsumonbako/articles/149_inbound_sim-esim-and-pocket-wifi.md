@@ -11,13 +11,13 @@ Connectivity is the second most searched practical topic after money. The market
 | Option | Cost (typical, 2025) | Best for | Catch |
 |---|---|---|---|
 | **Travel eSIM** (bought online) | **¥1,500–4,000 for 7–15 days**, several GB or unlimited | One phone, recent model | Phone must be **carrier-unlocked and eSIM-capable** |
-| Physical prepaid SIM (airport or shop) | ¥3,000–6,000 for 15–30 days | Older phones | Data-only; register with passport |
-| Pocket Wi-Fi rental | **¥600–1,000 per day** | Groups, laptops, tablets | Another device to charge and return |
+| Physical prepaid SIM (airport or shop) | ¥3,000–6,000 for 15–30 days | Older phones | Data-only; passport ID checks are being introduced under a 2026 amendment to the mobile-phone fraud law — carry your passport |
+| Pocket Wi-Fi rental | **¥450–1,000 per day** (unlimited plans from about ¥440/day) | Groups, laptops, tablets | Another device to charge and return |
 | Free Wi-Fi | ¥0 | Occasional use | Coverage is patchy; hotels are reliable, streets are not |
 
 - Japan's networks (NTT Docomo, KDDI au, SoftBank, Rakuten) provide **4G LTE nationwide and 5G in cities.** Tourist eSIMs ride on Docomo or SoftBank in most cases.
 - **Tourist SIMs cannot receive SMS or calls** in most products. Two-factor codes from your home bank will need your **home SIM active on roaming** or a dual-SIM setup.
-- Japan **shut down its 3G networks** (au 2022, SoftBank 2024, Docomo 2026); very old phones will not connect.
+- Japan **has shut down all its 3G networks** (au March 2022, SoftBank January 2024, Docomo 31 March 2026); very old phones will not connect.
 
 > **[Verify]** Prices are observed 2025 ranges. 3G shutdown dates with each carrier's announcement before publication.
 

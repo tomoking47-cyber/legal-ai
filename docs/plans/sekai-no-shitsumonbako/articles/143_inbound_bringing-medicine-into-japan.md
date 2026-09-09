@@ -11,13 +11,13 @@ This is the practical question with the highest stakes: getting it wrong can mea
 
 | Category | Allowed without paperwork | Above that |
 |---|---|---|
-| Prescription medicine | **Up to 1 month's supply** | **Yakkan Shoumei / Import Confirmation** required in advance |
+| Prescription medicine | **Up to 1 month's supply** | **Import Confirmation (Yunyu Kakunin-sho, formerly Yakkan Shoumei)** required in advance |
 | Over-the-counter medicine | **Up to 2 months' supply** | Import Confirmation |
 | External-use products (creams, drops) | **Up to 24 units** per product | Import Confirmation |
-| Injectables (e.g. insulin pens, EpiPen) | **Up to 1 month**, with prescription | Import Confirmation |
+| Injectables (e.g. insulin pens, EpiPen) | **Up to 1 month**, pre-filled syringes or self-injection kits only, with prescription | Import Confirmation (also needed for any syringes carried without the medicine) |
 
-- **Narcotics** (e.g. codeine above certain strength, morphine, some sleep medicines): a **separate permit** from a Regional Bureau of Health and Welfare is needed **before travel**.
-- **Stimulants**: medicines containing **amphetamine, methamphetamine, or dextroamphetamine (e.g. Adderall)** are **prohibited** and cannot be brought in with any paperwork. **Methylphenidate (Ritalin, Concerta)** requires a narcotics-type permit.
+- **Narcotics** (e.g. codeine, morphine, oxycodone, regardless of amount): a **separate permit** from one of the eight Regional Bureaus of Health and Welfare is needed **before travel** — apply at least two weeks ahead. Sleep medicines and other **psychotropics** are a different category with their own quantity limits.
+- **Stimulants**: medicines containing **amphetamine, methamphetamine, or dextroamphetamine (e.g. Adderall)** are **prohibited** and cannot be brought in with any paperwork. **Methylphenidate (Ritalin, Concerta)** is a controlled psychotropic, not a narcotic: up to a **30-day supply (max 2.16 g total)** may be brought in with a doctor's letter or prescription and no permit; more than that needs an Import Confirmation applied for in advance.
 - **Pseudoephedrine**: products containing **more than 10% pseudoephedrine** are treated as stimulant raw materials and are prohibited. Many Western decongestants fall on the wrong side.
 
 > **[Verify]** Confirm quantities and the current procedure name ("Import Confirmation", formerly Yakkan Shoumei) with the MHLW English page before publication. This area changes and the consequences of an error are severe.
@@ -46,7 +46,7 @@ Many common medicines are sold in **different strengths or not at all** (for exa
 
 ### Sources
 - Ministry of Health, Labour and Welfare — Bringing medicines for personal use into Japan (English)
-  https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kojinyunyu/topics/tp010401-1_00001.html (application portal: https://impconf.mhlw.go.jp/)
 - Ministry of Health, Labour and Welfare — Import Confirmation application (Yakkan Shoumei)
   https://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/dl/01.pdf
 - Narcotics Control Department — Bringing narcotics into Japan

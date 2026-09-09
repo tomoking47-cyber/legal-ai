@@ -11,12 +11,12 @@ Renting a car opens the Japan that trains do not reach — Hokkaido, Okinawa, th
 
 | Item | Rule |
 |---|---|
-| **Licence** | **International Driving Permit under the 1949 Geneva Convention** (US, UK, Australia, Canada, Korea, most of Europe) + home licence + passport. **Germany, France, Switzerland, Belgium, Monaco, Taiwan, Estonia**: home licence + **official Japanese translation** (JAF or embassy). **China, Brazil, Indonesia, Vietnam and others: not accepted** |
+| **Licence** | **International Driving Permit under the 1949 Geneva Convention** (US, UK, Australia, Canada, Korea, most of Europe) + home licence + passport. **Germany, France, Switzerland, Belgium, Monaco, Taiwan, Estonia, Slovenia**: home licence + **official Japanese translation** (JAF or embassy), valid up to one year from arrival. **China, Brazil, Indonesia, Vietnam and others: not accepted** |
 | Side | **Left**; driver on the right |
-| Speed limits | **Urban 40–50 km/h, general roads 60, expressways 100 (some 120)**. Enforced by camera |
-| **Alcohol** | **0.15 mg/L breath (about 0.03% BAC)** — effectively **zero**. Penalties: up to **3 years' prison / ¥500,000**; **passengers and those who served the driver are also liable** |
-| Expressway tolls | **About ¥25 per km** — Tokyo–Osaka roughly **¥11,000**; **ETC card** (rent one) or cash lanes; **Japan Expressway Pass** for visitors |
-| Fuel | **Regular (レギュラー) ~¥170–180/L** (2025); attendants at full-service stations |
+| Speed limits | **Since 1 Sept 2026, narrow roads with no centre line default to 30 km/h**; other general roads 60 (posted 40–50 in towns), expressways 100 (some 120). Enforced by camera |
+| **Alcohol** | **0.15 mg/L breath (about 0.03% BAC)** — effectively **zero**. Penalties: up to **3 years' prison / ¥500,000** (0.15 mg/L or more), **up to 5 years / ¥1,000,000 if judged drunk**; **passengers and those who served the driver are also liable** |
+| Expressway tolls | **About ¥25 per km** — Tokyo–Osaka roughly **¥11,000**; **ETC card** (rent one) or cash lanes; **regional expressway passes for visitors** (Hokkaido, Central Nippon, Kyushu) — the nationwide Japan Expressway Pass is no longer sold |
+| Fuel | **Regular (レギュラー) ~¥160–175/L** (2026; the ¥25.1/L provisional gasoline tax was abolished on 31 Dec 2025, but oil prices rose in 2026); attendants at full-service stations |
 | Parking | **Never free in cities**; ¥300–600/hour; **illegal parking towed and fined** |
 | Winter | **Studless winter tyres or chains mandatory** on marked roads; rental cars in Hokkaido come fitted |
 
@@ -37,7 +37,7 @@ Renting a car opens the Japan that trains do not reach — Hokkaido, Okinawa, th
 
 ## Misunderstanding 3｜Expressways are free or cheap
 
-**Among the world's most expensive**: roughly ¥25/km. For a long trip, compare with the Shinkansen; for a rural loop, buy a **visitor expressway pass**.
+**Among the world's most expensive**: roughly ¥25/km. For a long trip, compare with the Shinkansen; for a rural loop in Hokkaido, central Japan or Kyushu, buy the **regional visitor expressway pass** (HEP, CEP, KEP) through your rental company.
 
 ## Misunderstanding 4｜Speed limits are advisory
 

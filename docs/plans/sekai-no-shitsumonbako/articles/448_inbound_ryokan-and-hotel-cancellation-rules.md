@@ -12,7 +12,7 @@ Cancellation policies in Japan are stricter than many visitors expect, and the c
 |---|---|---|
 | **Ryokan (with meals)** | **7 days before: 20%; 3 days: 30–50%; day before: 50–80%; same day: 80–100%; no-show: 100%** | Meals are prepared per guest; policies are stated in the booking and are enforceable |
 | **Business / city hotels** | **Day before: 20–50%; same day: 80–100%; no-show: 100%** | Non-refundable rates are increasingly common |
-| **Restaurants (courses, small counters)** | **Deposit or card guarantee at booking**; **no-show: 100% of course price** or a fixed fee | Legally recoverable; Japan's Ministry of Economy published no-show guidance in 2018 |
+| **Restaurants (courses, small counters)** | **Deposit or card guarantee at booking**; **no-show: 100% of course price** or a fixed fee | Legally recoverable; the Ministry of Economy, Trade and Industry (METI) published a 'No-show Countermeasures Report' in November 2018 |
 | **Group bookings** | Stricter | — |
 | **Weather** | **Typhoon or transport suspension**: many hotels waive, **ryokan often do too if trains stop**; ask, do not assume | Insurance covers the rest |
 
@@ -47,7 +47,7 @@ Cancellation policies in Japan are stricter than many visitors expect, and the c
 
 ### Sources
 - Ministry of Economy, Trade and Industry — Guidelines on restaurant no-shows (No show 対策レポート, 2018)
-  https://www.meti.go.jp/press/2018/11/20181101003/20181101003.html
+  https://www.meti.go.jp/press/2018/11/20181101002/20181101002.html
 - Consumer Affairs Agency — Consumer Contract Act (cancellation charges)
   https://www.caa.go.jp/policies/policy/consumer_system/consumer_contract_act/
 - Japan Ryokan and Hotel Association — Standard terms and conditions (宿泊約款)

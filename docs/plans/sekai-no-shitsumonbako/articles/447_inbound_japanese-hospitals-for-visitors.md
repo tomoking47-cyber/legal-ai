@@ -14,13 +14,13 @@ Getting sick abroad is frightening, and Japan's system is unfamiliar: clinics ra
 | **Need English** | Clinics listed on **JNTO's medical institution search** or **your embassy's list**; international clinics in Tokyo/Osaka/Kyoto | Higher (¥10,000–30,000) | Some hotels have a doctor on call |
 | **After hours** | **Municipal holiday/night clinic (休日夜間急患センター)**; **#7119** for advice (Tokyo and many regions); **#8000** children | — | See the clinic article |
 | **Emergency (chest pain, stroke signs, severe injury, unconscious)** | **119** — ambulance is **free**; hospital treatment is charged | ER visit **¥20,000–100,000+** | Say "kyūkyū desu" (emergency); operators handle English via interpretation |
-| **Large hospital without referral** | Possible but **¥7,000+ surcharge** and long waits | — | For serious or specialist needs |
+| **Large hospital without referral** | Possible but **¥7,000+ first-visit surcharge** (compulsory since October 2022 at university hospitals and designated hospitals with 200+ beds) and long waits | — | For serious or specialist needs |
 | **Pharmacy** | **Prescription filled at a pharmacy (薬局)** near the clinic; OTC at drugstores | ¥1,000–5,000 | Bring the prescription slip |
 
 - **JNTO's 24-hour "Japan Visitor Hotline" (050-3816-2787)** covers medical questions in English, Chinese and Korean and can locate a clinic.
 - **Payment**: **cash or card at the counter after the visit**; **get an itemised receipt (領収書 / 診療明細書)** for your travel insurer. **Direct billing** to insurers exists only at some international clinics.
 - **Prescriptions**: clinics prescribe **short courses (days, not months)**; **bring your usual medicines** (see the medicine article). Japanese doses may be **lower** than you are used to.
-- **Cost benchmark**: without insurance you pay **100% of the national fee schedule** — a consultation is set nationally at about **¥2,900 first visit**, plus tests and medicine; **hospitals may charge visitors 200–300% of the schedule** since 2016 to cover interpretation and admin.
+- **Cost benchmark**: without insurance you pay **100% of the national fee schedule** — the basic first-visit fee is set nationally at about **¥2,900–3,000** (¥2,910 from June 2024; revised again in the June 2026 fee revision), plus tests and medicine; **some hospitals charge uninsured foreign visitors 200–300% of the schedule**, which MHLW guidance permits, to cover interpretation and admin.
 
 > **[Verify]** Hotline number and clinic search with JNTO; fee schedule and the surcharge for uninsured foreign patients with MHLW guidance; #7119 coverage with FDMA.
 
@@ -34,7 +34,7 @@ Getting sick abroad is frightening, and Japan's system is unfamiliar: clinics ra
 
 ## Misunderstanding 3｜Ambulances are expensive
 
-**Ambulances are free**; the hospital bill is not. Call 119 for real emergencies without hesitating over cost.
+**Ambulances are free** (though since December 2024 some prefectures, starting with Ibaraki, let large hospitals charge about ¥7,700 when an ambulance case turns out to be non-urgent); the hospital bill is not. Call 119 for real emergencies without hesitating over cost.
 
 ## Misunderstanding 4｜Travel insurance is optional for a safe country
 

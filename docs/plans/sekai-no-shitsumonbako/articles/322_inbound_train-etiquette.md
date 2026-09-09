@@ -4,7 +4,7 @@
 
 Japanese trains carry tens of millions of people a day in near silence, and visitors sense a rulebook they cannot see. Most of it reduces to a few habits about sound, space and the order of boarding — plus a couple of formal rules about seats and cars.
 
-## A. The common misunderstanding is that the rules are about being quiet. They are about not imposing on others in a space where nobody can leave: phones silent and calls not taken, backpacks worn on the front or in the rack, priority seats given up, eating avoided on commuter lines, and lines on the platform respected. None of it is law except the women-only cars and the ban on smoking.
+## A. The common misunderstanding is that the rules are about being quiet. They are about not imposing on others in a space where nobody can leave: phones silent and calls not taken, backpacks worn on the front or in the rack, priority seats given up, eating avoided on commuter lines, and lines on the platform respected. None of it is law except the ban on smoking; even women-only cars rest on voluntary cooperation rather than a legal ban, though operators expect men to move.
 
 ## The conventions
 
@@ -20,7 +20,7 @@ Japanese trains carry tens of millions of people a day in near silence, and visi
 | **Luggage** | Large cases: rack, behind the last seat, or forwarded (see the luggage article) |
 | **Rush hour** | **7:30–9:00** in Tokyo; avoid with luggage or children if you can |
 
-- The **Yamanote Line** carries about **4 million passengers a day**; **Shinjuku Station about 3.5 million**, the world's busiest (Guinness). Density is why the norms exist.
+- The **Yamanote Line** carries **over 3 million passengers a day**; **Shinjuku Station roughly 2.7–3.5 million** across its five operators, the world's busiest (Guinness). Density is why the norms exist.
 - **Smoking is banned** on all trains and platforms; **drinking alcohol** is legal but frowned on except on long-distance trains.
 - Operators run **"manner" posters** each season; the current top complaints are **noise from phones and earphones, backpacks, and blocking the doors**.
 

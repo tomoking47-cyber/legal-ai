@@ -20,7 +20,7 @@ The heated seat with a control panel is the first piece of Japan most visitors t
 | **音姫 / 擬音** (otohime) | **Flushing sound** to mask noise | Does not flush |
 | **便座** (benza) | Seat heater on/off | — |
 
-- **Household penetration**: about **80% of homes** have a bidet toilet (Cabinet Office consumer survey); public toilets in stations, department stores and convenience stores mostly do too.
+- **Household penetration**: about **82% of two-or-more-person households** have a bidet toilet (Cabinet Office Consumer Confidence Survey, March 2025); public toilets in stations, department stores and convenience stores mostly do too.
 - **Nozzles self-clean** before and after use; the water is **warmed** and the seat **heated**. The mechanism is the same across brands.
 - **Toilet slippers**: in homes, ryokan and some restaurants, a separate pair sits inside the toilet doorway — **change into them at the door and back out again**. Walking away in them is the classic error.
 - **Squat toilets (和式)** survive in some older stations and parks: face the **hood**, feet either side. Many public toilets now label stalls **洋式 (Western) / 和式 (Japanese)**.

@@ -15,7 +15,7 @@ The basement food hall — depachika — is one of the most recommended experien
 | Middle floors | Fashion by brand; kimono on an upper floor | Sizes run small (see the sizing article) |
 | Top floor | Restaurants, event hall (**seasonal food fairs**), sometimes a rooftop garden | Restaurants have queues at 12:00 |
 
-- Department-store sales were about **¥5.9 trillion in 2023**; **duty-free sales to visitors** accounted for a record share, exceeding **¥600 billion** in FY2024 (Japan Department Stores Association).
+- Department-store sales were about **¥5.4 trillion in 2023** and **¥5.8 trillion in 2024**; **duty-free sales to visitors** reached a record **¥649 billion** in calendar 2024, 11% of the total (Japan Department Stores Association).
 - **Wrapping** is free and expected for gifts; the store's paper signals the gift's provenance. Say "purezento de" (as a gift).
 - **Depachika bento** are discounted **30–50% from about 19:00**; the best-known counters sell out earlier.
 
@@ -39,7 +39,7 @@ They are asking whether you want a **cooling pack (horeizai)** and for **how man
 
 ## Misunderstanding 5｜Department stores are dying
 
-Regional stores have closed, but flagship stores in Tokyo, Osaka and Fukuoka posted **record sales in 2023–24**, driven by inbound luxury spending. The depachika is the anchor that keeps residents coming.
+Regional stores have closed (sales outside the ten big cities fell 0.5% in 2024), but flagship stores in Tokyo, Osaka and Fukuoka posted **record sales in 2023–24**, driven by inbound luxury spending. The depachika is the anchor that keeps residents coming.
 
 ---
 

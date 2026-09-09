@@ -20,7 +20,7 @@
 | Shorthand | **丸の内1-9-1** | Chōme-ban-gō written with hyphens; **the most useful string to paste into a map app** |
 
 - **Postal codes (〒 seven digits, e.g. 100-0005)** identify the district; entering the postcode in a map app narrows the search to a few blocks.
-- **Block-number plates (街区表示板)** — small green or blue metal plates on buildings and utility poles — show **chōme-ban** (e.g. 1-9); **building plates (住居番号表示板)** show the gō. Look up at eye level on corners.
+- **Block-number plates (街区表示板)** — small two-colour metal plates (often blue or green, colour varies by municipality) on buildings and utility poles — show **chōme-ban** (e.g. 1-9); **building plates (住居番号表示板)** show the gō. Look up at eye level on corners.
 - **Street names exist** only for a few major roads (Aoyama-dōri, Omotesandō) and in **Kyoto**, which uses a **grid with intersections** (e.g. "Shijō-Kawaramachi") and its own directional suffixes (agaru/sagaru = north/south of).
 - **Landmark navigation** is what residents use: the police box (kōban) with its area map, convenience stores, stations and exits. **Station exit numbers** (e.g. Shinjuku "West Exit", Tokyo Metro "Exit A5") are the most important navigation unit in a city.
 

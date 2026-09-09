@@ -4,7 +4,7 @@
 
 Visitors imagine Tokyo as a 24-hour city, and in some ways it is — but many restaurants stop taking customers surprisingly early, close on a random weekday, and shut for a mid-afternoon break. Being turned away from an apparently open restaurant is one of the most common small frustrations of a Japan trip.
 
-## A. Japanese restaurants run on "last order" (rasuto ōdā), typically 30–60 minutes before closing, and many independent places close at 20:00–21:00, with lunch service ending sharply at 14:00 and a break until 17:00 or 18:00. Most have a fixed weekly closing day (teikyūbi) — often Monday, Tuesday or Wednesday rather than Sunday — plus irregular holidays (furegular). Check the hours online the same day, arrive at least an hour before closing, and if a place says "L.O." at a time, treat that as the deadline for ordering, not for sitting down.
+## A. Japanese restaurants run on "last order" (rasuto ōdā), typically 30–60 minutes before closing, and many independent places close at 20:00–21:00, with lunch service ending sharply at 14:00 and a break until 17:00 or 18:00. Most have a fixed weekly closing day (teikyūbi) — often Monday, Tuesday or Wednesday rather than Sunday — plus irregular holidays (futeikyū). Check the hours online the same day, arrive at least an hour before closing, and if a place says "L.O." at a time, treat that as the deadline for ordering, not for sitting down.
 
 ## How hours work
 
@@ -13,9 +13,9 @@ Visitors imagine Tokyo as a 24-hour city, and in some ways it is — but many re
 | **Eigyō jikan (営業時間)** | Opening hours | Lunch **11:30–14:00**, dinner **17:30–22:00** |
 | **L.O. / rasuto ōdā (ラストオーダー)** | **Last time to place an order** — usually **30 min before closing for food, 15–30 for drinks**. Arriving 20 minutes before L.O. often means being refused because the kitchen has begun closing | L.O. 21:30 for a 22:00 close |
 | **Teikyūbi (定休日)** | **Fixed weekly closing day** — for independent restaurants often **Monday, Tuesday or Wednesday**, because weekends are busy | "Closed Tuesdays" |
-| **Furegular kyūjitsu (不定休)** | Irregular closures posted on social media or the door | Check Instagram/X the same day |
+| **Futeikyū (不定休)** | Irregular closures posted on social media or the door | Check Instagram/X the same day |
 | **Junbichū (準備中)** | "Preparing" sign — closed between services | 14:00–17:30 |
-| **Hōkō (満席 / manseki)** | "Full" — including seats reserved for later | Wait or move on |
+| **Manseki (満席)** | "Full" — including seats reserved for later | Wait or move on |
 
 - **Where hours are long**: **chain restaurants** (family restaurants, gyūdon, ramen chains — often 24 hours or to 02:00), **izakaya** (to 23:00–midnight, later in nightlife districts), **department-store restaurant floors** (to 22:00), **convenience stores** (24 h).
 - **Where they are short**: **sushi counters, kaiseki, soba, tempura specialists** — often **two seatings** (18:00 and 20:00) with fixed courses; many stop lunch at 13:30 or when the day's rice is gone ("**sold out**" signs are common at popular ramen and tonkatsu shops).
@@ -32,8 +32,8 @@ Visitors imagine Tokyo as a 24-hour city, and in some ways it is — but many re
 ### Sources
 - Japan National Tourism Organization — Dining in Japan: hours, reservations and etiquette
   https://www.japan.travel/en/guide/dining-etiquette/
-- Ministry of Health, Labour and Welfare — Restaurant licensing and business-hours framework (Food Sanitation Act)
-  https://www.mhlw.go.jp/english/
+- Japan Food Service Association — Industry data and typical operating patterns of restaurant chains
+  https://www.jfnet.or.jp/
 - Tabelog — Restaurant listing standards (opening hours, teikyūbi)
   https://tabelog.com/en/
 

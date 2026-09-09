@@ -11,11 +11,11 @@ A small but daily question. Japan's electricity is unusual on two counts — the
 | Item | Japan | Comparison |
 |---|---|---|
 | Voltage | **100 V** | US/Canada 120 V; UK 230 V; EU 230 V |
-| Frequency | **50 Hz east** (Tokyo, Tohoku, Hokkaido) / **60 Hz west** (Nagoya, Osaka, Kyushu) | Boundary near the Fuji River, Shizuoka |
+| Frequency | **50 Hz east** (Tokyo, Tohoku, Hokkaido) / **60 Hz west** (Nagoya, Osaka, Shikoku, Kyushu, Okinawa) | Boundary runs from the Fuji River (Shizuoka) to Itoigawa (Niigata) |
 | Plug | **Type A** (two flat parallel pins) | Same shape as US ungrounded |
 | Grounded socket (Type B) | **Uncommon** in homes and older hotels | Kitchens and newer buildings have them |
 
-- Japan is **one of only two countries** (with parts of Mexico) using 100 V.
+- Japan is **the only country** with a 100 V mains standard; North and Central America use 110–127 V (Mexico 127 V), and most of the world uses 220–240 V.
 - Type A pins in Japan are **the same size**, unlike US plugs where one pin is wider — so some US polarised plugs **do not fit** Japanese sockets without an adapter.
 - The 50/60 Hz split dates to the 1890s, when Tokyo imported German generators and Osaka imported American ones.
 

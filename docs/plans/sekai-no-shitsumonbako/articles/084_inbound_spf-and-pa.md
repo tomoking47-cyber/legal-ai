@@ -11,7 +11,7 @@ PA is the rating most visitors have never seen before. **For the rest of the lab
 
 | Rating | What it measures | Scale |
 |---|---|---|
-| **SPF** | Protection against **UVB** (the burning wavelengths) | A number |
+| **SPF** | Protection against **UVB** (the burning wavelengths) | A number, labelled up to **SPF50+** in Japan |
 | **PA** | Protection against **UVA** (longer wavelengths, penetrate deeper, pass through window glass) | **PA+ to PA++++** |
 
 Both are measured under international test methods with **2 mg of product per cm² of skin.** Surveys report actual use at **around a quarter to half** of that. **Applied thinly, neither rating behaves as printed.**
@@ -32,7 +32,7 @@ A high SPF number says nothing on its own about UVA. **Look for the PA rating se
 
 ## Misunderstanding 4｜The ratings mean the same everywhere
 
-Rating systems and test methods differ between countries. **Do not convert a Japanese rating into a familiar foreign one in your head.**
+SPF testing is largely harmonised internationally (ISO 24444), but UVA labelling is not: Japan uses PA, the EU a UVA-in-a-circle mark, the US 'Broad Spectrum'. **Do not convert a Japanese PA rating into a familiar foreign one in your head.**
 
 ## Misunderstanding 5｜The rating alone determines the result
 

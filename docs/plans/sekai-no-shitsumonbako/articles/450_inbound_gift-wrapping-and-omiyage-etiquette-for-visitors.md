@@ -13,11 +13,11 @@ Bringing back edible souvenirs — omiyage — for colleagues and family is a Ja
 | **What** | **Regional sweets or snacks, individually wrapped, boxed** (e.g. Tokyo Banana, Hakata Tōrimon, Shiroi Koibito, Kyoto yatsuhashi); also regional pickles, tea, sake |
 | **Where** | **Station and airport omiyage shops**, department-store food floors, the destination's shops; the station near your departure has everything from the region |
 | **Box sizes** | **6, 8, 10, 12, 16** pieces — matched to the office headcount; **avoid 4 and 9** (homophones for death and suffering) for formal gifts |
-| **Shelf life** | **Boxed omiyage keep 2–4 weeks** (that is the design); **fresh sweets (namagashi) do not travel** (see the wagashi article) |
+| **Shelf life** | **Boxed omiyage usually keep 1–4 weeks** — check the date, as some famous items (e.g. Tokyo Banana, about a week) are short-dated; **fresh sweets (namagashi) do not travel** (see the wagashi article) |
 | **Wrapping** | **Free at department stores and many shops**; say **"purezento de" (as a gift)** or **"omiyage de"**; **noshi paper** for formal occasions on request |
 | **Bags** | **One paper bag per recipient** is offered; ask for "kobukuro" (small bags) — Japanese give the gift in the shop's bag |
 | **Price norms** | **¥1,000–3,000** per box for colleagues; ¥3,000–5,000 for a host family |
-| **Taking home** | **Sealed sweets are fine almost everywhere**; **meat products, fresh fruit, dairy** are restricted (see the food-home article); **tax-free** applies over ¥5,000 (consumables) |
+| **Taking home** | **Sealed sweets are fine almost everywhere**; **meat products, fresh fruit, dairy** are restricted (see the food-home article); **tax-free** applies over ¥5,000 (consumables sealed in a tax-free bag until 31 October 2026; from 1 November 2026 the tax is refunded at departure instead and the sealed-bag rule ends) |
 
 - The omiyage market is estimated at **over ¥1 trillion a year**; station shops in Tokyo alone sell thousands of boxes a day. The custom dates from **Edo-period pilgrims bringing back proof of the shrine visit**.
 - **Individual wrapping** is the point: the box is **opened in the office and one piece handed to each person**; a bag of loose cookies does not work.

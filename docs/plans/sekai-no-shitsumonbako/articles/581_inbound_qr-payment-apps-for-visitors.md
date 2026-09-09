@@ -10,20 +10,20 @@ Japan went from cash to QR codes in about five years: PayPay stickers are now on
 
 | Method | Works for short-term visitors? | Where accepted | Notes |
 |---|---|---|---|
-| **PayPay, d払い, au PAY, Rakuten Pay, LINE Pay (Japan)** | **Generally no** — need a Japanese mobile number and bank account/Japan-issued card; PayPay's tourist pilot has been limited | Everywhere | Some visitors with a Japanese eSIM number and foreign card get partway through sign-up; the balance top-up usually fails |
+| **PayPay, d払い (d Barai), au PAY, Rakuten Pay** | **Generally no** — need a Japanese mobile number and bank account/Japan-issued card; PayPay's tourist pilot has been limited | Everywhere | Some visitors with a Japanese eSIM number and foreign card get partway through sign-up; the balance top-up usually fails |
 | **Alipay / Alipay+** | **Yes** — Chinese and linked wallets (GCash, Touch 'n Go, Kakao Pay, TrueMoney, etc.) scan **PayPay and Alipay+ codes** | Most PayPay merchants, convenience stores, drugstores | Look for the Alipay+ sticker |
 | **WeChat Pay** | **Yes**, at many merchants via interoperability | Convenience stores, chains, PayPay merchants | — |
 | **Contactless credit/debit (Visa, Mastercard, Amex tap)** | **Yes** | Convenience stores, chains, transport gates in many cities, most places that show QR logos | The most useful single method. Check foreign-transaction fees |
-| **Suica / PASMO / ICOCA (transit IC)** | **Yes** — physical card (limited issuance since 2023; the tourist **Welcome Suica** is sold at airports) or **Apple Wallet / Google Wallet** (iPhone; Android needs a Japanese-model phone) | Trains, buses, convenience stores, vending machines, many shops | Top up with cash at machines, or with a card in the Wallet app (foreign Visa often fails; Mastercard/Amex usually work) |
+| **Suica / PASMO / ICOCA (transit IC)** | **Yes** — physical card (regular Suica/PASMO sales resumed 1 March 2025 after the 2023–25 chip-shortage suspension; the tourist **Welcome Suica** is sold at airports, and the **Welcome Suica Mobile** iPhone app launched March 2025) or **Apple Wallet / Google Wallet** (iPhone; Android needs a Japanese-model phone) | Trains, buses, convenience stores, vending machines, many shops | Top up with cash at machines, or with a card in the Wallet app (foreign Visa often fails; Mastercard/Amex usually work) |
 | **Cash** | Always | **Shrines, temples, small restaurants, rural shops, festivals** | Keep ¥10,000–20,000 |
 
 - **Reading the counter**: a sticker board lists everything accepted — **transit IC logos, QR brands, credit brands, iD / QUICPay (Japanese NFC schemes)**. If you see **Alipay+**, your home wallet probably works.
 - **Convenience stores accept nearly everything**; the gaps are **independent restaurants (cash or PayPay only), taxis outside big cities (cash or card), temples (cash), coin lockers (IC or cash), and most vending machines (cash or IC)**.
 - **Fees**: overseas wallets convert at their own rate; **contactless cards** may add **1.5–3%** foreign-transaction fees; **ATM withdrawal** at 7-Eleven or Japan Post ATMs costs your bank's fee plus about **¥110–220**.
-- **Mobile Suica on iPhone** is the convenience win: add a Suica in Wallet, top up, tap phones on gates and at tills; **Express Transit** works without unlocking. Android tourists mostly need a physical card.
+- **Mobile Suica on iPhone** is the convenience win: add a Suica in Wallet, top up, tap phones on gates and at tills; **Express Transit** works without unlocking. Android tourists mostly need a physical card (Google Wallet Suica requires a Japanese-model phone with Osaifu-Keitai/FeliCa).
 - **Split bills**: Japanese restaurants often **do not split a bill across cards**; **cash for shared meals** avoids the awkwardness.
 - **Tax-free shopping** works with any payment method; you need the **passport** at the register.
-- **Coming changes**: PayPay and JCB have trialled **tourist onboarding with a foreign card**; the Osaka Expo 2025 era accelerated **contactless-on-transit** (Osaka Metro, Tokyo Metro pilots, JR West). Check the current status before you travel.
+- **Coming changes**: PayPay and JCB have trialled **tourist onboarding with a foreign card**; the Osaka Expo 2025 era accelerated **contactless-on-transit** (Osaka Metro system-wide; Tokyo Metro and JR West trials at selected stations; many private railways). Check the current status before you travel.
 
 > **[Verify]** Current sign-up rules for PayPay and other domestic wallets; the list of Alipay+ partner wallets; Welcome Suica availability and the status of foreign-card top-ups in Apple Wallet.
 

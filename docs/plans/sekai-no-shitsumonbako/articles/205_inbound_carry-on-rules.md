@@ -12,7 +12,7 @@ Domestic flights, the Shinkansen and even city trains each have luggage rules th
 |---|---|---|
 | **Domestic flights (JAL, ANA)** | **10 kg**, 1 bag + 1 personal item | Size **55 × 40 × 25 cm** (aircraft with 100+ seats); **45 × 35 × 20 cm** on smaller aircraft |
 | Low-cost carriers (Peach, Jetstar) | **7 kg** total | Strictly weighed at the gate |
-| **Tokaido / Sanyo / Kyushu Shinkansen** | Bags **160–250 cm** (sum of three sides) **need a free "oversized baggage" seat reservation** | No reservation: **¥1,000 fee** and staff stow it where possible. **Over 250 cm: not allowed** |
+| **Tokaido / Sanyo / Kyushu Shinkansen** | Bags **160–250 cm** (sum of three sides) **need a free "oversized baggage" seat reservation** | No reservation: **¥1,000 fee** and staff stow it where possible. **Over 250 cm, over 2 m on one side, or over 30 kg: not allowed** |
 | Other Shinkansen (Tohoku, Hokuriku etc.) | No reservation system; overhead rack or behind last row | Space is limited |
 | City trains and subways | No formal limit for suitcases; **bicycles must be bagged** | Avoid rush hours (7:30–9:00) with large bags |
 | Highway buses | 1 suitcase in the hold, usually under **30 kg / 160 cm** | Varies by operator |
@@ -28,7 +28,7 @@ On the Tokaido/Sanyo/Kyushu lines, **large bags need the reservation** — free 
 
 ## Misunderstanding 2｜Domestic flights have the same allowance as international
 
-**10 kg** is the usual carry-on limit — lower than many international economy allowances. Checked baggage on JAL/ANA domestic is **20 kg free** in economy.
+**10 kg** is the usual carry-on limit — lower than many international economy allowances. Checked baggage on JAL domestic is **20 kg free** in economy; ANA switched in May 2026 to a piece system (**two bags of up to 23 kg each** in economy, fare-dependent).
 
 ## Misunderstanding 3｜Liquids are limited to 100 mL on all flights
 

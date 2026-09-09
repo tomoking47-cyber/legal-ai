@@ -12,12 +12,12 @@ Transport IC cards are the single most asked-about practical item before a trip.
 | Option | Who it suits | Notes |
 |---|---|---|
 | **Welcome Suica** (physical, 28-day validity) | Short visits, Android or no phone | No ¥500 deposit; **unused balance is not refunded** |
-| **Welcome Suica Mobile** (app, launched March 2025) | iPhone users | Top up by credit card; 180-day validity |
+| **Welcome Suica Mobile** (app, launched 6 March 2025) | iPhone / Apple Watch users | Top up by credit card via Apple Pay; 180-day validity; since October 2025 links with JR-EAST Train Reservation and Touch de Go! Shinkansen |
 | **Suica / PASMO in Apple Wallet** | iPhone users staying longer | Can be topped up with foreign cards in Wallet |
-| Regular Suica / PASMO (physical) | Longer stays | ¥500 deposit, refundable at the issuing operator's station |
+| Regular Suica / PASMO (physical) | Longer stays | ¥500 deposit, refundable at the issuing operator's station (a ¥220 handling fee is deducted from any remaining balance) |
 | Regional cards (ICOCA, manaca etc.) | Any | **Interoperable for transport nationwide** under the 10-card alliance |
 
-- Sales of unregistered regular Suica and PASMO cards were **suspended from June 2023 to March 2025** due to a chip shortage; regular sales have since resumed.
+- Sales of unregistered regular Suica and PASMO cards were **suspended from 8 June 2023 to 1 March 2025** due to a chip shortage (registered cards returned in autumn 2023); unrestricted sales have since resumed.
 - IC cards work for fares in **all major urban areas**, but **not on every rural line**, and a card cannot be used across some regional boundaries in a single journey.
 - Maximum balance: **¥20,000**.
 
@@ -41,7 +41,7 @@ At station machines, **top-up is cash only.** Card top-up is possible **inside A
 
 ## Misunderstanding 5｜The card works on the Shinkansen
 
-Ordinary IC cards **do not cover Shinkansen fares** by default. Separate services (e.g. Smart EX, Touch de Go) or paper tickets are needed.
+Ordinary IC cards **do not cover Shinkansen fares** by default. Separate services are needed: Smart EX (Tokaido/Sanyo/Kyushu), Touch de Go! Shinkansen for non-reserved seats on JR East lines (now linkable from Welcome Suica Mobile), or paper tickets. Note Hayabusa/Hayate are all-reserved.
 
 ---
 
@@ -50,7 +50,8 @@ Ordinary IC cards **do not cover Shinkansen fares** by default. Separate service
   https://www.jreast.co.jp/multi/en/welcomesuica/
 - JR East — Welcome Suica Mobile (app)
   https://www.jreast.co.jp/multi/en/welcomesuica/mobile/
-- PASMO — PASMO PASSPORT and information for visitors
+- PASMO — TOURIST PASMO (on sale from 20 May 2026, successor to the discontinued PASMO PASSPORT) and information for visitors
+  https://www.pasmo.co.jp/tourist-pasmo/
   https://www.pasmo.co.jp/visitors/en/
 - Japan Tourism Agency — transport information for visitors
   https://www.mlit.go.jp/kankocho/en/

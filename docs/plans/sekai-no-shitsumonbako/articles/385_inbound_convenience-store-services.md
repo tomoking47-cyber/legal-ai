@@ -10,7 +10,7 @@ Food gets the attention; the services are the reason residents visit a convenien
 
 | Service | How | Notes |
 |---|---|---|
-| **ATM (foreign cards)** | Seven Bank ATMs (7-Eleven) and Lawson/Japan Post ATMs accept **Visa, Mastercard, Plus, Cirrus, UnionPay**; **English menus** | Fee ~¥110–220 per withdrawal plus your bank's charge; limit often ¥100,000 |
+| **ATM (foreign cards)** | Seven Bank ATMs (7-Eleven) and Lawson/Japan Post ATMs accept **Visa, Mastercard, Plus, Cirrus, UnionPay**; **English menus** | Fee ¥0–220 per withdrawal depending on card network (Seven Bank: ¥110/¥220 by amount for Visa/Plus, free for Mastercard/Cirrus; Lawson Bank: ¥110 flat) plus your bank's charge; limit ¥100,000 at Seven Bank, ¥50,000 at Lawson Bank |
 | **Multi-copy machine** | **Print from a USB or smartphone** (app or QR upload), **copy, scan to USB, print photos**; **print boarding passes and e-tickets** | Colour A4 ~¥50–60; **print a PDF via "netprint"/"PrintSmash" apps** |
 | **Ticket terminal (Loppi / multi-copy)** | **Concert, theme park, museum, highway bus, some sports tickets**; pay at the counter | Some need a Japanese phone number |
 | **Parcels** | **Send TA-Q-BIN luggage forwarding**; **drop online-shopping returns**; **receive parcels** ordered to the store | See the luggage article |
@@ -22,7 +22,7 @@ Food gets the attention; the services are the reason residents visit a convenien
 | **Photo ID** | Some multi-copy machines print **passport-style photos** | For residence-card renewals etc. |
 | **Eat-in counter** | Tables and chairs; **tax 10% instead of 8%** if you use them | See the tax article |
 
-- Japan has about **56,000 convenience stores**; **Seven Bank alone runs over 27,000 ATMs**, and they are the most reliable foreign-card cash source in the country (see the cash article).
+- Japan has about **56,000 convenience stores**; **Seven Bank alone runs about 28,000 ATMs (2025)**, and they are the most reliable foreign-card cash source in the country (see the cash article).
 - **Printing a document from your phone**: upload to the chain's print service (7-Eleven "netprint", FamilyMart/Lawson "PrintSmash" or "network print"), receive a code, enter it at the machine — **no Japanese needed beyond the English menu**.
 - The counter staff **cannot** exchange currency, sell SIM cards for tourists at all stores, or help with lost property beyond the store.
 

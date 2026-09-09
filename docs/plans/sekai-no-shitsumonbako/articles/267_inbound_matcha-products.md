@@ -38,7 +38,7 @@ Powder has enormous surface area and **oxidises in weeks**. Buy small tins, keep
 
 ## Misunderstanding 4｜You can buy as much as you want at the famous shops
 
-Since 2024, **purchase limits (often one or two tins per person) and sold-out signs** are common at Uji and Nishio shops. Department stores and smaller tea shops are less constrained.
+Since autumn 2024, **purchase limits (often one item per person in shops; Ippodo capped online orders at 12 units per 60 days) and sold-out signs** are common at Uji, Kyoto and Nishio shops. Department stores and smaller tea shops are less constrained.
 
 ## Misunderstanding 5｜Matcha is caffeine-free or low-caffeine
 

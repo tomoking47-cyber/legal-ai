@@ -10,7 +10,7 @@ Japanese taxis are clean, honest and expensive by Asian standards, and they have
 
 | Item | Detail |
 |---|---|
-| Fares (Tokyo, 2025) | **¥500 for the first 1.096 km**, then **¥100 per 255 m**; **+20% from 22:00 to 05:00** |
+| Fares (Tokyo, from 20 April 2026) | **¥500 for the first 1 km**, then **¥100 per 232 m**; **+20% from 22:00 to 05:00** |
 | Payment | **Cash, credit card, IC card, QR** in almost all Tokyo cabs; rural areas cash-heavy |
 | Doors | **Rear left door opens and closes automatically** — driver-operated. Do not pull or slam |
 | Hailing | Street hail (red light 空車 = vacant), taxi stands, or apps (**GO, S.RIDE, Uber — which dispatches licensed taxis**) |
@@ -19,7 +19,7 @@ Japanese taxis are clean, honest and expensive by Asian standards, and they have
 | Ride-hailing | **Private-car ride-sharing was limited until 2024**; "Japan-style ride-share" now allows taxi companies to use private drivers **in limited areas and hours** |
 | Trains stop | **Roughly 00:00–00:30**; taxis are the way home after |
 
-- Taxi fares are **regulated by region**; Tokyo's 2022 revision set the current base. **Toll roads are added** to the meter.
+- Taxi fares are **regulated by region**; Tokyo's April 2026 revision (about +10%) set the current base, and many other regions raised fares in 2025–26. **Toll roads are added** to the meter.
 - **Drivers are licensed** (Class 2 licence) and cabs display the **company and driver ID**; overcharging is rare, and **lost property is reliably recovered** via the company.
 - **Uber in Japan dispatches licensed taxis** at metered fares in most cities; it is an app for hailing, not a discount.
 

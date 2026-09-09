@@ -47,8 +47,8 @@ Private or in-room baths are one route. **Some public facilities also set aside 
   https://www.nikkei.com/article/DGXLASDG22H1Q_S5A021C1000000/
 - Travel Voice, "Japan Tourism Agency publishes response examples for tattooed foreign bathers" (17 March 2016)
   https://www.travelvoice.jp/20160317-63167
-- Japan Tourism Agency
-  https://www.mlit.go.jp/kankocho/
+- Japan Tourism Agency, "Handling of foreign visitors with tattoos at bathing facilities" (March 2016)
+  https://www.mlit.go.jp/kankocho/topics05_000183.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -10,10 +10,10 @@ Travelling for two weeks with carry-on luggage depends on doing laundry. Japan h
 
 | Item | Figure |
 |---|---|
-| Self-service laundries in Japan | **about 27,000** (Ministry of Health, Labour and Welfare survey) |
+| Self-service laundries in Japan | **roughly 25,000–27,000**, growing about 5% a year (Ministry of Health, Labour and Welfare survey) |
 | Wash (up to ~9 kg) | **¥300–600** |
 | Dry (gas dryer) | **¥100 per 8–10 minutes**; a full load needs **30–40 min** |
-| Washer-dryer combined cycle | **¥1,000–1,500** for a full load, ~60 min |
+| Washer-dryer combined cycle | **¥800–1,400** for a full load (about ¥1,200 typical), ~60 min |
 | Hours | Many **24 hours**, unstaffed |
 
 - **Detergent is usually dispensed automatically** by the machine; you do not need to bring any. Check for the sign 洗剤自動投入.

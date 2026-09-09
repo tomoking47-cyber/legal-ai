@@ -10,12 +10,12 @@ Japan is relaxed about alcohol in some ways — cans in the park, beer from vend
 
 | Rule | Detail |
 |---|---|
-| **Legal age** | **20** for drinking and buying (Minors Drinking Prohibition Act). **ID checks are routine**: convenience-store tills require pressing an "I am over 20" button; bars and clubs may ask for a passport |
-| **Public drinking** | **Legal nationally**. Local bans: **Shibuya centre (year-round from October 2024, 18:00–05:00)**, **Shinjuku Kabukichō around Halloween and New Year**, some parks during cherry-blossom season. Fines are light; enforcement is by request to stop |
-| **Drink-driving** | **Zero-tolerance in practice**: **0.15 mg/L breath alcohol** is the offence threshold, roughly one small drink. **Passengers and the person who served the driver are also liable**. Penalties up to **3 years' prison or ¥500,000** for the driver, up to 5 years if impaired. **Bicycles count** (see the cycling article) |
-| **Public drunkenness** | Not itself an offence, but police can detain someone who is a danger; the city sees many sleeping drinkers and handles them gently |
+| **Legal age** | **20** for drinking and buying (Act on Prohibition of Drinking by Persons Under 20, renamed in 2022 when the age of majority fell to 18 — the drinking age did not change). **ID checks are routine**: convenience-store tills require pressing an "I am over 20" button; bars and clubs may ask for a passport |
+| **Public drinking** | **Legal nationally**. Local bans: **Shibuya centre (year-round from October 2024, 18:00–05:00)**, **Shinjuku Station area (Kabukichō / Shinjuku 3-chōme) on 31 Oct–1 Nov and any other period the ward designates**, some parks during cherry-blossom season. There are no fines or penalties in either ordinance; enforcement is by patrol staff asking people to stop or move on |
+| **Drink-driving** | **Zero-tolerance in practice**: **0.15 mg/L breath alcohol** is the offence threshold, roughly one small drink. **Passengers and the person who served the driver are also liable**. Penalties up to **3 years' prison or ¥500,000** for the driver (up to 5 years or ¥1,000,000 for 'drunk driving' when visibly impaired); passengers and the person who served the drinks face up to 2–3 years or ¥300,000–500,000. **Bicycles count** (see the cycling article) |
+| **Public drunkenness** | Being drunk is not itself an offence, but rowdy or nuisance behaviour while drunk in public is a minor offence under the 1961 Act on Prevention of Drunken Nuisance, and police may take a heavily drunk person into protective custody; the city sees many sleeping drinkers and handles them gently |
 | **Vending machines** | Alcohol vending machines exist but are **few** since the 1990s age-verification rules; most are in hotels or with ID card readers |
-| **Tax-free** | Alcohol can be bought tax-free as a consumable; **sake and whisky are the popular souvenirs** — check your home customs allowance |
+| **Tax-free** | Alcohol can be bought tax-free as a consumable (sealed bag, ¥5,000–500,000 per shop per day) until 31 Oct 2026; from 1 Nov 2026 Japan switches to a refund-at-departure system and the consumable/sealed-bag rules disappear — see the tax-free article; **sake and whisky are the popular souvenirs** — check your home customs allowance |
 
 ## The drinks
 

@@ -4,7 +4,7 @@
 
 Shopping in Japan often ends with a suitcase that will not close. The post office is the answer more often than an extra bag — Japan Post is cheap, reliable and everywhere — but the rules, the paperwork and the size limits are not obvious.
 
-## A. The common misunderstanding is that shipping is complicated and expensive. Japan Post offers several international services from any post office (about 24,000 of them); a 5 kg box by surface mail costs roughly ¥4,000–6,000 to most destinations and takes 1–3 months, while EMS is faster and roughly double. What trips people up is the customs form (now electronic for many countries), the list of prohibited items, and your own country's import limits.
+## A. The common misunderstanding is that shipping is complicated and expensive. Japan Post offers several international services from any post office (about 24,000 of them); a 5 kg box by surface mail costs roughly ¥4,000–6,000 to most destinations and takes 1–3 months, while EMS is faster and roughly double. What trips people up is the customs form (now electronic for many countries), the list of prohibited items, your own country's import limits — and, for the **US, the new prepaid-duty step**: Japan Post suspended goods mail to the US from 27 August 2025 and resumed in April 2026 only via **EMS, ePacket and Saver (sea) with duties prepaid through Japan Post's designated app**.
 
 ## The services (Japan Post, international)
 
@@ -19,7 +19,7 @@ Shopping in Japan often ends with a suitcase that will not close. The post offic
 - **Customs declaration**: since 2021, most destinations require **electronic advance data** — fill in Japan Post's **"International Mail My Page"** online or use the counter tablet; handwritten labels may be refused for some countries.
 - **Prohibited or restricted**: **lithium batteries** (device-installed only, limits apply), **aerosols and perfume** (flammable — not by air), **meat products** and many **fresh foods** (destination rules), **knives** (some countries), **cash**.
 - Boxes: buy at the post office (**¥100–400**) or reuse; **hotels will often post parcels for you** for a fee.
-- **Your country's duty-free allowance** applies to posted goods too (e.g. US: $800; EU: €150 for goods, with excise rules for alcohol).
+- **Your country's duty-free allowance** applies to posted goods too — and two big ones have gone: the **US ended its $800 duty-free rule for postal goods on 29 August 2025** (only gifts under $100 stay exempt), and the **EU abolished its €150 customs-duty exemption from 1 July 2026**. Expect duty/VAT on most parcels; check your customs authority before posting.
 
 > **[Verify]** Rates and services with Japan Post's international mail rate finder (they change yearly); prohibited items with both Japan Post and the destination's customs authority.
 
@@ -41,7 +41,7 @@ Many destinations now **require the electronic customs declaration**; a handwrit
 
 ## Misunderstanding 5｜Duty is paid in Japan
 
-**Import duty and VAT are charged at the destination**, if above your allowance, and collected on delivery. Declare honestly; undervaluation causes delays and fines.
+**Import duty and VAT are charged at the destination**, if above your allowance, and usually collected on delivery — except for the **US, where Japan Post now requires duties to be prepaid via its app** before the parcel is accepted. Declare honestly; undervaluation causes delays and fines.
 
 ---
 

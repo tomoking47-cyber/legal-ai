@@ -2,7 +2,7 @@
 
 - Shelf: `inbound` ／ URL: `/en/questions/beaches-and-swimming-safety` ／ Status: **Draft — sources unverified**
 
-Japan has 30,000 km of coastline and a short, intense beach season. Visitors are surprised that "the sea is closed" outside a few summer weeks, that lifeguards whistle swimmers back within metres of shore, and that everyone leaves the water at the same time in mid-August. There are reasons for each.
+Japan has about 35,000 km of coastline and a short, intense beach season. Visitors are surprised that "the sea is closed" outside a few summer weeks, that lifeguards whistle swimmers back within metres of shore, and that everyone leaves the water at the same time in mid-August. There are reasons for each.
 
 ## A. Swim only at designated bathing beaches (kaisuiyokujō) during their open season — roughly mid-July to late August — and inside the buoyed area, where lifeguards are on duty. Rip currents are the leading cause of drowning; jellyfish appear from around Obon (mid-August), which is why locals stop swimming then; and the south (Okinawa) has box jellyfish and other stinging animals that need nets and long sleeves. Alcohol and swimming is the other big killer. Follow the flags: red means no swimming.
 
@@ -13,9 +13,9 @@ Japan has 30,000 km of coastline and a short, intense beach season. Visitors are
 | **Beach season** | Designated beaches open **mid-July to late August** (Okinawa from April; Hokkaido a few weeks). Outside these dates: **no lifeguards, no facilities, and often signs prohibiting swimming** |
 | **Designated beaches** | Around **1,000 official bathing beaches** with water-quality testing, lifeguards, buoyed swim zones, showers and lockers (¥300–500). Swim **inside the buoys** |
 | **Flags** | **Red: no swimming. Yellow: caution. Green/white: swim.** Lifeguards will whistle you back from the boundary — comply |
-| **Drownings** | Roughly **700–800 water deaths a year** in Japan across sea, rivers and lakes; **rip currents** are the main cause at beaches, and **alcohol** is present in a large share of adult cases |
+| **Drownings** | Roughly **700–800 water deaths and disappearances a year** in Japan (760 in 2025; about 46% at sea, 37% in rivers); **rip currents** are the main cause at beaches, and **alcohol** is present in a large share of adult cases |
 | **Rip currents** | Fast channels of water flowing out to sea, often where the surf looks calmer. **Do not swim against it: float, raise an arm, swim parallel to the shore** until out of the current |
-| **Jellyfish** | **Andon-kurage (box jellyfish, Chiropsalmus)** appear in Honshu waters from **around Obon (mid-August)** — the folk reason "don't swim after Obon". **Okinawa's habu-kurage** (Chironex) from June: **beaches use nets**; sting first aid is **vinegar** at those beaches, sea water elsewhere |
+| **Jellyfish** | **Andon-kurage (a small box jellyfish, *Carybdea brevipedalia*)** appear in Honshu waters from **around Obon (mid-August)** — the folk reason "don't swim after Obon". **Okinawa's habu-kurage** (Chironex) from June: **beaches use nets**; sting first aid is **vinegar** at those beaches, sea water elsewhere |
 | **Other hazards** | **Sea urchins** on rocks, **stonefish (oni-okoze)** in sand, **blue-ringed octopus** in the south. Wear sandals on rocks; don't touch animals |
 | **Tattoos** | A few beaches and most **beach-side pools and showers** restrict visible tattoos; the sea itself is public |
 

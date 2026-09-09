@@ -18,7 +18,7 @@ The Fire and Disaster Management Agency's figures for **May–September 2025**:
 | Aged 65 or over | **57.1%** |
 | Most common location | **The home — 38.1%** |
 
-The last line matters most for visitors. **Heat illness here happens indoors as often as outdoors.**
+The last line matters most for visitors. **The home was the single most common place for heat illness, ahead of roads (19.7%) and outdoor public spaces (12.1%).**
 
 > **[Verify]** Confirm figures against the FDMA heat-illness page before publication.
 

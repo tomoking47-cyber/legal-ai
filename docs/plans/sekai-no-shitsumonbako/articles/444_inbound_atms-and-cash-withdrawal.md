@@ -10,8 +10,8 @@ Japan uses less cash than it did, but a visitor still needs some — for small r
 
 | ATM | Cards | Hours | Fee (ATM side) | Notes |
 |---|---|---|---|---|
-| **Seven Bank (7-Eleven)** | Visa, Mastercard, JCB, Amex, UnionPay, Plus, Cirrus, Discover | **24 h** | **¥110–220** | **English, Chinese, Korean and more**; limit **¥100,000/transaction** for most cards |
-| **Japan Post Bank (ゆうちょ)** | Visa, Mastercard, JCB, Amex, UnionPay, Plus, Cirrus | Post office hours; some 24 h | ¥110–220 | Found in every town, including rural |
+| **Seven Bank (7-Eleven)** | Visa, Mastercard, JCB, Amex, UnionPay, Plus, Cirrus, Discover | **24 h** | **¥0–220 depending on card network and amount** | **English, Chinese, Korean and more**; limit **¥100,000/transaction** for most cards |
+| **Japan Post Bank (ゆうちょ)** | Visa, Mastercard, JCB, Amex, UnionPay, Plus, Cirrus | Post office hours; some 24 h | ¥110–220 | Found in every town, including rural; **limit ¥50,000 per transaction** |
 | **Lawson Bank (Lawson stores)** | Major networks | 24 h | ¥110–220 | — |
 | **Aeon Bank (Aeon malls, some FamilyMart)** | Major networks | Long hours | Varies | — |
 | **Airport / station international ATMs** | All | Long hours | Varies | Queues on arrival |
@@ -19,7 +19,7 @@ Japan uses less cash than it did, but a visitor still needs some — for small r
 
 - **Your bank's fee** (typically **1–3% foreign transaction fee plus a fixed withdrawal fee**) usually exceeds the ATM fee; **withdraw larger amounts less often**.
 - **Decline the "dynamic currency conversion"** offer if presented — being charged in yen and letting your bank convert is almost always cheaper.
-- **Cash need in 2025**: cashless payment is at **about 40% of consumer spending**; cards and IC work in cities, but **shrines, small restaurants, rural shops, some ryokan and coin lockers** still want cash. **¥20,000–30,000 in cash** at any time is a reasonable buffer.
+- **Cash need in 2026**: cashless payment reached **42.8% of consumer spending in 2024 (METI) and is still rising**; cards and IC work in cities, but **shrines, small restaurants, rural shops, some ryokan and coin lockers** still want cash. **¥20,000–30,000 in cash** at any time is a reasonable buffer.
 - **Notes**: ¥1,000, ¥5,000, ¥10,000 (new designs since July 2024; old notes remain valid). **Coins ¥1–¥500**; the ¥500 is worth having for lockers and machines.
 
 > **[Verify]** ATM acceptance and fees with Seven Bank and Japan Post Bank; cashless ratio with METI's annual figures.
@@ -34,7 +34,7 @@ Japan uses less cash than it did, but a visitor still needs some — for small r
 
 ## Misunderstanding 3｜Japan is cash-only
 
-**About 40% cashless and rising**; cards and IC cards handle most city spending. **Carry a cash buffer** for the exceptions (see the cash-and-cards article).
+**Over 40% cashless (42.8% in 2024) and rising**; cards and IC cards handle most city spending. **Carry a cash buffer** for the exceptions (see the cash-and-cards article).
 
 ## Misunderstanding 4｜The ATM screen is in Japanese
 

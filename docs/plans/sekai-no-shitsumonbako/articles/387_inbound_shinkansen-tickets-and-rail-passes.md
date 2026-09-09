@@ -7,17 +7,17 @@ The Shinkansen is the backbone of a Japan trip and its ticketing is where visito
 
 ## A. The common misunderstanding is that the Japan Rail Pass is automatically the best deal. Since the October 2023 price rise (about 70%), the 7-day pass at ¥50,000 only pays off for roughly three or more long Shinkansen trips; a Tokyo–Kyoto–Osaka itinerary is cheaper with individual tickets or a regional pass. A Shinkansen ticket is a base fare plus a limited-express surcharge, sold as one or two pieces, with unreserved, reserved and Green (first-class) seats.
 
-## The numbers (2025)
+## The numbers (2026)
 
 | Item | Price |
 |---|---|
 | **Tokyo–Kyoto (Nozomi, reserved)** | **about ¥14,000** one way, 2 h 15 min |
 | Tokyo–Osaka | about ¥14,700 |
 | Tokyo–Hiroshima | about ¥19,000 |
-| **JR Pass 7-day ordinary** | **¥50,000** (was ¥29,650 before October 2023); 14-day ¥80,000; 21-day ¥100,000 |
-| JR Pass rule | **Nozomi and Mizuho now usable with a ¥4,000–6,000 supplement**; Hikari/Kodama free |
-| Regional passes | **JR East Tohoku Area Pass ¥30,000 (5 days)**, **Kansai Area Pass from ¥2,800 (1 day)**, **Kansai-Hiroshima ¥17,000** — often the better buy |
-| Break-even | The 7-day pass roughly equals **Tokyo–Kyoto–Hiroshima–Tokyo**; below that, buy tickets |
+| **JR Pass 7-day ordinary** | **¥50,000** (was ¥29,650 before October 2023); 14-day ¥80,000; 21-day ¥100,000. **A further rise is announced for 1 October 2026 (7-day ¥53,000 via overseas agents)** — check before buying |
+| JR Pass rule | **Nozomi and Mizuho now usable with a supplement (¥4,960 Tokyo–Kyoto/Shin-Osaka; more for longer legs)**; Hikari/Kodama free |
+| Regional passes | **JR EAST PASS (Tohoku area) ¥35,000 (5 days; 10-day ¥48,000, new pass from March 2026)**, **Kansai WIDE Area Pass** (the 1–4-day Kansai Area Pass is being discontinued in 2026), **Kansai-Hiroshima ¥17,000** — often the better buy |
+| Break-even | The 7-day pass roughly equals **Tokyo–Kyoto–Hiroshima–Tokyo plus a day trip or two** (that triangle alone is about ¥45,000 with individual Nozomi tickets); below that, buy tickets |
 
 ## Tickets and seats
 
@@ -32,7 +32,7 @@ The Shinkansen is the backbone of a Japan trip and its ticketing is where visito
 | **Oversized-baggage seat** | Free reservation for bags 160–250 cm (see the luggage article) |
 
 - **Smart EX** (Tokaido/Sanyo/Kyushu) and **eki-net** (JR East) sell tickets online in English with **IC-card or QR boarding**; discounts of ¥200–1,000 for booking ahead.
-- **Peak periods** (Golden Week, Obon, New Year — see that article) fill reserved seats **a month ahead**; unreserved cars can be standing-only.
+- **Peak periods** (Golden Week, Obon, New Year — see that article) fill reserved seats **a month ahead**; **Nozomi trains run with all seats reserved (no unreserved cars) during these periods**, so unreserved travel means a Hikari or Kodama, and those cars can be standing-only.
 
 > **[Verify]** Fares and pass prices with JR Group's Japan Rail Pass site and JR Central; regional pass prices change yearly.
 

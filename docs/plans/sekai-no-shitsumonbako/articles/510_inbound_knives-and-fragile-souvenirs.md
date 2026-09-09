@@ -15,7 +15,7 @@ Japanese kitchen knives and ceramics are two of the most-bought serious souvenir
 | **Buying** | Kappabashi (Tokyo), Sakai (Osaka), Seki (Gifu), Tsubame-Sanjō (Niigata), Echizen (Fukui). **¥8,000–20,000** for a good stainless-clad gyūtō or santoku; **¥30,000+** for carbon-steel or hand-forged |
 | **Steel** | **Stainless (VG-10, AUS-10)**: easy care. **Carbon (shirogami, aogami)**: sharper, **rusts if left wet** — dry immediately. **Damascus** patterns are cosmetic |
 | **Engraving** | Many shops engrave your name in kanji or katakana for free, 10–20 minutes |
-| **Shipping** | **EMS** from the shop or a post office: **¥3,000–8,000** to Europe/US, 3–7 days, insured. Knives are allowed by post to most countries; **check your country's import rules** (e.g. Australia and the UK allow kitchen knives; some countries restrict blade length) |
+| **Shipping** | **EMS** from the shop or a post office: roughly **¥4,000–8,000** for a 0.5–2 kg parcel to Europe/US, 3–7 days, insured up to ¥20,000 with extra cover available. Knives are allowed by post to most countries; **check your country's import rules and current Japan Post restrictions for US-bound goods** (US postal shipments of goods were disrupted from August 2025 by the end of duty-free de minimis entry) (e.g. Australia and the UK allow kitchen knives; some countries restrict blade length) |
 | **Sharpening** | Buy a **whetstone (#1000 medium, #3000+ finish)** with the knife; **honing rods do not suit Japanese steel** |
 
 ## Ceramics and glass
@@ -28,7 +28,7 @@ Japanese kitchen knives and ceramics are two of the most-bought serious souvenir
 | **Regions** | Arita/Imari (Saga, porcelain), Mino (Gifu), Seto (Aichi), Kutani (Ishikawa), Mashiko (Tochigi), Bizen (Okayama, unglazed), Karatsu, Hagi. **Kappabashi and department stores** stock all of them at fair prices |
 | **Lacquerware (urushi)** | **Light and durable in transit**, but **not dishwasher-safe**; some travellers' skin reacts to fresh lacquer for a few weeks |
 
-- **Tax-free**: both are "**general goods**" — **¥5,000+ per shop per day**, passport needed, **no need to keep sealed** (unlike consumables). From 2026 the system moves to **refund at the airport**; check the tax-free article.
+- **Tax-free**: both are "**general goods**" — **¥5,000+ per shop per day**, passport needed, **no need to keep sealed** (unlike consumables). From **1 November 2026** the system moves to **refund at departure** (you pay tax in the shop and are refunded after customs confirmation), and the general-goods/consumables distinction disappears; check the tax-free article.
 - **Customs at home**: knives and ceramics are normally **duty-free within your personal allowance** (**€430 EU, US$800 US, A$900 Australia**, **£390 UK** by air) — a single high-end knife can exceed it; declare if in doubt.
 - **Cast iron (Nambu tekki)**: heavy (a kettle 1.5–2 kg); **ship** rather than carry, and **dry after every use**.
 - **Scissors and Japanese nail clippers**: **small scissors under 6 cm blade** are allowed in cabin bags in Japan but not on all foreign carriers; check.

@@ -2,15 +2,15 @@
 
 - Shelf: `inbound` ／ URL: `/en/questions/highway-and-overnight-buses` ／ Status: **Draft — sources unverified**
 
-Japan's intercity buses carry over 100 million passengers a year and a Tokyo–Osaka overnight seat can cost a fifth of the shinkansen fare. They are clean, punctual and safe, but visitors misjudge comfort classes, boarding rules and how far in advance the good seats sell.
+Japan's highway buses carried over 100 million passengers a year before the pandemic and are back to roughly that level and a Tokyo–Osaka overnight seat can cost a fifth of the shinkansen fare. They are clean, punctual and safe, but visitors misjudge comfort classes, boarding rules and how far in advance the good seats sell.
 
-## A. Highway buses are the budget layer of Japanese long-distance travel — Tokyo–Osaka from about ¥3,000–6,000 overnight versus ¥14,000+ by shinkansen — and the quality ranges from cramped 4-across seats to fully reclining 3-across "premium" seats with curtains and toilets. Book on Willer, Kosoku Bus Net or Japan Bus Online in English 1–4 weeks ahead, choose 3-row seating if you want to sleep, and know that buses leave from specific stops (Busta Shinjuku, Tokyo Station Yaesu, Osaka Umeda) with a strict no-show policy and about one 15–20 minute rest stop every 2–3 hours. They are slower than trains, susceptible to traffic and weather, and not a good idea on a tight connection to a flight.
+## A. Highway buses are the budget layer of Japanese long-distance travel — Tokyo–Osaka from about ¥3,000–6,000 overnight versus ¥14,000+ by shinkansen — and the quality ranges from cramped 4-across seats to fully reclining 3-across "premium" seats with curtains and toilets. Book on Willer, Kosoku Bus Net (JR Bus group), Highway-buses.jp (Keio) or Japan Bus Online in English 1–4 weeks ahead, choose 3-row seating if you want to sleep, and know that buses leave from specific stops (Busta Shinjuku, Tokyo Station Yaesu, Osaka Umeda) with a strict no-show policy and about one 15–20 minute rest stop every 2–3 hours. They are slower than trains, susceptible to traffic and weather, and not a good idea on a tight connection to a flight.
 
 ## Bus vs train on the main routes
 
 | Route | Highway bus (day / overnight) | Shinkansen | Time (bus vs train) |
 |---|---|---|---|
-| **Tokyo – Osaka/Kyoto** | **¥3,000–7,000 (4-row) / ¥6,000–12,000 (3-row premium)** | ¥13,000–14,500 | **8–9 h vs 2.5 h** |
+| **Tokyo – Osaka/Kyoto** | **¥3,000–7,000 (4-row) / ¥6,000–12,000 (3-row premium)** | ¥13,870–14,920 | **8–9 h vs 2.5 h** |
 | **Tokyo – Nagoya** | ¥2,500–5,000 | ¥11,000 | 5–6 h vs 1.7 h |
 | **Tokyo – Sendai** | ¥3,000–5,000 | ¥11,000 | 5–6 h vs 1.5 h |
 | **Tokyo – Kanazawa** | ¥4,000–7,000 | ¥14,000 | 7–8 h vs 2.5 h |
@@ -27,7 +27,7 @@ Japan's intercity buses carry over 100 million passengers a year and a Tokyo–O
 | **2-row / premium (プレミアム)** | 1+1, shell seats, some fully flat | Near-flat | Business-class feel | Overnight, price approaches train |
 | **Women-only sections** | Reserved rows or whole buses | — | Common on overnight services | Solo women travellers |
 
-- **Booking**: **Willer Express, Kosoku Bus Net (Highway-buses.jp), Japan Bus Online, JR Bus** — all in English, cards accepted, e-tickets on your phone. **Book 1–4 weeks out**; **Fridays, Sundays, holidays and Golden Week/Obon sell out and prices rise 1.5–2×**. Weekday midweek is cheapest.
+- **Booking**: **Willer Express, Kosoku Bus Net (JR Bus group), Highway-buses.jp (Keio), Japan Bus Online** — all in English, cards accepted, e-tickets on your phone. **Book 1–4 weeks out**; **Fridays, Sundays, holidays and Golden Week/Obon sell out and prices rise 1.5–2×**. Weekday midweek is cheapest.
 - **Where buses leave**: **Busta Shinjuku** (above Shinjuku station south exit, the biggest terminal), **Tokyo Station Yaesu South Exit / JR Highway Bus Terminal**, **Osaka Umeda (several separate stops — check which)**, **Kyoto Station Hachijo exit**. **Arrive 15 minutes early**; the bus will not wait and **no-shows forfeit the fare**.
 - **Onboard**: **toilets on most overnight and 3-row buses (not all 4-row)**, **USB/AC power on newer buses**, **blankets on overnight**, **rest stops every 2–3 hours (15–20 min; the driver announces the departure time — write it down)**. **Lights out** and **no talking** after departure on overnight services; **eating strong-smelling food is frowned on**.
 - **Luggage**: **one suitcase in the hold (free), one bag on board**; oversized items and second suitcases may be refused or charged — check the operator.
@@ -42,7 +42,7 @@ Japan's intercity buses carry over 100 million passengers a year and a Tokyo–O
 ### Sources
 - Ministry of Land, Infrastructure, Transport and Tourism — Intercity bus safety regulations and passenger statistics
   https://www.mlit.go.jp/jidosha/
-- Nihon Bus Association — Highway bus guide (Kosoku Bus Net)
+- Nihon Bus Association — Highway bus information
   https://www.bus.or.jp/
 - Japan National Tourism Organization — Travelling by highway bus
   https://www.japan.travel/en/guide/highway-buses/

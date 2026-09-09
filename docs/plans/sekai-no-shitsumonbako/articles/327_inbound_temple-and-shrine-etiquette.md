@@ -20,7 +20,7 @@ Visitors spend more time at shrines and temples than anywhere else in Japan and 
 
 - Japan has about **80,000 shrines and 77,000 temples** (Agency for Cultural Affairs, Religious Yearbook).
 - **Goshuin** (calligraphy stamps) are religious records, not souvenirs; use a **dedicated book (goshuin-chō)**, not a notebook.
-- **Kyoto's Gion** introduced **photography bans on private lanes in 2019 and 2024** after harassment of geiko; fines are posted (**¥10,000**).
+- **Kyoto's Gion** banned **photography on private lanes in 2019** and, from **April 2024, barred tourists from entering the private alleys altogether** after harassment of geiko; signs cite a **¥10,000** fine.
 
 > **[Verify]** Site counts with the Agency for Cultural Affairs Religious Yearbook; Gion rules with the local council.
 

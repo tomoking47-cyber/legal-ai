@@ -30,7 +30,7 @@ Sizes above **28.0 cm (men) and 25.5 cm (women)** are limited in ordinary shops;
 | L (11) | M (6–8) | 10 | 38 |
 | LL / XL (13) | L (10) | 12 | 40 |
 
-- Japanese shoe sizing follows **JIS S 5037**: the number is **foot length in cm**, with width grades **A–F (E, 2E, 3E, 4E common)**. **3E is roughly a US wide.**
+- Japanese shoe sizing follows **JIS S 5037**: the number is **foot length in cm**, with width grades **A–G (E, 2E, 3E, 4E common)**. **3E is roughly a US wide.**
 - Clothing follows **JIS L 4004/4005** with numeric "号" sizes (7, 9, 11, 13) for women and chest-based sizes for men; **sleeve and inseam lengths run short**.
 - Many chains publish the **actual garment measurements (寸法) in cm** on the tag or website — use those, not the letter.
 

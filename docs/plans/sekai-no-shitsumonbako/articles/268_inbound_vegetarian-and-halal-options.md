@@ -18,7 +18,7 @@ Japan looks vegetable-friendly — tofu, rice, seaweed — and then serves fish 
 | Onigiri "kombu" or "ume" | Often fine; **check for bonito (おかか) and dashi seasoning** |
 | Curry | **Beef or pork fat/stock**, sometimes lard in the roux |
 
-- The Japan Tourism Agency estimated vegetarian/vegan visitors at **about 1.5–2 million a year** pre-2020 and has published a **guide for restaurants** on serving them (2020).
+- The Japan Tourism Agency estimated vegetarian/vegan visitors at **about 1.45–1.9 million a year** (2018 estimate) and has published a **guide for restaurants** on serving them (2020, updated with a vegetarian/vegan/Muslim hospitality guide in April 2024).
 - **Halal**: Japan has **no national halal certification body**; certification is by **private organisations** (e.g. Japan Halal Association, Nippon Asia Halal Association), so standards vary. **Muslim-friendly** signs mean some accommodation, not full certification.
 - **Shōjin ryōri** (Buddhist temple cuisine) is **fully vegan by tradition** — Kyoto and Mount Kōya are the centres (¥3,000–8,000 a meal).
 - **Alcohol in seasonings**: mirin and sake are used in many sauces; **soy sauce is typically brewed with wheat and contains trace alcohol** from fermentation.
@@ -49,7 +49,7 @@ Certification is **private and varied**. Check the certificate on display or the
 
 ### Sources
 - Japan Tourism Agency — Guide for vegetarian and vegan visitors (飲食事業者等におけるベジタリアン・ヴィーガン対応ガイド, 2020)
-  https://www.mlit.go.jp/kankocho/
+  https://www.mlit.go.jp/kankocho/content/810003294.pdf
 - Japan National Tourism Organization — Dietary restrictions
   https://www.japan.travel/en/plan/
 - Japan Halal Association — Certification standards

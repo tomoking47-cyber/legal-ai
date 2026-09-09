@@ -17,7 +17,9 @@ Every over-the-counter medicine in Japan falls into one of these categories:
 |---|---|---|
 | 要指導医薬品 (guidance-required) | **Pharmacist, face to face** | Recently switched from prescription; still under safety review |
 | 第1類 (Class 1) | **Pharmacist** | Some acid reducers, some hair-loss products |
-| 指定第2類 (Designated Class 2) | Pharmacist or registered seller | Higher misuse risk; often **limited to one pack per person** |
+| 指定第2類 (Designated Class 2) | Pharmacist or registered seller | Higher-risk Class 2 items, kept away from self-service reach |
+
+Separately, since **1 May 2026** products containing eight abuse-prone ingredients (e.g. codeine, dextromethorphan, pseudoephedrine, bromovalerylurea) are "designated abuse-prevention medicines": **normally one pack per person, name and age checked for under-18s, and large packs not sold to under-18s.**
 | 第2類 (Class 2) | Pharmacist or registered seller | Most cold, pain and allergy remedies |
 | 第3類 (Class 3) | Pharmacist or registered seller | Vitamins, mild digestive aids |
 
@@ -37,7 +39,7 @@ A product may carry English on the front and Japanese only on the back — where
 
 Tax-free purchases currently require a passport and a minimum of **¥5,000 before tax at one shop on one day**.
 
-**The system changes on 1 November 2026.** From that date visitors pay the full price including 10% consumption tax and claim a refund before departure; the sealed-packaging rule for consumables is abolished and categories can be combined toward the threshold.
+**The system changes on 1 November 2026.** From that date visitors pay the full price including tax, have the goods confirmed by customs when leaving Japan (within 90 days of purchase), and the shop or its refund operator then returns the tax, typically to a card; the sealed-packaging rule and the general/consumable split are abolished.
 
 > **[Verify]** Confirm dates, thresholds and procedure with the National Tax Agency before publication. This article may be read after the change takes effect.
 

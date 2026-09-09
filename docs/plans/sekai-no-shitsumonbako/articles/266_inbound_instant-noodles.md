@@ -4,7 +4,7 @@
 
 Instant noodles were invented in Japan in 1958, and the cup version in 1971. The country still eats about 5.8 billion servings a year, and the shelves show it: hundreds of varieties, some from famous restaurants, with instructions that assume you know the system.
 
-## A. The common misunderstanding is that instant noodles are all the same product. In Japan they split into cup types (add hot water, wait), bag types (boil), and chilled/frozen types; the wait time is printed and matters (3 minutes for most ramen, 5 for udon and thick noodles); and some packets go in before the water, others after. Hot water is available at every convenience store.
+## A. The common misunderstanding is that instant noodles are all the same product. In Japan they split into cup types (add hot water, wait), bag types (boil), and chilled/frozen types; the wait time is printed and matters (3 minutes for most ramen, 5 for udon and thick noodles); and some packets go in before the water, others after. Hot water is available at most convenience stores.
 
 ## The system
 
@@ -15,8 +15,8 @@ Instant noodles were invented in Japan in 1958, and the cup version in 1971. The
 | Bag noodles | Boil **500 mL** water, cook 3 min, add soup base **in the bowl or at the end** as instructed | Kitchen |
 | Chilled / frozen ramen | Refrigerated section; microwave or boil | Kitchen |
 
-- Japan consumed about **5.8 billion servings in 2023** (World Instant Noodles Association), around **46 per person** — behind South Korea and Vietnam per capita.
-- **Sodium**: a typical cup ramen carries **5–6 g of salt equivalent** — most of the daily target (7 g). Residents often **leave the soup**.
+- Japan consumed about **5.9 billion servings in 2024** (World Instant Noodles Association), around **47 per person** — well behind Vietnam, South Korea and Thailand per capita.
+- **Sodium**: a typical cup ramen carries **about 4.5–6 g of salt equivalent** — most of the daily target (under 7.5 g for men, 6.5 g for women), roughly half of it in the soup. Residents often **leave the soup**.
 - **Regional and shop-branded cups** (famous ramen shops, regional specialities) sell at **¥250–400** and are a popular souvenir; check import rules for **meat-based soups** (see the bringing-food-home article).
 
 > **[Verify]** Consumption figures with the World Instant Noodles Association; sodium figures from product labels.

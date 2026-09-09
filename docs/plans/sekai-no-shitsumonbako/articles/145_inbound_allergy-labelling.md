@@ -26,11 +26,11 @@ It means **none of the 8 mandatory ones** are declared. Sesame, soy or mustard m
 
 ## Misunderstanding 2｜Restaurant menus are legally checked
 
-They are not. **Ask staff**; an allergy card in Japanese (available from the Japan National Tourism Organization and hospital associations) is the most reliable tool.
+They are not. **Ask staff**; a printed allergy card in Japanese (free templates are offered by allergy charities and travel sites; JNTO's site lists medical and dietary resources) is the most reliable tool.
 
 ## Misunderstanding 3｜"May contain" warnings are standard
 
-Precautionary "may contain" labels are **discouraged** under Japanese rules and used less than in the US. Absence of such a warning does not mean the factory is dedicated.
+Vague precautionary "may contain" labels are **not permitted** under Japanese rules; only specific cross-contamination warnings (e.g. "made on a line that also handles X") are allowed, so such notes are rarer than in the US. Absence of such a warning does not mean the factory is dedicated.
 
 ## Misunderstanding 4｜Soba is a wheat noodle
 

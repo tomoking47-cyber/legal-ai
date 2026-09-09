@@ -9,7 +9,7 @@ This article covers the wording on the pack. **For product names see #99, for ex
 
 ## The list of 56
 
-Under a Ministry of Health, Labour and Welfare notice (21 July 2011), **cosmetics in Japan may only advertise effects from a list of 56 permitted claims** — "cleanses the skin," "keeps skin healthy," "protects against sunburn" and the like. Anything stronger — wording that implies a medical outcome or a fix for a skin condition — is outside the list. **"Sensitive skin," meanwhile, has no medical definition at all.**
+Under a Ministry of Health, Labour and Welfare notice (21 July 2011), **cosmetics in Japan may only advertise effects from a list of 56 permitted claims** (products marked 医薬部外品 / 薬用 are a separate 'quasi-drug' category that may carry additional approved claims) — "cleanses the skin," "keeps skin healthy," "protects against sunburn" and the like. Anything stronger — wording that implies a medical outcome or a fix for a skin condition — is outside the list. **"Sensitive skin," meanwhile, has no medical definition at all.**
 
 So what the label mostly tells you is what is *absent*.
 

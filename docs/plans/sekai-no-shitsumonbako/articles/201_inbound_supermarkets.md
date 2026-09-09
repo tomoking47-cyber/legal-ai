@@ -17,7 +17,7 @@ Visitors photograph convenience stores and depachika food halls, but the ordinar
 | **Baskets** | Take a basket, not a trolley, for a small shop; trolleys hold baskets |
 | **Opening hours** | Typically **9:00 or 10:00 to 21:00–23:00**; some 24 hours |
 
-- Japan had about **22,000 supermarkets** in 2023 (Japan Supermarket Association census), against roughly **56,000 convenience stores**.
+- Japan has about **23,000 supermarkets** (Supermarket White Paper 2024, based on the associations' annual census), against roughly **55,700 convenience stores** (Japan Franchise Association, Dec 2024).
 - The **plastic bag charge** became mandatory on **1 July 2020**; most residents carry a folding bag.
 - **Egg cartons** are not refrigerated in many stores; eggs are dated for **raw consumption** (see the eggs article).
 

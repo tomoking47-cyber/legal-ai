@@ -4,20 +4,20 @@
 
 Onsen get the attention; sentō are the neighbourhood version — a public bath with heated tap water, in a residential street, priced by the prefecture. They are declining fast and worth visiting for that reason, and the rules are slightly different from onsen.
 
-## A. The common misunderstanding is that a sentō is a cheap onsen. A sentō heats ordinary water (some now have natural hot water and call themselves onsen), charges a fixed price set by each prefecture (¥550 in Tokyo in 2025), and serves a neighbourhood — so the etiquette is that of a shared living room: wash first, keep towels out of the water, keep your voice down, and leave the space as you found it.
+## A. The common misunderstanding is that a sentō is a cheap onsen. A sentō heats ordinary water (some now have natural hot water and call themselves onsen), charges a fixed price set by each prefecture (¥600 for adults in Tokyo from 1 August 2026), and serves a neighbourhood — so the etiquette is that of a shared living room: wash first, keep towels out of the water, keep your voice down, and leave the space as you found it.
 
 ## The facts
 
 | Item | Figure |
 |---|---|
-| Sentō in Japan | **about 1,700** (2023), down from **about 18,000 in 1968** |
-| Tokyo | **about 440**, down from 2,687 in 1968 |
-| Entry price | **Set by each prefecture** under the Public Bathhouse Act. Tokyo: **¥550 (adults), ¥200 (children)** as of 2025 |
+| Sentō in Japan | **about 1,900** (2022), down from **about 18,000 (17,999) in 1968** |
+| Tokyo | **about 420** (2025), down from 2,687 in 1968 |
+| Entry price | **Set by each prefecture** under the Public Bathhouse Act. Tokyo: **¥600 (adults 12+), ¥200 (children 6–11), ¥100 (under 6)** from 1 August 2026 |
 | Bring | **Soap and shampoo** (some sell small bottles), **small towel**, larger towel to dry off, coins for the locker |
 | Hours | Typically **15:00–23:00**; closed one weekday |
 | Tattoos | **Most sentō admit tattooed bathers**, unlike many onsen resorts (check the sign) |
 
-- Sentō are regulated as **"public bathhouses" (公衆浴場)**; their price ceiling is set by prefectural governments because they were historically essential — **in 1963 about 40% of Tokyo households had no bath**.
+- Sentō are regulated as **"public bathhouses" (公衆浴場)**; their price ceiling is set by prefectural governments because they were historically essential — **in 1963 about 40% of Japanese households still had no bath at home**.
 - The layout: **shoe locker at the door** (wooden key) → **pay at the counter (bandai) or machine** → **changing room** (baskets or lockers) → **washing area with low stools and taps** → **baths (typically 41–43°C, hotter than onsen)** → often a **cold plunge and sauna** (sauna sometimes an extra fee).
 - Many sentō have been restored as **designer baths** in the 2010s–20s and attract younger residents; some run **English signage**.
 

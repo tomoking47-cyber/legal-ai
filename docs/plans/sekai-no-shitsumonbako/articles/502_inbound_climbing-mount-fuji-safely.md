@@ -2,9 +2,9 @@
 
 - Shelf: `inbound` ／ URL: `/en/questions/climbing-mount-fuji-safely` ／ Status: **Draft — sources unverified**
 
-Mount Fuji (3,776 m) is climbed by around 200,000 people each summer, many of them first-time hikers, and every year the mountain rescue teams pick up visitors in trainers and T-shirts who set off at midnight with no torch. Since 2024 the mountain has a gate, a fee, and a cap. Here is what has changed and what has not.
+Mount Fuji (3,776 m) is climbed by around 200,000 people each summer (about 205,000 in 2025), many of them first-time hikers, and every year the mountain rescue teams pick up visitors in trainers and T-shirts who set off at midnight with no torch. Since 2024 the mountain has a gate, a fee, and a cap. Here is what has changed and what has not.
 
-## A. The season is short — early July to early September — and outside it the routes are closed and deadly. In season, a healthy adult can climb it, but it is a serious high-altitude hike, not a stroll: 5–7 hours up from the 5th station, 3–5 hours down, temperatures near freezing at the summit even in August, and altitude sickness in perhaps one in three climbers. Since 2024 the Yoshida trail (Yamanashi side) requires a ¥4,000 fee (from 2025), a daily cap of 4,000 climbers and a gate closed 14:00–03:00 to non-hut guests; Shizuoka routes now charge the same. Book a mountain hut, do not attempt the overnight "bullet climb", and turn back if the weather turns.
+## A. The season is short — early July to early September — and outside it the routes are closed and deadly. In season, a healthy adult can climb it, but it is a serious high-altitude hike, not a stroll: 5–7 hours up from the 5th station, 3–5 hours down, temperatures near freezing at the summit even in August, and altitude sickness in perhaps one in three climbers. Since 2025 all four trails charge a ¥4,000 fee per climb and close their 5th-station gates 14:00–03:00 to anyone without a hut reservation; the Yoshida trail (Yamanashi) also has a 4,000-per-day cap and online reservation (2026 bookings opened 27 April), and the three Shizuoka trails require a short compulsory online e-learning course before you receive your climbing pass. Book a mountain hut, do not attempt the overnight "bullet climb", and turn back if the weather turns.
 
 ## Key facts
 
@@ -13,11 +13,11 @@ Mount Fuji (3,776 m) is climbed by around 200,000 people each summer, many of th
 | **Season** | **Early July – 10 September** (dates vary by trail and year). **Off-season climbing is officially discouraged**; huts and first-aid posts are closed and fatalities occur every year |
 | **Routes** | **Yoshida** (Yamanashi, most popular, ~60% of climbers, best hut coverage), **Fujinomiya**, **Subashiri**, **Gotemba** (Shizuoka). All start from a "5th station" reached by bus |
 | **Times** | 5th station (2,300 m) to summit: **5–7 hours up, 3–5 down**. Most people climb in the afternoon, sleep at a hut, and reach the summit for sunrise |
-| **Fees (2025)** | **¥4,000 per climber on all four trails** (Yamanashi and Shizuoka). Yamanashi adds **online advance registration** and a **4,000/day cap**; the Yoshida 5th-station gate **closes 14:00–03:00** to anyone without a hut reservation |
+| **Fees and gates (2026)** | **¥4,000 per climber per climb on all four trails**. **All trails close their gates 14:00–03:00** to anyone without a hut reservation. Yamanashi (Yoshida): **online reservation**, **4,000/day cap**, gear checks at the gate. Shizuoka (3 trails): **compulsory online e-learning** and registration via FUJI NAVI before the pass is issued |
 | **Temperature** | Summit **0–8°C** in summer, with wind chill below zero; **10°C colder than the 5th station**, 20°C colder than Tokyo |
 | **Altitude sickness** | Headache, nausea, dizziness in a large share of climbers above 3,000 m. **Descend** if symptoms worsen; oxygen cans help little |
 | **Huts** | **Reservation required**, **¥10,000–15,000** with dinner and breakfast, dormitory sleeping, **no showers**, toilets ¥200–300 per use |
-| **Rescue** | Helicopter rescue in Shizuoka became **chargeable (¥50,000+)** from 2024 for climbers off-season or without proper equipment |
+| **Rescue** | Police/fire rescue is currently **free of charge**, but Shizuoka Prefecture is studying charging for off-season helicopter rescues (Saitama already charges ¥8,000 per 5 minutes of flight in designated mountain areas). Off-season rescue is slow, dangerous for rescuers and may not come at all |
 
 ## Gear (the minimum the prefectures publish)
 
@@ -26,7 +26,7 @@ Mount Fuji (3,776 m) is climbed by around 200,000 people each summer, many of th
 
 ## What goes wrong
 
-- **The "bullet climb" (dangan tozan)** — leaving the 5th station late evening to summit by dawn without sleep — causes most altitude and exhaustion cases. The 2024 gate closure exists to stop it.
+- **The "bullet climb" (dangan tozan)** — leaving the 5th station late evening to summit by dawn without sleep — causes most altitude and exhaustion cases. The gate closure (16:00 in 2024, 14:00 since 2025) exists to stop it.
 - **Setting off in bad weather**: lightning and typhoon-season rain; huts announce closures. Check **the Fuji climbing official site** the morning of.
 - **Descending too fast on the Yoshida trail's volcanic gravel** — knee injuries and getting lost at the Subashiri/Yoshida junction (follow the colour-coded signs for your route).
 - **Post-summit**: the last bus down from the 5th station is early evening; missing it means an expensive taxi.

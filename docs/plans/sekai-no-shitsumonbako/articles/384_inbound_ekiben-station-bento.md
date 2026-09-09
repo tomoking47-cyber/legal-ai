@@ -13,10 +13,10 @@ Buying a boxed meal at the station and eating it on the Shinkansen is one of the
 | Origin | **1885, Utsunomiya Station** (two rice balls and pickles in bamboo leaf) is the usual first ekiben |
 | Number of varieties | **Several thousand**, changing seasonally; the Japan Railway Ekiben Association lists members' products |
 | Price | **¥1,000–1,800** for most; premium **¥2,000–3,000** |
-| Where sold | **Shinkansen and limited-express stations**: concourse shops, platform kiosks, and **Tokyo Station's Ekibenya Matsuri** (over 200 varieties, 05:30–23:00) |
+| Where sold | **Shinkansen and limited-express stations**: concourse shops, platform kiosks, and **Tokyo Station's Ekibenya Matsuri** (over 200 varieties, 05:30–22:00) |
 | Famous examples | **Toge no Kamameshi** (Yokokawa, in a ceramic pot), **Masu no Sushi** (Toyama, trout sushi in a round box), **Ikameshi** (Hokkaido, squid stuffed with rice), **Gyūtan bento** (Sendai, beef tongue, **self-heating**) |
 | Eat where | **On the Shinkansen / limited express** with a reserved or unreserved seat; **not on commuter or local trains** |
-| Rubbish | **Bins at the end of each Shinkansen car** or at your destination station; separate the plastic |
+| Rubbish | **Bins on the vestibules (decks) between cars, near the toilets** — not in every car — or at your destination station; cans and bottles go in the separate slot |
 | Timing | Buy **before boarding**; the on-board trolley service on the Tokaido Shinkansen **ended in 2023** |
 
 - Ekiben are made by **local caterers under contract with the station**; the box is dated and timed (**consumption-by within the day**), and many are served **cold by design** (rice seasoned to be good cold).
