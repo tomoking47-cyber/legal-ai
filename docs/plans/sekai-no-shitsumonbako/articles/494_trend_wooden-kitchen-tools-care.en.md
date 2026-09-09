@@ -25,7 +25,7 @@ Wooden chopping boards, long cooking chopsticks (saibashi, 菜箸) and lacquered
 
 > **[Verify]** The re-planing costs and wood-sanitising methods are general trade explanations. Check them against municipal food-hygiene materials on chopping-board hygiene.
 
-## Misunderstanding 1｜A darkened board can be whitened again with chlorine bleach
+## Misunderstanding 1｜Chlorine bleach will make a darkened board white again
 
 **Wood soaks up bleach, and the smell and discolouration stay.** For surface staining, plane, boiling water or coarse salt. If deep, re-plane or replace.
 

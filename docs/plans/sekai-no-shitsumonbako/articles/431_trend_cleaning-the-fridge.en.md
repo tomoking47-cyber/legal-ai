@@ -19,7 +19,7 @@ The fridge is often assumed to be "clean because it is cold", and it is one of t
 | **Odour control** | Ongoing | **Baking soda (in an open container) or activated charcoal.** **The source of smells is dirt and out-of-date food,** so clean first | — |
 
 - MHLW's "Six points for preventing food poisoning at home" lists **not overfilling the fridge (about 70%), keeping meat and fish juices off other foods, and regular cleaning**.
-- **Listeria** **multiplies even at 4°C (39°F)** and can be a problem in **natural cheeses, cured ham (生ハム) and smoked salmon**. **Pregnant women and older people should take particular care** (MHLW).
+- **Listeria** **multiplies even at 4°C (39°F)** and can be a problem in **natural cheeses, uncooked ham such as prosciutto (生ハム, nama-hamu) and smoked salmon**. **Pregnant women and older people should take particular care** (MHLW).
 - **Overfilling** **blocks the flow of cold air, raises the temperature and increases electricity use.** **About 70%** full is the guide (Agency for Natural Resources and Energy).
 - **Door opening**: **keep the door open for less time, and open it less often.**
 
