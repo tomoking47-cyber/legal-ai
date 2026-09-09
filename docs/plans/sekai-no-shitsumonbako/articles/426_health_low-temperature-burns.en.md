@@ -24,7 +24,7 @@ Every winter, Japan's Consumer Affairs Agency and NITE (the National Institute o
 | **Laptop, phone while charging** | Over 40°C | Take care with **long periods on your lap or under the covers** |
 
 - Each winter the Consumer Affairs Agency and NITE publish **low-temperature burn cases (especially older people, infants, people with reduced sensation such as diabetes, after drinking, and during sleep)**. The hallmark is that they happen **at a temperature that "does not feel hot"**.
-- **Depth**: low-temperature burns often **reach deep into the skin (second to third degree)** and are **worse than they look**. **Redness, blisters, whitening and little pain** are signs of a deep burn.
+- **Depth**: low-temperature burns often **reach deep into the skin (second to third degree)** and are **worse than they look**. **Redness, blisters, pale patches and little pain** are signs of a deep burn.
 - **What to do**: **cool under running water (15–30 minutes)**, **do not burst blisters**, **do not pull off clothing that sticks**, **go to a dermatology or plastic-surgery clinic**. **Folk fixes such as ointment, aloe or miso are not acceptable.**
 
 > **[Verify]** Check the temperature and time guidelines and the accident cases against the Consumer Affairs Agency's "Beware of low-temperature burns" and NITE materials.
