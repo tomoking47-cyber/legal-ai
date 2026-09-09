@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/herbal-teas` ／ Status: **Draft — English edition, sources unverified**
 
-Herbal teas are widely drunk in Japan as "caffeine-free and gentle on the body". But in Japan a herb falls into one of three legal categories: food, medicine, or quasi-drug (a Japanese category between cosmetics and medicines). The category sets a line on what health claims can be made. This article sorts that out, including the cautions for pregnancy and for people taking medication.
+Herbal teas are widely drunk in Japan as "caffeine-free and gentle on the body". But in Japan a herb falls into one of three legal categories: food, medicine, or a food with function claims / FOSHU (Japanese categories for notified or approved health claims). The category sets a line on what health claims can be made. This article sorts that out, including the cautions for pregnancy and for people taking medication.
 
 ## A. The biggest misunderstanding is "herbs are natural, so anyone can drink them safely and health claims are fine." Herbal teas sold as food in Japan cannot carry health claims (under the Health Promotion Act and the Act against Unjustifiable Premiums and Misleading Representations). Some herbs, such as St John's wort, liquorice and chamomile, are known for interactions with medicines or cautions in pregnancy. "Caffeine-free" and "has no effect on the body" are two different things.
 

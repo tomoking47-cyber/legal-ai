@@ -11,7 +11,7 @@ Japanese shoe shops and drugstores (Matsumoto Kiyoshi, Welcia, etc.) sell an eno
 | Category | What it is | Purpose | Cost |
 |---|---|---|---|
 | **Shop-bought insole (general goods)** | Cushioning, arch support, size adjustment (thickness), odour and sweat absorption, heel-height adjustment | **Comfort, fit, hygiene** | A few hundred to a few thousand yen |
-| **Shop-bought (classed as a medical device)** | Some products sold as "orthotic insoles" are notified as **Class I (general) medical devices** | Spreading pressure under the sole | A few thousand yen to around ¥10,000–19,000 |
+| **Shop-bought (classed as a medical device)** | Some products sold as "orthotic insoles" are notified as **Class I (general) medical devices** | Spreading pressure under the sole | A few thousand yen up to the ¥10,000s |
 | **Medical orthotic insole (an orthosis)** | **Made by a certified prosthetist-orthotist to a doctor's prescription**, from a mould of the foot | **Correction and off-loading for deformities and conditions** (flat feet, bunions, plantar fasciitis, etc.) | **Covered by health insurance** (you pay 10–30% of a cost in the tens of thousands of yen) |
 
 - Shop-bought insoles are **general goods or Class I medical devices**, and cannot make claims such as **"fixes pain" or "corrects bunions"** (under the Pharmaceuticals and Medical Devices Act and the Act against Unjustifiable Premiums and Misleading Representations, Japan's advertising law). **"Less tiring" and "comfortable"** are as far as they may go.

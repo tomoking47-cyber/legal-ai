@@ -11,7 +11,7 @@ Carrying a heavy bag on one shoulder every day is discussed worldwide as a cause
 | Item | Detail | Source |
 |---|---|---|
 | Guide weight for a bag | **10–15% of body weight or less** (for children **10% or less** is given as an international guideline) | American Academy of Pediatrics; orthopaedic guidance in various countries |
-| Randoseru | Average **about 4–6 kg** (textbooks and tablet included). Can exceed **20% of a first-year pupil's body weight**; in 2018 the Ministry of Education (MEXT) issued a notice allowing **"oki-ben" (置き勉, leaving textbooks at school)** | MEXT |
+| Randoseru | Average **about 4–6 kg** (textbooks and tablet included). Can exceed **20% of a first-year pupil's body weight**; in 2018 the Ministry of Education (MEXT) issued a notice allowing **"oki-ben" (置き勉, leaving textbooks at school)** | MEXT (the notice); the weights come from private surveys |
 | Commuter bag | Often **3–5 kg** with laptop, water bottle and papers | — |
 | Effect of one-shoulder carrying | **The shoulder rises, the neck and shoulder muscles tense**, **the trunk tilts**. One factor in **stiff shoulders and headaches** | Standard orthopaedic explanation |
 | Fixes | **Alternate sides**, **backpack (both shoulders)**, **cross-body strap held close to the body**, **shorten the strap (bag above the hips)** | As above |
@@ -52,6 +52,8 @@ Carrying a heavy bag on one shoulder every day is discussed worldwide as a cause
   https://www.joa.or.jp/public/sick/
 - Consumer Affairs Agency, "Safety of children's school bags (randoseru)" [消費者庁「子どもの通学用かばん（ランドセル）の安全」]
   https://www.caa.go.jp/policies/policy/consumer_safety/child/
+- American Academy of Pediatrics (AAP), "Backpack Safety" (HealthyChildren.org)
+  https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Backpack-Safety.aspx
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

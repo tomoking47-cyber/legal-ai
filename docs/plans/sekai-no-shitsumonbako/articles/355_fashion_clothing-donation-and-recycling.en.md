@@ -2,7 +2,7 @@
 
 - Shelf: `fashion` ／ URL: `/en/fashion/clothing-donation-and-recycling` ／ Status: **Draft — English edition, sources unverified**
 
-Japanese households throw away around 500,000 tonnes of clothing a year, and most of it is incinerated. This article looks at the gap between "old clothes get recycled" and what actually happens, and at how to dispose of clothes from home, using figures from the Ministry of the Environment.
+Japanese households throw away around 480,000 tonnes of clothing a year, and most of it is incinerated. This article looks at the gap between "old clothes get recycled" and what actually happens, and at how to dispose of clothes from home, using figures from the Ministry of the Environment.
 
 ## A. The biggest misunderstanding is "put old clothes in a collection and they will be recycled". By the Ministry of the Environment's estimate, about 60% of clothing that households part with is thrown away as burnable waste; reuse and recycling together account for about 30%, and fibre-to-fibre recycling is a tiny fraction. The realistic order is: wear it longer, pass it on for reuse, then use a collection point. Your local council's sorting rules are the first thing to check.
 
