@@ -4,7 +4,7 @@
 
 Cling film (called "wrap", ラップ, in Japan) and aluminium foil are in every kitchen in the world, yet people hesitate over "can this go in the microwave?" and "which do I wrap it in?" Japanese cling film comes in two material families, and the answer depends on reading the label.
 
-## A. The biggest misunderstanding is "all cling film is the same." Japanese household cling film is mainly either polyvinylidene chloride (PVDC) — clingy and heat-tolerant — or polyethylene (PE) — cheap, soft and less heat-tolerant. Their heat tolerances differ: around 110°C versus around 140°C. Aluminium foil cannot go in the microwave; it is for the oven and grill.
+## A. The biggest misunderstanding is "all cling film is the same." Japanese household cling film is mainly either polyvinylidene chloride (PVDC) — clingy and heat-tolerant — or polyethylene (PE) — cheap, soft and less heat-tolerant. Their heat tolerances differ: about 140°C for PVDC and about 110°C for PE. Aluminium foil cannot go in the microwave; it is for the oven and grill.
 
 ## Comparison
 
