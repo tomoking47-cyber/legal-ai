@@ -49,7 +49,7 @@
 
 - 厚生労働省「乳及び乳製品の成分規格等に関する省令」（チーズの区分）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
-- 一般社団法人日本輸入チーズ普及協会「チーズの保存方法」
+- NPO法人チーズプロフェッショナル協会（C.P.A.）「チーズの保存方法」
   https://www.cheese-professional.com/
 - 消費者庁「食品の期限表示について」
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/

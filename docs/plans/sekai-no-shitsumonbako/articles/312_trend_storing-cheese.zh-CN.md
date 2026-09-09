@@ -49,7 +49,7 @@
 
 - 厚生劳动省（MHLW）「关于乳与乳制品的成分规格等的省令」[乳及び乳製品の成分規格等に関する省令]（奶酪的分类）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
-- 日本进口奶酪普及协会（日本輸入チーズ普及協会）「奶酪的保存方法」[チーズの保存方法]
+- 奶酪专业人士协会 C.P.A.（NPO法人チーズプロフェッショナル協会）「奶酪的保存方法」[チーズの保存方法]
   https://www.cheese-professional.com/
 - 消费者厅（消費者庁）「关于食品的期限标示」[食品の期限表示について]
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/

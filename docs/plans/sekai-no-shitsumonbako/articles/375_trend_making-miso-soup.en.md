@@ -4,7 +4,7 @@
 
 Miso soup is the foundation of the Japanese table, but two common mistakes — boiling it after the miso goes in, and putting all the ingredients in at once — spoil the flavour and push up the salt. This article focuses on the soup itself; see our separate article on making dashi stock.
 
-## A. The biggest misunderstanding is "keep the soup bubbling after the miso is stirred in." Heat drives off miso's aroma; boil it and the flavour flattens, leaving only saltiness. So miso is dissolved in just before the heat goes off, and the soup is never brought to the boil. One bowl holds about 1.2–2 g of salt; make the dashi work harder, add plenty of ingredients and use less liquid, and it fits within the daily target (under 7 g).
+## A. The biggest misunderstanding is "keep the soup bubbling after the miso is stirred in." Heat drives off miso's aroma; boil it and the flavour flattens, leaving only saltiness. So miso is dissolved in just before the heat goes off, and the soup is never brought to the boil. One bowl holds about 1.3–2 g of salt; make the dashi work harder, add plenty of ingredients and use less liquid, and it fits within the daily target (under 7 g).
 
 ## The basics
 

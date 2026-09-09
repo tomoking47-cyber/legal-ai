@@ -49,7 +49,7 @@ Cheese consumption is rising in Japan too, and two questions come up again and a
 
 - Ministry of Health, Labour and Welfare (MHLW), "Ministerial Ordinance on Compositional Standards for Milk and Milk Products" [乳及び乳製品の成分規格等に関する省令] (cheese classification)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
-- Cheese Professional Association of Japan (日本輸入チーズ普及協会), "How to store cheese" [チーズの保存方法]
+- Cheese Professional Association (C.P.A.) [NPO法人チーズプロフェッショナル協会], "How to store cheese" [チーズの保存方法]
   https://www.cheese-professional.com/
 - Consumer Affairs Agency, "About date labelling on food" [食品の期限表示について]
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/

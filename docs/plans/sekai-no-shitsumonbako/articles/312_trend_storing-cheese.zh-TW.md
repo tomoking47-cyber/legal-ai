@@ -49,7 +49,7 @@
 
 - 厚生勞動省（MHLW）「關於乳與乳製品的成分規格等之省令」[乳及び乳製品の成分規格等に関する省令]（起司的分類）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
-- 日本進口起司普及協會（日本輸入チーズ普及協会）「起司的保存方法」[チーズの保存方法]
+- 起司專業人士協會 C.P.A.（NPO法人チーズプロフェッショナル協会）「起司的保存方法」[チーズの保存方法]
   https://www.cheese-professional.com/
 - 消費者廳（消費者庁）「關於食品的期限標示」[食品の期限表示について]
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/
