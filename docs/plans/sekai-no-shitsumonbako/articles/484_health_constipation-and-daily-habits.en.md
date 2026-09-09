@@ -58,7 +58,7 @@ In Japan's national health survey, constipation ranks near the top of self-repor
 
 ### Sources
 
-- Japanese Society of Gastroenterology and Gastrointestinal Motility, *Evidence-based clinical practice guidelines for bowel dysfunction 2023: chronic constipation* [便通異常症診療ガイドライン2023 慢性便秘症]
+- Japanese Society of Gastroenterology [日本消化管学会], *Evidence-based clinical practice guidelines for bowel dysfunction 2023: chronic constipation* [便通異常症診療ガイドライン2023 慢性便秘症]
   https://www.jsgs-ns.jp/
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre targets)
   https://www.mhlw.go.jp/stf/newpage_44138.html

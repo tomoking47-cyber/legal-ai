@@ -4,7 +4,7 @@
 
 Japanese children are taught at school: "when you come home, wash your hands and gargle" (手洗い・うがい, tearai-ugai). Gargling with plain water as a daily habit barely exists outside Japan, and some newcomers doubt it does anything. Here we separate the evidence for each habit, and the way of doing them that actually works.
 
-## A. Hand-washing is the method with the most solid evidence for preventing infection. Rubbing with soap for 30 seconds (palms, backs, between the fingers, thumbs, fingertips, wrists) followed by 15 seconds under running water reduced the viruses on the hands to about 1/10,000 in an experiment. For gargling, a Japanese study reported that "water gargling" cut the onset of colds by about 40%, while gargling with an iodine solution made no difference. The current summary is: wash your hands without fail; gargling with water "when you get home" is worth doing. Alcohol sanitiser is a substitute for when you cannot wash, and works poorly against norovirus.
+## A. Hand-washing is the method with the most solid evidence for preventing infection. Rubbing with soap for 30 seconds (palms, backs, between the fingers, thumbs, fingertips, wrists) followed by 15 seconds under running water reduced the viruses on the hands to about 1/10,000 in an experiment. For gargling, a Japanese study reported that "water gargling" cut the onset of colds by about 36%, while gargling with an iodine solution made no difference. The current summary is: wash your hands without fail; gargling with water "when you get home" is worth doing. Alcohol sanitiser is a substitute for when you cannot wash, and works poorly against norovirus.
 
 ## Evidence and figures
 
@@ -12,7 +12,7 @@ Japanese children are taught at school: "when you come home, wash your hands and
 |---|---|---|
 | **Hand-washing with soap** | The most solid evidence for infection prevention. In a Japanese experiment, viruses fell to **about 1/100 with running water alone for 15 seconds, and about 1/10,000 with soap for 10 seconds plus running water for 15 seconds** (Mori et al., 2006) | Rub for **30 seconds**, rinse for **15 seconds** |
 | **Alcohol hand sanitiser** | **60–95%** ethanol is effective against influenza, COVID-19 and others. **Weak against norovirus** | A substitute when you cannot wash. Rub in **until the hands are dry (about 20 seconds)** |
-| **Water gargling** | In a Kyoto University randomised trial (387 people, 2005), **the water-gargling group had about 40% fewer colds**. **The iodine-gargle group showed no significant difference from the control group** | When you get home. **Rinse the mouth → tilt the head back and gargle for 15 seconds × 2–3 times** |
+| **Water gargling** | In a Kyoto University randomised trial (387 people, 2005), **the water-gargling group had about 36% fewer colds**. **The iodine-gargle group showed no significant difference from the control group** | When you get home. **Rinse the mouth → tilt the head back and gargle for 15 seconds × 2–3 times** |
 | **Masks** | The effect of **stopping a person with symptoms passing it on** is well established. The protective effect for a healthy wearer depends on the situation | Wear one when you have a cough or sneezes |
 
 - **Spots most often missed when washing**: **fingertips and under the nails, between the fingers, the base of the thumb, the wrists**. Government awareness material shows these repeatedly as a "missed-spots map".
