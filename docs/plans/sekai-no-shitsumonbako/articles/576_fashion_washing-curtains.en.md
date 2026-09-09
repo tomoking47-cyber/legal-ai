@@ -18,7 +18,7 @@ Curtains are one of the household items people rarely think of as washable, and 
 ### Steps
 
 1. **Check the care label**. **Do-not-wash, silk, velvet and lined curtains** go to the cleaner.
-2. **Remove the hooks** (or, if that is too much trouble, **fold the hook tape inward and secure it with rubber bands**; removing is safer). **Shake off the dust** (a light shake outside, or the vacuum brush).
+2. **Remove the hooks** (or, if that is too much trouble, **fold the hook tape inward and hold it with rubber bands**; removing is safer). **Shake off the dust** (a light shake outside, or the vacuum brush).
 3. **Fold into a large laundry net** (**accordion folds** reduce uneven washing). **One panel at a time**.
 4. **Gentle or delicates ("dry") cycle**, **neutral delicates detergent**. **Water below 30°C (86°F)**.
 5. **Spin for 30 seconds to 1 minute**.
