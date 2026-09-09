@@ -18,7 +18,7 @@ Since Japan made plastic checkout bags chargeable in July 2020, reusable shoppin
 | When to replace | **Dark stains inside, smell, fraying seams** | — |
 
 - Since **checkout bags became chargeable in July 2020**, **about 80% of shoppers bring their own bag** (Ministry of the Environment survey). Meanwhile, private surveys find that **around half have "never washed" theirs**.
-- A **US study (2010)** reported that **bacteria were found in most reusable bags in use, and that washing removed almost all of them**. In Japan, **the Tokyo Metropolitan Government and others have issued hygiene advice** too.
+- A **US study (2010, University of Arizona and others; industry-funded, and its interpretation has been criticised)** reported that **bacteria were found in most reusable bags in use, and that washing removed almost all of them**. In Japan, **the Tokyo Metropolitan Government and others have issued hygiene advice** too.
 - An insulated bag **left in a car boot gets very hot in summer, and bacteria multiply easily**. **Empty it and dry it as soon as you get home**.
 
 > **[Verify]** Check the bring-your-own-bag rate against the Ministry of the Environment's survey on chargeable checkout bags, and the hygiene advice against materials from the Tokyo Metropolitan Government Bureau of Public Health and the Ministry of Health, Labour and Welfare.

@@ -52,7 +52,7 @@
 - 일본치과의사회 『치아와 입 건강 Q&A(입 냄새)』[歯とお口の健康Q&A（口臭）]
   https://www.jda.or.jp/
 - 일본구취학회 [日本口臭学会] 『입 냄새의 원인과 대책』[口臭の原因と対策]
-  https://www.jsbm.jp/
+  http://jams-site.kenkyuukai.jp/
 - 후생노동성 e-헬스넷 『치주병』[歯周病]
   https://www.e-healthnet.mhlw.go.jp/information/teeth/h-02-001.html
 

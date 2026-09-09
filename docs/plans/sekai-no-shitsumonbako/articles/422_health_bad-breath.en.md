@@ -52,7 +52,7 @@ Bad breath is hard to notice in yourself and awkward for others to mention. Sinc
 - Japan Dental Association, *Teeth and Oral Health Q&A (bad breath)* [歯とお口の健康Q&A（口臭）]
   https://www.jda.or.jp/
 - Japanese Society for Breath Odor Research [日本口臭学会], *Causes of bad breath and what to do* [口臭の原因と対策]
-  https://www.jsbm.jp/
+  http://jams-site.kenkyuukai.jp/
 - Ministry of Health, Labour and Welfare, e-Health Net, *Periodontal disease* [歯周病]
   https://www.e-healthnet.mhlw.go.jp/information/teeth/h-02-001.html
 

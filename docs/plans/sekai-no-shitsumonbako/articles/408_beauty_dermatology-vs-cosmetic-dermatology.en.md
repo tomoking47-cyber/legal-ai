@@ -18,7 +18,7 @@
 
 - **Acne (acne vulgaris) is covered by health insurance**; topical medicines (adapalene, benzoyl peroxide, etc.) are prescribed under the Japanese Dermatological Association's **2023 guideline**. **This is a different domain from the cosmetic claim "helps prevent acne" (a quasi-drug claim)**.
 - **Dark spots**: **melasma and solar lentigines are mostly cosmetic (self-paid)**, while **some birthmarks such as naevus spilus and naevus of Ota are covered by insurance**. **The doctor decides**.
-- **Cosmetic-medicine complaints** typically involve **large contracts signed on the day of the consultation, exaggerated claims of effect, and side effects**. **The 2017 amendment to the Act on Specified Commercial Transactions brought some cosmetic medicine within the cooling-off rules** (contracts over 1 month and over ¥50,000).
+- **Cosmetic-medicine complaints** typically involve **large contracts signed on the day of the consultation, exaggerated claims of effect, and side effects**. **The amendment to the Act on Specified Commercial Transactions that took effect on 1 December 2017 brought some cosmetic medicine within the cooling-off rules** (contracts over 1 month and over ¥50,000).
 
 > **[Verify]** Check the scope of insurance coverage against the Ministry of Health, Labour and Welfare's fee schedule, the Medical Advertising Guidelines with the Ministry (2018), and the cooling-off rules with the Consumer Affairs Agency.
 

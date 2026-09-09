@@ -52,7 +52,7 @@
 - 公益社団法人日本歯科医師会「歯とお口の健康Q&A（口臭）」
   https://www.jda.or.jp/
 - 日本口臭学会「口臭の原因と対策」
-  https://www.jsbm.jp/
+  http://jams-site.kenkyuukai.jp/
 - 厚生労働省 e-ヘルスネット「歯周病」
   https://www.e-healthnet.mhlw.go.jp/information/teeth/h-02-001.html
 
