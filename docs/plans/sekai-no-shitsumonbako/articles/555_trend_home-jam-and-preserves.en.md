@@ -27,7 +27,7 @@ Strawberry jam in season, marmalade from the yuzu in the garden, ume (Japanese p
 5. **Vacuum-seal**: **turn the closed jars upside down to cool**, or **boil the filled jars in water for 10 minutes (lids loosely on) and let them cool**. **If the centre of the lid is dimpled inwards once cool, the seal has worked**.
 6. **Label with the date and sugar content** and store in a dark place. **Refrigerate once opened**.
 
-- **Why sugar preserves**: **a high sugar content lowers the water activity, so bacteria and mould struggle to grow**. **60% is the benchmark**; below that, mould grows. **Low-sugar jam is popular for taste and health reasons, but treat it as a fresh food, not a preserve**.
+- **Why sugar preserves**: **a high sugar content lowers the water activity, so bacteria and mould struggle to grow**. **60% is the benchmark**; below that, mould grows. **Low-sugar jam is popular for taste and health reasons, but regard it as a fresh food, not a preserve**.
 - **About Clostridium botulinum**: spores germinate and produce toxin under the conditions **low acidity (pH 4.6 or higher), no oxygen and room temperature**. **Home heating at 100°C does not kill the spores**. **Garlic in oil, izushi (fermented fish) and home vacuum-packing** are the incident cases in Japan and abroad. **Jam made from acidic fruit has a low pH, so this concern basically does not apply**.
 - **If mould appears**: **do not scrape off the top and eat the rest** (see our separate article on mouldy food). **Discard the whole jar**.
 - **When giving jam as a gift**: write **the date, "refrigerate after opening" and, if the sugar is low, say so**. Tell people to keep low-sugar jam **in the fridge and eat it soon**.

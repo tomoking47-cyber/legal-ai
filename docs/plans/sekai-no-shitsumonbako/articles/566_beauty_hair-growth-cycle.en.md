@@ -36,7 +36,7 @@
 - **Age**: **growth is fastest in your 20s and 30s**; with age hair becomes **finer, grows more slowly and has a shorter growth phase.** **Women's hair often thins after menopause.**
 - **When to see a doctor**: **a sudden rise in shedding lasting 2–3 months**, **a visible scalp**, **round bald patches**, **eyebrows and body hair also falling**, **redness or scabs on the scalp.** Go to **a dermatology clinic** (covered by Japanese health insurance). For male- and female-pattern hair loss there are **self-pay options** (minoxidil, finasteride, etc.).
 
-> **[Verify]** The figures for growth rate, hair count and hair cycle are the general values of hair science. Check against the Japanese Dermatological Association "Guidelines for the diagnosis and treatment of male- and female-pattern hair loss 2017" [男性型および女性型脱毛症診療ガイドライン2017].
+> **[Verify]** The figures for growth rate, hair count and hair cycle are the general values of hair science. Check against the Japanese Dermatological Association "Guidelines for the diagnosis and management of male- and female-pattern hair loss 2017" [男性型および女性型脱毛症診療ガイドライン2017].
 
 ## Misunderstanding 1｜Trimming the ends makes hair grow faster
 
@@ -62,7 +62,7 @@
 
 ### Sources
 
-- Japanese Dermatological Association, "Guidelines for the diagnosis and treatment of male- and female-pattern hair loss, 2017 edition" [男性型および女性型脱毛症診療ガイドライン2017年版]
+- Japanese Dermatological Association, "Guidelines for the diagnosis and management of male- and female-pattern hair loss, 2017 edition" [男性型および女性型脱毛症診療ガイドライン2017年版]
   https://www.dermatol.or.jp/uploads/uploads/files/guideline/
 - Japanese Dermatological Association, "Dermatology Q&A: hair structure and the hair cycle" [皮膚科Q&A：毛髪の構造と毛周期]
   https://www.dermatol.or.jp/qa/
