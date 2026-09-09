@@ -34,7 +34,7 @@ If the aim is **to drive off the chlorine smell of tap water**, a few minutes' b
 
 Sayu is water. Take in **about 1.2 L a day of fluid apart from meals** (the MHLW guide figure), **at whatever temperature you like**.
 
-## Misunderstanding 4｜Sayu flushes out toxins you
+## Misunderstanding 4｜Sayu flushes toxins out of your body
 
 **"Toxin-flushing" is not a medically defined concept; the liver and kidneys process the body's waste products.** Taking in fluid is a precondition for the kidneys to work, but that is not an effect specific to sayu.
 
