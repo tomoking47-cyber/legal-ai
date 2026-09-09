@@ -34,7 +34,7 @@ Every autumn, clinics in Japan start taking bookings for flu vaccinations. The s
 - **Pregnancy**: the flu vaccine is **an inactivated vaccine and can be given during pregnancy**; in fact it is recommended. The COVID-19 vaccine is also recommended during pregnancy.
 - **Children**: **can be vaccinated from 6 months of age**. **Outbreaks at nursery and school** are the usual route for infection into the home, so the common approach is for the whole family to be vaccinated.
 - **"I had the shot and still caught it"**: the vaccine's protection against falling ill is not complete, but **symptoms are often milder**. It cannot be said that "there was no point".
-- **Help with the cost**: **municipalities for people aged 65 and over, some municipalities for children, and sometimes company health insurance societies (kenpo)** offer subsidies. Only **some vaccinations, such as routine ones, qualify for the medical expenses deduction on the annual tax return (kakutei shinkoku)**; voluntary vaccinations do not.
+- **Help with the cost**: **municipalities for people aged 65 and over, some municipalities for children, and sometimes company health insurance societies (kenpo)** offer subsidies. **Vaccination fees are not eligible for the medical-expense deduction on the annual tax return (kakutei shinkoku)** — they count as prevention, not medical care.
 
 > **[Verify]** The figures for protection against falling ill and the frequency of side effects are based on MHLW and National Institute of Infectious Diseases materials. Eligibility and costs for routine COVID-19 vaccination are based on the fiscal 2024 scheme; check the scheme in force in the year of publication.
 
