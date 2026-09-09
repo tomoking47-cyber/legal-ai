@@ -54,7 +54,7 @@ Dried foods (乾物, kanbutsu) are the foundation of the Japanese kitchen and id
   https://www.kokusen.go.jp/
 - Ministry of Agriculture, Forestry and Fisheries (MAFF), "Storing and using dried foods" [乾物の保存と利用] (Japanese food culture; reducing food loss)
   https://www.maff.go.jp/j/shokusan/recycle/syoku_loss/
-- Japan Kombu Association / Japan Shiitake Growers' Cooperative Federation, "Kombu and dried shiitake Q&A" [昆布・干し椎茸のQ&A]
+- Japan Kombu Association, "Kombu Q&A" [昆布のQ&A]
   https://kombu.or.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

@@ -12,7 +12,7 @@ Among older people in Japan, falls are one of the main reasons for needing long-
 |---|---|---|
 | Reasons for needing long-term care | **"Fractures and falls" about 13%, among the top causes** (after dementia, stroke and frailty of old age) | Comprehensive Survey of Living Conditions (2022) |
 | Where falls happen | **Most often at home** (living room, bedroom, stairs, bathroom, entrance hall) | Consumer Affairs Agency; Tokyo Fire Department |
-| Ambulance transports for falls | **About 80% of ambulance transports of older people are due to falls** (Tokyo Fire Department) | Tokyo Fire Department |
+| Ambulance transports for falls | **About 80% of ambulance transports of older people after everyday-life accidents are due to falls** (Tokyo Fire Department) | Tokyo Fire Department |
 | Locomo (locomotive syndrome) | **Reduced mobility caused by disorders of the locomotive organs (bones, joints, muscles).** Proposed by the Japanese Orthopaedic Association in 2007. Estimated at **about 47 million people including the at-risk group** | Japanese Orthopaedic Association |
 | Loco-check | **Cannot put on socks standing on one leg; trip inside the house; need a handrail on stairs; cannot walk for 15 minutes without stopping; cannot cross a pedestrian crossing before the light changes; find it hard to carry 2 kg of shopping home; find housework such as vacuuming hard** — one "yes" is a warning sign | Same |
 | Locotra | **One-leg standing (1 minute per leg × 3 times a day), squats (5–6 reps × 3 times a day)** | Same |

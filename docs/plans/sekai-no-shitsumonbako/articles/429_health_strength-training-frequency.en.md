@@ -18,7 +18,7 @@ In 2023, the Ministry of Health, Labour and Welfare (MHLW) guide stated "2–3 d
 | Equipment | | **Your own body weight is enough to start.** Add dumbbells or resistance bands step by step | — |
 | Existing conditions | | **High blood pressure, heart disease, joint problems**: ask your doctor. **Stop if it hurts** | — |
 
-- The 2023 guide states that **strength training is associated with lower risk of death, lifestyle diseases and needing long-term care**, and sets **2–3 days a week separately from aerobic exercise such as walking**. **About 20% of Japanese people do strength training** (higher in their 20s, lower in middle and older age).
+- The 2023 guide states that **strength training is associated with lower risk of death, lifestyle diseases and needing long-term care**, and sets **2–3 days a week separately from aerobic exercise such as walking**. **About 20% of Japanese people (National Health and Nutrition Survey) do strength training** (higher in their 20s, lower in middle and older age).
 - **Muscle mass is generally described as falling about 1% a year from the 30s**, and **sarcopenia (muscle loss) in old age** is a main cause of falls and needing care (see our article on locomo). **Many studies show that strength increases in older people who train.**
 - **Protein**: **spread across three meals, not only after exercise** (see our protein article). **Protein powder is a supplement for when meals do not provide enough.**
 
