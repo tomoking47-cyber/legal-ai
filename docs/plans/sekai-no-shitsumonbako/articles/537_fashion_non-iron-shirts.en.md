@@ -13,7 +13,7 @@
 | **Resin-finished cotton (shape-retaining / non-iron)** | The cellulose molecules in the cotton are **cross-linked with resin** so the fabric springs back after washing. Names differ by maker: **liquid-ammonia finish**, **VP finish**, etc. | Keeps the cotton feel while resisting creases. **Weakens after about 50–100 washes** |
 | **Cotton-polyester blend** | Polyester (**30–50%**) holds the shape; cotton gives the hand-feel | **Most crease-resistant.** **Breathes and absorbs less than cotton; sweaty in summer.** Cheap |
 | **All-polyester** | Synthetic only | Almost no creasing, but **does not absorb sweat and traps odour** |
-| **Untreated cotton** | — | **Kindest to the skin and most breathable**, but must be ironed |
+| **Unfinished cotton (no resin finish)** | — | **Kindest to the skin and most breathable**, but must be ironed |
 
 ## Washing so you can skip the iron
 
@@ -31,7 +31,7 @@
 - **Formaldehyde**: the substance that caused problems in older resin finishes. **Japan's household-goods law (the Act on Control of Household Products Containing Harmful Substances) sets "not detectable" for infant wear and 75 ppm or less for adult wear**, and today's shirts are within the limits. **Washing a new shirt once before wearing** is the safe habit (see separate article).
 - **Summer**: cotton-poly and synthetics **do not absorb sweat and get clammy**, so choose **all-cotton shape-retaining or a shirt labelled sweat-absorbing / quick-dry**.
 - **Yellowing**: collar sebum is no different on a shape-retaining shirt (see our article on collar and cuff grime). **Wash after wearing.**
-- **Made-to-measure and luxury shirts**: mostly untreated cotton, meant for ironing or the cleaner. **A dry cleaner's "non-iron finish"** is a pressing service, not the same as the fabric finish.
+- **Made-to-measure and luxury shirts**: mostly unfinished cotton, meant for ironing or the cleaner. **A dry cleaner's "non-iron finish"** is a pressing service, not the same as the fabric finish.
 
 > **[Verify]** Check the durability (number of washes) of shape-retaining finishes, the W&W grade benchmark and the formaldehyde limits against industry and statutory materials.
 

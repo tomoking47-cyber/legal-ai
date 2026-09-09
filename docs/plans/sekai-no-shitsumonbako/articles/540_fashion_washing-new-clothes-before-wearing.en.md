@@ -14,7 +14,7 @@ Some people wear new clothes straight from the shop; others always wash them fir
 | **Excess dye** | Pigment left after dyeing | **Dye transfer and staining of the skin.** Marked on **dark denim and black T-shirts** | **Wash alone** the first time |
 | **Starch and finishing agents** | For crispness and shop appearance | **Stiff, rough feel**; absorbs sweat poorly | One wash removes it |
 | **Dust and hand dirt** | Manufacture, shipping and fittings in the shop | Hygiene | — |
-| **Residual smell of insecticide or anti-mould agents** | Treatment of shipping containers and warehouses | The smell can be unpleasant | Wash, or air it |
+| **Residual smell of insecticide or anti-mould agents** | Fumigation of shipping containers and warehouses | The smell can be unpleasant | Wash, or air it |
 
 ## Wash or not — a guide
 
