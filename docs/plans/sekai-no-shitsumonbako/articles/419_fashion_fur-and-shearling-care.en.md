@@ -15,12 +15,12 @@ A winter coat with a fur trim or a pair of shearling boots is handled quite diff
 | **Shearling (mouton, 羊毛皮)** | **Sheepskin with wool (羊毛皮)** | **No** (boots and coats). **Rugs labelled "washable" are the exception** | **Brush, air in the shade**. **Dry the inside of boots** | As above | Specialist |
 | **Fur on a down jacket (hood trim)** | Usually detachable | Detach the hood and **handle the fur separately** | — | — | — |
 
-- **Real fur products are labelled "fur" (毛皮) under the Household Goods Quality Labelling Act (Textile Goods Quality Labelling Regulations)**; **faux fur is labelled by fibre name, such as "polyester"**. **"Fur-look" and "eco fur" are not labelling terms — look for the fibre name**.
+- **Real fur products are labelled "fur" (毛皮) under the Household Goods Quality Labelling Act (fur falls under the miscellaneous industrial goods regulations, not the textile ones)**; **faux fur is labelled by fibre name, such as "polyester"**. **"Fur-look" and "eco fur" are not labelling terms — look for the fibre name**.
 - **Mould and moths in real fur**: **the biggest risk is getting through the humid summer**. Some people use **a fur shop's storage service (refrigerated vault)**.
 - **Frizzed pile on faux fur** is caused by **heat (tumble dryer, hairdryer, iron)** and does not recover. **After washing, dry in the shade and brush only once dry**.
 - **For animal-welfare and environmental reasons the shift to faux fur is well under way**, and more shoppers **check the label to see whether an item is real fur**.
 
-> **[Verify]** Check the scope of the labelling duty against Consumer Affairs Agency materials, and fur care against the Japan Fur Association and similar bodies.
+> **[Verify]** Check which set of regulations covers fur (textile goods or miscellaneous industrial goods) and the scope of the labelling duty against the Consumer Affairs Agency's list of covered items, and fur care against the Japan Fur Association and similar bodies.
 
 ## Misunderstanding 1｜No fur can be washed
 
