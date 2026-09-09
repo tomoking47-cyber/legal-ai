@@ -4,7 +4,7 @@
 
 "If my foundation has SPF, do I still need sunscreen?" is one of the most common make-up questions in every country. The answer depends on what an SPF number actually means and how much product you really apply. Japanese labels also carry a "PA" rating you may not have seen at home; this article explains both.
 
-## A. The biggest misunderstanding is "SPF30 foundation gives the same protection as SPF30 sunscreen." SPF is measured with a fixed amount of product (2 mg per cm² of skin), and foundation is applied at a fraction of that. The practical approach is to wear sunscreen underneath and treat the foundation as a back-up.
+## A. The biggest misunderstanding is "SPF30 foundation gives the same protection as SPF30 sunscreen." SPF is measured with a fixed amount of product (2 mg per cm² of skin), and foundation is applied at a fraction of that. The practical approach is to wear sunscreen underneath and regard the foundation as a back-up.
 
 ## In numbers
 

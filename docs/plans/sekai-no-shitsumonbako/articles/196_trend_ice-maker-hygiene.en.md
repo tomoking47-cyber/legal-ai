@@ -22,7 +22,7 @@ An automatic ice-maker is standard on Japanese fridges, but it draws many querie
 
 ## Misunderstanding 1｜Ice is frozen, so it is clean
 
-**Freezing does not kill bacteria.** Bacteria and mould that grew in the tank or channel **come out mixed into the ice.** Treat ice as **a food, just like water**.
+**Freezing does not kill bacteria.** Bacteria and mould that grew in the tank or channel **come out mixed into the ice.** Handle ice as **a food, just like water**.
 
 ## Misunderstanding 2｜Ice from mineral water tastes better and is safer
 
