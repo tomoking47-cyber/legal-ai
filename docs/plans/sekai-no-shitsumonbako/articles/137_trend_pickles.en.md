@@ -9,8 +9,8 @@ Pickles are a preserved food in every culture, but Japan has an unusually wide r
 ## Rules and numbers
 
 - **In August 2012 in Hokkaido, an outbreak of enterohaemorrhagic E. coli O157 was caused by asazuke of Chinese cabbage (hakusai)**: **169 patients and 8 deaths** (MHLW material).
-- In response, the MHLW **revised its "Hygiene Code for Pickles"** (October 2012). It specifies **washing and sanitising the raw ingredients for asazuke (sodium hypochlorite etc.) and storage at 10°C or below**.
-- **When the amended Food Sanitation Act took effect in June 2021**, pickle manufacturing became **a business requiring a licence** (previously only notification or prefectural ordinance). This has affected small farmers' direct sales too.
+- In response, the MHLW **revised its "Hygiene Code for Pickles"** (October 2012). It specifies **washing and sanitising the raw ingredients for asazuke (sodium hypochlorite etc.) and storage at 10°C or below**. Note that **this hygiene code was abolished on 1 June 2021** when HACCP became mandatory; it has been replaced by the **hygiene control plan (HACCP-based hygiene management)** that each business draws up itself.
+- **When the amended Food Sanitation Act took effect in June 2021**, pickle manufacturing became **a business requiring a licence** (previously only notification or prefectural ordinance). Existing producers had a **three-year transition period**, but it **ended on 31 May 2024**, so **from June 2024 you cannot make or sell pickles without a licence**. This has affected small farmers' direct sales too.
 
 | Type | Typical salt | Storage |
 |---|---|---|
@@ -45,7 +45,7 @@ Asazuke is **not fermented.** Only some pickles — nukazuke, suguki, kimchi —
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Hygiene Code for Pickles" [漬物の衛生規範] (revised October 2012 / Heisei 24)
+- Ministry of Health, Labour and Welfare (MHLW), "Hygiene Code for Pickles" [漬物の衛生規範] (revised October 2012 / Heisei 24; abolished 1 June 2021 / Reiwa 3 — HACCP-based hygiene management now applies)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
 - MHLW, "On the amendment of the Food Sanitation Act" [食品衛生法の改正について] (review of the business licensing system)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000197196.html

@@ -11,7 +11,7 @@ The toaster oven (オーブントースター) is one of the most common cooking
 | Item | Details |
 |---|---|
 | Element temperature | **Quartz-tube and halogen elements have a surface temperature of several hundred degrees**. **Food, paper or foil coated in fat that touches them can ignite** |
-| **Crumbs** | Crumbs and fat collected in the tray are **the most common cause of fire** (NITE). **Clean it once a week** |
+| **Crumbs and soiling inside the oven** | NITE names **"overheating of food" and "food residue and fat deposits inside the oven and in the crumb tray"** as the main causes of ignition. **Clean it often** |
 | **Aluminium foil** | **Allowed on most models**, but **it must not touch the elements or cover the whole tray** (heat builds up). **Check the manual** |
 | Mochi (rice cakes) | **They puff up and touch the element**, then ignite. **Low position, centre of the rack, do not look away** |
 | Paper and baking parchment | **Burns above its heat rating (usually 250°C)**. **Some products are marked "not for toaster ovens"** |
@@ -25,7 +25,7 @@ The toaster oven (オーブントースター) is one of the most common cooking
 
 ## Misunderstanding 1｜You must never put aluminium foil in a toaster oven
 
-**Most models allow it.** What is prohibited is **placing it so that it touches the element** and **covering the whole tray**. People **confuse this with microwaves**; a toaster oven uses electric heating elements, so metal itself is not a problem. **Check the manual.**
+**Whether it is allowed depends on the model, and some manuals tell you not to use it.** Where it is allowed, still avoid **placing it so that it touches the element** and **covering the whole tray**. People **confuse this with microwaves**; a toaster oven uses electric heating elements, so the metal itself does not spark, but **foil that touches an element can melt or catch fire**. **Pop-up toasters generally prohibit it.** **Always check the manual.**
 
 ## Misunderstanding 2｜Crumbs only scorch; they are not dangerous
 

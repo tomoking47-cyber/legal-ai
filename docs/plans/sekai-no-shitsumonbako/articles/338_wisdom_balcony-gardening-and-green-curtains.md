@@ -27,7 +27,7 @@ Japanese balconies grow things — herbs, tomatoes, and every summer a wall of b
 
 ## Misunderstanding 1｜The vines are decoration
 
-They are a **cooling device**: exterior shade stops solar gain before the glass (see the summer heat article), and the leaves cool the air by evaporation. The aubergine and cucumber harvest is a bonus.
+They are a **cooling device**: exterior shade stops solar gain before the glass (see the summer heat article), and the leaves cool the air by evaporation. The gōya and cucumber harvest is a bonus.
 
 ## Misunderstanding 2｜Hang planters on the rail for space
 

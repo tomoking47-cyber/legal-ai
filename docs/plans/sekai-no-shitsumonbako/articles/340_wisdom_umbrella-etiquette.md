@@ -16,12 +16,12 @@ Japan uses an estimated 120–130 million umbrellas a year, and on a rainy day t
 | **Walking** | **Tip down, close to the body**; never swung by the handle or carried horizontally under the arm (the tip is at a child's eye level) |
 | **Passing someone under an eave** | Tilt your umbrella **away** from them; the one on the outer side steps into the rain briefly |
 | **Sharing** | **Aigasa** (two under one umbrella) is a romantic trope, not a norm; offer a spare rather than a share |
-| **Someone else's umbrella** | **Do not take it**, even a ¥500 clear one; umbrella theft from stands is petty crime but widely resented |
+| **Someone else's umbrella** | **Do not take it**, even a ¥700 clear one; umbrella theft from stands is petty crime but widely resented |
 | **After** | **Open it to dry at home** (see the umbrella-care article); a wet umbrella furled overnight rusts and smells |
 
-- **Consumption: about 120–130 million umbrellas a year**, of which a large share are **¥500 clear vinyl umbrellas** bought at convenience stores when rain starts — many abandoned; some cities now run **umbrella-sharing schemes** (iKasa, with app unlock at stations, ¥140/day).
+- **Consumption: about 120–130 million umbrellas a year**, of which a large share are **clear vinyl umbrellas at around ¥600–800** bought at convenience stores when rain starts — many abandoned; some cities now run **umbrella-sharing schemes** (iKasa, with app unlock at stations, ¥140/day).
 - **Umbrella theft** from stands is common enough that people **mark handles with tape** or use **lockable stands**; leaving a good umbrella in an open stand is considered careless rather than trusting.
-- **Plastic sleeves** at shop entrances are a waste issue; many chains switched to **drip-drying racks or reusable sleeves** under the 2022 plastics law.
+- **Plastic sleeves** at shop entrances are a waste issue; many chains switched to **drip-drying racks or reusable sleeves** as voluntary plastic-reduction measures — umbrella sleeves are not among the 12 items the 2022 law designates.
 
 > **[Verify]** Consumption figures with the Japan Umbrella Promotion Association (JUPA); sharing-scheme details with the operator.
 
@@ -39,7 +39,7 @@ Japan uses an estimated 120–130 million umbrellas a year, and on a rainy day t
 
 ## Misunderstanding 4｜A cheap clear umbrella in the stand is fair game
 
-**No.** The person who left it will come back for it. If you are caught out, **buy a ¥500 one**; they are at every convenience store, which is why the stands are full of them.
+**No.** The person who left it will come back for it. If you are caught out, **buy your own** — about ¥700 at any convenience store, which is why the stands are full of them.
 
 ## Misunderstanding 5｜Share your umbrella with the stranger next to you
 
@@ -50,7 +50,7 @@ Offering shelter is kind, but **aigasa is intimate** in Japanese culture; the na
 ### Sources
 - Japan Umbrella Promotion Association (JUPA) — Umbrella statistics and manners
   https://www.jupa.gr.jp/
-- Ministry of the Environment — Plastics Resource Circulation Act: single-use items (umbrella sleeves)
+- Ministry of the Environment — Plastics Resource Circulation Act: the 12 designated single-use items (umbrella sleeves are not among them)
   https://plastic-circulation.env.go.jp/
 - Japan National Tourism Organization — Etiquette in Japan
   https://www.japan.travel/en/guide/etiquette/

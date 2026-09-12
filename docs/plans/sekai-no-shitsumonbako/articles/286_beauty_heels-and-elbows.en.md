@@ -12,7 +12,7 @@ Cracked heels and darkened elbows and knees are worries tied to the season and t
 |---|---|---|---|
 | **Hard skin and cracks on the heel** | **Dryness, friction (bare feet, sandals, hard shoes), body weight.** The heel has no sebaceous glands and dries easily | **File lightly after a bath (no more than once a week) → moisturise → cotton socks** | Over-filing backfires. **Bleeding or pain** is a matter for medical care |
 | **Darkened elbows and knees** | Thickened skin and pigmentation from **friction (leaning elbows on a desk, kneeling) and dryness** | **Moisturise and reduce friction.** Scrubs a few times a month at most | **The harder you rub, the darker it gets** |
-| Deep heel cracks with itching or small blisters | Possibly **a form of tinea pedis (athlete's foot), the hyperkeratotic type** | **Have it checked at a dermatology clinic** | Hard to tell apart on your own |
+| Thick heel skin, powdery dryness and deep cracks (**little or no itching**) | Possibly **a form of tinea pedis (athlete's foot), the hyperkeratotic type** | **Have it checked at a dermatology clinic (microscope / KOH test)** | Hard to tell apart on your own |
 
 - **The heel has no sebaceous glands**, only sweat glands, so it **dries out easily in winter and under air-conditioning**.
 - A cosmetic moisturiser may claim only **"moisturises the skin" and "protects the skin"**. **Urea creams exist as quasi-drugs (a Japanese category between cosmetics and medicines) or as Category 3 OTC medicines**, and **claims for "cracks and chaps" belong to medicines**.
@@ -26,7 +26,7 @@ Cracked heels and darkened elbows and knees are worries tied to the season and t
 
 ## Misunderstanding 2｜Cracked heels are just dryness
 
-If it **does not improve despite continued moisturising, and cracks with a white, soggy look**, it may be **a form of athlete's foot**. **A microscope test at a dermatology clinic (covered by Japanese health insurance)** gives an answer in minutes.
+If it **does not improve despite continued moisturising, and the heel becomes thick and hard, powdery and cracked**, it may be **a form of athlete's foot (the hyperkeratotic type)**. **It often comes without itching**, and **a microscope (KOH) test at a dermatology clinic (covered by Japanese health insurance)** can confirm it. **Because the thickened skin makes topical medicine hard to get through, an oral medicine is sometimes chosen.**
 
 ## Misunderstanding 3｜Dark elbows come off with a scrub
 
@@ -44,12 +44,12 @@ Petroleum jelly (ワセリン, waserin) is **a protective layer that slows water
 
 ### Sources
 
-- Japanese Dermatological Association, "Guidelines for the management of dermatomycosis" [皮膚真菌症診療ガイドライン] (tinea pedis)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+- Japanese Dermatological Association and Japanese Society for Medical Mycology, "Guidelines for the management of dermatomycosis 2025" [皮膚真菌症診療ガイドライン2025] (tinea pedis) — revision of the 2019 edition
+  https://www.jstage.jst.go.jp/article/dermatol/135/13/135_2511/_article/-char/ja/
 - Ministry of Health, Labour and Welfare (MHLW), "Scope of efficacy claims for quasi-drugs" / "Revision of the scope of efficacy claims for cosmetics" [医薬部外品の効能効果の範囲／化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
-- Japanese Dermatological Association, "Dermatology Q&A: Athlete's foot" [皮膚科Q&A　水虫]
-  https://www.dermatol.or.jp/qa/qa16/index.html
+- Japanese Dermatological Association, "Dermatology Q&A: Tinea (athlete's foot, ringworm and related)" [皮膚科Q&A　白癬（水虫・たむしなど）]
+  https://www.dermatol.or.jp/qa/qa10/q18.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

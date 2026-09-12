@@ -17,7 +17,7 @@
 | Water | **1.2 times the rice (by weight)**; in a rice cooker, use the marked line | Slightly less for new-crop rice (shinmai) |
 | After cooking | **Rest 10–15 minutes**, then turn it over from the bottom | Evens out the moisture |
 
-- **Rice consumption per person in Japan is about 51 kg a year** (fiscal 2022, MAFF), less than half of the 1962 peak (**118 kg**).
+- **Rice consumption per person in Japan is about 53 kg a year** (fiscal 2024, MAFF "Food Balance Sheet"), less than half of the fiscal 1962 peak (**118.3 kg**).
 - Rice labelling follows the **Food Labelling Act**: **origin, variety and crop year** are shown, together with the **milling date (or "milling period")**.
 
 > **[Verify]** Check the consumption figure against the latest fiscal year of MAFF's "Food Balance Sheet". Washing guidelines vary with milling technology and the type of rice.

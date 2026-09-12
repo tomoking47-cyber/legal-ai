@@ -11,11 +11,11 @@ A winter coat with a fur trim or a pair of shearling boots is handled quite diff
 | Material | Label | Washing at home | Everyday | Storage | Specialist cleaning |
 |---|---|---|---|---|---|
 | **Faux fur** | **Polyester, acrylic, modacrylic** | **Hand-wash if the label allows** (neutral detergent, press-wash, **do not wring or knead**). **No tumble dryer or high heat** (the pile frizzes) | Once dry, **brush the pile back up** | Do not crush it | Usually not needed |
-| **Real fur** | **"Fur" (毛皮, kegawa) — mink, fox, etc.; labelled under the Household Goods Quality Labelling Act** | **No** | **Fur brush, air in the shade**. **If wet, shake the water off and dry in the shade** | **Breathable bag, hanger, no crushing, moth repellent (not touching the fur), humidity control** | **Fur specialist (once a year, at the end of the season)** |
+| **Real fur** | **"Fur" (毛皮, kegawa) — mink, fox, etc.; the label rests on an industry rule, not a legal duty** | **No** | **Fur brush, air in the shade**. **If wet, shake the water off and dry in the shade** | **Breathable bag, hanger, no crushing, moth repellent (not touching the fur), humidity control** | **Fur specialist (once a year, at the end of the season)** |
 | **Shearling (mouton, 羊毛皮)** | **Sheepskin with wool (羊毛皮)** | **No** (boots and coats). **Rugs labelled "washable" are the exception** | **Brush, air in the shade**. **Dry the inside of boots** | As above | Specialist |
 | **Fur on a down jacket (hood trim)** | Usually detachable | Detach the hood and **handle the fur separately** | — | — | — |
 
-- **Real fur products are labelled "fur" (毛皮) under the Household Goods Quality Labelling Act (fur falls under the miscellaneous industrial goods regulations, not the textile ones)**; **faux fur is labelled by fibre name, such as "polyester"**. **"Fur-look" and "eco fur" are not labelling terms — look for the fibre name**.
+- **Real fur products fall outside the Household Goods Quality Labelling Act**, and the **"fur" (毛皮) product-name label rests only on an industry rule (the Japan Fur Association's rules on fur product-name labelling)**. **Faux fur, by contrast, is a textile product and must be labelled by fibre name, such as "polyester"**. **"Fur-look" and "eco fur" are not labelling terms — look for the fibre name**.
 - **Mould and moths in real fur**: **the biggest risk is getting through the humid summer**. Some people use **a fur shop's storage service (refrigerated vault)**.
 - **Frizzed pile on faux fur** is caused by **heat (tumble dryer, hairdryer, iron)** and does not recover. **After washing, dry in the shade and brush only once dry**.
 - **For animal-welfare and environmental reasons the shift to faux fur is well under way**, and more shoppers **check the label to see whether an item is real fur**.
@@ -40,14 +40,16 @@ A winter coat with a fur trim or a pair of shearling boots is handled quite diff
 
 ## Misunderstanding 5｜"Eco fur" is a labelling category
 
-**The label gives the fibre name (polyester, etc.)**. **"Eco fur" and "faux fur" are product names and everyday usage**; **whether it is real is decided by whether the label says "fur" (毛皮)**.
+**Faux fur is labelled by fibre name (polyester, etc.), and that label is mandatory**. **"Eco fur" and "faux fur" are product names and everyday usage**. **Labelling on the fur side is voluntary, so if you cannot find a fibre name, ask the shop or the maker what the material is**.
 
 ---
 
 ### Sources
 
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Textile Goods Quality Labelling Regulations" (labelling of fur products) [家庭用品品質表示法　繊維製品品質表示規程（毛皮製品の表示）]
+- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Textile Goods Quality Labelling Regulations" (fibre-name labelling for faux fur and the like) [家庭用品品質表示法　繊維製品品質表示規程]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
+- Consumer Affairs Agency, "Items outside the scope of the Household Goods Quality Labelling Act (list)" (fur products) [家庭用品品質表示法の対象外品目について（一覧）]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/faq/faq_05.html
 - Japan Fur Association, "Caring for and storing fur" [毛皮のお手入れと保管]
   https://www.fur.or.jp/
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]

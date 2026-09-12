@@ -13,7 +13,7 @@
 | Japanese adults' sitting time on weekdays | **About 7 hours** (among the longest of 20 countries compared) | Bauman et al. (2011), University of Sydney international comparison |
 | The 2023 Guide's approach | **Reduce sedentary behaviour (sitting or lying, energy expenditure 1.5 METs or less) and move often** | MHLW |
 | How often to stand up | **Once every 30 minutes to 1 hour** | Various public sources |
-| Guidelines for screen (VDT) work | **No more than 1 hour of continuous work, with a 10–15 minute break between work periods** | MHLW (2019 revision) |
+| Guidelines for screen (VDT) work | **No more than 1 hour of continuous work, with a 10–15 minute break between work periods** | MHLW (issued 2019, partially revised December 2021) |
 
 - Many studies link long sitting time with health risks **independently of how much exercise you do**, which is the background to its mention in the 2023 Guide.
 - Several surveys show that **the spread of working from home** removed the commute walk and pushed sitting time up further.
@@ -45,11 +45,11 @@ Workplace tricks widely shared in Japan include **a timer to stand up every hour
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - Ministry of Health, Labour and Welfare, *Guidelines for Occupational Health Management in VDT Work* [情報機器作業における労働衛生管理のためのガイドライン] (2019)
   https://www.mhlw.go.jp/content/000539604.pdf
 - Bauman A, et al. "The descriptive epidemiology of sitting: a 20-country comparison." *Am J Prev Med.* 2011
-  https://pubmed.ncbi.nlm.nih.gov/21767729/
+  https://pubmed.ncbi.nlm.nih.gov/21767731/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

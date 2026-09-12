@@ -12,7 +12,7 @@ Japan heats the floor rather than the air more than most countries — with hot-
 |---|---|---|---|
 | **Hot-water floor heating (yuka-danbō)** | Pipes under the floor, heated by a gas or heat-pump unit | **¥50–150 per day** for a living room, depending on fuel | Standard in new detached houses; slow to warm (1 h), even heat, silent |
 | **Electric floor heating** | Heating film or cable under flooring | Higher than hot-water for large areas | Retrofit in flats |
-| **Hot carpet (electric heated rug)** | A rug with heating wires; **2 or 3 zones** switchable | **¥5–15 per hour** at full power (200–700 W); zones save power | The cheap option; put a **rug on top** to retain heat |
+| **Hot carpet (electric heated rug)** | A rug with heating wires; **2 or 3 zones** switchable | **¥6–23 per hour** at full power (200–740 W); zones save power | The cheap option; put a **rug on top** to retain heat |
 | **Heated seat cushions / small mats** | Personal | ¥1–3 per hour | Desk work |
 | **Kotatsu** | See that article | Very low | Heats under a table only |
 

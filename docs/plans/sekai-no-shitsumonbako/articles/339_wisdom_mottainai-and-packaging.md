@@ -14,7 +14,7 @@ Japan is known abroad for two contradictory things: a word, mottainai, that mean
 | Plastic bag charge | **From 1 July 2020**; bag refusal rate rose from ~30% to **over 70%** | Ministry of the Environment |
 | Plastics Resource Circulation Act | **April 2022**: 12 single-use items (cutlery, straws, hotel amenities, hangers) to be reduced by large providers | same |
 | Food loss | **4.61 million tonnes (FY2024)**, about **37 kg per person** | MAFF / MoE |
-| PET bottle collection rate | **about 95%**; **recycling rate about 86%** | Council for PET Bottle Recycling |
+| PET bottle collection rate | **about 92%**; **recycling rate about 85%** (FY2024) | Council for PET Bottle Recycling |
 | "Mottainai" | Popularised internationally by **Wangari Maathai (2005)** after visiting Japan | — |
 
 - **Mottainai** in the household: **leftover rice becomes onigiri or fried rice**, vegetable scraps become dashi, old towels become zōkin (see that article), clothes are repaired (see the repair article). It is **an attitude toward value**, older than the environmental movement.

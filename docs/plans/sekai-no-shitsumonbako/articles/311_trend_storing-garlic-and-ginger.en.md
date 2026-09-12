@@ -10,23 +10,23 @@ Garlic and ginger are used a little at a time, so leftovers are common, and "it 
 
 | State | Where | Keeps for | Notes |
 |---|---|---|---|
-| **Garlic (whole head)** | **Room temperature, dark, well ventilated** (hang it in a net bag) | **1–2 months** | In the fridge, humidity brings sprouts and mould |
+| **Garlic (whole head)** | **Room temperature, dark, well ventilated** (hang it in a net bag), or **the chilled compartment of the fridge (around 0°C)** | **1–2 months at room temperature; longer in the chilled compartment** | Sprouting is most likely at **5–15°C**. The vegetable drawer, or room temperature in warm months, encourages sprouts |
 | Garlic (separated cloves / peeled) | Fridge (sealed) | **1–2 weeks** | Dries out |
 | **Garlic (chopped or grated)** | **Freezer** (small portions, spread thin in cling film) | **1–2 months** | Cook straight from frozen, no thawing |
-| Garlic in oil or in soy sauce | **Always refrigerated, use soon** | A few weeks | **Garlic in oil at room temperature carries a botulism risk** (see below) |
+| Garlic in oil or in soy sauce | **Always refrigerated, use soon** | **About one week** | **Garlic in oil at room temperature carries a botulism risk** (see below) |
 | **Ginger (whole)** | **Wrap in damp kitchen paper, put in a plastic bag, refrigerate**, or **room temperature (around 15°C)** | **2–3 weeks** | Bare in the fridge it dries and spoils |
 | Ginger (grated or sliced) | **Freezer** | **1–2 months** | Spread grated ginger thin in cling film and snap off what you need |
 | Ginger (submerged in water) | Fridge, **change the water every 2–3 days** | 2–3 weeks | Takes effort |
 
 - **Sprouted garlic** **is edible** (unlike potato sprouts, it is not harmful). But **once it sprouts, flavour and nutrients move from the clove into the shoot, and the taste declines**.
-- **Garlic in oil kept at room temperature**: **botulism bacteria can multiply in an oxygen-free environment**, and both **the US FDA and the Food Safety Commission of Japan** warn about this. **Refrigerate and use within about a week**, or **add vinegar**.
+- **Garlic in oil kept at room temperature**: **botulism bacteria can multiply in an oxygen-free environment**, and **the US FDA** warns about this. **At home, refrigerate and use within about a week** (or freeze it in small portions). **Do not rely on adding vinegar to keep it at room temperature at home** — commercial products are acidified and pH-controlled during manufacture.
 - **Mouldy or squishy ginger** goes in the bin. **If only the cut end has dried out**, trim it off and use the rest.
 
 > **[Verify]** Check the botulism warning against Food Safety Commission of Japan and Ministry of Health, Labour and Welfare (MHLW) materials. Storage times follow general guidance from the Ministry of Agriculture, Forestry and Fisheries (MAFF) and manufacturers.
 
 ## Misunderstanding 1｜The fridge is the best place for garlic
 
-**A whole head does best in a dark, well-ventilated spot at room temperature.** **The fridge means humidity, sprouts and mould.** **Once peeled, refrigerate or freeze.**
+**A whole head does best in a dark, well-ventilated spot at room temperature.** **The vegetable drawer at 5–15°C is where sprouts appear; the chilled compartment at around 0°C keeps them in check.** **Once peeled, refrigerate or freeze.**
 
 ## Misunderstanding 2｜Sprouted garlic is poisonous
 
@@ -50,8 +50,8 @@ Garlic and ginger are used a little at a time, so leftovers are common, and "it 
 
 - Food Safety Commission of Japan, "About botulism" [ボツリヌス症について]
   https://www.fsc.go.jp/sonota/botulinum.html
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), "How to store vegetables" [野菜の保存方法]
-  https://www.maff.go.jp/j/seisan/ryutu/yasai/
+- Ministry of Agriculture, Forestry and Fisheries (MAFF), articles on freezing and storing vegetables (*aff* magazine / consumer information) [野菜の冷凍・保存に関する記事（aff・消費者向け情報）]
+  https://www.maff.go.jp/j/pr/aff/2007/spe1_05.html
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 
