@@ -17,7 +17,7 @@ Natto — fermented soybeans — is known abroad as "the hardest Japanese food t
 | Past the date | Fermentation advances; **ammonia smell and bitterness** get stronger. **If in doubt, throw it out** |
 
 - One pack of natto (about 40–50 g) contains **about 7–8 g of protein and about 3 g of dietary fibre** (Standard Tables of Food Composition in Japan, 8th edition).
-- **People taking warfarin (an anticoagulant) are usually told by their doctor or pharmacist to avoid natto, because its vitamin K weakens the drug's effect.**
+- **If you take warfarin (an anticoagulant), do not eat natto at all.** The package insert instructs patients not to consume it. The vitamin K in natto weakens the drug, and **the natto bacteria go on producing vitamin K inside the gut**, so eating a small amount or spacing it out does not work either. The same applies to chlorella products and aojiru. **Always confirm with your own doctor or pharmacist.**
 - Natto labelling follows the **Food Labelling Act**: the ingredients list shows **the origin of the soybeans and their genetically-modified status**.
 
 > **[Verify]** Check the nutrition figures against the Standard Tables of Food Composition in Japan (8th edition, 2023 supplement), and the GM labelling rules against the Consumer Affairs Agency's "Genetically Modified Food Labelling System" (revised April 2023).

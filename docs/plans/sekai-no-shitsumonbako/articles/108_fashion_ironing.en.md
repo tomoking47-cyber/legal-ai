@@ -10,12 +10,12 @@ Iron temperature settings prompt the same question everywhere: what do the dots 
 
 | Symbol | Maximum soleplate temperature | Typical fabrics |
 |---|---|---|
-| Iron with one dot | **110°C** | Acrylic, nylon, polyurethane |
-| Iron with two dots | **150°C** | Polyester, wool, silk |
-| Iron with three dots | **200°C** | Cotton, linen |
+| Iron with one dot | **120°C** | Acrylic, nylon, polyurethane |
+| Iron with two dots | **160°C** | Polyester, wool, silk |
+| Iron with three dots | **210°C** | Cotton, linen |
 | Iron crossed out | Do not iron | — |
 
-Under the old symbols (JIS L0217), the setting was shown in words as "low / medium / high" (低・中・高), and the maximum temperatures differ slightly from the current ones. **For garments made from December 2016 onwards, read the dots.**
+Under the old symbols (JIS L0217), the setting was shown in words as "low / medium / high" (低・中・高), and the maximum temperatures differ slightly from the current ones. **For garments made from December 2016 onwards, read the dots.** The maximum temperatures above are the values **raised by 10°C each in the JIS L 0001:2024 revision, in force from 20 August 2024** (the same revision added a 30°C hand-wash symbol and a "do not steam" symbol, bringing the set to 43 symbols). **Garments with the old labels could be shipped until 19 August 2025, so old labels (110°C / 150°C / 200°C) and new ones are both in circulation on the clothes in shops and in your wardrobe.**
 
 > **[Verify]** Check the temperature classes in the table on the Consumer Affairs Agency's "Care labelling" page.
 
@@ -49,6 +49,10 @@ Creases in cotton and linen **come out more easily when the fabric is damp.** Ir
   https://www.nite.go.jp/jiko/chuikanki/
 - Government Public Relations Online, "The new care labels" [政府広報オンライン「新しい洗濯表示」]
   https://www.gov-online.go.jp/useful/article/201611/1.html
+- Ministry of Economy, Trade and Industry, "Revision of the JIS for care labelling of textile products" [経済産業省「繊維製品の洗濯表示に関するJIS改正」] (20 August 2024)
+  https://www.meti.go.jp/press/2024/08/20240820001/20240820001-3r.pdf
+- Kaken Test Center, "JIS L 0001:2024 revision" [一般財団法人カケンテストセンター「JIS L 0001:2024改正」]
+  https://www.kaken.or.jp/carelabel2024
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

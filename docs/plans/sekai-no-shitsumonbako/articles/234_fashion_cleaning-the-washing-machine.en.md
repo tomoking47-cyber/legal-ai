@@ -17,7 +17,8 @@
 | Daily prevention | **Leave the lid open after use**, **do not leave laundry sitting in the drum**, **detergent and softener at the stated dose**, **empty the lint filter every load** |
 
 - **Too much detergent** is one of the biggest causes: **undissolved residue sticks to the back of the drum and feeds mould**.
-- **Never use chlorine-type and oxygen-type cleaners together** (mixing them is dangerous). **Do not use a chlorine cleaner and citric acid or vinegar on the same day.**
+- **The combination that releases toxic chlorine gas is chlorine-type plus an acidic product.** **Never use a chlorine cleaner together with — or on the same day as — citric acid, vinegar or any acidic cleaner.** This is what the "まぜるな危険" (do not mix — danger) label on the bottle means.
+- Chlorine-type and oxygen-type cleaners should also not be combined: **use one or the other on its own** (they work differently, and mixing them does not clean better). **Always ventilate the room while using them.**
 - **Behind the rubber seal of a front-loader** water collects easily; **wiping it once a week** is what the makers advise.
 
 > **[Verify]** Check the cleaning frequency and which cleaners are allowed in the manual for your own machine. Check the chlorine safety notes against the Tokyo Metropolitan Government Bureau of Public Health material.

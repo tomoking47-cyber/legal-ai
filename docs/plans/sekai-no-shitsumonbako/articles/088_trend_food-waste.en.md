@@ -15,7 +15,7 @@ Estimate by the Ministry of the Environment and the Ministry of Agriculture, For
 | FY2023 (Reiwa 5) | approx. 4.64 million tonnes | approx. 2.33 million tonnes | approx. 2.31 million tonnes |
 | **FY2024 (Reiwa 6)** | **approx. 4.61 million tonnes** | **approx. 2.24 million tonnes** | **approx. 2.37 million tonnes** |
 
-The total fell by 30,000 tonnes from the previous year (business waste rose, household waste fell). **Household and business waste are close to an even split, with business slightly ahead in fiscal 2024.** The reduction target for fiscal 2030 has not yet been reached.
+The total fell by 30,000 tonnes from the previous year (business waste rose, household waste fell). **Household and business waste are close to an even split, with business slightly ahead in fiscal 2024.** **The business sector met its fiscal 2030 target in fiscal 2022, eight years early**, and in response the Basic Policy on Promoting Food Loss Reduction (2nd edition), adopted by the Cabinet on 25 March 2025, raised the business-sector target for fiscal 2030 from a 50% cut against fiscal 2000 to a **60% cut**. **It is households that are still short of the target**: about 2.24 million tonnes in fiscal 2024 against a fiscal 2030 target of 2.16 million tonnes.
 
 > **[Verify]** Figures are from the Consumer Affairs Agency and MAFF releases. **Update to the latest fiscal year at the time of publication.**
 
@@ -49,6 +49,8 @@ For food you will eat soon, shoppers are encouraged to **take from the front of 
   https://www.maff.go.jp/j/press/shokuhin/recycle/260630.html
 - Consumer Affairs Agency, "Reference materials on food loss reduction" [食品ロス削減関係参考資料] (27 June 2025 edition)
   https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/assets/consumer_education_cms201_250627_04.pdf
+- Consumer Affairs Agency, "Basic Policy on Promoting Food Loss Reduction" [食品ロスの削減の推進に関する基本的な方針] (Cabinet decision 31 March 2020; revised 25 March 2025)
+  https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/promote/assets/consumer_education_cms201_250325_01.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

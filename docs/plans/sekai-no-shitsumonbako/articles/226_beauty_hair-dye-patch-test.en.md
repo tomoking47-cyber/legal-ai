@@ -39,7 +39,7 @@ Home hair colour is convenient, but every year in Japan people report rashes fro
 
 ## Misunderstanding 4｜It is safe at a salon
 
-**The ingredients are the same.** At a salon too, **tell the stylist about any past reaction** and **ask for a test beforehand if needed**.
+**The ingredients are the same.** At a salon too, **always tell the stylist about any past reaction**. **Anyone who has ever reacted is told not to use oxidative hair dye at all — and not to patch-test either**, because the test itself can trigger a strong reaction. If you still want to colour your hair, ask a dermatologist or your stylist about products that contain no oxidative dye.
 
 ## Misunderstanding 5｜Redness at the hairline is just the dye stinging
 

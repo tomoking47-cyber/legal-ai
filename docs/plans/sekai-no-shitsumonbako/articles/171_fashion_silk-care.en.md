@@ -15,10 +15,11 @@ Around the world, silk is avoided as "difficult to look after". Japan, however, 
 | Detergent | **Neutral, sold for "delicates" (おしゃれ着用洗剤, oshare-gi-yō senzai)**. **No alkaline detergent, no bleach, no enzyme detergent** | Silk is a protein (fibroin) and is weak against alkali and enzymes |
 | How to wash | **Press-wash for 2–3 minutes**. Do not rub, do not soak | Friction causes fuzzing and brightening |
 | How to dry | **In the shade**. Direct sun causes yellowing | UV light discolours and degrades the fibre |
-| Ironing | **Up to two dots (150°C)**, with a pressing cloth; **many items say no steam** | Water drops leave marks (water stains) |
+| Ironing | **Up to two dots (160°C)**, with a pressing cloth; **many items say no steam** | Water drops leave marks (water stains) |
 
 - Silk is an **animal protein**, so **sweat (which turns alkaline), perfume and antiperspirant** also discolour it. **After wearing, air it in the shade to let the moisture out.**
 - The **triangle with ×** (do not bleach) appears on almost every silk item. **Oxygen bleach (酸素系漂白剤, sanso-kei hyōhakuzai) is often ruled out too**, so check the label.
+- The maximum ironing temperatures were **raised by the JIS L 0001:2024 revision, in force from 20 August 2024**: two dots went from 150°C to 160°C. **Garments with the old labels could be shipped until 19 August 2025, so items you already own may still carry the old "two dots = 150°C" label.**
 
 > **[Verify]** Check the meaning of the symbols on the Consumer Affairs Agency's "Care labelling" page. The temperature guides are based on guidance from textile bodies and makers.
 
@@ -52,6 +53,10 @@ Silk is a fibre **moths readily eat**, so repellent is needed, but **direct cont
   https://www.qtec.or.jp/
 - Zenkuren (National Federation of Dry Cleaning Associations), "Caring for clothing" [衣類のお手入れ]
   https://www.zenkuren.or.jp/
+- Ministry of Economy, Trade and Industry, "Revision of the JIS for care labelling of textile products" [経済産業省「繊維製品の洗濯表示に関するJIS改正」] (20 August 2024)
+  https://www.meti.go.jp/press/2024/08/20240820001/20240820001-3r.pdf
+- Kaken Test Center, "JIS L 0001:2024 revision" [一般財団法人カケンテストセンター「JIS L 0001:2024改正」]
+  https://www.kaken.or.jp/carelabel2024
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
