@@ -43,11 +43,11 @@ The salt in sweat **causes rust and can cause metal allergy**. **Wiping the case
 
 ### Sources
 
-- Japan Clock & Watch Association, "About water resistance in watches" [一般社団法人日本時計協会「時計の防水について」]
-  https://www.jcwa.or.jp/etc/waterproof.html
-- Japan Clock & Watch Association, "Watches and magnetism" [一般社団法人日本時計協会「時計と磁気」]
-  https://www.jcwa.or.jp/etc/magnetism.html
-- Japanese Industrial Standards Committee (JISC), JIS B7021 "Water resistant watches" [日本産業標準調査会（JISC）JIS B7021「携帯時計の防水性能」]
+- Japan Clock & Watch Association, "Types of water-resistant watches and points to note in handling them" [一般社団法人日本時計協会「防水時計の種類と取扱い上の注意点を教えて」]
+  https://www.jcwa.or.jp/time/qa/qa08.html
+- Japan Clock & Watch Association, "Anti-magnetic performance" [一般社団法人日本時計協会「耐磁性能」]
+  https://www.jcwa.or.jp/time/knowledge/magnetic.html
+- Japanese Industrial Standards Committee (JISC), JIS B 7021 "Water resistant watches for general use — Classification and water resistibility" (current edition 2013) [日本産業標準調査会（JISC）JIS B 7021「一般用防水携帯時計－種類及び防水性能」（現行版は2013年）]
   https://www.jisc.go.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

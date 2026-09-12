@@ -10,9 +10,9 @@ Supplements are used all over the world, but in Japan the rules changed sharply 
 
 In March 2024, health damage linked to products made from red yeast rice (紅麹, beni-kōji) came to light. In response:
 
-- **For Foods with Function Claims (機能性表示食品, a Japanese category of food whose maker notifies a health claim to the authorities) sold in supplement form, manufacturing control based on GMP (Good Manufacturing Practice) became a requirement the notifying business must meet.**
+- **For Foods with Function Claims (機能性表示食品, a Japanese category of food whose maker notifies a health claim to the authorities) sold in supplement form (tablets, capsules and the like), manufacturing control based on GMP (Good Manufacturing Practice) became a requirement the notifying business must meet.** After a two-year transitional period, it has been **fully in force since 1 September 2026.**
 - **Reporting information on health damage to the authorities became compulsory.**
-- The amendments under the Food Labelling Act and the Food Sanitation Act **came into force on 1 September 2024.**
+- The amendments under the Food Labelling Act and the Food Sanitation Act **came into force on 1 September 2024** (the duty to report health-damage information applied immediately; the GMP requirement came fully into force on 1 September 2026, after a two-year transitional period).
 
 In other words, **the assumption "it's a food, so it's safe" was revisited by the regulators themselves.**
 

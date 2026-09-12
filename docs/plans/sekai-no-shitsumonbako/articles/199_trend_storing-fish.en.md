@@ -2,7 +2,7 @@
 
 - Shelf: `trend` ／ URL: `/en/trend/storing-fish` ／ Status: **Draft — English edition, sources unverified**
 
-Japan eats a great deal of fish, and households have built up know-how on handling it. Yet on Q&A sites abroad, "how many days will the fish I bought keep?" and "can I eat sashimi the next day?" are perennial questions. We set out the answers, taking into account the rise in food poisoning from Anisakis (a parasitic worm found in fish).
+Japan eats a great deal of fish, and households have built up know-how on handling it. Yet on Q&A sites abroad, "how many days will the fish I bought keep?" and "can I eat sashimi the next day?" are perennial questions. We set out the answers, taking into account the several hundred cases of food poisoning from Anisakis (a parasitic worm found in fish) reported every year.
 
 ## A. The biggest misunderstanding is "fish keeps longer than meat." Fish spoils faster than meat: 1–2 days for fillets, and sashimi the same day. Anisakis is killed by heating (70°C or above, or 60°C for 1 minute) or by freezing (−20°C for at least 24 hours), but a household freezer needs extra time.
 
@@ -16,7 +16,7 @@ Japan eats a great deal of fish, and households have built up know-how on handli
 | Dried fish (himono) | 2–3 days | 1 month |
 | Shellfish (asari clams, etc.) | Same day to next day (in salt water) | After purging the sand, can be frozen in the shell |
 
-- **Food poisoning from Anisakis reached 432 cases in 2023 (Reiwa 5)**, the **highest count by causative agent** (MHLW food-poisoning statistics). Eating **mackerel, saury, bonito, sardine and squid** raw is the main cause.
+- **Food poisoning from Anisakis came to 280 cases in 2025 (Reiwa 7)**, the **second highest count by causative agent, after norovirus (462 cases)** (MHLW food-poisoning statistics). Eating **mackerel, saury, bonito, sardine and squid** raw is the main cause.
 - MHLW's guidance against Anisakis is **freezing at −20°C for at least 24 hours, or heating to 70°C or above (or 60°C for 1 minute)**. **Vinegar, salt, soy sauce and wasabi do not kill it.**
 - **The guts are the part of a fish that spoils fastest**; if you buy a whole fish, the rule is to **remove them early**.
 

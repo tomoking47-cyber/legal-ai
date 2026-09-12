@@ -2,7 +2,7 @@
 
 - Shelf: `beauty` ／ URL: `/en/beauty/nail-care-and-removers` ／ Status: **Draft — English edition, sources unverified**
 
-With the spread of gel nails, complaints about nail problems have risen in Japan too. In overseas communities the recurring question is "do nails need a rest period?". This article sets things out, including a case where the Consumer Affairs Agency (Japan's consumer watchdog) issued a public warning.
+With the spread of gel nails, complaints about nail problems have risen in Japan too. In overseas communities the recurring question is "do nails need a rest period?". This article sets things out, including complaints reported to the National Consumer Affairs Center of Japan (the national body that collects consumer complaints).
 
 ## A. The biggest misunderstanding is "nails are hard, so anything goes." Nails are part of the skin. They can thin, or the surrounding skin can react, through drying by acetone remover, forcing gel off, or a reaction to gel under the curing lamp. The National Consumer Affairs Center of Japan has also received complaints of itching, swelling and blisters after gel nails.
 
@@ -28,7 +28,7 @@ Nails **do not breathe** (they are a type of keratin). "Resting" makes sense as 
 
 ## Misunderstanding 3｜Once cured under the lamp, it is safe
 
-**Under-cured gel on the inside** touching the skin can cause allergy. The Consumer Affairs Agency's points are: **wipe off any gel on the skin before curing**, and **keep to the curing time on the label.**
+**Under-cured gel on the inside** touching the skin can cause allergy. The basics are: **wipe off any gel on the skin before curing**, and **keep to the curing time on the label.** The National Consumer Affairs Center of Japan has also reported burns from the heat given off during curing.
 
 ## Misunderstanding 4｜White spots mean a calcium deficiency
 

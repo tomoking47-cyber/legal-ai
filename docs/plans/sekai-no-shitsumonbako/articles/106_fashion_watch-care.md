@@ -43,11 +43,11 @@
 
 ### 出典
 
-- 一般社団法人日本時計協会「時計の防水について」
-  https://www.jcwa.or.jp/etc/waterproof.html
-- 一般社団法人日本時計協会「時計と磁気」
-  https://www.jcwa.or.jp/etc/magnetism.html
-- 日本産業標準調査会（JISC）JIS B7021「携帯時計の防水性能」
+- 一般社団法人日本時計協会「防水時計の種類と取扱い上の注意点を教えて」
+  https://www.jcwa.or.jp/time/qa/qa08.html
+- 一般社団法人日本時計協会「耐磁性能」
+  https://www.jcwa.or.jp/time/knowledge/magnetic.html
+- 日本産業標準調査会（JISC）JIS B 7021「一般用防水携帯時計－種類及び防水性能」（現行版は2013年）
   https://www.jisc.go.jp/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
