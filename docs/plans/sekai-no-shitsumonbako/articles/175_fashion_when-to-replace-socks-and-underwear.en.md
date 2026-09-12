@@ -2,7 +2,7 @@
 
 - Shelf: `fashion` ／ URL: `/en/fashion/when-to-replace-socks-and-underwear` ／ Status: **Draft — English edition, sources unverified**
 
-"How many years do socks last?" and "When should I replace underwear?" are surprisingly common questions on forums worldwide. Japan has a habit of talking about a sock's "lifespan", and trade-body guides and everyday judgement are shared openly. Here is what people go by.
+"How many years do socks last?" and "When should I replace underwear?" are surprisingly common questions on forums worldwide. Japan has a habit of talking about a sock's "lifespan", and makers' and retailers' guides and everyday judgement are shared openly. Here is what people go by.
 
 ## A. The biggest misunderstanding is "you can use them until they get a hole". Socks and underwear lose their function even without a visible hole: the elastic stretches, the fabric thins, and smells linger. The guides are six months to a year for socks (depending on how often they are worn), six months to a year for underwear, and around 100 wears for a bra.
 
@@ -52,6 +52,8 @@ People in Japan cut waste by **"buying several identical pairs, so an odd sock c
   https://www.qtec.or.jp/
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
+- Wacoal, "How long does a bra last? Signs it is time to replace it" [ブラの寿命って？替え時捨て時のサインは？] (guide to the number of wears)
+  https://www.wacoal.jp/advice/contents/post-53.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

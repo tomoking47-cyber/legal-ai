@@ -12,9 +12,9 @@
 |---|---|
 | Number of complaints | **Dry-cleaning complaints to the National Consumer Affairs Center and local consumer centres run at 4,000–6,000 a year** (2010s onward) |
 | Main complaints | **Discolouration, shrinkage, damage, loss, stains not removed, late return** |
-| **Dry-Cleaning Accident Compensation Standard** | **A voluntary industry standard** set by Zenkuren, the national federation of dry-cleaning trade associations. Calculated as **purchase price × compensation ratio (depreciated by time since purchase)** |
-| Example ratios | **Under 1 year from purchase: about 70–100% of the purchase price**; **at 3 years about 30–50%**; **5 years or more: about 10–20%** (varies with the average service life of the item type) |
-| Time limits for a claim | Under the standard, **within 6 months of collecting the item**; the shop cannot be held liable once **1 year has passed since the item was due for collection** |
+| **Dry-Cleaning Accident Compensation Standard** | **A voluntary industry standard** set by Zenkuren, the national federation of dry-cleaning trade associations. Calculated as **the replacement price of the item × a compensation ratio (depreciated by the number of months since purchase)** |
+| How the ratio is set | The schedule attached to the standard sets the ratio from a combination of **the average service life of that type of item and the number of months since purchase**. It is then adjusted by **a grade for the condition of use — A, B or C** (see the schedule for the actual figures) |
+| Time limits for a claim | Under the standard, the cleaner is released from paying compensation once **6 months have passed since you collected the item**, or once **1 year has passed since the cleaner took the item in** |
 
 - Cleaners are registered under the **Dry Cleaning Business Act (クリーニング業法)** and **are obliged to process items according to the care label**. **Anything not covered by the label (wet cleaning, for example) requires the shop's own judgement and an explanation to you.**
 - **Checking the item on the spot when you collect it** is the single biggest key to getting a problem resolved. **Take off the plastic cover and look at the colour, shape and trimmings.**

@@ -16,7 +16,7 @@ Japanese cosmetics shelves are full of products marked "薬用" (yakuyō, "medic
 
 - **"Yakuyō" (medicated) is not a legal term**; it is the customary word for a quasi-drug. Look for the words "医薬部外品" on the package to be sure.
 - **Typical quasi-drug active ingredients**: brightening (**tranexamic acid, arbutin, vitamin C derivatives, niacinamide**), anti-inflammatory (**dipotassium glycyrrhizinate**), antibacterial (**isopropyl methylphenol**). **The Japanese term "bihaku" (美白, "brightening") is limited to the meaning "suppresses melanin production and prevents dark spots and freckles"**; **"makes skin whiter" or "erases spots" cannot be claimed.**
-- **The 2013 case of leukoderma (white patches) caused by the brightening ingredient Rhododenol** showed that quasi-drugs can also cause skin trouble; the Ministry of Health, Labour and Welfare (MHLW) ordered a recall.
+- **The 2013 case of leukoderma (white patches) caused by the brightening ingredient Rhododenol** showed that quasi-drugs can also cause skin trouble. On 4 July 2013 the marketing companies began a **voluntary recall**, and the Ministry of Health, Labour and Welfare (MHLW) published the status of that recall.
 
 > **[Verify]** Check the category definitions against Article 2 of the Pharmaceuticals and Medical Devices Act, the scope of quasi-drug claims and active ingredients against MHLW materials, and the Rhododenol history against MHLW's published documents.
 

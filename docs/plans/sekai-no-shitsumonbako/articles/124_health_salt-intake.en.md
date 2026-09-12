@@ -10,7 +10,7 @@ Cutting salt is a challenge everywhere, but Japan is one of the higher-salt coun
 
 | Item | Figure | Source |
 |---|---|---|
-| Average daily salt intake in Japan (age 20 and over) | **About 9.8 g** (men 10.7 g, women 9.1 g) | National Health and Nutrition Survey (2023) |
+| Average daily salt intake in Japan (age 20 and over) | **About 9.6 g** (men 10.5 g, women 8.9 g) | National Health and Nutrition Survey (2024) |
 | Target in the Dietary Reference Intakes for Japanese (2025 edition) | **Under 7.5 g for men, under 6.5 g for women** | MHLW |
 | Health Japan 21 (third term) target (FY2032) | **7 g** (not "under 7 g") | MHLW |
 | WHO recommendation | **Under 5 g** | WHO |
@@ -47,7 +47,7 @@ The **umami in dashi supplements saltiness and makes it easier to use less soy s
 
 ## Misunderstanding 5｜"Sodium" and "salt equivalent" on a label are the same number
 
-**400 mg of sodium is roughly 1 g of salt equivalent.** Mix up the units and the figure looks a quarter of its real size. Labels in Japan now show salt equivalent as the rule.
+**400 mg of sodium is roughly 1 g of salt equivalent.** Read the mg figure as if it were grams and the number looks only about **four-tenths** of the real amount. Labels in Japan now show salt equivalent as the rule.
 
 ---
 
@@ -57,8 +57,8 @@ The **umami in dashi supplements saltiness and makes it easier to use less soy s
   https://www.mhlw.go.jp/stf/newpage_44138.html
 - MHLW, "Explanatory materials for promoting Health Japan 21 (third term)" [健康日本21（第三次）推進のための説明資料] (May 2023)
   https://www.mhlw.go.jp/content/001426890.pdf
-- MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- MHLW, "Outline of Results of the 2024 National Health and Nutrition Survey" [令和6年 国民健康・栄養調査結果の概要]
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - Consumer Affairs Agency, "Food Labelling Standards" [食品表示基準] (nutrition labelling, salt equivalent)
   https://www.caa.go.jp/policies/policy/food_labeling/nutrient_declearation/
 

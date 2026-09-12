@@ -13,7 +13,7 @@ Blankets are often assumed to be "too big to wash", and people in many countries
 | **Acrylic / polyester (fleece, microfibre)** | **Almost always, subject to the label** | **Fold it accordion-style (屛風畳み) and put it in a mesh laundry bag**, use the machine's **blanket course or gentle cycle**, neutral detergent. **Fabric softener helps against static, but stick to the stated dose** | **Hang it over two laundry poles in an M shape** so air passes through. **Tumble dryer on low if the label allows** | **2–3 times** a season, and always before storing |
 | **Cotton blanket** | Yes | As above | As above | As above |
 | **Wool / cashmere** | **Only if the label carries a hand-wash symbol** | 30°C (86°F) or below, neutral detergent, press-wash gently | Dry flat, in the shade | Often dry-cleaned at the end of the season |
-| **Electric blanket** | **Only those labelled "fully washable" (丸洗い可)** | **Remove the controller**, follow the label | Completely | — |
+| **Electric blanket** | **Only those labelled "fully washable" (丸洗い可)** | **Remove the controller (connector)**, follow the label — gentle cycle, mesh bag | **Dry it completely in the shade, and do not switch it on until it is dry**. **Do not tumble-dry it** | — |
 
 - Washing one single blanket (about 1.5–2 kg) needs a machine rated **7–8 kg or more**. Once the load passes **80% of the drum**, it cannot turn and will not wash. The **large machines at a coin laundry** (15–25 kg) are made for blankets and futons.
 - A blanket absorbs **night sweat (about 200 mL a night), skin oil and dander**, which **feed dust mites**. **Mites die at 50°C in 20–30 minutes, and faster at 60°C or above**, so a **hot tumble-dry** (if the label allows) is one countermeasure.

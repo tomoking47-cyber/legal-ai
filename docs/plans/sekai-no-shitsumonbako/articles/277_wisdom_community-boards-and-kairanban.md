@@ -10,7 +10,7 @@ New residents in Japan are handed a clipboard of notices to read and pass to the
 
 | Element | Detail |
 |---|---|
-| **Chōnaikai / jichikai** (neighbourhood association) | Voluntary body of **50–500 households**; elected officers rotate; **about 70% of households belong** (down from over 90% in the 1980s) |
+| **Chōnaikai / jichikai** (neighbourhood association) | Voluntary body of **50–500 households**; elected officers rotate; **about 70% of households belong** (71.7% in 2020, down from 78.0% in 2010; a 1970 survey put participation around 90%) |
 | **Fees** | **¥3,000–6,000 a year** typically, collected by a block leader (hanchō) |
 | **Kairanban** | A clipboard of notices — collection schedule changes, festival dates, fire drills, crime alerts — **read, stamp or sign, pass to the next house within a day** |
 | **Duties** | Rotating **rubbish-site cleaning**, crossing-guard shifts near schools, **festival preparation**, **disaster drill participation** |
@@ -18,7 +18,7 @@ New residents in Japan are handed a clipboard of notices to read and pass to the
 | Alternatives | Many associations now use **LINE groups or apps** alongside the clipboard |
 
 - Municipalities delegate real functions to associations: **placement and cleaning of the rubbish collection point**, **installation of street lights and mirrors**, **distribution of city newsletters**. Non-members often may still use the collection point, but disputes arise.
-- After the **1995 Kobe earthquake, about 8 in 10 people rescued from collapsed houses were pulled out by neighbours**, not by emergency services — the statistic that anchors the associations' disaster role.
+- After the **1995 Kobe earthquake, about 8 in 10 people rescued from collapsed houses were pulled out by family or neighbours**, not by emergency services — the statistic that anchors the associations' disaster role.
 - Membership decline is a recognised policy issue; the Ministry of Internal Affairs and Communications has published guidance on **making participation easier for renters, single people and foreign residents**.
 
 > **[Verify]** Membership rates and the Kobe rescue figure with the Cabinet Office disaster-prevention white papers and MIC surveys on community associations.

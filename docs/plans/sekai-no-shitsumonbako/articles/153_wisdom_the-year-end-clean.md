@@ -19,7 +19,7 @@ Every December, Japanese households, schools and offices do a deep clean before 
 | 7 | Genkan (entrance) last of all | It is the boundary; finish there |
 
 - The tradition traces to **susu-harai** ("soot sweeping"), historically held on **13 December** in the Edo period; many temples still do it on that day.
-- Practical timing: most households clean between **26 and 30 December**; **31 December is traditionally avoided** as too rushed to welcome the new year.
+- Practical timing: tradition puts the work between **13 and 28 December**; **29 December is avoided** (29 reads as *ni-jū-ku*, “double suffering”) and **31 December is avoided** as *ichiya-kazari*, too rushed to welcome the new year.
 - Municipal waste collection **pauses over the new year** (typically **31 December to 3 January**), so the discard step must come first.
 
 > **[Verify]** Susu-harai date and collection schedules are general; check your own municipality's year-end calendar.
@@ -49,8 +49,8 @@ The functional payoff is **inspection**: you find the leaking hose, the dead bat
 ### Sources
 - Ministry of the Environment — Household cleaning products and safe use
   https://www.env.go.jp/chemi/
-- Tokyo Metropolitan Government Bureau of Environment — Year-end waste collection schedules
-  https://www.kankyo.metro.tokyo.lg.jp/resource/
+- Year-end household waste collection schedules are set by each municipality — in Tokyo by each of the 23 wards, which have run collection since April 2000; check your own ward or city page
+  https://www.kankyo.metro.tokyo.lg.jp/resource/general_waste/
 - Agency for Cultural Affairs — Annual customs (nenchū gyōji)
   https://www.bunka.go.jp/english/
 

@@ -12,7 +12,7 @@ Whether to skip breakfast, and whether intermittent fasting is healthy, is debat
 |---|---|---|
 | Breakfast-skipping rate (men in their 20s) | **About 30%** | National Health and Nutrition Survey (2023) |
 | Breakfast-skipping rate (women in their 20s) | **About 20%** | Same |
-| Breakfast-skipping rate (men, all ages) | **About 15%** | Same |
+| Breakfast-skipping rate (men, age 20 and over) | **About 17%** | Same |
 | Related Health Japan 21 (third term) target | Fewer people skipping breakfast (younger generations) | MHLW |
 
 The survey definition of "skipping" includes **eating nothing, eating only sweets or fruit, and taking only tablets or supplements**.
@@ -44,7 +44,7 @@ The **National Assessment of Academic Ability** (全国学力・学習状況調�
 ### Sources
 
 - MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要] (breakfast-skipping rate)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_45540.html
 - MHLW, "Health Japan 21 (third term)" [健康日本21（第三次）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 - MEXT, "Early to bed, early to rise, and eat breakfast" national campaign [「早寝早起き朝ごはん」国民運動]

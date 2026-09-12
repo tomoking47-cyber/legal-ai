@@ -10,7 +10,7 @@ Japanese summers bring mosquitoes, cockroaches, and the small moths that eat woo
 
 | Pest | Prevention | Control | Note |
 |---|---|---|---|
-| **Mosquitoes** (June–October) | **Screens (amido) on every window**, no standing water on balconies, fans (mosquitoes are weak fliers) | **Mosquito coils (katori senkō)**, **plug-in liquid or mat vaporisers**, body repellent (DEET or icaridin) | Repellents are **quasi-drugs**; concentration limits apply (DEET up to 30% since 2016) |
+| **Mosquitoes** (June–October) | **Screens (amido) on every window**, no standing water on balconies, fans (mosquitoes are weak fliers) | **Mosquito coils (katori senkō)**, **plug-in liquid or mat vaporisers**, body repellent (DEET or icaridin) | Repellents with **DEET 10% or less are quasi-drugs**; **DEET 12% and above — including the 30% products allowed since 2016 — are OTC drugs (第2類医薬品)** and are labelled for age 12 and over. Icaridin 15% products remain quasi-drugs |
 | **Cockroaches** | Seal food, **wipe grease**, empty drain baskets, **freeze meat scraps until collection day** | **Bait stations (poison gel/tablets)** under sink and behind fridge; **sticky traps** | Baits are quasi-drugs; place out of children's reach |
 | **Clothes moths and carpet beetles** | Wash before storing; **repellent on top of stored clothes** | See the moth-repellent article | Do not mix repellent types |
 | **Fruit flies / drain flies** | Rinse recyclables, dry the sink at night, cover fruit | Drain cleaning; traps | Summer only |

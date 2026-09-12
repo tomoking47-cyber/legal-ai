@@ -44,7 +44,7 @@ They are **in brackets inside the ingredient list** or summarised at its end: **
 
 ## Misunderstanding 4｜"Salt" will be listed as sodium
 
-Japanese panels show **食塩相当量 (salt equivalent) in grams** — directly comparable to the 7 g daily target — not sodium in milligrams.
+Japanese panels show **食塩相当量 (salt equivalent) in grams** — directly comparable to the national target of **under 7.5 g a day for men and 6.5 g for women** — not sodium in milligrams.
 
 ## Misunderstanding 5｜A camera translator is enough
 

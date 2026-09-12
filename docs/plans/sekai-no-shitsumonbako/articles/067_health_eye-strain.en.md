@@ -8,7 +8,7 @@ The longer we look at screens, the more eye strain comes up as a topic, in Japan
 
 ## The numbers in the guideline
 
-MHLW, *Guidelines for Occupational Health Management in Work with Information Equipment* (Notice Kihatsu 0712 No. 3, 12 July 2019):
+MHLW, *Guidelines for Occupational Health Management in Work with Information Equipment* (Notice Kihatsu 0712 No. 3, 12 July 2019; partially revised by Notice Kihatsu 1201 No. 7, 1 December 2021):
 
 - A single continuous session of screen work should **not exceed one hour**
 - Allow a **10–15 minute pause** before the next continuous session

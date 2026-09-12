@@ -17,7 +17,7 @@ Japanese skincare has many steps: lotion (化粧水, keshōsui — a watery tone
 
 - These classes are **industry custom** and **have no legal definition.** The Pharmaceuticals and Medical Devices Act (Japan's cosmetics and drugs law) has only three categories: "cosmetics", "quasi-drugs" and "medicines".
 - A cosmetic may claim only **56 listed effects** ("moisturises the skin", "protects the skin", "keeps the skin healthy", and so on). The **same range** applies to a serum and to an emulsion. "Erases wrinkles" or "makes dark spots disappear" cannot be claimed.
-- A **quasi-drug ("medicated", 薬用) serum** — a quasi-drug is a Japanese category between cosmetics and medicines — may state **approved claims** for its approved active ingredient (e.g. niacinamide, tranexamic acid, retinol): "suppresses melanin production and prevents dark spots and freckles", or "makes fine lines caused by dryness less visible (efficacy evaluation test completed)".
+- A **quasi-drug ("medicated", 薬用) serum** — a quasi-drug is a Japanese category between cosmetics and medicines — may state **approved claims** for its approved active ingredient (e.g. niacinamide, tranexamic acid, arbutin): "suppresses melanin production and prevents dark spots and freckles". Note that "makes fine lines caused by dryness less visible" is **item 56 of the 56 cosmetic efficacy claims**, which a product may display once it has passed an efficacy evaluation test based on the guideline of the Japanese Society of Cosmetic Science (it is not an approved quasi-drug claim). **Retinol** is the active ingredient approved in 2017 for the claim **"improves wrinkles"**, not a brightening ("prevents dark spots and freckles") active.
 
 > **[Verify]** Check the 56 items against MHLW notice Yakushoku-hatsu 0721 No. 1, and the scope of quasi-drug claims against Ministry of Health, Labour and Welfare (MHLW) materials. "Makes fine lines caused by dryness less visible" is wording based on the Japan Cosmetic Industry Association's efficacy evaluation test guideline.
 
@@ -49,8 +49,8 @@ A "moisturiser" abroad is closer to **emulsion and cream combined**; it is not s
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Ministry of Health, Labour and Welfare, "Scope of efficacy claims for quasi-drugs" [医薬部外品の効能効果の範囲]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
-- Japan Cosmetic Industry Association, "Guidelines for evaluating cosmetic functions (anti-wrinkle product evaluation)" [化粧品機能評価法ガイドライン（抗シワ製品評価）]
-  https://www.jcia.org/user/business/
+- Japanese Society of Cosmetic Science, "Guidelines for evaluating cosmetic functions / Guideline for anti-wrinkle product evaluation for new efficacy claims" [化粧品機能評価法ガイドライン／新規効能取得のための抗シワ製品評価ガイドライン]
+  https://www.jcss.jp/journal/guideline.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

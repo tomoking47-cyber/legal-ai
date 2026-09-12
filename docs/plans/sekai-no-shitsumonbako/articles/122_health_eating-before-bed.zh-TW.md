@@ -49,8 +49,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生勞動省、農林水產省《飲食均衡指南》[食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
-- 厚生勞動省《令和5年 國民健康・營養調查結果概要》[令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- 厚生勞動省《令和6年 國民健康・營養調查結果概要》[令和6年 国民健康・栄養調査結果の概要]
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

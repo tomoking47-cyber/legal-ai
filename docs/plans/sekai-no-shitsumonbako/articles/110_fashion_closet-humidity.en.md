@@ -9,7 +9,7 @@ Mould and musty smells in the closet are a shared problem in every humid region.
 ## The humidity numbers
 
 - Tokyo's monthly mean relative humidity is **around 75% in June, July and September**, and **in the 50s** in winter (Japan Meteorological Agency normals).
-- Mould is generally described as growing readily when three conditions coincide: **humidity of 70% or more, a temperature of 20–30°C, and food (dust, skin oil)**. A closet easily meets all three.
+- Mould is generally described as growing readily when three conditions coincide: **humidity of 60% or more, a temperature of 15–30°C (25–28°C is optimal), and food (dust, skin oil)**, and **above 80% humidity it multiplies rapidly**. A closet easily meets all three.
 - Calcium-chloride dehumidifier packs (除湿剤, joshitsuzai) state on the label **how much moisture each unit absorbs (for example, roughly 400–800 mL)** and how long it lasts.
 
 | Measure | Reason |

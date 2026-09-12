@@ -11,7 +11,7 @@ In a humid climate, mould prevention is a routine household task. The most dange
 
 Household chlorine-based cleaners that can release **1.0 ppm or more of chlorine gas** in a standard test must carry the words **まぜるな危険** ("Do not mix — danger") — "do not mix" in yellow with black outline, "danger" in red, in a framed white box. This is a legal labelling requirement.
 
-Inhalation incidents from cleaning products **ranked first among inhalation accidents every year from 2021 to 2024**. The National Consumer Affairs Center issued a fresh warning in March 2026 after incidents in bathrooms.
+Taking fiscal years 2021 to 2024 together, cleaning products were **the most common cause of inhalation accidents involving household goods** — largely chlorine-based mould removers used in bathrooms. The National Consumer Affairs Center issued a fresh warning in March 2026 after incidents in bathrooms.
 
 > **[Verify]** Labelling rule and incident ranking from the Consumer Affairs Agency and National Consumer Affairs Center. Confirm before publication.
 

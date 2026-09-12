@@ -4,14 +4,14 @@
 
 An automatic ice-maker is standard on Japanese fridges, but it draws many queries: "I don't know how to clean it" and "the ice smells." Ice is often assumed to be safe because it is frozen — a misunderstanding found in Q&A forums abroad too.
 
-## A. The biggest misunderstanding is "ice is frozen, so bacteria cannot grow." Freezing stops bacteria multiplying, but it does not kill them. The water tank, the water channel and the ice tray are where slime and mould form. Makers' guidance is to wash the tank weekly and clean the ice-making channel about once a month (it depends on the model).
+## A. The biggest misunderstanding is "ice is frozen, so bacteria cannot grow." Freezing stops bacteria multiplying, but it does not kill them. The water tank, the water channel and the ice tray are where slime and mould form. Makers' guidance is to wash the tank weekly and clean the ice tray and water channel about once or twice a year (it depends on the model).
 
 ## Care guide (what most makers advise)
 
 | Part | How often | What to do |
 |---|---|---|
 | **Water tank** | **Once a week** (change the water daily) | Wash with detergent, wash the filter too. **Dry before putting back** |
-| Water channel and ice tray | **Once a month to once every few months** (the model's "ice-maker clean" function) | Use the built-in cleaning function or a cleaning agent (**citric-acid type** is usually specified) |
+| Water channel and ice tray | **Once or twice a year** (the model's "ice-maker clean" function) | Use the built-in cleaning function or a cleaning agent (**citric-acid type** is usually specified) |
 | Ice bin | Once a month | Wash and dry. **Throw away old ice** |
 | Filter | **Replace every 3–4 years** (depends on the model) | Replacement interval in the manual |
 
@@ -44,8 +44,8 @@ That is **dissolved air and minerals crystallising**, not dirt. **A smell or bla
 
 ### Sources
 
-- Consumer Affairs Agency, "Hygiene management of automatic ice-makers in fridges" [冷蔵庫の自動製氷機の衛生管理] (consumer alert)
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- National Consumer Affairs Center of Japan, "Beware of mould in ice from freezer-fridges" [冷凍冷蔵庫の氷のカビにご注意] (product test results)
+  https://www.kokusen.go.jp/hello/data/test.html
 - Association for Electric Home Appliances [一般財団法人家電製品協会], "Caring for your fridge" [冷蔵庫のお手入れ]
   https://www.aeha.or.jp/
 - Ministry of Health, Labour and Welfare, "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]

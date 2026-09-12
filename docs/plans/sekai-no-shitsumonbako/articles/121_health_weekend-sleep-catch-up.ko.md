@@ -46,8 +46,8 @@
 
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
-- 후생노동성 『레이와 5년 국민건강・영양조사 결과 개요』 [令和5年 国民健康・栄養調査結果の概要] (수면 시간의 분포)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- 후생노동성 『레이와 6년 국민건강・영양조사 결과 개요』 [令和6年 国民健康・栄養調査結果の概要] (수면 시간의 상황)
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - OECD Gender Data Portal "Time use across the world"
   https://www.oecd.org/en/data/datasets/oecd-gender-data-portal.html
 

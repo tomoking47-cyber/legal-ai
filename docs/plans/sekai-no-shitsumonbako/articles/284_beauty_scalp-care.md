@@ -48,7 +48,7 @@
 - 厚生労働省「医薬部外品の効能効果の範囲」（育毛剤）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 公益社団法人日本皮膚科学会「男性型および女性型脱毛症診療ガイドライン2017年版」
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/AGA_GL2017.pdf
 - 厚生労働省「化粧品の効能の範囲の改正について」（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

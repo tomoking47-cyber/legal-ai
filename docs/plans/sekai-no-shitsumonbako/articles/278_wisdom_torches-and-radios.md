@@ -17,7 +17,7 @@ Every Japanese household disaster checklist starts with a torch and a radio, and
 | **Car** | A charging point and a radio | Keep the tank at least half full in typhoon and winter seasons |
 | Solar / hand-crank | Slow, but indefinite | Backup, not primary |
 
-- After the 2011 Tōhoku earthquake, carriers **restricted voice traffic by up to 70–95%**; texts and data worked intermittently. **Disaster message boards** (171 voice service and web171) exist for this reason and are tested on the 1st of each month.
+- After the 2011 Tōhoku earthquake, carriers **restricted voice traffic by up to 70–95%**; texts and data worked intermittently. **Disaster message boards** (171 voice service and web171) exist for this reason and are open for practice on the **1st and 15th of every month**, plus 1–3 January, Disaster Prevention Week (30 Aug–5 Sep) and Disaster Prevention and Volunteer Week (15–21 Jan).
 - **Public Wi-Fi "00000JAPAN"** is opened free by all carriers in a declared disaster.
 - **Battery-free LED lanterns that run on salt water** and **candle-free lighting** are sold because candles caused fires after earthquakes; **do not use candles** after a quake (gas leaks).
 

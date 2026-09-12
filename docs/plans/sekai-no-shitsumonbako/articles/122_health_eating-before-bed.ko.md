@@ -49,8 +49,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성・농림수산성 『식사 밸런스 가이드』 [食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
-- 후생노동성 『레이와 5년 국민건강・영양조사 결과 개요』 [令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- 후생노동성 『레이와 6년 국민건강・영양조사 결과 개요』 [令和6年 国民健康・栄養調査結果の概要]
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

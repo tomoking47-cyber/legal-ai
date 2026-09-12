@@ -10,7 +10,7 @@
 
 | Year | Event |
 |---|---|
-| 1980 onwards | **Designated-ingredient labelling system**: **102 ingredients (later 103)** with a possible link to allergy etc. had to be listed. The claim "free of designated ingredients" spread |
+| 1980 onwards | **Designated-ingredient labelling system**: **102 ingredients plus fragrance (103 in total)** with a possible link to allergy etc. had to be listed. The claim "free of designated ingredients" spread |
 | **April 2001** | **Switch to full ingredient labelling**. The designated-ingredient system was abolished. **As every ingredient is now listed, "additive-free" has nothing left to compare against** |
 | Today | "Mutenka" is governed by **industry self-regulation** (the Japan Cosmetic Industry Association's advertising guidelines), which require makers to **state clearly what has been left out** |
 

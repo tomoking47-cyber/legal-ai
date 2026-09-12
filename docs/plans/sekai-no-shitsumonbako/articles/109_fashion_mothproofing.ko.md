@@ -45,8 +45,8 @@
 
 - 일반사단법인 일본가정용살충제공업회 「방충제의 올바른 사용법」 [一般社団法人日本家庭用殺虫剤工業会「防虫剤の正しい使い方」]
   https://www.sacchuzai.jp/
-- 도쿄도 보건의료국 「의류의 해충」 [東京都保健医療局「衣類の害虫」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
+- 도쿄도 보건의료국 「쥐·위생해충 유형별 일람(식품·의류 해충)」 [東京都保健医療局「ねずみ・衛生害虫　類別一覧（食品・衣類害虫）」]
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/nezukon/ruibetsu
 - 소비자청 「가정용품 품질표시법　잡화공업품 품질표시 규정(방충제)」 [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（防虫剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 

@@ -33,7 +33,7 @@ If you cannot carry it down stairs and walk **2 km**, it fails at its one job. H
 
 ## Misunderstanding 2｜Food and water are the priority
 
-Shelters usually receive food and water within a day. **Medicines, glasses and documents** are what nobody else can supply for you.
+Relief food and water usually reach shelters within the first days, but roads can cut communities off for far longer — in the 2024 Noto Peninsula earthquake some 3,300 people were isolated at the peak — so carry your own water and a few ready-to-eat items anyway. **Medicines, glasses and documents** are what nobody else can supply for you.
 
 ## Misunderstanding 3｜Pack it once
 

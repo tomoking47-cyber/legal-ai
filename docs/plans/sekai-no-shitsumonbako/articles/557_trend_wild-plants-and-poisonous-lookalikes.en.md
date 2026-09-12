@@ -16,7 +16,7 @@ Foraging for spring mountain vegetables (sansai), or picking the nira (garlic ch
 | **Aconite (torikabuto)** (young leaves) | **Nirinsō (anemone), momijigasa, yomogi (mugwort)** | Deeply divided leaves. **Extremely similar before flowering**. Grows mixed in the same spots | Numbness, arrhythmia and breathing difficulty from **aconitine**. **Highly lethal** |
 | **Angel's trumpet (chōsen-asagao, Datura)** (root, seeds, leaves) | **Burdock (gobō) root, sesame (seeds), okra (buds), moroheiya (jute mallow)** | Thicker and shorter than burdock root; different smell | Hallucinations, agitation, dilated pupils, rapid pulse |
 | **Potato** (sprouts, green skin, immature tubers) | — | See our separate article on storing potatoes | Nausea, stomach pain, diarrhoea |
-| **Pokeweed (yōshu-yamagobō)** (root, berries) | **Yamagobō (edible, used for pickles), grapes (berries)** | Reddish-purple stems; clusters of blackish-purple berries | Vomiting, diarrhoea, convulsions |
+| **Pokeweed (yōshu-yamagobō)** (root, berries) | **Roots of moriazami and other thistles in the daisy family (the "yama-gobō" used for pickles), grapes (berries)** | Reddish-purple stems; clusters of blackish-purple berries | Vomiting, diarrhoea, convulsions |
 | **Kuwazu-imo (Alocasia)** (tuber) | **Taro (satoimo)** | Long leaf stalks, no proper tuber | Severe pain and swelling in the mouth |
 | **Hydrangea (ajisai)** (leaves) | Eaten by mistake as a garnish on a dish | — | Vomiting, dizziness |
 | **Ginkgo nuts (ginnan)** (in quantity) | Edible, but **children should have no more than 5–6, and adults should avoid 10–20 or more** | — | Convulsions (a compound that causes vitamin B6 deficiency) |

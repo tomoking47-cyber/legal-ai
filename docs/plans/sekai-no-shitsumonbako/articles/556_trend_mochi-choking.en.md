@@ -14,7 +14,7 @@ Every January in Japan, a run of people are taken to hospital after choking on m
 | **Age** | **About 90% are 65 or older**. **People in their 80s are the largest group** |
 | **Deaths** | Nationally, **choking deaths from food run at about 3,500–4,000 a year**, and **mochi is among the most common foods involved**. Consumer Affairs Agency analysis found **mochi deaths concentrated in January: more than 40% of the year's total** |
 | **Properties of mochi** | **It hardens and becomes stickier at mouth temperature (around 37°C / 99°F)**. **Saliva does not dissolve it**. **It is easy to swallow whole without biting through** |
-| **Children** | **Under-threes are generally not given plain mochi**. **The foods behind choking in children aged 5 and under are nuts, grapes, cherry tomatoes and mochi** |
+| **Children** | **Under-threes are generally not given mochi**. **The foods behind choking in children aged 5 and under are nuts, grapes, cherry tomatoes and mochi** |
 
 ## Prevention (households with older people or children)
 

@@ -26,7 +26,7 @@ Eating order is a **supporting** technique. Blood sugar after meals varies great
 
 ## Misunderstanding 2｜Any vegetable will do
 
-**Potatoes and other tubers, pumpkin and sweetcorn** are high in carbohydrate, and the guidance sometimes excludes them from the vegetable count. The usual practice is to start with **leafy greens, mushrooms and seaweed**.
+**Pumpkin (kabocha)** counts as a green-and-yellow vegetable and **sweetcorn** as an "other vegetable", so both **are included** in the vegetable intake figures of the National Health and Nutrition Survey (**potatoes and other tubers are not counted as vegetables**). They are still relatively high in carbohydrate, so the usual practice is to start with **leafy greens, mushrooms and seaweed**.
 
 ## Misunderstanding 3｜If rice comes last, you need not think about how much
 
@@ -48,8 +48,8 @@ Most of the benefit of "vegetables first" comes from **chewing more and taking l
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 - MHLW and Ministry of Agriculture, Forestry and Fisheries, "Japanese Food Guide Spinning Top" [食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
-- MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要] (vegetable intake)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- MHLW, "Outline of Results of the 2024 National Health and Nutrition Survey" [令和6年 国民健康・栄養調査結果の概要] (vegetable intake)
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

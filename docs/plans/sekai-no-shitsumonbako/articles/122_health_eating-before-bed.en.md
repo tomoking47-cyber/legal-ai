@@ -49,8 +49,8 @@ Fruit contains sugar. **A large amount is no different.** The point is **"how mu
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - MHLW and Ministry of Agriculture, Forestry and Fisheries, "Japanese Food Guide Spinning Top" [食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
-- MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- MHLW, "Outline of Results of the 2024 National Health and Nutrition Survey" [令和6年 国民健康・栄養調査結果の概要]
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

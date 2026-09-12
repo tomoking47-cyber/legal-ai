@@ -19,7 +19,7 @@ Visitors to Japan in summer often ask why so many people carry a parasol (日傘
 - The Ministry of the Environment's "UV Environmental Health Manual" gives these guides: **take precautions from UV Index 3**, and **avoid going out in the middle of the day from UV Index 8**. Japanese summers reach **UV Index 8–10**.
 - **Darker colours, tighter weaves and thicker fabrics** shield more. **Polyester is generally described as letting less UV through than cotton.**
 - **Some "UV-cut finish" products lose their effect gradually in the wash**; **others have the agent built into the fibre and do not.** Check the label.
-- **A parasol's light-blocking rate and its heat-blocking are different things**: **even at 99% light-blocking the air under it is not cooler**, but **keeping direct sun off you lowers the perceived temperature** (the Ministry also recommends parasols as a heatstroke measure).
+- **A parasol's light-blocking rate and its heat-blocking are different things**, but in the Ministry of the Environment's own measurements a parasol with a light-blocking rate of 99% or more **lowered the heat index (WBGT) by about 1–3°C**, and in a laboratory test **sweating fell by about 17%** (the Ministry also recommends parasols as a heatstroke measure).
 
 > **[Verify]** Check the measurement method against JIS L1925 and the UV Index guides against the Ministry of the Environment manual (2020). The figures are general guides.
 
