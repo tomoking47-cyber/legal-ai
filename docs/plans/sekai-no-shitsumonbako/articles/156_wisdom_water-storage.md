@@ -32,6 +32,8 @@ Filled tap water keeps its chlorine for about **3 days at room temperature** (To
 
 It is for **flushing and washing**. A toilet flush uses **6–13 L** depending on the model; one bathtub (about **200 L**) covers a family for several days of flushing.
 
+> **After a major earthquake, do not flush at all until the drainage pipes and the public sewer have been confirmed undamaged.** Water poured into a broken pipe can back up into the room. Tokyo's Bureau of Sewerage tells households to use a **portable toilet** (携帯トイレ) until the all-clear, and to keep at least a week's supply of them.
+
 ## Misunderstanding 4｜Store it all in one place
 
 Split between the **kitchen, a cupboard on another floor, and the car**. A collapsed shelf or a room you cannot enter should not take all of it.
