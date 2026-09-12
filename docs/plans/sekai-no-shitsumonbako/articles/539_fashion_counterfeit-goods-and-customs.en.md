@@ -10,9 +10,9 @@ Counterfeit luxury goods reach consumers in Japan through overseas online shops 
 
 | Item | Detail |
 |---|---|
-| **Seizure at customs** | Counterfeit branded goods are **prohibited imports as goods infringing intellectual property**. Once customs confirms this, they are **seized and destroyed**. **In fiscal 2023 there were about 29,000 seizure cases covering about 1 million items**, **most from China and Hong Kong** |
+| **Seizure at customs** | Counterfeit branded goods are **prohibited imports as goods infringing intellectual property**. Once customs confirms this, they are **seized and destroyed**. **In calendar year 2023 there were about 29,000 seizure cases covering about 1 million items**, **most from China and Hong Kong** |
 | **The October 2022 amendment** | **An overseas business posting goods to an individual in Japan now counts as trademark infringement.** The old loophole — "personal use is not commercial importation" — has been closed |
-| **The buyer's liability** | **The buyer does not normally face criminal penalties**, but **the money is lost and the goods are seized**. **Reselling is a breach of the Trademark Act (up to 10 years' imprisonment or a fine of up to ¥10 million)** |
+| **The buyer's liability** | **The buyer does not normally face criminal penalties**, but **the money is lost and the goods are seized**. **Reselling is a breach of the Trademark Act (up to 10 years' imprisonment - kōkin-kei, the single custodial sentence in force since June 2025 - or a fine of up to ¥10 million, or both)** |
 | **Buying and selling on flea-market apps** | **Listing a fake even unknowingly may breach the Trademark Act.** Platforms delete the listing and suspend the account. **A buyer is eligible for a refund once the item is confirmed fake** (each platform's compensation scheme) |
 | **A notice from customs** | If a "Notice of Commencement of Identification Procedure" (認定手続開始通知書) arrives, **and the item is fake, reply that you do not contest it** and it ends with destruction. **If you claim it is genuine, submit evidence (proof of purchase)** |
 

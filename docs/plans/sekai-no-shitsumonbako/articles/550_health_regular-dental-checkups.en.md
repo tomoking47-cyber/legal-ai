@@ -27,13 +27,13 @@ Many people in Japan still see the dentist as "somewhere you go when it hurts", 
 | **Why teeth are lost** | **Gum disease about 37%, decay about 29%, fracture about 18%** (8020 Promotion Foundation survey) |
 | **Prevalence of gum disease** | **About half of adults** have gum pockets of 4 mm or more; **a majority of those aged 45 and over** |
 | **Cost** | A check-up (basic periodontal examination + scaling): **about ¥3,000–4,000 per visit at the 30% co-payment**. **Filling one decayed tooth: ¥3,000–10,000; an implant after extraction: ¥300,000–500,000, not covered by insurance** |
-| **National policy** | In 2022 the government announced that it would consider **"universal dental check-ups"**; **in fiscal 2025 the age range for gum-disease check-ups was widened in some areas** (ages 20, 30, 40, 50, 60 and 70) |
+| **National policy** | In 2022 the government announced that it would consider **"universal dental check-ups"**; **from fiscal 2024 (Reiwa 6), ages 20 and 30 were added to the target ages for gum-disease check-ups** (ages 20, 30, 40, 50, 60 and 70) |
 
 - **Why "before it hurts" matters**: **early decay (enamel only) can sometimes be halted by remineralisation**, with no drilling. **Gum disease advances with almost no pain**, and **by the time teeth are loose it is often too late**. **Links between gum disease and diabetes, cardiovascular disease, aspiration pneumonia and premature birth** have also been reported.
 - **The interval**: **3 months** (existing gum disease, lots of missed spots, smokers), **6 months** (stable), **1 year** (the minimum). **Your dentist will suggest an interval for you**; the rule is to follow it.
 - **Children**: on top of the **municipal check-ups at 18 months and 3 years** and **school dental check-ups**, **fluoride application and a check-up every 3–6 months at your regular dentist**. **Decay in baby teeth affects the permanent teeth too.**
 - **Pregnancy**: hormonal changes make gum inflammation more likely, and **many municipalities offer a free dental check-up for pregnant women**. Have it in the stable period (second trimester).
-- **Municipal check-ups**: **gum-disease check-ups at 40, 50, 60 and 70** (under the Health Promotion Act; free to a few hundred yen depending on the municipality). If a notice arrives, go. **Some company health insurance societies (kenpo) subsidise dental check-ups.**
+- **Municipal check-ups**: **gum-disease check-ups** (under the Health Promotion Act; free to a few hundred yen depending on the municipality). The previous ages of **40, 50, 60 and 70** have been widened to include **20 and 30** as well. If a notice arrives, go. **Some company health insurance societies (kenpo) subsidise dental check-ups.**
 - **Choosing a regular dentist**: **puts effort into prevention and maintenance**, **has dental hygienists on staff**, **measures your gum pockets and explains the results**, **shows you X-rays and photos of your teeth**.
 
 > **[Verify]** Check the 8020 achievement rate, the check-up rate and the shares for reasons for tooth loss against the MHLW "Survey of Dental Diseases (2022)" and the latest 8020 Promotion Foundation survey. Update the status of universal dental check-ups to the latest information.
@@ -48,7 +48,7 @@ Many people in Japan still see the dentist as "somewhere you go when it hurts", 
 
 ## Misunderstanding 3｜Gum disease is an old person's disease
 
-**About half of people in their 30s have gum pockets, and it advances quietly.** Check-ups from a young age make the difference.
+**Some people already have gum pockets in their 30s, and by 45 and over it is more than half. It advances quietly.** Check-ups from a young age make the difference.
 
 ## Misunderstanding 4｜Teeth are lost to decay
 

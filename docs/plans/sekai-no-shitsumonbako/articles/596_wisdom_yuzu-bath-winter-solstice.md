@@ -22,7 +22,7 @@ On the shortest day of the year — around 21 December — Japanese bathhouses a
 
 - **Other seasonal baths**: **shōbu-yu (sweet-flag iris leaves) on 5 May (Children's Day)**, **momiji or mikan-peel baths** in autumn, **hinoki (cypress) blocks**. Sentō calendars list them.
 - **Kabocha at the solstice**: the day's other custom — **eating pumpkin (kabocha) and foods with "n" sounds (nankin, ninjin, renkon, ginnan, kinkan, kanten, udon — the "seven n's")** for luck and vitamins through winter.
-- **Children**: **fine for kids over about 3 with whole fruit**, supervised; **under 1, skip**; **stop if skin reddens**.
+- **Children**: **fine for kids over about 1 with whole fruit**, supervised; **under 1, skip**; **extra care for toddlers — short soak and a plain-water rinse after**; **stop if skin reddens**.
 - **The sentō visit**: **21 December is the busiest night of the year at neighbourhood bathhouses**; many give **yuzu to take home**. Bathe first, then soak; keep the fruit in the water, not on the floor (slip hazard).
 - **Leftover yuzu**: the bath fruit is **not for eating** afterwards (soap, heat); buy eating yuzu separately for **yuzu-pon, marmalade, yuzu-kosho**.
 
