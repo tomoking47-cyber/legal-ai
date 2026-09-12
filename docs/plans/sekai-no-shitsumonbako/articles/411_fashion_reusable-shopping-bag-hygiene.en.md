@@ -50,7 +50,7 @@ Since Japan made plastic checkout bags chargeable in July 2020, reusable shoppin
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント] (shopping and carrying food home)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - Ministry of the Environment, "Survey on chargeable checkout bags (rate of bringing your own bag)" [レジ袋有料化に関する調査（マイバッグ持参率）]
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - Tokyo Metropolitan Government Bureau of Public Health, "Food Hygiene Window — points on shopping and storage" [食品衛生の窓　買い物・保存の注意]
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

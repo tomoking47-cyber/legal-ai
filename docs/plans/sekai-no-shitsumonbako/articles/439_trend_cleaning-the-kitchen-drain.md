@@ -54,7 +54,7 @@
 ### 出典
 
 - 東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方（まぜるな危険）」
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 東京都下水道局「油を流さないで（下水道への負荷）」
   https://www.gesui.metro.tokyo.lg.jp/
 - 消費者庁「家庭用洗剤・洗浄剤の安全な使い方」

@@ -59,7 +59,7 @@ FOSHU (トクホ) is Japan's approved "Food for Specified Health Uses" scheme; F
 - Ministry of Health, Labour and Welfare, *On interactions between St John's wort and medicines* [セイヨウオトギリソウ（セント・ジョーンズ・ワート）と医薬品の相互作用について] (2000)
   https://www.mhlw.go.jp/www1/houdou/1205/h0510-1_15.html
 - National Institute of Health and Nutrition, *Information on the safety and effectiveness of "health foods"* [「健康食品」の安全性・有効性情報]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - Consumer Affairs Agency, *Labelling of health foods (Health Promotion Act; Act against Unjustifiable Premiums and Misleading Representations)* [健康食品の表示（健康増進法・景品表示法）]
   https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
 

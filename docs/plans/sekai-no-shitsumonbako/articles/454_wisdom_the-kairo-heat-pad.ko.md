@@ -50,7 +50,7 @@
 - 소비자청(Consumer Affairs Agency) — 일회용 핫팩(使い捨てカイロ)으로 인한 저온 화상
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 일본위생재료공업연합회(Japan Hygiene Products Industry Association) — 일회용 핫팩: 안전한 사용
-  https://www.sacchuzai.jp/
+  https://www.jhpia.or.jp/
 - 제품평가기술기반기구(NITE) — 난방 기구 사고
   https://www.nite.go.jp/jiko/chuikanki/
 

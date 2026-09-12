@@ -50,7 +50,7 @@
 - 厚生劳动省（MHLW）「家庭中可做到的预防食物中毒六个要点」[家庭でできる食中毒予防の6つのポイント]（购物与带回家）
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - 环境省「关于塑料购物袋收费的调查（自带购物袋比例）」[レジ袋有料化に関する調査（マイバッグ持参率）]
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - 东京都保健医疗局「食品卫生之窗　购物与保存的注意事项」[食品衛生の窓　買い物・保存の注意]
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

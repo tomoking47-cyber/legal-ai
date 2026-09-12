@@ -50,7 +50,7 @@
 - 一般財團法人 家電製品協會（AEHA）[家電製品協会]「洗衣機的保養」[洗濯機のお手入れ]
   https://www.aeha.or.jp/
 - 東京都保健醫療局 [東京都保健医療局]「氯系清潔劑、漂白劑的安全用法」[塩素系洗浄剤・漂白剤の安全な使い方]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 獨立行政法人 製品評價技術基盤機構（NITE）[製品評価技術基盤機構]「洗衣機的事故（兒童受困等）」[洗濯機の事故（子どもの閉じ込め等）]
   https://www.nite.go.jp/jiko/chuikanki/
 

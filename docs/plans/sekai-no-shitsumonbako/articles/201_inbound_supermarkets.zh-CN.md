@@ -49,7 +49,7 @@
 - 日本超市协会（Japan Supermarket Association）— 超市年度统计调查（スーパーマーケット年次統計調査）
   https://www.super.or.jp/
 - 环境省（Ministry of the Environment）— 塑料袋收费（レジ袋有料化），自 2020 年 7 月 1 日起
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - 国税厅（National Tax Agency）— 含税价格标示
   https://www.nta.go.jp/english/taxes/consumption_tax/
 

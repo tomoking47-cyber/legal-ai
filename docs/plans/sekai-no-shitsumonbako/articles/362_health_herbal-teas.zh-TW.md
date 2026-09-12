@@ -59,7 +59,7 @@
 - 厚生勞動省《關於貫葉連翹（聖約翰草）與藥品的交互作用》[セイヨウオトギリソウ（セント・ジョーンズ・ワート）と医薬品の相互作用について]（2000 年）
   https://www.mhlw.go.jp/www1/houdou/1205/h0510-1_15.html
 - 國立健康・營養研究所《「保健食品」的安全性・有效性資訊》[「健康食品」の安全性・有効性情報]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 消費者廳《保健食品的標示（健康增進法・景品表示法）》[健康食品の表示（健康増進法・景品表示法）]
   https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
 

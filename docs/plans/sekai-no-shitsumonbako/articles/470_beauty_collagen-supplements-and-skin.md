@@ -49,7 +49,7 @@
 ### 出典
 
 - 国立研究開発法人医薬基盤・健康・栄養研究所「『健康食品』の安全性・有効性情報：コラーゲン」
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 消費者庁「機能性表示食品制度」（届出情報検索データベース）
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/
 - 厚生労働省「日本人の食事摂取基準（2025年版）」（たんぱく質推奨量）

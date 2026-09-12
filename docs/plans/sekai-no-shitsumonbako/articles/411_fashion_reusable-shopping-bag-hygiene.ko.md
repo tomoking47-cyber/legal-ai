@@ -50,7 +50,7 @@
 - 후생노동성(MHLW) 「가정에서 할 수 있는 식중독 예방 여섯 가지 포인트」[家庭でできる食中毒予防の6つのポイント](장보기와 집으로 가져오기)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - 환경성 「비닐봉지 유료화에 관한 조사(자기 가방 지참률)」[レジ袋有料化に関する調査（マイバッグ持参率）]
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - 도쿄도 보건의료국 「식품위생의 창 — 장보기·보관 시 주의」[食品衛生の窓　買い物・保存の注意]
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

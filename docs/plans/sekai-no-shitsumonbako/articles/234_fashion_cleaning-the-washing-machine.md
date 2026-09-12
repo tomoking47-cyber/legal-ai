@@ -50,7 +50,7 @@
 - 一般財団法人家電製品協会「洗濯機のお手入れ」
   https://www.aeha.or.jp/
 - 東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 独立行政法人製品評価技術基盤機構（NITE）「洗濯機の事故（子どもの閉じ込め等）」
   https://www.nite.go.jp/jiko/chuikanki/
 

@@ -54,7 +54,7 @@
 ### 出处
 
 - 东京都保健医疗局 [東京都保健医療局]「氯系洗涤剂・漂白剂的安全使用方法（切勿混用——危险）」[塩素系洗浄剤・漂白剤の安全な使い方（まぜるな危険）]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 东京都下水道局 [東京都下水道局]「请不要把油倒进下水道（对下水道的负担）」[油を流さないで]
   https://www.gesui.metro.tokyo.lg.jp/
 - 消费者厅 [消費者庁]「家用洗涤剂・清洁剂的安全使用方法」[家庭用洗剤・洗浄剤の安全な使い方]

@@ -49,7 +49,7 @@ The **deli section (sōzai)** sells ready meals — fried chicken, croquettes, s
 - Japan Supermarket Association — Supermarket census (スーパーマーケット年次統計調査)
   https://www.super.or.jp/
 - Ministry of the Environment — Plastic bag charge (レジ袋有料化) from 1 July 2020
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - National Tax Agency — Tax-inclusive price display
   https://www.nta.go.jp/english/taxes/consumption_tax/
 

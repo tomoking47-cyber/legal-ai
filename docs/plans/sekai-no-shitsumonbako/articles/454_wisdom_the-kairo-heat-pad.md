@@ -50,7 +50,7 @@ Japan uses about 1.5 billion disposable heat pads a winter. They are in every co
 - Consumer Affairs Agency — Low-temperature burns from disposable heat pads (使い捨てカイロ)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - Japan Hygiene Products Industry Association — Disposable heat pads: safe use
-  https://www.sacchuzai.jp/
+  https://www.jhpia.or.jp/
 - National Institute of Technology and Evaluation (NITE) — Heating device accidents
   https://www.nite.go.jp/jiko/chuikanki/
 

@@ -59,7 +59,7 @@ Every country has its "miracle hangover fix". In Japan the classics are shijimi 
 - Ministry of Health, Labour and Welfare, *Guidelines on Health-Conscious Drinking* [健康に配慮した飲酒に関するガイドライン] (February 2024)
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - National Institute of Health and Nutrition, *Safety and effectiveness information on "health foods" (turmeric)* [「健康食品」の安全性・有効性情報（ウコン）]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - Ministry of Health, Labour and Welfare, e-Health Net, *Alcohol metabolism and constitution (ALDH2)* [アルコールの分解と体質（ALDH2）]
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

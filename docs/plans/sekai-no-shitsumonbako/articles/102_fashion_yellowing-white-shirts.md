@@ -49,7 +49,7 @@
 - 消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - 東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

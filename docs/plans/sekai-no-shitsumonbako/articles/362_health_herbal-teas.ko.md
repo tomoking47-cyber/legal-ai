@@ -59,7 +59,7 @@
 - 후생노동성 『세인트존스워트와 의약품의 상호작용에 대하여』 [セイヨウオトギリソウ（セント・ジョーンズ・ワート）と医薬品の相互作用について] (2000년)
   https://www.mhlw.go.jp/www1/houdou/1205/h0510-1_15.html
 - 국립건강・영양연구소 『「건강식품」의 안전성・유효성 정보』 [「健康食品」の安全性・有効性情報]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 소비자청 『건강식품의 표시(건강증진법・경품표시법)』 [健康食品の表示（健康増進法・景品表示法）]
   https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
 

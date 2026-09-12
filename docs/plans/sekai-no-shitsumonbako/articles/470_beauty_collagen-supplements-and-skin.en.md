@@ -49,7 +49,7 @@ Collagen drinks, powders and jellies are everyday "beauty foods" in Japan — yo
 ### Sources
 
 - National Institutes of Biomedical Innovation, Health and Nutrition, "'Health Food' Safety and Efficacy Information: Collagen" [『健康食品』の安全性・有効性情報：コラーゲン]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - Consumer Affairs Agency, "Foods with Function Claims System" [機能性表示食品制度] (notification search database)
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/
 - Ministry of Health, Labour and Welfare, "Dietary Reference Intakes for Japanese (2025 edition)" [日本人の食事摂取基準（2025年版）] (recommended protein intake)

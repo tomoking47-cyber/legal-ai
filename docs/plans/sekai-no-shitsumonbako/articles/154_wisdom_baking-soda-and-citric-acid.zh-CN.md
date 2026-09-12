@@ -46,7 +46,7 @@
 - 消费者厅（Consumer Affairs Agency）——「まぜるな危険」标识与氯气危害
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 东京都保健医疗局（Tokyo Metropolitan Government Bureau of Public Health）——含氯清洁剂的安全使用
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 厚生劳动省（Ministry of Health, Labour and Welfare）——家用品安全对策（家庭用品の安全対策）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000131034.html
 

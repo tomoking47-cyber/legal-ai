@@ -49,7 +49,7 @@
 - 일본 슈퍼마켓 협회(Japan Supermarket Association) — 슈퍼마켓 연차 통계조사(スーパーマーケット年次統計調査)
   https://www.super.or.jp/
 - 환경성(Ministry of the Environment) — 비닐봉투 유료화(レジ袋有料化), 2020년 7월 1일부터
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - 국세청(National Tax Agency) — 세금 포함 가격 표시
   https://www.nta.go.jp/english/taxes/consumption_tax/
 

@@ -51,7 +51,7 @@ The dish sponge is the most bacteria-laden object in most kitchens, in Japan as 
 - Ministry of Health, Labour and Welfare — Six points for preventing food poisoning at home (kitchen tools)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - Tokyo Metropolitan Government Bureau of Public Health — Safe use of chlorine bleach
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

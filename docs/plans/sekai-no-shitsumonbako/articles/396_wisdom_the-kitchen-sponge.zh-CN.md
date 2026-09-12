@@ -51,7 +51,7 @@
 - 厚生劳动省（Ministry of Health, Labour and Welfare）——家庭预防食物中毒六要点（厨房用具）
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - 东京都保健医疗局（Tokyo Metropolitan Government Bureau of Public Health）——含氯漂白剂的安全使用
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

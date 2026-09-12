@@ -59,7 +59,7 @@
 - 후생노동성(厚生労働省) 『건강에 배려한 음주에 관한 가이드라인』 [健康に配慮した飲酒に関するガイドライン] (2024년 2월)
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - 국립건강·영양연구소(国立健康・栄養研究所) 『「건강식품」의 안전성·유효성 정보(울금)』 [「健康食品」の安全性・有効性情報（ウコン）]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 후생노동성(厚生労働省) e-헬스넷 『알코올의 분해와 체질(ALDH2)』 [アルコールの分解と体質（ALDH2）]
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

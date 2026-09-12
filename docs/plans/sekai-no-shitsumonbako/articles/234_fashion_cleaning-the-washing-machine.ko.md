@@ -50,7 +50,7 @@
 - 가전제품협회(AEHA) [家電製品協会] "세탁기 손질" [洗濯機のお手入れ]
   https://www.aeha.or.jp/
 - 도쿄도 보건의료국 [東京都保健医療局] "염소계 세정제·표백제의 안전한 사용법" [塩素系洗浄剤・漂白剤の安全な使い方]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 제품평가기술기반기구(NITE) [製品評価技術基盤機構] "세탁기 사고(어린이 갇힘 등)" [洗濯機の事故（子どもの閉じ込め等）]
   https://www.nite.go.jp/jiko/chuikanki/
 

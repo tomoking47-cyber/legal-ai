@@ -50,7 +50,7 @@
 - 消費者廳（Consumer Affairs Agency）— 拋棄式暖暖包（使い捨てカイロ）造成的低溫燙傷
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 日本衛生材料工業聯合會（Japan Hygiene Products Industry Association）— 拋棄式暖暖包：安全使用
-  https://www.sacchuzai.jp/
+  https://www.jhpia.or.jp/
 - 製品評價技術基盤機構（NITE）— 取暖器具事故
   https://www.nite.go.jp/jiko/chuikanki/
 

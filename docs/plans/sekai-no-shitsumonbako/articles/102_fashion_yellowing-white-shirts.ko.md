@@ -49,7 +49,7 @@
 - 소비자청 「가정용품 품질표시법　잡화공업품 품질표시 규정(세제·표백제)」 [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - 도쿄도 보건의료국 「염소계 세정제·표백제의 안전한 사용법」 [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

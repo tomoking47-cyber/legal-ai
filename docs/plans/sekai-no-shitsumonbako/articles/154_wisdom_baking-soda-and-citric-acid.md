@@ -46,7 +46,7 @@ They handle most daily dirt. **Mould, blocked drains and disinfection** are wher
 - Consumer Affairs Agency — "まぜるな危険" labelling and chlorine gas hazards
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - Tokyo Metropolitan Government Bureau of Public Health — Safe use of chlorine-based cleaners
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - Ministry of Health, Labour and Welfare — Household products safety (家庭用品の安全対策)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000131034.html
 

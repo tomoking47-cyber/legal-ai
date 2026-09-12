@@ -59,7 +59,7 @@
 - 厚生劳动省（厚生労働省）《关于顾及健康的饮酒指南》[健康に配慮した飲酒に関するガイドライン]（2024 年 2 月）
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - 国立健康·营养研究所（国立健康・栄養研究所）《「健康食品」的安全性·有效性信息（姜黄）》[「健康食品」の安全性・有効性情報（ウコン）]
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 厚生劳动省（厚生労働省）e-健康net《酒精的分解与体质（ALDH2）》[アルコールの分解と体質（ALDH2）]
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

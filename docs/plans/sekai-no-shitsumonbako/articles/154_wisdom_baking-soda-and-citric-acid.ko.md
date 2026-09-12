@@ -46,7 +46,7 @@
 - 소비자청(Consumer Affairs Agency) — 「まぜるな危険」 표시와 염소 가스 위험
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 도쿄도 보건의료국(Tokyo Metropolitan Government Bureau of Public Health) — 염소계 세정제의 안전한 사용
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 후생노동성(Ministry of Health, Labour and Welfare) — 가정용품 안전 대책(家庭用品の安全対策)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000131034.html
 

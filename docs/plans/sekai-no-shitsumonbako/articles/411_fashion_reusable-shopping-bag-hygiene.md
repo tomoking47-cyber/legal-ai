@@ -50,7 +50,7 @@
 - 厚生労働省「家庭でできる食中毒予防の6つのポイント」（買い物・持ち帰り）
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - 環境省「レジ袋有料化に関する調査（マイバッグ持参率）」
-  https://plastics-smart.env.go.jp/rejibukuro-charge/
+  https://plastics-smart.env.go.jp/rejibukuro-challenge/
 - 東京都保健医療局「食品衛生の窓　買い物・保存の注意」
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

@@ -54,7 +54,7 @@ The sink drain is the most disliked cleaning job in any kitchen, and slime, smel
 ### Sources
 
 - Tokyo Metropolitan Bureau of Public Health, "Safe use of chlorine cleaners and bleach (Do not mix — danger)" [塩素系洗浄剤・漂白剤の安全な使い方（まぜるな危険）]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - Tokyo Metropolitan Bureau of Sewerage, "Don't pour oil down the drain (the burden on the sewers)" [油を流さないで]
   https://www.gesui.metro.tokyo.lg.jp/
 - Consumer Affairs Agency, "Safe use of household detergents and cleaners" [家庭用洗剤・洗浄剤の安全な使い方]

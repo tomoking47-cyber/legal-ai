@@ -54,7 +54,7 @@
 ### 출처
 
 - 도쿄도 보건의료국 [東京都保健医療局] 「염소계 세정제·표백제의 안전한 사용법(섞지 마시오 — 위험)」 [塩素系洗浄剤・漂白剤の安全な使い方（まぜるな危険）]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 - 도쿄도 하수도국 [東京都下水道局] 「기름을 흘려보내지 마세요(하수도의 부담)」 [油を流さないで]
   https://www.gesui.metro.tokyo.lg.jp/
 - 소비자청 [消費者庁] 「가정용 세제·세정제의 안전한 사용법」 [家庭用洗剤・洗浄剤の安全な使い方]

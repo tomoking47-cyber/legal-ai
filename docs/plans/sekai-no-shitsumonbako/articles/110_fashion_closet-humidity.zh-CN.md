@@ -51,7 +51,7 @@
 - 东京都保健医疗局《如何防止霉菌滋生》[東京都保健医療局「カビの発生を防ぐには」]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 东京都保健医疗局《含氯清洁剂・漂白剂的安全使用方法》[東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

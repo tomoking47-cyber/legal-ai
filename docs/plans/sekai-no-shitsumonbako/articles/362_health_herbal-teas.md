@@ -57,7 +57,7 @@
 - 厚生労働省「セイヨウオトギリソウ（セント・ジョーンズ・ワート）と医薬品の相互作用について」（2000年）
   https://www.mhlw.go.jp/www1/houdou/1205/h0510-1_15.html
 - 国立健康・栄養研究所「『健康食品』の安全性・有効性情報」
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 消費者庁「健康食品の表示（健康増進法・景品表示法）」
   https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
 

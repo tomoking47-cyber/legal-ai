@@ -59,7 +59,7 @@
 - 厚生労働省「健康に配慮した飲酒に関するガイドライン」（2024年2月）
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - 国立健康・栄養研究所「『健康食品』の安全性・有効性情報（ウコン）」
-  https://hfnet.nibiohn.go.jp/
+  https://hfnet.nibn.go.jp/
 - 厚生労働省 e-ヘルスネット「アルコールの分解と体質（ALDH2）」
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

@@ -51,7 +51,7 @@ Wiping the surface **leaves the roots (hyphae) behind.** For mould on clothing, 
 - Tokyo Metropolitan Bureau of Public Health, "Preventing mould" [東京都保健医療局「カビの発生を防ぐには」]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Tokyo Metropolitan Bureau of Public Health, "Safe use of chlorine-based cleaners and bleach" [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

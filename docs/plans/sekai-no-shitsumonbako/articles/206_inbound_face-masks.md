@@ -47,7 +47,7 @@ Before 2020, mask sales peaked every **February–April with pollen**, not with 
 - Ministry of Health, Labour and Welfare — Mask wearing (マスクの着用について), change of 13 March 2023
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
 - Japan Hygiene Products Industry Association — Mask production and market statistics
-  https://www.sacchuzai.jp/
+  https://www.jhpia.or.jp/
 - Ministry of the Environment — Pollen information and hay fever
   https://www.env.go.jp/chemi/anzen/kafun/
 
