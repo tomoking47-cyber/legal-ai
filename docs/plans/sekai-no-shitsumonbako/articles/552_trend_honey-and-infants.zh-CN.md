@@ -64,8 +64,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161461.html
 - 东京都保健医疗局《关于婴儿肉毒中毒的死亡病例》[乳児ボツリヌス症による死亡事例について]（2017 年）
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
-- 国立感染症研究所《什么是肉毒中毒》[ボツリヌス症とは]
-  https://www.niid.go.jp/niid/ja/kansennohanashi/477-botulinum-intro.html
+- 国立健康危机管理研究机构（JIHS。2025 年 4 月由国立感染症研究所与国立国际医疗研究中心合并）[国立健康危機管理研究機構]《什么是肉毒中毒》[ボツリヌス症とは]
+  https://www.jihs.go.jp/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

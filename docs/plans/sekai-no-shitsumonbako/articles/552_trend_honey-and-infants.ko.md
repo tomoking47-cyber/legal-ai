@@ -64,8 +64,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161461.html
 - 도쿄도 보건의료국 「영아 보툴리누스증에 의한 사망 사례에 대하여」[乳児ボツリヌス症による死亡事例について](2017년)
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
-- 국립감염증연구소 「보툴리누스증이란」[ボツリヌス症とは]
-  https://www.niid.go.jp/niid/ja/kansennohanashi/477-botulinum-intro.html
+- 국립건강위기관리연구기구(JIHS. 2025년 4월 국립감염증연구소와 국립국제의료연구센터가 통합) [国立健康危機管理研究機構] 「보툴리누스증이란」[ボツリヌス症とは]
+  https://www.jihs.go.jp/
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

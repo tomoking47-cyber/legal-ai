@@ -64,8 +64,8 @@ A little sweetness in weaning food, a spoonful for a cold: honey has a strong im
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161461.html
 - Tokyo Metropolitan Bureau of Public Health, "On a fatal case of infant botulism" [乳児ボツリヌス症による死亡事例について] (2017)
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
-- National Institute of Infectious Diseases, "What is botulism?" [ボツリヌス症とは]
-  https://www.niid.go.jp/niid/ja/kansennohanashi/477-botulinum-intro.html
+- Japan Institute for Health Security (JIHS) [国立健康危機管理研究機構], formed in April 2025 by merging the National Institute of Infectious Diseases with the National Center for Global Health and Medicine, "What is botulism?" [ボツリヌス症とは]
+  https://www.jihs.go.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

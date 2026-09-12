@@ -61,8 +61,8 @@
 
 ### 출처
 
-- 후생노동성 「유해 물질을 함유하는 가정용품의 규제에 관한 법률: 포름알데히드 기준」 [有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kateiyouhin/
+- 소비자청 [消費者庁] 「유해 물질을 함유하는 가정용품의 규제에 관한 법률: 포름알데히드 기준」 [有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
+  https://www.caa.go.jp/policies/policy/consumer_safety/
 - 소비자청 「새로운 세탁 표시(JIS L0001)」 [新しい洗濯表示（JIS L0001）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 일본피부과학회 「접촉피부염 진료 가이드라인 2020」 [接触皮膚炎診療ガイドライン 2020] (의류·섬유 제품에 의한 접촉피부염)

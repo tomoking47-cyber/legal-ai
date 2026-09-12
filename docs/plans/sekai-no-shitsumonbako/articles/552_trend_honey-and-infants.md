@@ -64,8 +64,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161461.html
 - 東京都保健医療局「乳児ボツリヌス症による死亡事例について」（2017年）
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
-- 国立感染症研究所「ボツリヌス症とは」
-  https://www.niid.go.jp/niid/ja/kansennohanashi/477-botulinum-intro.html
+- 国立健康危機管理研究機構（JIHS。2025年4月に国立感染症研究所と国立国際医療研究センターが統合）「ボツリヌス症とは」
+  https://www.jihs.go.jp/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

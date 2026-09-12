@@ -61,8 +61,8 @@
 
 ### 出處
 
-- 厚生勞動省《含有有害物質的家庭用品規制法：甲醛的基準》[有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kateiyouhin/
+- 消費者廳 [消費者庁]《含有有害物質的家庭用品規制法：甲醛的基準》[有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
+  https://www.caa.go.jp/policies/policy/consumer_safety/
 - 消費者廳《新的洗滌標示（JIS L0001）》[新しい洗濯表示（JIS L0001）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 日本皮膚科學會《接觸性皮膚炎診療指引 2020》[接触皮膚炎診療ガイドライン 2020]（衣物與紡織品引起的接觸性皮膚炎）

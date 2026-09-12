@@ -13,7 +13,7 @@ A rock-hard kiwi, a green banana, a persimmon that is still sour. Some fruit "ne
 | **Banana** | **Brown flecks on the skin (sugar spots)** | **Strawberry** |
 | **Kiwi** | **Gives slightly when pressed gently** | **Grapes** |
 | **Avocado** | **Skin darkens; slightly soft around the stem** | **Mikan, orange, grapefruit** |
-| **European pear (La France)** | **Soft when pressed around the stalk**; fragrant | **Watermelon, melon (some melons do ripen)** |
+| **European pear (La France)** | **Soft when pressed around the stalk**; fragrant | **Watermelon** (many melon varieties, such as netted melons, do ripen after harvest) |
 | **Peach, plum, Japanese plum (sumomo)** | **Stronger scent, slightly soft all over** | **Pineapple** |
 | **Mango, papaya** | Scent, glossy skin, slight give | **Cherries** |
 | **Persimmon (kaki; some astringent types sweeten as they ripen)** | Orange to red all over, slightly soft | **Blueberries, raspberries** |
@@ -34,7 +34,7 @@ A rock-hard kiwi, a green banana, a persimmon that is still sour. Some fruit "ne
 - **Peaches**: **ripen at room temperature for 1–2 days**, then **refrigerate 2–3 hours before eating** (over-chilling dulls the sweetness). **Wrap in paper and keep out of sunlight**.
 - **Persimmons**: **for astringent persimmons (shibugaki), dab shōchū spirit on the calyx and seal in a bag for a week** to remove the astringency. Sweet persimmons (amagaki) can be eaten as soon as you buy them.
 - **Strawberries and grapes**: **wash only just before eating** (moisture leads to mould); **refrigerate in the pack and eat within 2–3 days**.
-- **Mikan**: **a boxful spoils from the bottom**, so **open the box, let air in and remove any damaged fruit**. **Better in a well-ventilated spot at 5–10°C than in the fridge**.
+- **Mikan**: **a boxful spoils from the bottom**, so **open the box, let air in and remove any damaged fruit**. **Better in a well-ventilated cool, dark place at around 5–10°C than in the fridge**.
 
 > **[Verify]** The classification of which fruit ripens after picking and how much ethylene each produces follows the general consensus in agricultural and food science. Check against material from MAFF and fruit-tree research institutes.
 

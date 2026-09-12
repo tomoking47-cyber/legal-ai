@@ -4,7 +4,7 @@
 
 Some households in Japan leave the rice cooker on "keep warm" (保温, hoon) overnight; others freeze the rice the moment it is cooked. Rice is the base of most Japanese meals, and how you store it changes both the taste and the safety. Here are the limits of keep-warm, fridge and freezer, laid out in hours and days.
 
-## A. For cooked rice, "portion it and freeze it as soon as it is cooked" gives the best taste and the best safety. The rice cooker's keep-warm function is fine for up to 5–6 hours as a guide; after that the rice yellows and starts to smell, and beyond 12 hours the flavour drops sharply. Do not leave rice at room temperature: in summer, bacteria (Bacillus cereus and others) begin to multiply within 2–3 hours. In the fridge the starch hardens and the taste suffers, so keep it only until the next day and reheat in the microwave. To freeze, wrap single portions thin and flat in cling film or put them in containers while still hot, let the steam heat pass, then freeze; eat within 1 month. To thaw, heat in one go in the microwave (2–3 minutes at 600W) and the rice comes back close to freshly cooked.
+## A. For cooked rice, "portion it and freeze it as soon as it is cooked" gives the best taste and the best safety. The rice cooker's keep-warm function is fine for up to 5–6 hours as a guide; after that the rice yellows and starts to smell, and beyond 12 hours the flavour drops sharply. Do not leave rice at room temperature: in summer, bacteria (Bacillus cereus and others) begin to multiply within about 2 hours. In the fridge the starch hardens and the taste suffers, so keep it only until the next day and reheat in the microwave. To freeze, wrap single portions thin and flat in cling film or put them in containers while still hot, let the steam heat pass, then freeze; eat within 1 month. To thaw, heat in one go in the microwave (2–3 minutes at 600W) and the rice comes back close to freshly cooked.
 
 ## Guide by storage method
 
@@ -12,7 +12,7 @@ Some households in Japan leave the rice cooker on "keep warm" (保温, hoon) ove
 |---|---|---|---|
 | **Rice cooker keep-warm** | **Up to 5–6 hours**. **Avoid 12 hours or more** | **Yellowing, hardening and off-smells increase** with time | At keep-warm temperature (**60–70°C / 140–158°F**) bacteria barely grow, but **they start growing the moment keep-warm is switched off** |
 | **Left at room temperature** | **Summer: eat within 2 hours; winter: within a few hours**, or refrigerate/freeze | — | **Bacillus cereus** (a soil bacterium, common on rice) **multiplies at 10–50°C** and produces **a toxin that heat does not destroy**. A well-known cause of food poisoning from onigiri (rice balls) and fried rice |
-| **Fridge** | **Until the next day (within 24 hours)** | **The starch retrogrades (hardens) and the rice goes dry and crumbly**. Microwaving helps, but it is worse than frozen rice | Bacillus cereus still grows slowly in the fridge, so long storage is not possible |
+| **Fridge** | **Until the next day (within 24 hours)** | **The starch retrogrades (hardens) and the rice goes dry and crumbly**. Microwaving helps, but it is worse than frozen rice | At fridge temperatures (10°C or below) the growth of Bacillus cereus is largely held back, but other bacteria and loss of quality mean long storage is not possible |
 | **Freezer** | **Within 1 month** (flavour guide). **2–3 weeks** is best | **Chilling freshly cooked rice quickly keeps the taste best** | Bacteria do not grow |
 
 ## How to freeze rice

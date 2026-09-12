@@ -61,8 +61,8 @@ Some people wear new clothes straight from the shop; others always wash them fir
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits" [有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kateiyouhin/
+- Consumer Affairs Agency, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits" [有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準]
+  https://www.caa.go.jp/policies/policy/consumer_safety/
 - Consumer Affairs Agency, "The new care labels (JIS L0001)" [新しい洗濯表示（JIS L0001）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - Japanese Dermatological Association, "Clinical guidelines for contact dermatitis 2020" [接触皮膚炎診療ガイドライン 2020] (contact dermatitis from clothing and textiles)

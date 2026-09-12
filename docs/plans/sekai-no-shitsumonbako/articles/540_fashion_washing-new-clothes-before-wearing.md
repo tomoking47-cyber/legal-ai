@@ -61,8 +61,8 @@
 
 ### 出典
 
-- 厚生労働省「有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準」
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/kateiyouhin/
+- 消費者庁「有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準」
+  https://www.caa.go.jp/policies/policy/consumer_safety/
 - 消費者庁「新しい洗濯表示（JIS L0001）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 日本皮膚科学会「接触皮膚炎診療ガイドライン 2020」（衣類・繊維製品による接触皮膚炎）
