@@ -21,7 +21,7 @@
 
 1. **Within 2 hours of cooking, take the heat off and refrigerate.** "Taking the heat off" is not leaving it out; it is **rapid chilling**:
    - **Divide into small portions** (spread thinly in shallow containers or freezer bags) → **stand the pot in iced water**, or **put ice packs around it** → **stir to let air in as it cools**.
-   - Target: **below 20°C within 2 hours, below 10°C within 4 hours**.
+   - Target: bring the centre of the food to **around 20°C within 30 minutes, or around 10°C within 60 minutes** (the cooling standard in the MHLW "Hygiene Management Manual for Large-Scale Cooking Facilities").
 2. **Fridge (10°C or below): 2–3 days**. **Freezer (−18°C or below): 1 month**.
 3. **Reheat before eating**: **transfer to a pan, stir well and bring to the boil right through (75°C or above for at least 1 minute)**. Microwaves heat unevenly, so **stir partway through and reheat again**.
 4. **Heat only what you will eat.** The more times it is reheated, the more chance the bacteria get.
@@ -39,7 +39,7 @@
 
 ## Misunderstanding 2｜Just leave the pot to cool naturally
 
-**The longer the pot spends between 12 and 50°C, the more the bacteria multiply.** Small portions, iced water and stirring: below 20°C within 2 hours.
+**The longer the pot spends between 12 and 50°C, the more the bacteria multiply.** Small portions, iced water and stirring: down to around 20°C within 30 minutes and around 10°C within 60 minutes.
 
 ## Misunderstanding 3｜Reheating in the morning makes it safe
 

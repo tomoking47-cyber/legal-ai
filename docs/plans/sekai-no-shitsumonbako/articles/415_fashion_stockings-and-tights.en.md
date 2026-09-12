@@ -13,7 +13,7 @@
 | Fibres | **Nylon plus polyurethane (elastane)**. **Polyurethane degrades with heat, chlorine, UV and age** (2–3 years) |
 | Causes of ladders | **Nails, rings, hangnails; rough skin on heels and elbows (see the heel article); seams inside shoes; tangling in the washing machine; the tumble dryer** |
 | Putting them on | **Moisturise hands, tidy nails, take off rings**. **From the toes, gathering the leg and working up a little at a time**. **Set the heel in place before pulling up** |
-| Denier | **The bigger the number, the thicker**: **20–30 denier** is sheer stockings, **40–80** light tights, **110 and above** thick tights |
+| Denier | **The bigger the number, the thicker**: **under 30 denier** is sheer stockings, **30–80** light tights, **80 and above** thick tights (the dividing line varies by maker, between 20 and 30 denier) |
 | Washing | **Hand-wash (press gently) or a fine-mesh laundry net on a gentle cycle**. **Neutral detergent (中性洗剤, chūsei senzai)**. **Keep them away from hooks on other garments** |
 | Drying | **Dry in the shade; no tumble dryer** (heat degrades and shrinks the polyurethane) |
 | Storage | **Rolled, in a drawer**. **Out of direct sunlight** |

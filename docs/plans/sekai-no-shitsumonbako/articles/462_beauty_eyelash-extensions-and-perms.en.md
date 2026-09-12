@@ -13,7 +13,7 @@ Eyelash extensions and lash perms (matsu-ege pāma) are popular in Japan for mak
 | **Qualification** | Eyelash extensions count as **"cosmetology" under Japan's Cosmetologists Act**, so **a cosmetologist licence is required** (Ministry of Health, Labour and Welfare notice, 2008) |
 | **Injury complaints** | The National Consumer Affairs Center of Japan recorded **599 reports of harm from eyelash extensions in five years** (fiscal 2010–2014, published 2015). Mostly eye pain, redness, swelling and itching |
 | **Adhesive** | Most are **cyanoacrylate-based**. Fumes released as the glue sets can sting the eyes, and there are reports of eyelid rashes (contact dermatitis) |
-| **Lash perm lotion** | **No quasi-drug perm lotion (a Japanese category between cosmetics and medicines) has been approved for eyelashes.** The Ministry of Health, Labour and Welfare has warned against salons using products meant for head hair |
+| **Lash perm lotion** | **No quasi-drug permanent-wave product has been approved for any use other than head hair** (the approval standard is limited to head hair — Notice Yakusei-hatsu 0628 No. 10, 28 June 2021), so the lash-curling lotions on sale circulate as "cosmetics". Products containing cysteamine hydrochloride have been handled differently since the end of March 2024. The Ministry of Health, Labour and Welfare has warned against salons using products meant for head hair |
 | **How long it lasts** | Extensions: **3–4 weeks**, falling out as your own lashes are replaced. Perm: **1–2 months** |
 | **Your own lash cycle** | Lashes are replaced roughly every **3–5 months**; average length about **6–8 mm** |
 
@@ -35,7 +35,7 @@ Eyelash extensions and lash perms (matsu-ege pāma) are popular in Japan for mak
 
 ## Misunderstanding 3｜A lash perm is fine because the lotion does not go in the eye
 
-**No lotion approved for eyelash perms exists**, and the government has warned about the practice of using head-hair products instead. The eyelid skin is thin, and complaints of eyelid dermatitis and conjunctivitis from lotion contact have been reported.
+**No quasi-drug perm lotion approved for eyelashes exists**, and the lash-curling lotions on sale are handled as "cosmetics". The government has warned about the practice of using head-hair products instead. The eyelid skin is thin, and complaints of eyelid dermatitis and conjunctivitis from lotion contact have been reported.
 
 ## Misunderstanding 4｜I can pull off extensions that are coming loose
 
@@ -49,8 +49,10 @@ Eyelash extensions and lash perms (matsu-ege pāma) are popular in Japan for mak
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "On Thorough Prevention of Harm from Eyelash Extensions" [まつ毛エクステンションによる危害防止の徹底について] (Notice Ken-ei-hatsu No. 0307001, 2008)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
+- Ministry of Health, Labour and Welfare, "On Thorough Prevention of Harm from Eyelash Extensions" [まつ毛エクステンションによる危害防止の徹底について] (Notice Ken-ei-hatsu No. 0307001, 7 March 2008)
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-11130500-Shokuhinanzenbu/0000124324.pdf
+- Ministry of Health, Labour and Welfare, "On Ensuring Safety in Eyelash Extensions" [まつ毛エクステンションによる安全性の確保について] (Notice Ken-ei-hatsu 1128 No. 1, 28 November 2012)
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-11130500-Shokuhinanzenbu/0000124021.pdf
 - National Consumer Affairs Center of Japan, "Harm from Eyelash Extensions Continues" [後絶たないまつ毛エクステンションの危害] (2015)
   https://www.kokusen.go.jp/news/data/n-20150604_1.html
 - Ministry of Health, Labour and Welfare, "On Perm Lotions for Eyelash Perms" [まつ毛パーマ用のパーマ剤について] (warning on quasi-drug approval)
