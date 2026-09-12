@@ -45,12 +45,12 @@
 
 ### 出处
 
-- 东京都保健医疗局“如何防止霉菌滋生”[カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
+- 东京都保健医疗局“健康·舒适居住环境指针”[健康・快適居住環境の指針]（霉菌滋生的条件、住宅的湿气对策）
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin.html
 - 日本皮革产业联合会（JLIA）[一般社団法人 日本皮革産業連合会]“皮革制品的保养”[革製品のお手入れ]
   https://www.jlia.or.jp/
-- 国民生活中心“合成皮革制品的劣化（水解）”[国民生活センター　合成皮革製品の劣化（加水分解）]
-  https://www.kokusen.go.jp/
+- 全国清洗生活卫生同业组合联合会“合成皮革的聚氨酯树脂劣化导致的剥离”[合成皮革のポリウレタン樹脂の劣化による剥離]
+  https://www.zenkuren.or.jp/news/2949
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

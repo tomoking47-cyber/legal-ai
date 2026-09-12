@@ -45,12 +45,12 @@
 
 ### 출처
 
-- 도쿄도 보건의료국 "곰팡이 발생을 막으려면" [カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
+- 도쿄도 보건의료국 "건강·쾌적 거주환경 지침" [健康・快適居住環境の指針] (곰팡이 발생 조건, 주거의 습기 대책)
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin.html
 - 일본피혁산업연합회(JLIA) [一般社団法人 日本皮革産業連合会] "가죽 제품 손질" [革製品のお手入れ]
   https://www.jlia.or.jp/
-- 국민생활센터 "합성피혁 제품의 열화(가수분해)" [国民生活センター　合成皮革製品の劣化（加水分解）]
-  https://www.kokusen.go.jp/
+- 전국클리닝생활위생동업조합연합회 "합성피혁의 폴리우레탄 수지 열화로 인한 박리" [合成皮革のポリウレタン樹脂の劣化による剥離]
+  https://www.zenkuren.or.jp/news/2949
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

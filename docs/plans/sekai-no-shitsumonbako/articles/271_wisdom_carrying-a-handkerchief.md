@@ -10,7 +10,7 @@ Almost every adult in Japan carries a small towel or handkerchief, and the reaso
 
 | Fact | Detail |
 |---|---|
-| Public toilets | **Paper towels are uncommon**; hand dryers were switched off during 2020–22 and many were never turned back on |
+| Public toilets | **Paper towels are uncommon**; many hand dryers were switched off from May 2020, and although the industry guideline dropped that restriction in April 2021, some were never switched back on |
 | The item | **Hand towel (ハンドタオル)**, terry, **about 25 × 25 cm**, ¥300–1,000; or a cotton handkerchief for the pocket |
 | Frequency | **One clean towel per day**; it goes in the wash with clothes |
 | Other uses | Wiping sweat (summer), drying a wet seat, a lap cloth, wrapping a wet folding umbrella, a coaster for a cold drink |

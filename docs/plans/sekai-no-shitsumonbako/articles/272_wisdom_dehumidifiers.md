@@ -15,7 +15,7 @@ A dehumidifier is standard household equipment in Japan in a way it is not in mo
 | **Hybrid** | Both, switching by temperature | Year-round | Price and size | Varies |
 | Air-conditioner "dry" mode | Cools and condenses | Summer | Cools the room; cannot be aimed at laundry | — |
 
-- Capacity is quoted in **litres per day** (e.g. **6–12 L/day** for a room; **16–20 L/day** for laundry rooms). Japanese models add a **"laundry mode"** with a swinging louvre that directs dry air at hanging clothes; a load dries in **2–4 hours**.
+- Capacity is quoted in **litres per day** (e.g. **5–10 L/day** for a room; for drying laundry, **about 7 L/day or more** dries a 2 kg load in roughly two hours, with **8 L/day or more for one or two people and 10 L/day or more for a family of three or more**). Japanese models add a **"laundry mode"** with a swinging louvre that directs dry air at hanging clothes; a load dries in **2–4 hours**.
 - Target: **relative humidity 40–60%**. **Mould accelerates above 70%**, and the space inside closets and behind furniture runs higher than the room.
 - Running cost (Tokyo 2025, about ¥31/kWh): compressor **¥5–9 per hour**, desiccant **¥10–20 per hour**.
 
@@ -27,7 +27,7 @@ An air conditioner on "dry" **cools the room** and cannot be aimed at laundry; i
 
 ## Misunderstanding 2｜Bigger capacity is always better
 
-Capacity is measured at **27°C and 60% humidity**; a compressor model rated 10 L/day may produce **a fraction of that at 12°C**. Match the **type to the season** you need it most.
+Rated capacity is measured under fixed conditions that differ by type — **27°C / 60% RH for compressor models, 20°C / 60% RH for desiccant models** (JEMA standard) — so the headline litres are not directly comparable; a compressor model rated 10 L/day may produce **a fraction of that at 12°C**. Match the **type to the season** you need it most.
 
 ## Misunderstanding 3｜Run it with the windows open
 

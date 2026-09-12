@@ -40,7 +40,7 @@ How to remove it differs from product to product. **Check the label, and remove 
 
 ### Sources
 
-- Ministry of the Environment, "UV Environmental Health Manual" [紫外線環境保健マニュアル]
+- Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (revised March 2020)
   https://www.env.go.jp/content/900410650.pdf
 - Japan Cosmetic Industry Association (JCIA) (information on test standards and labelling for UV-protection cosmetics)
   https://www.jcia.org/

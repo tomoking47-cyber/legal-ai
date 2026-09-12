@@ -18,7 +18,7 @@ Japanese homes in photographs look permanently tidy. The mechanism is not a week
 | **Laundry** | Tomorrow's load in the machine on a timer for the morning | Morning hanging fits the drying window |
 
 - The principle from Japanese organising literature: **every object has an address**, so tidying is putting things back, not deciding where they go.
-- **Small homes force it**: with 25–40 m² per person there is no spare room for clutter to migrate to.
+- **Small homes force it**: the 2023 Housing and Land Survey puts the average dwelling at **90.9 m²** and living-room space at **14.65 tatami (about 24 m²) per person**, and homes in Tokyo are smaller still (average floor area about 66 m²) — there is no spare room for clutter to migrate to.
 - The evening reset is why the **year-end clean** (see that article) can be about ventilation fans and window tracks rather than about the mess.
 
 > **[Verify]** Housing floor-area figures with the MIC Housing and Land Survey; the routine is a widely shared convention rather than an official guideline.

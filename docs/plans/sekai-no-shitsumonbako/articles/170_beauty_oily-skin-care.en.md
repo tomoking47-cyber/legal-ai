@@ -16,7 +16,7 @@ Shine and excess sebum are a particular worry in humid East Asia, and in oversea
 | Sebum during the day | **Press with oil-blotting paper (あぶらとり紙, aburatori-gami) or a tissue.** Do not rub |
 | Sebum and the seasons | **Sebum secretion is generally described as rising with temperature**, so the problem worsens in summer |
 
-- What a cosmetic may claim is within the 56 items, such as **"washes away sebum", "tightens the skin" and "removes skin lipids".** **"Suppresses sebum secretion" cannot be said of a cosmetic** (it is in the territory of approved quasi-drug claims; a quasi-drug is a Japanese category between cosmetics and medicines).
+- What a cosmetic may claim is within the 56 items, such as **"cleanses the skin (by removing dirt)", "tightens the skin" and "supplies and retains moisture and oil in the skin".** **"Suppresses sebum secretion" cannot be said of a cosmetic** (it is in the territory of approved quasi-drug claims; a quasi-drug is a Japanese category between cosmetics and medicines).
 - **Recurring or inflamed acne** is beyond the scope of cosmetics and is **a matter for a dermatology clinic (covered by Japanese health insurance).** The Japanese Dermatological Association publishes **clinical guidelines for acne vulgaris.**
 
 > **[Verify]** Check the 56 items against MHLW notice Yakushoku-hatsu 0721 No. 1, and the guidelines against the Japanese Dermatological Association "Guidelines for the Management of Acne Vulgaris and Rosacea 2023".
@@ -47,8 +47,8 @@ It changes with **sleep, diet, season and hormones.** If acne is involved, a der
 
 - Ministry of Health, Labour and Welfare, notice "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+- Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023] (Japanese Journal of Dermatology, vol. 133 no. 3, pp. 407-450)
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - Japanese Dermatological Association, "Dermatology Q&A — Acne" [皮膚科Q&A　にきび]
   https://www.dermatol.or.jp/qa/qa3/index.html
 

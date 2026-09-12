@@ -13,13 +13,13 @@ Spices and condiments are often assumed to "never go off, so they last for years
 | Ground spices (curry powder, paprika, etc.) | **Dark place at room temperature**, sealed | **6 months to 1 year** | Humidity makes them clump; heat beside the hob drives off the aroma |
 | Whole spices (black peppercorns, etc.) | Same | **1–2 years** | Crush just before use to keep the aroma |
 | Dried herbs | Same | **6 months to 1 year** | If the colour has faded, so has the aroma |
-| **Mayonnaise** | **Fridge** (avoid the door pocket, and avoid 0°C or below) | **About 1 month** | Separates at 0°C or below |
+| **Mayonnaise** | **Fridge** (1–10°C; keep it away from direct cold air — around the door pocket is recommended) | **About 1 month** | Separates at 0°C or below |
 | **Ketchup** | Fridge | **About 1 month** | Darkens if left at room temperature |
 | Dressing (emulsified type) | Fridge | **About 1 month** | Discard if it separates or the smell changes |
 | Mentsuyu (concentrated noodle-soup base) | **Fridge** | **A few days to a few weeks** (see the label) | **Mould after being left out at room temperature once opened** is a common complaint |
 | Shichimi and ichimi (chilli blends) | Fridge or a dark place | A few months | Can attract insects |
 
-- **Shelf life after opening is separate from the best-before date (賞味期限)**; the label's **"use promptly after opening" or "refrigerate after opening"** takes priority. **Mould in mentsuyu left at room temperature after opening** appears in complaints to the National Consumer Affairs Center of Japan.
+- **Shelf life after opening is separate from the best-before date (賞味期限)**; the label's **"use promptly after opening" or "refrigerate after opening"** takes priority. **Mould in mentsuyu left at room temperature after opening** is a case that also reaches the customer help desks of noodle-soup-base makers.
 - Under the **Food Labelling Act**, processed foods carry a **storage method**. **"Store at room temperature away from direct sunlight" is the condition for the unopened product.**
 
 > **[Verify]** The figures after opening are general numbers based on the labels and Q&A of major makers. The product label takes priority.

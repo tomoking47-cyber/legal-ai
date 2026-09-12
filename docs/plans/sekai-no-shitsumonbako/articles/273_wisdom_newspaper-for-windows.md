@@ -40,7 +40,7 @@ It **finishes** glass. Grime, fingerprints and kitchen grease need **water and a
 
 ## Misunderstanding 5｜Sunny days are best for windows
 
-Sun **dries the water before you can wipe it**, leaving streaks and mineral marks. **Cloudy, dry days** — Japan's December — are ideal, which is why windows are part of the year-end clean.
+Sun **dries the water before you can wipe it**, leaving streaks and mineral marks. **Dry days, worked in shade or on an overcast one**, are ideal. December on the Pacific side is dry but often bright and sunny, so take the shaded side of the house first — the dryness is why windows are part of the year-end clean.
 
 ---
 

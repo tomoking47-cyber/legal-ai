@@ -37,8 +37,8 @@
 ---
 
 ### 出處
-- 鮮味資訊中心（NPO 法人 うま味インフォメーションセンター），「活用鮮味」
-  https://www.umamiinfo.jp/what/tasting/make-use.html
+- 鮮味資訊中心（NPO 法人 うま味インフォメーションセンター），「How to Utilize Umami（活用鮮味）」
+  https://www.umamiinfo.com/what/tasting/make-use.html
 - 日本鮮味調味料協會（日本うま味調味料協会）— 透過高湯體驗鮮味
   https://www.umamikyo.gr.jp/knowledge/katsuyou/experience_02.html
 - 農林水產省（MAFF），「我家的鄉土料理」（うちの郷土料理）資料庫

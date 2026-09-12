@@ -37,8 +37,8 @@
 ---
 
 ### 출처
-- 우마미 인포메이션 센터(NPO 법인 うま味インフォメーションセンター), "우마미 활용하기"
-  https://www.umamiinfo.jp/what/tasting/make-use.html
+- 우마미 인포메이션 센터(NPO 법인 うま味インフォメーションセンター), "How to Utilize Umami(우마미 활용법)"
+  https://www.umamiinfo.com/what/tasting/make-use.html
 - 일본 우마미 조미료 협회(日本うま味調味料協会) — 다시로 우마미 체험하기
   https://www.umamikyo.gr.jp/knowledge/katsuyou/experience_02.html
 - 농림수산성(MAFF), "우리 집 향토 요리"(うちの郷土料理) 데이터베이스

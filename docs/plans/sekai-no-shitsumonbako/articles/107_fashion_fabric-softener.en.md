@@ -8,8 +8,8 @@ Arguments over the scent of fabric softener are happening in many countries. Jap
 
 ## The rules and the numbers
 
-- In **August 2021**, **five ministries and agencies** — the Consumer Affairs Agency, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Health, Labour and Welfare, the Ministry of Economy, Trade and Industry and the Ministry of the Environment — jointly published an awareness poster titled "That scent — some people are struggling with it" (その香り 困っている人もいます).
-- The National Consumer Affairs Center of Japan receives **enquiries about softener scent**, and has reported a rise in the number of enquiries up to fiscal 2020.
+- In **August 2021**, **five ministries and agencies** — the Consumer Affairs Agency, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Health, Labour and Welfare, the Ministry of Economy, Trade and Industry and the Ministry of the Environment — jointly published an awareness poster titled "That scent — someone may be struggling with it" (その香り 困っている人がいるかも？); in **July 2023** it was revised to "Please be aware — that scent, some people are struggling with it" (知ってください‼ その香り 困っている人もいます).
+- In **April 2020** the National Consumer Affairs Center of Japan issued an information notice reporting **928 enquiries about the smell of fabric softeners between fiscal 2014 and the end of January 2020** (594 of them reports of harm).
 - Fabric softener falls under the **Household Goods Quality Labelling Act**, which requires the ingredients, the recommended dose and precautions to be shown on the label. **The dose is set per product, relative to the volume of water.**
 
 | Key point | Reason |
@@ -47,8 +47,8 @@ Underwear touches the skin directly. **Even with products sold as mild, keep to 
 
 - Consumer Affairs Agency, "That scent — some people are struggling with it (joint five-ministry poster)" [消費者庁「その香り　困っている人もいます（5省庁連名ポスター）」]
   https://www.caa.go.jp/policies/policy/consumer_safety/other/
-- National Consumer Affairs Center of Japan, "Information on the smell of fabric softeners" [国民生活センター「柔軟仕上げ剤のにおいに関する情報提供」]
-  https://www.kokusen.go.jp/news/data/n-20200409_1.html
+- National Consumer Affairs Center of Japan, "Information on the smell of fabric softeners (2020)" [国民生活センター「柔軟仕上げ剤のにおいに関する情報提供（2020年）」]
+  https://www.kokusen.go.jp/news/data/n-20200409_2.html
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Industrial Goods Quality Labelling Regulations" [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 

@@ -8,9 +8,9 @@ Whether eggs belong in the fridge is handled very differently from country to co
 
 ## How Japan's egg dates work
 
-Following the 1999 (Heisei 11) revision of the enforcement regulations of the Food Sanitation Act (Japan's food-safety law), the best-before date on shell eggs shows **the period in which the egg can be eaten raw without problems even if Salmonella happens to be present, assuming refrigerated storage at home (10°C or below)**.
+Following the 1998 (Heisei 10) revision of the enforcement regulations of the Food Sanitation Act (Japan's food-safety law), which took effect on 1 November 1999, the best-before date on shell eggs shows **the period in which the egg can be eaten raw without problems even if Salmonella happens to be present, assuming refrigerated storage at home (10°C or below)**.
 
-The reasoning is that the iron Salmonella needs in order to multiply exists only in the yolk. The date is therefore calculated, using a formula relating days to temperature, from **the period until the yolk membrane weakens with age and iron passes into the white**. A 2024 document from the Ministry of Agriculture, Forestry and Fisheries (MAFF) gives **the upper limit for raw consumption as 21 days from laying (including 7 days in the household fridge)**.
+The reasoning is that the iron Salmonella needs in order to multiply exists only in the yolk. The date is therefore calculated, using a formula relating days to temperature, from **the period until the yolk membrane weakens with age and iron passes into the white**. Materials from an industry body (the Japan Poultry Association's Committee on the Revision of Egg Date Labelling, 2010) set **an upper limit of 21 days for the best-before date, on the assumption of refrigerated storage**.
 
 > **[Verify]** The year the system was introduced and the 21-day ceiling are based on materials from an industry body (the Japan Poultry Association) and from MAFF. **Check against the original texts before publication.**
 
@@ -38,8 +38,8 @@ Once cracked, eggs spoil quickly. **Use them up the same day.**
 
 ### Sources
 
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), information on hen eggs
-  https://www.maff.go.jp/j/chikusan/keiei/
+- Ministry of Health, Labour and Welfare, "Partial revision of the Enforcement Regulations of the Food Sanitation Act and of the standards for food, additives and the like" [食品衛生法施行規則及び食品、添加物等の規格基準の一部改正について] (25 November 1998, Notification Eisei-hatsu No. 1674)
+  https://www.mhlw.go.jp/web/t_doc?dataId=00ta5686&dataType=1&pageNo=1
 - Japan Poultry Association, materials of the "Committee on the Revision of Egg Date Labelling" [鶏卵日付表示等改訂委員会] (March 2010)
   https://www.jz-tamago.co.jp/wp/wp-content/uploads/2020/03/E05_3_m_1.pdf
 - Ministry of Health, Labour and Welfare, "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]

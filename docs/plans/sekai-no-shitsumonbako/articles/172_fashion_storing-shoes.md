@@ -45,12 +45,12 @@
 
 ### 出典
 
-- 東京都保健医療局「カビの発生を防ぐには」
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
+- 東京都保健医療局「健康・快適居住環境の指針」（カビの発生条件・住まいの湿気対策）
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin.html
 - 一般社団法人日本皮革産業連合会「革製品のお手入れ」
   https://www.jlia.or.jp/
-- 国民生活センター「合成皮革製品の劣化（加水分解）」
-  https://www.kokusen.go.jp/
+- 全国クリーニング生活衛生同業組合連合会「合成皮革のポリウレタン樹脂の劣化による剥離」
+  https://www.zenkuren.or.jp/news/2949
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

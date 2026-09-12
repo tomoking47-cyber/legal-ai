@@ -12,8 +12,8 @@ Putting every vegetable straight into the fridge is a habit almost everywhere. B
 |---|---|---|
 | **Sweet potato (さつまいも, satsumaimo)** | below **10°C** | Cells inside break down; rot or internal browning |
 | **Cucumber** | below **5°C** | Pitting (small sunken spots) on the surface. Ideal range is 10–15°C |
-| **Aubergine / eggplant (なす, nasu)** | sensitive to cold | Can be kept at room temperature. Tolerates heat and humidity well |
-| **Tomato** | if over-chilled | Sugar content drops and sweetness is lost |
+| **Aubergine / eggplant (なす, nasu)** | sensitive to cold | Can be kept at room temperature. **Vulnerable to drying out** — wrap each one individually |
+| **Tomato** | if over-chilled | Aroma compounds are lost and the flavour declines |
 
 **A temperature close to the one the vegetable grew in** is the guide for storage. This is why the vegetable drawer in a Japanese fridge is set warmer than the main compartment (about 3–8°C).
 

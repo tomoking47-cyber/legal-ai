@@ -8,7 +8,7 @@ Early summer brings several weeks of high humidity. Households here treat it as 
 
 ## Two things the season does
 
-1. **It slows drying.** Laundry that stays damp beyond about **five hours** lets Moraxella bacteria multiply — the source of the "indoor-dried" smell identified in Kao's 2011 research. Fans, dehumidifiers and bathroom dryers exist to beat that clock.
+1. **It slows drying.** Laundry that stays damp beyond about **five hours** lets Moraxella bacteria multiply — Kao's 2011 research, with Aichi Gakuin University, identified those bacteria as the source of the "indoor-dried" smell, while the five-hour figure is a widely used household rule of thumb rather than part of that study. Fans, dehumidifiers and bathroom dryers exist to beat that clock.
 2. **It grows rice.** The season is part of how the crop is watered and how reservoirs are refilled. **Inconvenient and necessary at the same time.**
 
 > **[Verify]** Confirm the Moraxella finding with Kao's published material, and seasonal timing with the Japan Meteorological Agency.
@@ -38,8 +38,8 @@ See point 2 above. **Rice does not grow without it.**
 ### Sources
 - Japan Meteorological Agency — rainy season onset and end dates
   https://www.data.jma.go.jp/cpd/baiu/
-- Kao Corporation — research on the cause of indoor-drying odour (2011)
-  https://www.kao.com/jp/
+- Kao Corporation and Aichi Gakuin University — identification of Moraxella as the cause of indoor-drying odour, presented at the 2011 annual meeting of the Japan Society for Bioscience, Biotechnology and Agrochemistry
+  https://www.kao.com/jp/qa/detail/15871/
 - Ministry of Agriculture, Forestry and Fisheries — rice cultivation
   https://www.maff.go.jp/j/seisan/kikaku/
 

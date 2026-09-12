@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/bath-temperature` ／ Status: **Draft — English edition, sources unverified**
 
-Japan likes its baths hot, and a deep soak is one of the first things visitors try. The government, however, warns that deaths during bathing run at about three times the number of road-traffic deaths. Here are the official guide figures.
+Japan likes its baths hot, and a deep soak is one of the first things visitors try. The government, however, warns that the number of older people who drown in the bathtub runs at about three times the number of older people killed in road-traffic accidents. Here are the official guide figures.
 
 ## A. The biggest misunderstanding is "the hotter the bath, the better it relieves fatigue". The Consumer Affairs Agency's guide is a water temperature of 41°C (106°F) or below, and no more than 10 minutes in the water.
 
@@ -12,9 +12,9 @@ According to the Consumer Affairs Agency's safety warning —
 
 | Item | Figure |
 |---|---|
-| People aged 65 and over who died by drowning (2022 / Reiwa 4) | **7,900** |
-| Of these, in bathtubs at home or in residential facilities | **5,824** |
-| Estimated sudden deaths during bathing (including causes other than drowning) | **About 19,000 a year** |
+| People aged 65 and over who died by drowning (2023 / Reiwa 5) | **8,270** |
+| Of these, in bathtubs at home or in residential facilities | **6,073** |
+| Estimated sudden deaths during bathing (including causes other than drowning; MHLW research group estimate, FY2012–2013) | **About 19,000 a year** |
 
 Government Public Relations Online describes this as **"about three times the number of road-traffic deaths"**.
 
@@ -48,8 +48,10 @@ The deaths above are concentrated among older people. **If you live with family,
 
 - Consumer Affairs Agency (消費者庁), "Beware of bathing accidents among older people, which peak in winter!" [冬季に多発する高齢者の入浴中の事故に御注意ください！] (19 November 2020)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_042/assets/consumer_safety_cms204_20201119_02.pdf
-- Consumer Affairs Agency column, "Watch out for accidents among older people, which rise in winter — drowning in the bath" [冬に増加する高齢者の事故に注意！―入浴中の溺水事故] (December 2023)
-  https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231211/
+- Consumer Affairs Agency column Vol. 12, "Accidents among older people — beware of drowning in the bath and choking on food in winter" [高齢者の事故―冬の入浴中の溺水や食物での窒息に注意―] (19 December 2024 / Reiwa 5 data)
+  https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20241219/
+- Consumer Affairs Agency, "Take care over the New Year holidays — accidents among older people" [年末年始、高齢者の事故に注意しましょう！] (23 December 2025 / Reiwa 6 data)
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_084/
 - Government Public Relations Online (政府広報オンライン), "About three times road-traffic deaths?! Beware of bathing accidents in winter!" [交通事故死の約3倍？！冬の入浴中の事故に要注意！]
   https://www.gov-online.go.jp/article/202111/entry-9952.html
 

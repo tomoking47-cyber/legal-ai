@@ -39,8 +39,8 @@
 
 ### 出典
 
-- 公益社団法人 日本皮膚科学会「尋常性痤瘡・酒皶治療ガイドライン」
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+- 公益社団法人 日本皮膚科学会「尋常性痤瘡・酒皶治療ガイドライン2023」（日本皮膚科学会雑誌 133巻3号）
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - 公益社団法人 日本皮膚科学会「皮膚科Q&A」
   https://www.dermatol.or.jp/qa/
 - 厚生労働省「化粧品の効能の範囲の改正について」（薬食発0721第1号）

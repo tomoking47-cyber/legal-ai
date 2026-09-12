@@ -4,11 +4,11 @@
 
 Soaking in the bathtub every evening is one of the Japanese habits that foreign visitors ask about most. The useful question is not "which is right". It is that the bath comes with official warnings you should know before you adopt the habit.
 
-## A. The biggest misunderstanding is "one of them is right". They serve different purposes, so they are not things to compare. But the bath carries an official warning: an estimated 19,000 sudden deaths a year during bathing.
+## A. The biggest misunderstanding is "one of them is right". They serve different purposes, so they are not things to compare. But the bath carries an official warning: sudden deaths during bathing are estimated at about 19,000 a year (Ministry of Health, Labour and Welfare research group).
 
 ## The numbers to know
 
-According to the Consumer Affairs Agency's warning, **sudden deaths during bathing are estimated at about 19,000 a year** (including causes other than drowning). In 2022 (Reiwa 4), **7,900** people aged 65 and over drowned, of whom **5,824 were in bathtubs at home or in a residential facility**.
+According to a Ministry of Health, Labour and Welfare research group, **sudden deaths during bathing are estimated at about 19,000 a year** (an estimate based on ambulance transport data, including causes other than drowning). In the Vital Statistics, in 2023 (Reiwa 5) **8,270** people aged 65 and over died of accidental drowning, of whom **6,073 were in bathtubs at home or in a residential facility**.
 
 **The guide given is "water temperature 41°C (106°F) or below, and no more than 10 minutes in the water".** This is a caution specific to the bathtub; it does not apply to showers.
 
@@ -39,7 +39,9 @@ Switch according to the season and how you feel. **There is no need to fix on on
 ### Sources
 
 - Consumer Affairs Agency (消費者庁), "Beware of bathing accidents among older people, which peak in winter!" [冬季に多発する高齢者の入浴中の事故に御注意ください！] (19 November 2020)
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_042/assets/consumer_safety_cms204_20201119_02.pdf
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_042
+- Consumer Affairs Agency, "Take care over the New Year holidays — accidents among older people" [年末年始、高齢者の事故に注意しましょう！] (23 December 2025)
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_084/assets/caution_084_251223_0002.pdf
 - Government Public Relations Online (政府広報オンライン), "About three times road-traffic deaths?! Beware of bathing accidents in winter!" [交通事故死の約3倍？！冬の入浴中の事故に要注意！]
   https://www.gov-online.go.jp/article/202111/entry-9952.html
 - Ministry of Health, Labour and Welfare, e-Health Net [e-ヘルスネット]

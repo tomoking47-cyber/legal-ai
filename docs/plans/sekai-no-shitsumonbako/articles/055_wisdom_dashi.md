@@ -37,8 +37,8 @@ Savoury depth is not cuisine-specific. **Glutamate and inosinate work in any pot
 ---
 
 ### Sources
-- Umami Information Center (NPO), "Making use of umami"
-  https://www.umamiinfo.jp/what/tasting/make-use.html
+- Umami Information Center (NPO), "How to Utilize Umami"
+  https://www.umamiinfo.com/what/tasting/make-use.html
 - Japan Umami Seasoning Association — experiencing umami through dashi
   https://www.umamikyo.gr.jp/knowledge/katsuyou/experience_02.html
 - MAFF, "Our Regional Cuisine" database
