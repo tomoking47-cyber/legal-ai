@@ -42,7 +42,7 @@
 ### 出典
 
 - 環境省『紫外線環境保健マニュアル』
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化粧品工業会（紫外線防止用化粧品の測定基準・表示に関する情報）
   https://www.jcia.org/
 - 気象庁 紫外線情報

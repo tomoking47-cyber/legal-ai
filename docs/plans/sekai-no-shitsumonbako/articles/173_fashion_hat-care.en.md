@@ -50,7 +50,7 @@ A wet hat **loses its shape under its own weight**. The standard method is to **
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (hats as UV protection)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

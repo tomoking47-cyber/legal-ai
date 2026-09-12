@@ -49,7 +49,7 @@ Sunburn is **inflammation of the skin**, and the Ministry of the Environment's m
 - Japanese Dermatological Association, "Dermatology Q&A: Sunburn" [皮膚科Q&A　日焼け（サンバーン）]
   https://www.dermatol.or.jp/qa/qa6/index.html
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Ministry of Health, Labour and Welfare, "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

@@ -44,7 +44,7 @@ SPF 测试在国际上已基本统一（ISO 24444），但 UVA 标示并没有�
 - 日本化妆品工业会（Japan Cosmetic Industry Association）— 紫外线防护效果测定标准
   https://www.jcia.org/
 - 环境省（Ministry of the Environment）— 紫外线环境保健手册（紫外線環境保健マニュアル）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本皮肤科学会（Japanese Dermatological Association）
   https://www.dermatol.or.jp/qa/
 

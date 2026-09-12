@@ -44,7 +44,7 @@ See the test condition above. **Amount decides whether the rating is real.**
 - Japan Cosmetic Industry Association — UV protection measurement standards
   https://www.jcia.org/
 - Ministry of the Environment — Ultraviolet Radiation Health Manual
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japanese Dermatological Association
   https://www.dermatol.or.jp/qa/
 

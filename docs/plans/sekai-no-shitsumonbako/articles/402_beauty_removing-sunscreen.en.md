@@ -51,7 +51,7 @@ More people now wear sunscreen every day, and with it come the questions: "Does 
 - Japanese Dermatological Association, "Dermatology Q&A: Acne and Skincare" [皮膚科Q&A にきび・スキンケア]
   https://www.dermatol.or.jp/qa/
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

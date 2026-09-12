@@ -44,7 +44,7 @@
 - 厚生劳动省「关于化妆品功效范围的修订」[化粧品の効能の範囲の改正について]（薬食発0721第1号，2011 年 7 月 21 日）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 环境省《紫外线环境保健手册》[紫外線環境保健マニュアル]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

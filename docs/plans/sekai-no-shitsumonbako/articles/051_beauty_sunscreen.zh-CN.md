@@ -41,7 +41,7 @@
 ### 出处
 
 - 环境省《紫外线环境保健手册》[紫外線環境保健マニュアル]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化妆品工业会（JCIA）[日本化粧品工業会]（紫外线防护化妆品的试验基准与标示相关信息）
   https://www.jcia.org/
 - 气象厅 紫外线信息 [気象庁 紫外線情報]

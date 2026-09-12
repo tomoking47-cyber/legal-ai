@@ -47,7 +47,7 @@
 ### Sources
 
 - Ministry of the Environment, *UV Environmental Health Manual 2020* [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Ministry of the Environment, *Heatstroke Prevention Information Site* [熱中症予防情報サイト]
   https://www.wbgt.env.go.jp/
 - Japan Meteorological Agency, *Basic knowledge about ultraviolet rays* [紫外線に関する基礎知識]

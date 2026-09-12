@@ -52,7 +52,7 @@
 - 후생노동성(厚生労働省, MHLW) 「化粧品の効能の範囲の改正について」(화장품 효능 범위의 개정에 대하여, 薬食発0721第1号)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 환경성(環境省) 「紫外線環境保健マニュアル2020」(자외선 환경보건 매뉴얼 2020, 덧바르기)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

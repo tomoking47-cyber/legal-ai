@@ -47,7 +47,7 @@
 ### 出典
 
 - 環境省「紫外線環境保健マニュアル2020」
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本臨床皮膚科医会・日本小児皮膚科学会「こどもの紫外線対策に関する統一見解」
   https://www.jocd.org/
 - 文部科学省「学校における紫外線対策・日焼け止めの使用について」

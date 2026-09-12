@@ -47,7 +47,7 @@
 ### 출처
 
 - 환경성 『자외선 환경보건 매뉴얼 2020』 [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 환경성 『열사병 예방 정보 사이트』 [熱中症予防情報サイト]
   https://www.wbgt.env.go.jp/
 - 기상청 『자외선에 관한 기초 지식』 [紫外線に関する基礎知識]

@@ -50,7 +50,7 @@
 ### 출처
 
 - 환경성 「자외선 환경보건 매뉴얼 2020」 [紫外線環境保健マニュアル2020] (빠뜨리기 쉬운 부위)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 일본화장품공업연합회 「화장품 기능 평가법 가이드라인(주름 개선 제품 평가)」 [化粧品機能評価法ガイドライン]
   https://www.jcia.org/user/business/
 - 일본피부과학회 「피부과 Q&A: 주름·처짐」 [皮膚科Q&A しわ・たるみ]

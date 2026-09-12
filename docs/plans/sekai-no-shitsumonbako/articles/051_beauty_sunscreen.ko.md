@@ -41,7 +41,7 @@
 ### 출처
 
 - 환경성 『자외선 환경보건 매뉴얼』 [紫外線環境保健マニュアル]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 일본화장품공업회(JCIA) [日本化粧品工業会] (자외선 차단 화장품의 측정 기준·표시에 관한 정보)
   https://www.jcia.org/
 - 기상청 자외선 정보 [気象庁 紫外線情報]

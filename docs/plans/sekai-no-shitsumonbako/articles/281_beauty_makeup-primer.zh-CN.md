@@ -50,7 +50,7 @@
 - 日本化妆品工业会（日本化粧品工業会，JCIA）「SPF測定法基準」「PA表示に関する自主基準」（SPF 测定法基准／PA 标示自主基准）
   https://www.jcia.org/user/business/spf
 - 环境省（環境省）「紫外線環境保健マニュアル2020」（紫外线环境保健手册 2020）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

@@ -49,7 +49,7 @@
 ### 出典
 
 - 環境省「紫外線環境保健マニュアル2020」（帽子・日傘）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化粧品工業会「SPF測定法基準」（測定対象は皮膚）
   https://www.jcia.org/user/business/spf
 - 公益社団法人日本皮膚科学会「皮膚科Q&A　髪の毛の病気」

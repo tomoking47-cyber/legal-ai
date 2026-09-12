@@ -48,7 +48,7 @@ The Ministry of the Environment **recommends parasols for men as a heatstroke me
 ### Sources
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japanese Industrial Standards Committee (JISC), JIS L1925 "Testing method for UV-shielding of textiles" [繊維製品の紫外線遮蔽評価方法]
   https://www.jisc.go.jp/
 - Ministry of the Environment, "Heat Illness Prevention Information" site (parasol recommendation) [熱中症予防情報サイト]

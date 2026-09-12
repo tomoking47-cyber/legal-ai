@@ -50,7 +50,7 @@
 ### Sources
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (commonly missed spots)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japan Cosmetic Industry Association, "Guidelines for Evaluating Cosmetic Function (anti-wrinkle product evaluation)" [化粧品機能評価法ガイドライン]
   https://www.jcia.org/user/business/
 - Japanese Dermatological Association, "Dermatology Q&A: Wrinkles and Sagging" [皮膚科Q&A しわ・たるみ]

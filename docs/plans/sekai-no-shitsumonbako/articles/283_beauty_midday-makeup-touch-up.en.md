@@ -52,7 +52,7 @@ Rather than whether you touch up or not, what matters for the skin is **not leav
 - Ministry of Health, Labour and Welfare (MHLW), "Revision of the scope of efficacy claims for cosmetics" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (re-application)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

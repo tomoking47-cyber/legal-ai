@@ -50,7 +50,7 @@
 - 消费者厅“洗涤标识（令和6年8月20日以后）”[洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 环境省“紫外线环境保健手册2020”[紫外線環境保健マニュアル2020]（把帽子作为防紫外线措施）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

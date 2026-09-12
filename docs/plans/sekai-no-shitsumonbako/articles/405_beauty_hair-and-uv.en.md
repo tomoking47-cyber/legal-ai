@@ -49,7 +49,7 @@ Sun protection for the skin is now routine, but hair and scalp are easily forgot
 ### Sources
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (hats and parasols)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japan Cosmetic Industry Association, "SPF Measurement Standard" [SPF測定法基準] (measured on skin)
   https://www.jcia.org/user/business/spf
 - Japanese Dermatological Association, "Dermatology Q&A: Hair Conditions" [皮膚科Q&A 髪の毛の病気]

@@ -49,7 +49,7 @@
 ### 出处
 
 - 环境省「紫外线环境保健手册 2020」[紫外線環境保健マニュアル2020]（帽子与阳伞）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化妆品工业联合会「SPF 测定法基准」[SPF測定法基準]（在皮肤上测定）
   https://www.jcia.org/user/business/spf
 - 日本皮肤科学会「皮肤科 Q&A：头发的疾病」[皮膚科Q&A 髪の毛の病気]

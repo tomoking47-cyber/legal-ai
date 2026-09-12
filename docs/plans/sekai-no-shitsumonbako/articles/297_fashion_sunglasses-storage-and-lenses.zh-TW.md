@@ -49,7 +49,7 @@
 - 日本產業標準調查會（JISC）JIS T 7333「太陽眼鏡、遮陽板及眼鏡流行用品」[日本産業標準調査会 JIS T 7333「サングラス、サンバイザ及び眼鏡ファッション用」]
   https://www.jisc.go.jp/
 - 環境省「紫外線環境保健手冊2020」（對眼睛的影響與太陽眼鏡）[環境省「紫外線環境保健マニュアル2020」]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本眼鏡關聯團體聯合會「太陽眼鏡的挑選方法」[日本眼鏡関連団体連合会「サングラスの選び方」]
   https://www.megane-japan.or.jp/
 

@@ -49,7 +49,7 @@
 - 일본산업표준조사회(JISC) JIS T 7333 「선글라스, 선바이저 및 안경 패션용」 [日本産業標準調査会 JIS T 7333「サングラス、サンバイザ及び眼鏡ファッション用」]
   https://www.jisc.go.jp/
 - 환경성 「자외선 환경보건 매뉴얼 2020」(눈에 미치는 영향과 선글라스) [環境省「紫外線環境保健マニュアル2020」]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 일본안경관련단체연합회 「선글라스 고르는 법」 [日本眼鏡関連団体連合会「サングラスの選び方」]
   https://www.megane-japan.or.jp/
 

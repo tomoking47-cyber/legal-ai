@@ -47,7 +47,7 @@
 ### 出处
 
 - 环境省《紫外线环境保健手册2020》[紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本皮肤科学会「皮肤科Q&A　护肤」[皮膚科Q&A　スキンケア]
   https://www.dermatol.or.jp/qa/
 - 厚生劳动省「关于化妆品效能范围的修订」[化粧品の効能の範囲の改正について]（药食发0721第1号）

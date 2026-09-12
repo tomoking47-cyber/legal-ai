@@ -47,7 +47,7 @@ It can be greatly reduced by **a clean blade, shaving gel, shaving in the direct
 ### Sources
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: Skincare" [皮膚科Q&A　スキンケア]
   https://www.dermatol.or.jp/qa/
 - Ministry of Health, Labour and Welfare (MHLW), "Revision of the scope of efficacy claims for cosmetics" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)

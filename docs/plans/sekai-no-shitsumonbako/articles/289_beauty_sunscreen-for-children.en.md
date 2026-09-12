@@ -47,7 +47,7 @@ The Ministry of the Environment's explanation is that **the UV needed for vitami
 ### Sources
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - Japan Organization of Clinical Dermatologists and Japanese Society for Pediatric Dermatology, "Joint statement on UV protection for children" [こどもの紫外線対策に関する統一見解]
   https://www.jocd.org/
 - Ministry of Education, Culture, Sports, Science and Technology (MEXT), "UV protection and sunscreen use at school" [学校における紫外線対策・日焼け止めの使用について]

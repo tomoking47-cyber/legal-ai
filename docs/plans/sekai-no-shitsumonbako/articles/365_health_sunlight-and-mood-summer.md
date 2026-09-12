@@ -47,7 +47,7 @@
 ### 出典
 
 - 環境省「紫外線環境保健マニュアル2020」
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 環境省「熱中症予防情報サイト」
   https://www.wbgt.env.go.jp/
 - 気象庁「紫外線に関する基礎知識」

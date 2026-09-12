@@ -50,7 +50,7 @@
 ### 出处
 
 - 环境省「紫外线环境保健手册 2020」[紫外線環境保健マニュアル2020]（容易遗漏的部位）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化妆品工业联合会「化妆品功能评价法准则（抗皱产品评价）」[化粧品機能評価法ガイドライン]
   https://www.jcia.org/user/business/
 - 日本皮肤科学会「皮肤科 Q&A：皱纹・松弛」[皮膚科Q&A しわ・たるみ]

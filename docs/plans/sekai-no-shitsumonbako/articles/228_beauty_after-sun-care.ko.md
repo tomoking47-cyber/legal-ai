@@ -49,7 +49,7 @@
 - 일본피부과학회 「皮膚科Q&A　日焼け（サンバーン）」(피부과 Q&A 햇볕에 탐/선번)
   https://www.dermatol.or.jp/qa/qa6/index.html
 - 환경성 「紫外線環境保健マニュアル2020」(자외선 환경보건 매뉴얼 2020)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 후생노동성 「化粧品の効能の範囲の改正について」(화장품 효능 범위의 개정에 대하여)(약식발 0721 제1호)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

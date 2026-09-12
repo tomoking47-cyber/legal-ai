@@ -50,7 +50,7 @@
 ### 出處
 
 - 環境省「紫外線環境保健手冊 2020」[紫外線環境保健マニュアル2020]（容易漏擦的部位）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本化粧品工業聯合會「化妝品機能評價法準則（抗皺產品評價）」[化粧品機能評価法ガイドライン]
   https://www.jcia.org/user/business/
 - 日本皮膚科學會「皮膚科 Q&A：皺紋・鬆弛」[皮膚科Q&A しわ・たるみ]

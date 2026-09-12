@@ -49,7 +49,7 @@
 - 日本産業標準調査会（JISC）JIS T 7333「サングラス、サンバイザ及び眼鏡ファッション用」
   https://www.jisc.go.jp/
 - 環境省「紫外線環境保健マニュアル2020」（目への影響とサングラス）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本眼鏡関連団体連合会「サングラスの選び方」
   https://www.megane-japan.or.jp/
 

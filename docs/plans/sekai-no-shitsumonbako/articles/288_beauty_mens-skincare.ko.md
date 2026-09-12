@@ -47,7 +47,7 @@
 ### 출처
 
 - 환경성 『자외선 환경보건 매뉴얼 2020』[紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 일본피부과학회 「피부과 Q&A　스킨케어」[皮膚科Q&A　スキンケア]
   https://www.dermatol.or.jp/qa/
 - 후생노동성 「화장품 효능 범위 개정에 대하여」[化粧品の効能の範囲の改正について] (약식발 0721 제1호)

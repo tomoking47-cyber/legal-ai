@@ -51,7 +51,7 @@ There is a **tolerable upper intake of 100 μg**, and **excess causes hypercalca
 - National Institute for Environmental Studies, *Estimating the sunlight exposure time needed to produce the vitamin D the body requires* [体内で必要とするビタミンD生成に要する日照時間の推定] (2013)
   https://www.nies.go.jp/whatsnew/2013/20130830/20130830.html
 - Ministry of the Environment, *UV Environmental Health Manual 2020* [紫外線環境保健マニュアル2020] (relationship with vitamin D)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

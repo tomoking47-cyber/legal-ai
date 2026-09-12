@@ -44,7 +44,7 @@ SPF 시험은 국제적으로 대체로 통일되어 있지만(ISO 24444), UVA �
 - 일본화장품공업회(Japan Cosmetic Industry Association) — 자외선 방어 효과 측정 기준
   https://www.jcia.org/
 - 환경성(Ministry of the Environment) — 자외선 환경보건 매뉴얼(紫外線環境保健マニュアル)
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 일본피부과학회(Japanese Dermatological Association)
   https://www.dermatol.or.jp/qa/
 

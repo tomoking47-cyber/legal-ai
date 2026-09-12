@@ -50,7 +50,7 @@ Primer is a cosmetic, and **the idea of "resting" the skin has no medical defini
 - Japan Cosmetic Industry Association (JCIA), "SPF measurement standard" and "Voluntary standard on PA labelling" [SPF測定法基準／PA表示に関する自主基準]
   https://www.jcia.org/user/business/spf
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

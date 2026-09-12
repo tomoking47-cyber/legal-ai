@@ -41,7 +41,7 @@ SPF 與 PA 值是依照國際測試方法，以**每 cm² 皮膚 2 mg（或 2 μ
 - 日本化妝品工業會（Japan Cosmetic Industry Association）— 紫外線防護效果測定標準
   https://www.jcia.org/
 - 環境省（Ministry of the Environment）— 紫外線環境保健手冊（紫外線環境保健マニュアル）
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本皮膚科學會（Japanese Dermatological Association）
   https://www.dermatol.or.jp/qa/
 

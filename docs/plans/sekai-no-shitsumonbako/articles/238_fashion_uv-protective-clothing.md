@@ -48,7 +48,7 @@
 ### 出典
 
 - 環境省「紫外線環境保健マニュアル2020」
-  https://www.env.go.jp/chemi/uv/uv_manual.html
+  https://www.env.go.jp/content/900410650.pdf
 - 日本産業標準調査会（JISC）JIS L1925「繊維製品の紫外線遮蔽評価方法」
   https://www.jisc.go.jp/
 - 環境省「熱中症予防情報サイト」（日傘の推奨）
