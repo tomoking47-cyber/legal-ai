@@ -4,7 +4,7 @@
 
 Umeboshi, Japan's salted pickled plums, are sometimes introduced abroad as a "Japanese superfood", and just as often dismissed as "far too salty". The traditional umeboshi of old and today's low-salt versions are best thought of as two different foods: they are stored differently and handled differently.
 
-## A. The biggest misunderstanding is "umeboshi are salt-pickled, so they keep for years at room temperature." Traditional umeboshi at 18–20% salt do keep for years at room temperature, but most of what shops sell today is "seasoned umeboshi" at 5–10% salt, which must be refrigerated and carries a date. The first step is to check whether the label says "梅干" (umeboshi) or "調味梅干" (seasoned umeboshi).
+## A. The biggest misunderstanding is "umeboshi are salt-pickled, so they keep for years at room temperature." Traditional umeboshi at 18–20% salt do keep for years at room temperature, but most of what shops sell today is "seasoned umeboshi" at 5–12% salt, which must be refrigerated and carries a date. The first step is to check whether the label says "梅干" (umeboshi) or "調味梅干" (seasoned umeboshi).
 
 ## Two kinds of umeboshi
 
@@ -13,7 +13,7 @@ Umeboshi, Japan's salted pickled plums, are sometimes introduced abroad as a "Ja
 | **Umeboshi (梅干)** (shiraboshi, plain salt-dried; or pickled with red shiso) | **About 18–20%** | **Long-term at room temperature** (years) | Only salt and plums (and red shiso). Strongly sour and salty |
 | **Seasoned umeboshi (調味梅干, chōmi umeboshi)** (honey, bonito, low-salt, etc.) | **About 5–12%** | **Refrigerate**; once opened, follow the label (weeks to months) | Desalted, then re-pickled in a seasoning liquid. **Keeps poorly** |
 
-- One umeboshi (about 10 g) contains **about 2 g of salt equivalent in the plain type and about 0.5–1 g in the low-salt type**. Set that against the **daily salt target (around 7 g)**.
+- One umeboshi (about 10 g) contains **about 2 g of salt equivalent in the plain type and about 0.5–1 g in the low-salt type**. Set that against the **daily salt target (under 7.5 g for adult men and under 6.5 g for adult women, Dietary Reference Intakes for Japanese, 2025 edition)**.
 - The sourness comes from **citric acid**. Claims such as "relieves fatigue" or "kills germs" **may not be made for an ordinary food** (Health Promotion Act; Act against Unjustifiable Premiums and Misleading Representations). **An umeboshi in a lunch box does not stop the rest of the food spoiling** (see the article on bento).
 - **White crystals on the surface** are **salt or citric acid**, not mould. **Fluffy, blue-green or black growth** is mould.
 
@@ -21,7 +21,7 @@ Umeboshi, Japan's salted pickled plums, are sometimes introduced abroad as a "Ja
 
 ## Misunderstanding 1｜All umeboshi can be kept at room temperature
 
-**Most "seasoned umeboshi" are labelled "keep refrigerated".** Only **"umeboshi" (18% salt or more)** keeps long-term at room temperature.
+**Most "seasoned umeboshi" are labelled "keep refrigerated".** The Food Labelling Standards split "梅干" from "調味梅干" by method, not by salt content: fruit pickled in salt or plum vinegar and then dried is "梅干", and "調味梅干" is that product re-steeped in a seasoning liquid. **What keeps long-term at room temperature is the traditional "梅干" (shiraboshi or shiso-pickled) at 18–20% salt.**
 
 ## Misunderstanding 2｜Eat umeboshi and you will not get summer fatigue (natsubate)
 
@@ -37,7 +37,7 @@ Umeboshi, Japan's salted pickled plums, are sometimes introduced abroad as a "Ja
 
 ## Misunderstanding 5｜The kernel inside the stone is good for you
 
-**Unripe plum stones contain amygdalin (a cyanogenic glycoside)**, and **eating umeboshi kernels in quantity is not recommended** (a caution from the Ministry of Agriculture, Forestry and Fisheries). **Throwing the stone away** is the safe side.
+**The kernels and flesh of unripe green plums contain amygdalin (a cyanogenic glycoside)**. **In processed products such as umeboshi the amygdalin is said to break down, but the safe side is not to eat green plums, the plums from plum liqueur, or the kernels of lightly pickled fruit.** **When in doubt, throw the stone away.**
 
 ---
 

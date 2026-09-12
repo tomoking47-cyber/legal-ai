@@ -10,9 +10,9 @@ Japanese summers combine 35°C days with 70–80% humidity, and the country reco
 
 | Item | Figure | Source |
 |---|---|---|
-| Heatstroke ambulance transports, May–September 2024 | **97,578** (second-highest on record) | Fire and Disaster Management Agency |
-| Share occurring **at home** | **about 40%** | same |
-| Share aged **65 and over** | **about 58%** | same |
+| Heatstroke ambulance transports, May–September 2025 | **100,510** (highest since records began in 2008; 2024 was 97,578) | Fire and Disaster Management Agency |
+| Share occurring **at home** | **38.1%** (2025) | same |
+| Share aged **65 and over** | **57.1%** (2025) | same |
 | Heat-Stroke Alert threshold (WBGT) | **33°C**; "Special Alert" at **35°C** (since 2024) | Ministry of the Environment |
 
 > **[Verify]** Transport figures with the FDMA's annual heatstroke report (the 2023 figure was 91,467); WBGT thresholds with the Ministry of the Environment's heat illness prevention site.

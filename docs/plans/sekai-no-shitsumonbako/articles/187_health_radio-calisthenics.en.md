@@ -12,8 +12,8 @@ Radio calisthenics (*rajio taisō*, ラジオ体操) is the most widely known ex
 |---|---|
 | Origin | **1928**, created by the Postal Life Insurance Bureau of the Ministry of Communications; broadcasting began on NHK radio |
 | Current form | **No. 1 (1951)**: 13 exercises, **about 3 min 13 s** / **No. 2 (1952)**: 13 exercises, about 3 min |
-| Broadcast | NHK Radio 1, **every morning at 6:30**; also on television |
-| Intensity | **About 3–4 METs** (equivalent to normal to brisk walking) |
+| Broadcast | **NHK AM** (Radio 2 was discontinued in March 2026 and the AM services were consolidated into a single channel), **every morning at 6:30**; also on television |
+| Intensity | **4.0 METs for No. 1 / 4.5 METs for No. 2** (equivalent to brisk walking) |
 | Who does it | Surveys put **20–30% of adults at "sometimes to every day"** |
 
 - The MHLW **Physical Activity and Exercise Guide 2023** [身体活動・運動ガイド2023] recommends that adults do **60 minutes or more of physical activity a day (3 METs or more)**; No. 1 and No. 2 back to back take **about 6 minutes and count towards that**.
@@ -48,7 +48,7 @@ In the 70-plus years since No. 1 was set, **the movements have barely changed**.
 - Japan Post Insurance (Kampo), "History of radio calisthenics" [ラジオ体操の歴史]
   https://www.jp-life.japanpost.jp/aboutus/csr/radio/
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - National Institute of Health and Nutrition, "METs table of physical activities (revised)" [改訂版　身体活動のメッツ（METs）表]
   https://www.nibiohn.go.jp/eiken/programs/2011mets.pdf
 

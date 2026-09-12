@@ -19,7 +19,7 @@
 
 - 环境省的 **Warm Biz** 把有暖气的办公室参考温度定为 **20°C**，并提倡用叠穿代替调高暖气。
 - 日本住宅 **按发达国家标准来看保温性差**（参见被炉一文）；冬季卧室室温低于 **18°C** 很常见，而世界卫生组织建议出于健康考虑室温 **最低 18°C**。
-- **カイロ（kairo，一次性暖贴）** 每年销量约 **15 亿片**；低温烫伤的警示同样适用（参见热水袋一文）。
+- **カイロ（kairo，一次性暖贴）** 每年销量约 **17.5 亿片**（日本カイロ工业会：**2025 年度 17.53 亿片**，2024 年度 17.77 亿片）；低温烫伤的警示同样适用（参见热水袋一文）。
 
 > **[待核实]** Warm Biz 温度请向环境省核对；暖贴销量请以行业协会数据核对；世界卫生组织的住房温度指南。
 
@@ -46,8 +46,8 @@
 ---
 
 ### 出处
-- 环境省（Ministry of the Environment）——Warm Biz
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- 环境省（Ministry of the Environment）——Warm Biz（现于环境省的「脱碳生活（デコ活）」全国运动之下推行，该运动于 2023 年取代了 COOL CHOICE）
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/about/
 - 消费者厅（Consumer Affairs Agency）——一次性暖贴及取暖器具引起的低温烫伤
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 世界卫生组织（World Health Organization）——住房与健康指南（室内温度）

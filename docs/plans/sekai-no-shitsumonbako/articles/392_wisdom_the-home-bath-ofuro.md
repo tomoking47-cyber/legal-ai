@@ -19,7 +19,7 @@ The Japanese bathroom is designed around one idea that the rest of the world doe
 | **Controls** | **Auto-fill and reheat** at the touch of a button (**oidaki** reheat); voice announces when ready; **timer** to have the bath ready on return |
 | **Cleaning** | Daily quick rinse; **mould is the enemy**: fan on during and 1–2 hours after; **squeegee walls**; weekly scrub |
 
-- **About 95% of Japanese homes have a bath**; **most people bathe daily**, in the evening; the **average bath water volume is about 200 L** and the **hot-water bill for bathing is the largest share of household energy after heating** (Agency for Natural Resources and Energy).
+- **About 95% of Japanese homes have a bath**; **most people bathe daily**, in the evening; the **average bath water volume is about 200 L** and **hot water is the largest single end-use of household energy in Japan — about 29%, ahead of heating at about 26%** (Agency for Natural Resources and Energy).
 - **Bath accidents**: about **19,000 deaths a year** are estimated to occur in or around the bath, mostly **older people in winter**, from the temperature shock and heat; the guidance is **warm the changing room, 41°C or lower, 10 minutes, tell someone** (see the bath temperature article).
 - **Bath water reuse** for laundry and the **emergency water** role (200 L for flushing after a quake) are why the tub is not drained until the next bath.
 

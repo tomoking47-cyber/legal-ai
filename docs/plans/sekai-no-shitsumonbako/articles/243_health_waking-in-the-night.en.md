@@ -11,7 +11,7 @@
 | Item | Details |
 |---|---|
 | Sleep cycle | Deep sleep and light sleep (REM) alternate in cycles of **about 90 minutes**. **Waking is most likely at the join between cycles** |
-| Effect of age | **Less deep sleep and more waking** is a natural change. **The sleep you need also shortens** (around 6 hours is generally described as enough for older people) |
+| Effect of age | **Less deep sleep and more waking** is a natural change. But **how much sleep you need varies from person to person**: the Sleep Guide 2023 notes that **older people may still need as much sleep as other adults**, and uses **time in bed (not more than 8 hours)** rather than sleep length as the guide |
 | Main causes of waking in the night | **Alcohol before bed, caffeine, needing to urinate at night, snoring or breathing pauses, bedroom temperature, light and noise, stress, spending too long in bed** |
 | If you wake | **Do not look at the clock**; **if you are not asleep within 15–20 minutes, get out of bed** (sit quietly in a dark room and return when sleepy) |
 | When to see a doctor | **Three or more nights a week, for three months or more**, with **daytime sleepiness or other problems** (the usual definition of insomnia) |

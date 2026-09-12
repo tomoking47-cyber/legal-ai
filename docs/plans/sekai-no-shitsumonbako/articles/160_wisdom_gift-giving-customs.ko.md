@@ -47,8 +47,8 @@
 ### 출처
 - 문화청(文化庁) — 연중 행사와 생활 문화
   https://www.bunka.go.jp/english/
-- 전일본기프트용품협회(全日本ギフト用品協会) — 선물 예절과 계절 풍습
-  https://www.gift.or.jp/
+- 전일본기프트용품협회(一般社団法人全日本ギフト用品協会) — 선물 예절과 계절 풍습
+  http://www.all-japan-gift.or.jp/
 - 일본정부관광국(JNTO) — 일본의 에티켓
   https://www.japan.travel/en/guide/etiquette/
 

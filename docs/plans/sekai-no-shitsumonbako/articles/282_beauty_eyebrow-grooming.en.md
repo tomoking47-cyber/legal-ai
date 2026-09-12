@@ -18,7 +18,7 @@ Eyebrows set the impression of a face, and the fashionable shape changes with th
 | **Cosmetic tattooing (アートメイク, āto meiku — semi-permanent brow tattooing)** | Long-lasting colour | **A medical procedure** (pigment is placed with a needle). **Unlicensed practice is illegal**; harm to health has been reported |
 
 - Eyebrow hairs have a **short growth phase (about 1–2 months)**, and regrowth after plucking takes **several weeks to several months**. **Repeated irritation can send the follicle into a resting state.**
-- **Eyebrow tattooing is a medical procedure under the Medical Practitioners Act** (MHLW notice of 2001; a 2020 Supreme Court ruling held that tattooing by a tattooist is not a medical procedure, but **cosmetic tattooing kept its status as one**). **Having it done at a beauty salon is illegal**, and the National Consumer Affairs Center of Japan has received reports of harm to health.
+- **Eyebrow tattooing is a medical act under the Medical Practitioners Act** (the MHLW notice of 2001, restated explicitly in a **2023 notice**; a 2020 Supreme Court decision held that tattooing by a tattooist is not a medical act, but **cosmetic tattooing — drawing brows and eyeliner — kept its status as one**). A **2025 MHLW notice** states that, besides work by unlicensed practitioners, **a procedure carried out by nurses alone without a doctor's examination may also be illegal**. **Having it done at a beauty salon is illegal**, and the National Consumer Affairs Center of Japan has received reports of harm to health.
 
 > **[Verify]** Check the legal status of cosmetic tattooing against the MHLW notice (Iseii-hatsu No. 105, 2001) and the published materials of the National Consumer Affairs Center of Japan.
 
@@ -40,13 +40,13 @@ Eyebrows set the impression of a face, and the fashionable shape changes with th
 
 ## Misunderstanding 5｜Eyebrow tattooing is a quick job at a beauty salon
 
-**Placing pigment in the skin with a needle is a medical procedure**, and it is legal **only in a medical institution, performed by a doctor or by a nurse under a doctor's instruction.** **Procedures at beauty salons or home salons are illegal, and infection, allergy and colour change have been reported.**
+**Placing pigment in the skin with a needle is a medical act**, and it is lawful **only when a doctor has examined and given instructions and a doctor or nurse performs it at a medical institution.** The MHLW's 2025 notice states that **a procedure carried out by nurses alone, without a doctor's examination, may also be illegal.** **Procedures at beauty salons or home salons are illegal, and infection, allergy and colour change have been reported.**
 
 ---
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Handling of hair removal and similar acts by persons without a medical licence" [医師免許を有しない者による脱毛行為等の取扱いについて] (Iseii-hatsu No. 105, 8 November 2001)
+- Ministry of Health, Labour and Welfare (MHLW), "Handling of so-called cosmetic tattooing by persons without a medical licence" [医師免許を有しない者によるいわゆるアートメイクの取扱いについて] (Isei-ihatsu 0703 No. 5, 3 July 2023) / "Handling of cosmetic medicine" [美容医療に関する取扱いについて] (Isei-hatsu 0815 No. 21, 15 August 2025) / "Handling of hair removal and similar acts by persons without a medical licence" [医師免許を有しない者による脱毛行為等の取扱いについて] (Iseii-hatsu No. 105, 8 November 2001)
   https://www.mhlw.go.jp/web/t_doc?dataId=00tb2224&dataType=1
 - National Consumer Affairs Center of Japan, "Harm from cosmetic tattooing" [アートメイクの危害]
   https://www.kokusen.go.jp/

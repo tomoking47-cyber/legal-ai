@@ -2,21 +2,21 @@
 
 - Shelf: `fashion` ／ URL: `/en/fashion/clothing-donation-and-recycling` ／ Status: **Draft — English edition, sources unverified**
 
-Japanese households throw away around 480,000 tonnes of clothing a year, and most of it is incinerated. This article looks at the gap between "old clothes get recycled" and what actually happens, and at how to dispose of clothes from home, using figures from the Ministry of the Environment.
+Japanese households part with around 460,000 tonnes of clothing a year that ends up incinerated or otherwise disposed of. This article looks at the gap between "old clothes get recycled" and what actually happens, and at how to dispose of clothes from home, using figures from the Ministry of the Environment.
 
-## A. The biggest misunderstanding is "put old clothes in a collection and they will be recycled". By the Ministry of the Environment's estimate, about 60% of clothing that households part with is thrown away as burnable waste; reuse and recycling together account for about 30%, and fibre-to-fibre recycling is a tiny fraction. The realistic order is: wear it longer, pass it on for reuse, then use a collection point. Your local council's sorting rules are the first thing to check.
+## A. The biggest misunderstanding is "put old clothes in a collection and they will be recycled". By the Ministry of the Environment's estimate, about 55% of the clothing households part with is thrown away as burnable, non-burnable or mixed waste; reuse and recycling together account for about 40%, and fibre-to-fibre recycling is a tiny fraction. The realistic order is: wear it longer, pass it on for reuse, then use a collection point. Your local council's sorting rules are the first thing to check.
 
-## The numbers (Ministry of the Environment, "Sustainable Fashion")
+## The numbers (Ministry of the Environment, "Material Flow of Clothing, 2025 edition", March 2026)
 
 | Item | Figure |
 |---|---|
 | Clothing supplied in Japan | **About 800,000 tonnes a year** |
 | Clothing households part with | **About 750,000 tonnes a year** |
-| Of which **thrown away as burnable or non-burnable waste** | **About 480,000 tonnes (about 64%)** |
+| Of which **thrown away as burnable or non-burnable waste** | **About 460,000 tonnes (about 55% of where it goes)** |
 | Of which **reused** (worn again as second-hand) | **About 200,000 tonnes (about 27%)** |
 | Of which **recycled** (wiping rags, reclaimed fibre, etc.) | **About 70,000 tonnes (about 9%)** |
 | **Fibre-to-fibre recycling** | **Under 1%** |
-| Per person per year | **About 18 items bought**, **about 15 parted with**, **about 35 items owned but not worn** (averages) |
+| Per person per year | **About 18 items bought**, **about 12 parted with**, **about 25 items owned but not worn** (averages) |
 | Average years an item is worn | **About 3 years** |
 
 ### How to dispose of clothes
@@ -44,7 +44,7 @@ Japanese households throw away around 480,000 tonnes of clothing a year, and mos
 
 ## Misunderstanding 4｜Fast fashion is the only problem
 
-**Buying 18 items a year and leaving 35 unworn** is the average, and points to **how we buy and how long we wear**. **"Wear one item for longer"** is the Ministry of the Environment's first message.
+**Buying 18 items a year and leaving 25 unworn** is the average, and points to **how we buy and how long we wear**. **"Wear one item for longer"** is the Ministry of the Environment's first message.
 
 ## Misunderstanding 5｜What one person can do is small
 

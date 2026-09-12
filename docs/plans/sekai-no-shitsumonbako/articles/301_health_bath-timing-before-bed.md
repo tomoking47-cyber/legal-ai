@@ -49,7 +49,7 @@
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省 e-ヘルスネット「快眠と生活習慣」
-  https://kennet.mhlw.go.jp/information/information/heart/k-02-005.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 消費者庁「冬季に多発する高齢者の入浴中の事故に注意」
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 

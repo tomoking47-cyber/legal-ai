@@ -16,7 +16,7 @@ Sauna's popularity in Japan has grown fast since around 2019, and the ritual "sa
 | Fluids | **At least one glass per set.** One sauna session is generally described as producing **around 500 mL** of sweat |
 | Avoid | **After alcohol, right after a meal, short of sleep, with a fever, dehydrated**; **uncontrolled high blood pressure or heart disease** |
 
-- **The Consumer Affairs Agency reports that most sudden deaths while bathing are among older people**, and that they **peak in winter** (an estimated **about 19,000** deaths while bathing a year, from research by the Tokyo Metropolitan Institute for Geriatrics and Gerontology). The temperature gap between sauna and cold plunge involves the same mechanism (**a sudden swing in blood pressure**).
+- **The Consumer Affairs Agency reports that most accidental deaths while bathing are among older people**, and that they **peak in winter** (in the vital statistics for 2023, **6,541** people aged 65 or over drowned in a bathtub). Separately, a 2011 survey by the Tokyo Metropolitan Institute for Geriatrics and Gerontology estimated **about 17,000** sudden deaths while bathing a year. The temperature gap between sauna and cold plunge involves the same mechanism (**a sudden swing in blood pressure**).
 - The Japan Sauna & Spa Association's **"How to take a sauna"** guidance includes **rinsing off sweat with a ladle of water (*kakeyu*) before the cold plunge** and **not pushing yourself**.
 
 > **[Verify]** Check the estimate of deaths while bathing against the Consumer Affairs Agency's published material, and the sauna etiquette against the Japan Sauna & Spa Association's guidance. Temperatures are typical figures for ordinary facilities.
@@ -49,8 +49,8 @@ What you lose is **water**, and it comes back when you drink. **The dehydration 
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - Japan Sauna & Spa Association, "The right way to take a sauna" [サウナの正しい入り方]
   https://www.sauna.or.jp/
-- Ministry of Health, Labour and Welfare, e-Health Net, "Bathing and health" [入浴と健康]
-  https://kennet.mhlw.go.jp/information/information/index.html
+- Ministry of Health, Labour and Welfare, e-Health Net, "Good sleep and lifestyle habits" [快眠と生活習慣] (on bathing and body temperature)
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

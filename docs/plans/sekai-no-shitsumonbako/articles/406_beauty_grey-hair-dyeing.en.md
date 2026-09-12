@@ -4,7 +4,7 @@
 
 In Japan, many people from their 40s onwards dye their grey hair regularly, and the drugstore aisle (白髪染め, shiraga-zome) offers a bewildering range. The two common questions are "how often?" and "which type is kindest to hair and scalp?" Here we sort products by their legal category in Japan — quasi-drug (医薬部外品, a category between cosmetics and medicines) or cosmetic — and read this together with our patch-test article.
 
-## A. The biggest misunderstanding is "all grey-hair dyes are the same, and frequency is a matter of taste." There are quasi-drug "oxidative hair dyes" (permanent colour: they dye thoroughly, with an allergy risk) and cosmetic "hair manicure" and "colour treatments" (they coat the surface, wash out sooner, and are gentler), and they differ in how often you use them and how hard they are on the scalp. A full-head colour every 1–2 months and a root touch-up every 3–4 weeks is typical, and the product label asks for a patch test every single time.
+## A. The biggest misunderstanding is "all grey-hair dyes are the same, and frequency is a matter of taste." There are quasi-drug "oxidative hair dyes" (permanent colour: they dye thoroughly, with an allergy risk) and cosmetic "hair manicure" and "colour treatments" (they coat the surface, wash out sooner, and are gentler), and they differ in how often you use them and how hard they are on the scalp. A full-head colour every 1.5–2 months and a root touch-up every 3–4 weeks is typical, and the product label asks for a patch test every single time.
 
 ## Types and how to use them
 

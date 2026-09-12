@@ -18,7 +18,7 @@ Many people use a straightener or curling iron every day, and two questions keep
 | Burns | **Plate temperature is around 200°C**. **Contact burns to the face, ears and neck**, and **children touching the device** (NITE, Consumer Affairs Agency). **Rest it on a heat-resistant mat after use; do not pull the cord** |
 | Auto shut-off | **Many models switch off after a set time**. **Without it, forgetting to switch off is a fire cause** |
 
-- **Hair-iron burns** are reported continuously in the Consumer Affairs Agency's accident data; many cases involve **children aged 5 and under touching the device after use**. **Do not leave it on the floor; let it cool out of reach**.
+- **Hair-iron burns** are reported continuously. According to the National Consumer Affairs Center of Japan (published 7 August 2024), there were **43 cases in the roughly five years from FY2019, about 70% of them (30 cases) involving children aged 0-2, with age 1 the most common at 18 cases**. **Injuries to the fingers and palms** are the most frequent. **Do not leave it on the floor or on a washbasin, do not let the cord dangle, and let it cool out of reach**.
 - **Daily use** advances **surface wear and dryness**. **Take a few days off each week**, **lower the temperature**, and **use a treatment** (see our conditioner article). **Damaged hair does not recover** (see our hair-oil article).
 - Hair irons fall under **PSE (the Electrical Appliance and Material Safety Act, Japan's electrical-safety law)**. **If you use a device bought abroad in Japan, check the voltage (Japan is 100 V) and look for the PSE mark**.
 
@@ -48,8 +48,8 @@ Many people use a straightener or curling iron every day, and two questions keep
 
 ### Sources
 
-- Consumer Affairs Agency, "Beware of Children's Burns from Hair Irons" [ヘアアイロンによる子どものやけど事故に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/child/
+- National Consumer Affairs Center of Japan, "Beware of Children's Burns from Hair Irons!" [ヘアアイロンによる子どものやけどに注意！] (published 7 August 2024)
+  https://www.kokusen.go.jp/news/data/n-20240807_1.html
 - National Institute of Technology and Evaluation (NITE), "Hair Iron Accidents" [ヘアアイロンの事故]
   https://www.nite.go.jp/jiko/chuikanki/
 - Ministry of Economy, Trade and Industry, "Electrical Appliance and Material Safety Act (PSE)" [電気用品安全法]

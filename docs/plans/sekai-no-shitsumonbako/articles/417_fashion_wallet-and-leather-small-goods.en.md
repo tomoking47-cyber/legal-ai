@@ -27,7 +27,7 @@ Wallets, business-card holders and key cases are the leather goods you touch eve
 
 - **Ageing** is a change that happens to **vegetable-tanned leather**; **pigment-finished leather hardly changes at all**. **Not all leather "gains character" with age**.
 - **Frayed seams and broken zips on small leather goods can be repaired** (see the article on guarantees and repairs). **A few thousand yen at the maker or a leather repair shop** is the usual guide.
-- Under the **Household Goods Quality Labelling Act (Miscellaneous Manufactured Goods regulations)**, **the type of leather (cowhide, horsehide, etc.) and synthetic leather must be labelled**. **The label tells you whether it is "genuine leather" (本革, honkawa) or "synthetic leather" (合皮)**.
+- Under the **Household Goods Quality Labelling Act (Miscellaneous Manufactured Goods Quality Labelling Regulations)**, the labelling duty covers **"bags" (items using cow, horse, pig, sheep or goat leather over 60% or more of the outer surface), leather clothing, leather gloves and shoes** — **wallets, card cases and other small pouch goods fall outside it**. **So whether something is "genuine leather" (本革, honkawa) or "synthetic leather" (合皮) has to be checked on the maker's own tag or with the shop, not on a mandatory label**.
 
 > **[Verify]** Check the scope of the labelling duty against the Consumer Affairs Agency's "Miscellaneous Manufactured Goods Quality Labelling Regulations", and the care advice against Japan Leather and Leather Goods Industries Association materials.
 
@@ -57,8 +57,8 @@ The main cause of **loss of shape, split seams and zip failure**. **Carry only t
 
 - Japan Leather and Leather Goods Industries Association (JLIA), "Caring for leather goods; types of leather" [革製品のお手入れ・革の種類]
   https://www.jlia.or.jp/
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Manufactured Goods Quality Labelling Regulations (bags and wallets)" [家庭用品品質表示法　雑貨工業品品質表示規程（かばん・財布）]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- Consumer Affairs Agency, "Miscellaneous Manufactured Goods Quality Labelling Regulations (18: Bags)" [雑貨工業品品質表示規程（十八　かばん）]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/law/law_07/item_018.html
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 

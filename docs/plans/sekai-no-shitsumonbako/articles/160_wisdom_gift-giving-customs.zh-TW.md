@@ -47,8 +47,8 @@
 ### 出處
 - 文化廳（文化庁）——年中行事與生活文化
   https://www.bunka.go.jp/english/
-- 全日本禮品用品協會（全日本ギフト用品協会）——送禮禮儀與季節習俗
-  https://www.gift.or.jp/
+- 全日本禮品用品協會（一般社団法人全日本ギフト用品協会）——送禮禮儀與季節習俗
+  http://www.all-japan-gift.or.jp/
 - 日本國家旅遊局（JNTO）——日本禮儀
   https://www.japan.travel/en/guide/etiquette/
 

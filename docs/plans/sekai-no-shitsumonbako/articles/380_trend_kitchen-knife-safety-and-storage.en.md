@@ -19,9 +19,9 @@ Separately from our article on sharpening, this one answers the safety questions
 | Types | **Santoku (all-purpose), nakiri (vegetables), deba (fish), yanagiba (sashimi), petty (small utility).** **Stainless steel resists rust; carbon steel (hagane) cuts better but rusts** |
 | Disposal | **Wrap the blade in newspaper, write "刃物" (hamono, "blade") on it, and put it out with your municipality's non-burnable or hazardous waste** |
 
-- Consumer Affairs Agency accident data show that **most kitchen cuts happen "while washing up", "from a knife left in the sink" or "when the cutting board slipped".**
+- Accident data (the Consumer Affairs Agency's accident information databank, the Tokyo Metropolitan Government's near-miss survey "Dangers lurking in the kitchen" and the like) report kitchen cuts most often **"while washing up", "from a knife left in the sink" or "when the cutting board slipped".**
 - **Food-poisoning prevention**: **after cutting raw meat or fish, wash the knife with detergent and pour boiling water over it** (the same as in our cutting-board article). **Use separate knives for meat/fish and vegetables**, or **cut vegetables first, then meat and fish.**
-- **The Firearms and Swords Control Act (銃刀法, jūtōhō)**: **carrying a blade longer than 6 cm without a legitimate reason is prohibited.** **Carry a newly bought knife home in its box or packaging**, and **for outdoor use keep it in a case and be clear about your purpose.**
+- **The Firearms and Swords Control Act (銃刀法, jūtōhō), Article 22**: **carrying a blade whose blade body exceeds 6 cm in length without a legitimate reason is prohibited** (**scissors, folding knives and the like are exempted by cabinet order up to a blade body of 8 cm**). **Carry a newly bought knife home in its box or packaging**, and **for outdoor use keep it in a case and be clear about your purpose.**
 
 > **[Verify]** Check the accident data against Consumer Affairs Agency materials, and the provisions of the Firearms and Swords Control Act against National Police Agency materials.
 
@@ -49,8 +49,8 @@ Mounting it so **the edge is exposed and faces outward** is dangerous. **Edge to
 
 ### Sources
 
-- Consumer Affairs Agency, "Beware of cuts and burns in the kitchen" [台所での切り傷・やけど事故に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- Consumer Affairs Agency, "Consumer safety (collection and publication of accident information)" [消費者安全（事故情報の収集・公表）]
+  https://www.caa.go.jp/policies/policy/consumer_safety/
 - National Police Agency, "Firearms and Swords Control Act (carrying blades)" [銃砲刀剣類所持等取締法（刃物の携帯）]
   https://www.npa.go.jp/
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント] (utensils)

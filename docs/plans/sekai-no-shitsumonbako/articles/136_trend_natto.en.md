@@ -16,7 +16,7 @@ Natto — fermented soybeans — is known abroad as "the hardest Japanese food t
 | White specks on the surface | **Tyrosine** (amino-acid crystals). Harmless |
 | Past the date | Fermentation advances; **ammonia smell and bitterness** get stronger. **If in doubt, throw it out** |
 
-- One pack of natto (about 40–50 g) contains **about 7–8 g of protein and about 3 g of dietary fibre** (Standard Tables of Food Composition in Japan, 8th edition).
+- One pack of natto (about 40–50 g) contains **about 7–8 g of protein and about 4–5 g of dietary fibre** (Standard Tables of Food Composition in Japan, 8th edition: itohiki natto has 16.5 g of protein and 9.5 g of total dietary fibre per 100 g).
 - **If you take warfarin (an anticoagulant), do not eat natto at all.** The package insert instructs patients not to consume it. The vitamin K in natto weakens the drug, and **the natto bacteria go on producing vitamin K inside the gut**, so eating a small amount or spacing it out does not work either. The same applies to chlorella products and aojiru. **Always confirm with your own doctor or pharmacist.**
 - Natto labelling follows the **Food Labelling Act**: the ingredients list shows **the origin of the soybeans and their genetically-modified status**.
 

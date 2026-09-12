@@ -17,7 +17,7 @@
 
 - The method: **stock a little more than usual → eat the oldest → replace on the next shop.** Aim to hold **3–7 days**.
 - Include foods that need **no heating or water**: canned goods, crackers, jelly drinks. Then foods that need only hot water: cup noodles, alpha rice, instant miso soup.
-- Have a way to heat water without electricity: a **cassette gas stove with 6–9 canisters** (MAFF suggests roughly **1 canister per day** for a family).
+- Have a way to heat water without electricity: a **cassette gas stove with about 6 canisters per person per week** (MAFF's household stockpile guide figure) — so roughly **24 for a family of four** over a week, more in winter.
 
 > **[Verify]** Quantities with MAFF's "Disaster Stockpile Guide for Households" and the Cabinet Office site; adjust for infants, elderly, allergies and medical diets.
 

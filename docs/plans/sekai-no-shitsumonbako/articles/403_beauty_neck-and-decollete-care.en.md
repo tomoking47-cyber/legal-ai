@@ -19,7 +19,7 @@
 | What cosmetics may claim | Up to **"moisturises the skin" and "makes fine lines caused by dryness less noticeable (efficacy-tested)"**. **"Erases wrinkles" and "improves sagging" are not permitted claims** |
 | Medical options | **Injections, lasers and similar for neck lines are cosmetic medicine (自由診療, jiyū shinryō — private, not covered by health insurance)**. **Ask the doctor about effects and risks** |
 
-- **Neck sunburn** happens because **people put sunscreen on the face and forget the neck**, giving **a colour difference between face and neck** (a "dark neck"). **The Ministry of the Environment's manual lists "the back of the neck and the ears" among the spots people forget**.
+- **Neck sunburn** happens because **people put sunscreen on the face and forget the neck**, giving **a colour difference between face and neck** (a "dark neck"). **The back of the neck and the ears are among the spots people most often miss**, a point repeatedly noted in surveys of how sunscreen is actually applied.
 - **"Neck care" products** are cosmetics, and **their ingredients are essentially the same as face products**. Most are simply **designed with a heavier texture (cream)**.
 - **A UV-blocking scarf or a high collar** protects **without needing to reapply sunscreen** (see our UV-protective clothing article).
 
@@ -51,8 +51,8 @@
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020] (commonly missed spots)
   https://www.env.go.jp/content/900410650.pdf
-- Japan Cosmetic Industry Association, "Guidelines for Evaluating Cosmetic Function (anti-wrinkle product evaluation)" [化粧品機能評価法ガイドライン]
-  https://www.jcia.org/user/business/
+- Japanese Society of Cosmetic Science, "Guidelines for Evaluating Cosmetic Function (Guidelines for Evaluating Anti-Wrinkle Products for New Efficacy Claims)" [日本香粧品学会／化粧品機能評価法ガイドライン（新規効能取得のための抗シワ製品評価ガイドライン）]
+  https://www.jcss.jp/journal/guideline.html
 - Japanese Dermatological Association, "Dermatology Q&A: Wrinkles and Sagging" [皮膚科Q&A しわ・たるみ]
   https://www.dermatol.or.jp/qa/
 

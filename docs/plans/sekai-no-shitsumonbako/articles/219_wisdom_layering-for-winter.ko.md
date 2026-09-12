@@ -19,7 +19,7 @@
 
 - 환경성의 **웜 비즈**는 난방된 사무실의 기준 온도를 **20°C**로 정하고, 난방을 올리는 대신 겹쳐 입기를 권장합니다.
 - 일본의 집은 **선진국 기준으로 단열이 부실합니다**(고타쓰 글 참조). 겨울 침실 실내 온도가 **18°C** 아래인 경우가 흔한데, WHO는 건강을 위해 **최저 18°C**를 권고합니다.
-- **카이로**(일회용 핫팩)는 연간 약 **15억 개**가 팔립니다. 저온 화상 주의가 그대로 적용됩니다(보온 물주머니 글 참조).
+- **카이로**(일회용 핫팩)는 연간 약 **17억 5천만 개**가 팔립니다(일본카이로공업회: **2025년도 17억 5,303만 개**, 2024년도 17억 7,652만 개). 저온 화상 주의가 그대로 적용됩니다(보온 물주머니 글 참조).
 
 > **[확인 필요]** 웜 비즈 온도는 환경성으로, 카이로 판매량은 업계 단체 자료로, 실내 온도 권고는 WHO 주거 지침으로 확인할 것.
 
@@ -46,8 +46,8 @@
 ---
 
 ### 출처
-- 환경성(Ministry of the Environment) — 웜 비즈(Warm Biz)
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- 환경성(Ministry of the Environment) — 웜 비즈(Warm Biz) (2023년 COOL CHOICE를 대체한 환경성의 전국 캠페인 「데코카쓰(デコ活)」 아래에서 운영)
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/about/
 - 소비자청(Consumer Affairs Agency) — 일회용 핫팩과 난방 기구에 의한 저온 화상
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 세계보건기구(World Health Organization) — 주거와 건강 지침(실내 온도)

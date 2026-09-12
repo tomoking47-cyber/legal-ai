@@ -10,7 +10,7 @@ Opening windows morning and evening is a household reflex in Japan, reinforced d
 
 | Method | Figure | Source |
 |---|---|---|
-| Window ventilation | **Open two windows on opposite sides for 5–10 minutes, twice an hour** | MHLW 2020 ventilation guidance |
+| Window ventilation | **Open windows on two opposite walls for a few minutes, at least twice an hour** (once every 30 minutes) | MHLW 2020 guidance for commercial premises, widely applied at home |
 | Mechanical (24-hour) ventilation | **Required in all new homes since 2003**; 0.5 air changes per hour | Building Standards Act amendment |
 | Target humidity | **40–60%**; mould accelerates above **70%** | Various public health guidance |
 | Bathroom | Run the fan **during and for 1–2 hours after** bathing, door closed | Tokyo Metropolitan Government mould guidance |

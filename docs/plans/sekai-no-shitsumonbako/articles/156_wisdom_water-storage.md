@@ -15,7 +15,7 @@ Water is the first supply to run short after a major earthquake, and in Japan th
 | 4 people | 36 L | **84 L** (that is 42 × 2 L bottles) |
 
 - Basis: **3 L per person per day** for drinking and cooking (Cabinet Office, Tokyo Metropolitan Government).
-- **Hygiene water** (toilet flushing, washing) is separate: households keep **bath water** in the tub overnight and use it for flushing, and store water in the **water heater tank** where fitted.
+- **Hygiene water** (toilet flushing, washing) is separate: households keep **bath water** in the tub overnight and store water in the **water heater tank** where fitted. **After a strong earthquake, do not flush until the building's drains and the sewer have been confirmed undamaged** — use a portable toilet until then, or waste water can back up into the home.
 - After the 2011 Great East Japan Earthquake, water supply outages lasted **more than a week** in many affected municipalities; after the 2024 Noto earthquake, some areas waited **months**.
 
 > **[Verify]** Per-person figures with the Cabinet Office; outage durations with MHLW water-supply damage reports for 2011 and 2024.
@@ -47,10 +47,10 @@ Use **rolling stock**: drink from the stockpile, replace what you use, keep the 
 ### Sources
 - Cabinet Office — Disaster preparedness: stockpiling water and food
   https://www.bousai.go.jp/kyoiku/keigen/gensai/index.html
-- Tokyo Waterworks — Storing tap water at home
-  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shitsu/
-- Ministry of Health, Labour and Welfare — Water supply damage and restoration reports
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/
+- Tokyo Waterworks — Storing tap water at home (くみ置く際の留意事項)
+  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shinsai/sonae/kumioki
+- Ministry of Land, Infrastructure, Transport and Tourism — Water supply: damage and restoration (water supply administration moved from the MHLW on 1 April 2024; water quality now sits with the Ministry of the Environment)
+  https://www.mlit.go.jp/mizukokudo/watersupply/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

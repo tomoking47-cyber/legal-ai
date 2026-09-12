@@ -47,8 +47,8 @@ A gift may be **politely declined once or twice** before acceptance; likewise th
 ### Sources
 - Agency for Cultural Affairs — Annual customs and lifestyle culture
   https://www.bunka.go.jp/english/
-- All Japan Gift Association — Gift-giving etiquette and seasonal customs (全日本ギフト用品協会)
-  https://www.gift.or.jp/
+- All Japan Gift Association (一般社団法人全日本ギフト用品協会) — gift-giving etiquette and seasonal customs
+  http://www.all-japan-gift.or.jp/
 - Japan National Tourism Organization — Etiquette in Japan
   https://www.japan.travel/en/guide/etiquette/
 

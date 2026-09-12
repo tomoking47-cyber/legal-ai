@@ -47,11 +47,11 @@
 
 ### 出处
 
-- 公益社团法人日本皮肤科学会「皮肤科Q&A　脚气」[公益社団法人日本皮膚科学会「皮膚科Q&A　水虫」]
-  https://www.dermatol.or.jp/qa/qa16/index.html
+- 公益社团法人日本皮肤科学会「皮肤科Q&A　癣（脚气・体癣等）」[公益社団法人日本皮膚科学会「皮膚科Q&A　白癬（水虫・たむしなど）」]
+  https://www.dermatol.or.jp/qa/qa10/index.html
 - 一般社团法人日本皮革产业联合会（JLIA）「鞋子的保养」[一般社団法人日本皮革産業連合会「靴のお手入れ」]
   https://www.jlia.or.jp/
-- 东京都保健医疗局 [東京都保健医療局]「霉菌・细菌与湿度」[カビ・細菌と湿度]
+- 东京都保健医疗局 [東京都保健医療局]「健康・舒适居住环境指针」（17领域37项指针／霉菌・尘螨对策）[健康・快適居住環境の指針]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**

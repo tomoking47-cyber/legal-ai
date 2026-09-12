@@ -19,7 +19,7 @@
 
 - 環境省的 **Warm Biz** 把有暖氣的辦公室參考溫度訂為 **20°C**，並提倡用洋蔥式穿搭取代調高暖氣。
 - 日本住宅 **以已開發國家的標準來看隔熱差**（參見暖桌一文）；冬季臥室室溫低於 **18°C** 很常見，而世界衛生組織建議基於健康考量室溫 **最低 18°C**。
-- **カイロ（kairo，暖暖包）** 每年銷量約 **15 億片**；低溫燙傷的警示同樣適用（參見熱水袋一文）。
+- **カイロ（kairo，暖暖包）** 每年銷量約 **17.5 億片**（日本カイロ工業會：**2025 年度 17.53 億片**，2024 年度 17.77 億片）；低溫燙傷的警示同樣適用（參見熱水袋一文）。
 
 > **[待核實]** Warm Biz 溫度請向環境省核對；暖暖包銷量請以業界公會數據核對；世界衛生組織的住房溫度指南。
 
@@ -46,8 +46,8 @@
 ---
 
 ### 出處
-- 環境省（Ministry of the Environment）——Warm Biz
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- 環境省（Ministry of the Environment）——Warm Biz（現於環境省的「脫碳生活（デコ活）」全國運動之下推行，該運動於 2023 年取代了 COOL CHOICE）
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/about/
 - 消費者廳（Consumer Affairs Agency）——暖暖包及取暖器具引起的低溫燙傷
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 世界衛生組織（World Health Organization）——住房與健康指南（室內溫度）

@@ -10,11 +10,11 @@ Deep-fried food is a staple of Japanese home cooking. It is also why "the hob" (
 
 | Item | Details | Source |
 |---|---|---|
-| Causes of house fires (Tokyo Fire Department) | **The hob ranks 1st or 2nd every year** (alongside arson and cigarettes) | Tokyo Fire Department fire statistics |
+| Causes of building fires (nationwide, 2024) | **The hob is the single largest cause (2,768 fires, 13.2%)**. For house fires specifically, cigarettes are the largest cause and the hob is also near the top | Fire and Disaster Management Agency fire statistics |
 | What hob fires involve | **"Overheated or unattended tempura oil" is the most common**. In most cases **the cook had left the kitchen** | Same |
 | Correct frying temperature | **170–180°C** (depends on the food) | — |
 | Smoke point of cooking oil | Smokes at **about 230–250°C** (refined oil); **ignites by itself at about 370°C** | Fire and Disaster Management Agency (FDMA); NITE |
-| How fast it heats | **Left on a high flame, oil can reach ignition temperature in about 10 minutes** | Same |
+| How fast it heats | **Left on a high flame, oil reaches frying temperature (about 180°C) in roughly 5 minutes, gives off white smoke at about 10 minutes and ignites at about 20–30 minutes** | Same |
 | Cooking-oil overheat prevention device ("Si sensor") | **Compulsory on every burner of gas hobs sold since 2008**. **Cuts the gas automatically at about 250°C** | Ministry of Economy, Trade and Industry (METI) |
 
 - **Si-sensor hobs hold the oil temperature in deep-fry mode and cut the flame if it overheats.** **Older hobs and portable cassette-gas stoves do not have this function.**
@@ -40,7 +40,7 @@ Deep-fried food is a staple of Japanese home cooking. It is also why "the hob" (
 
 ## Misunderstanding 5｜Fire extinguishers are for businesses, not homes
 
-**A household fire extinguisher rated for oil fires, or an aerosol-type extinguisher**, costs a few thousand yen, and the fire service's advice is **one in the kitchen**. Check the **expiry date (usually 5–10 years)**.
+**A household fire extinguisher rated for oil fires, or an aerosol-type extinguisher**, costs a few thousand yen, and the fire service's advice is **one in the kitchen**. Check the **expiry date (about 5 years for a household extinguisher, about 3 years for an aerosol-type unit, and a standard design service life of 10 years for a commercial extinguisher)**.
 
 ---
 

@@ -45,7 +45,7 @@
 ---
 
 ### 출처
-- 후생노동성(Ministry of Health, Labour and Welfare) — 대여 오시보리 위생 관리 지침(貸おしぼりの衛生等管理要領)
+- 후생노동성(Ministry of Health, Labour and Welfare) — 대여 오시보리의 위생 확보에 관하여(貸おしぼりの衛生確保について、昭和57年11月16日環指第157号), 「貸おしぼり衛生自主管理要領」을 정한 통지
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
 - 전국오시보리협동조합연합회(Japan Oshibori Association, 全国おしぼり協同組合連合会)
   http://www.kasiosibori.or.jp/

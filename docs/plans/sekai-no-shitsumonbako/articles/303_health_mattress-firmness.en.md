@@ -10,7 +10,7 @@ The belief that "a hard mattress is good for your back" is especially deep-roote
 
 | Item | Detail |
 |---|---|
-| Research | A widely cited randomised trial (Kovacs et al., *Lancet* 2003) found a **medium-firm** mattress better than a firm one for pain and sleep quality in patients with back pain |
+| Research | A widely cited randomised trial (Kovacs et al., *Lancet* 2003) found a **medium-firm** mattress better than a firm one for **pain (in bed and on rising) and disability** in patients with back pain |
 | Guide | **No gap under the lower back and back when lying on your back**; **spine parallel to the floor when lying on your side**; **easy to turn over** |
 | Body weight | **Lighter people tend to suit a softer mattress**, **heavier people a firmer one**, in terms of how far the body sinks |
 | Sleeping position | **Side sleepers need enough softness for the shoulder and hip to sink**; **back sleepers, slightly firmer** |

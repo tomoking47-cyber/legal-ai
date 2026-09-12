@@ -19,9 +19,9 @@ A tub of fermenting rice bran in the kitchen, stirred daily by hand, turning cuc
 | Signs | **White surface film = yeast (stir in or remove)**; **pink, green or black spots = mould (remove with margin, or discard)**; **alcohol smell = over-fermented (add salt, stir, rest)** |
 
 - Nuka-zuke are **lacto-fermented**; unlike shallow pickles, they carry live bacteria, and the bran adds **B vitamins** to the vegetable surface.
-- **Salt** in the finished pickle is about **2–3%**; a few slices are a side dish, not a salad.
+- **Salt** in the finished pickle is higher than people assume — the food composition tables give **about 5.3 g per 100 g for cucumber nuka-zuke and 3.8 g for daikon**; a few slices are a side dish, not a salad.
 - The bed's **taste changes with the house** — the household's hands, kitchen temperature and vegetables — which is why old beds are treated as heirlooms. Some sold beds claim origins of **100+ years**.
-- **Regulation**: home pickling is unregulated; **commercial pickle production requires a licence since 2021** (see the pickles article).
+- **Regulation**: pickling for your own household is unregulated; **commercial pickle production has required a business licence (漬物製造業許可) since June 2021, and the three-year grace period ended on 31 May 2024** — from 1 June 2024 an unlicensed maker can no longer produce or sell, and HACCP-based hygiene management applies (see the pickles article).
 
 > **[Verify]** Salt ratios and times are traditional ranges; food-safety guidance with MHLW's pickle hygiene standards.
 
@@ -50,8 +50,8 @@ The fridge made it urban. **Ready-made beds in resealable bags** are sold in sup
 ### Sources
 - Ministry of Agriculture, Forestry and Fisheries — Japanese fermented foods and regional pickles (和食文化・漬物)
   https://www.maff.go.jp/j/keikaku/syokubunka/
-- Ministry of Health, Labour and Welfare — Hygiene standards for pickles (漬物の衛生規範)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
+- Ministry of Health, Labour and Welfare — HACCP-based hygiene management and the pickle manufacturing licence under the revised Food Sanitation Act (the former 漬物の衛生規範 was abolished on 1 June 2021)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/
 - MEXT — Standard Tables of Food Composition in Japan (pickles: sodium)
   https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
 

@@ -10,7 +10,7 @@ Frozen food consumption keeps rising in Japanese homes, and the same questions c
 
 | Item | Detail | Source |
 |---|---|---|
-| Definition of frozen food | **Pre-processed, quick-frozen, stored and distributed at −18°C or below**, and **packaged** | Japan Frozen Food Association; Food Sanitation Act |
+| Definition of frozen food | **Pre-processed, quick-frozen, stored and distributed at −18°C or below**, and **packaged**. **The −18°C line is the Japan Frozen Food Association's and Codex's (the international standard) criterion; the Food Sanitation Act's storage standard is −15°C or below** | Japan Frozen Food Association (the Food Sanitation Act's storage standard is −15°C or below) |
 | Home freezers | The target is **around −18°C**, but **the temperature swings with every opening** and **the door side is warmer** | Association for Electric Home Appliances |
 | Best-before date (賞味期限, shōmi-kigen) | **Unopened and kept at −18°C or below: the date on the pack (usually 1 to 1.5 years).** **Once opened, use within about a month** (drying, oxidation) | Japan Frozen Food Association |
 | Frost and freezer burn | **Frost inside the bag = the temperature rose and it refroze, or moisture got in when opened.** **White, dry patches = freezer burn.** **Safe to eat, but quality is lower** | Same |
@@ -19,7 +19,7 @@ Frozen food consumption keeps rising in Japanese homes, and the same questions c
 | Microwave | **Follow the wattage and time on the pack.** **A cold centre means it is under-heated** (a cause of food poisoning) | Same |
 | Getting it home | **Buy frozen items last, use an insulated bag and put them straight in the freezer.** **In summer the surface thaws within 30 minutes** | Same |
 
-- Japan's **domestic consumption of frozen food is about 2.9 million tonnes a year (2023), roughly 23 kg per person**, and rising (Japan Frozen Food Association).
+- Japan's **domestic consumption of frozen food reached about 3.03 million tonnes in 2025, topping 3 million tonnes for the first time since records began, and about 24.6 kg per person**, an all-time high (Japan Frozen Food Association, preliminary figures released April 2026).
 - **Food poisoning from frozen food** is mainly caused by **under-heating.** Cases have been reported where **products labelled "heat before eating" were eaten after thawing only.**
 - **Home freezing** (batch-cooked meals, meat, vegetables) is **not quick-frozen, so quality declines faster: 2–3 weeks to a month** is the guide (see the article on freezing tips).
 

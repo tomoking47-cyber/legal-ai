@@ -34,7 +34,7 @@ Chopsticks are the part of Japanese table manners visitors worry about most and 
 | Noodles | **Slurping is normal**; it cools and aerates |
 | After | Chopsticks **on the rest (hashioki) or back in the wrapper**, parallel; **"Gochisōsama deshita"** to the cook or staff |
 
-- Japan uses about **20 billion disposable chopsticks a year** (about 97% imported); reusable chopsticks are the household norm, each person with **their own pair**.
+- Japan uses roughly **14 billion pairs of disposable chopsticks a year** — down from about 25 billion pairs at the peak — and **about 97% are imported**, almost all from China; reusable chopsticks are the household norm, each person with **their own pair**.
 - **Children learn from about age 3** with training chopsticks; **holding them near the tip** is considered poor form, **about a third from the top** is standard.
 
 > **[Verify]** Consumption figures with the Forestry Agency's wood-use statistics; the etiquette is conventional.

@@ -18,7 +18,7 @@ Jet lag is a shared complaint among international travellers, and the time diffe
 | Naps | **Early afternoon, 30 minutes or less**. Long naps slow the adjustment |
 
 - The MHLW *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] describes **morning light and regular meal and waking times** as the basis for adjusting the body clock.
-- **Melatonin** is **classed as a medicine in Japan** (only a prescription product for children is approved) and **is not sold as a supplement in Japan.** If you bring melatonin bought abroad, personal-import rules apply, such as a limit of **up to two months' supply** (see our article on bringing medicines into Japan).
+- **Melatonin** is **classed as a medicine in Japan** (only a prescription product for children is approved) and **is not sold as a supplement in Japan.** If you bring melatonin bought abroad, personal-import rules limit the quantity: the usual guide is **one month's supply for anything classed as a prescription medicine and two months' supply for other medicines** (see our article on bringing medicines into Japan).
 
 > **[Verify]** The speed of body-clock adjustment is a general statement from sleep medicine. Check the status of melatonin in Japan against MHLW documents.
 
@@ -48,8 +48,8 @@ What matters is **matching your sleep to the destination's time**; **simply slee
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
-- Ministry of Health, Labour and Welfare, e-Health Net, "The body clock" [体内時計]
-  https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
+- Ministry of Health, Labour and Welfare, e-Health Net, "The body clock" (keyword entry) [体内時計]
+  https://www.e-healthnet.mhlw.go.jp/information/keywords/biological-clock
 - Ministry of Health, Labour and Welfare, "Personal import of medicines" [医薬品の個人輸入について] (melatonin and others)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/index.html
 

@@ -45,7 +45,7 @@
 ---
 
 ### 出處
-- 厚生勞動省（Ministry of Health, Labour and Welfare）——出租おしぼり的衛生管理指導（貸おしぼりの衛生等管理要領）
+- 厚生勞動省（Ministry of Health, Labour and Welfare）——關於確保出租おしぼり衛生的通知（貸おしぼりの衛生確保について、昭和57年11月16日環指第157号），其中訂有「貸おしぼり衛生自主管理要領」
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
 - 全國おしぼり協同組合連合會（Japan Oshibori Association，全国おしぼり協同組合連合会）
   http://www.kasiosibori.or.jp/

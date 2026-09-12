@@ -47,11 +47,11 @@ Bacteria stay **between the toes, around the nails and in the hard skin on the h
 
 ### Sources
 
-- Japanese Dermatological Association, "Dermatology Q&A: athlete's foot" [公益社団法人日本皮膚科学会「皮膚科Q&A　水虫」]
-  https://www.dermatol.or.jp/qa/qa16/index.html
+- Japanese Dermatological Association, "Dermatology Q&A: tinea (athlete's foot, ringworm and the like)" [公益社団法人日本皮膚科学会「皮膚科Q&A　白癬（水虫・たむしなど）」]
+  https://www.dermatol.or.jp/qa/qa10/index.html
 - Japan Leather and Leather Goods Industries Association (JLIA), "Shoe care" [一般社団法人日本皮革産業連合会「靴のお手入れ」]
   https://www.jlia.or.jp/
-- Tokyo Metropolitan Bureau of Public Health and Medical Services, "Mould, bacteria and humidity" [東京都保健医療局「カビ・細菌と湿度」]
+- Tokyo Metropolitan Bureau of Public Health and Medical Services, "Guidelines for a healthy and comfortable living environment" (37 guidelines in 17 fields; mould and mite control) [東京都保健医療局「健康・快適居住環境の指針」]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

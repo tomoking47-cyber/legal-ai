@@ -12,7 +12,7 @@ Since 2020 alcohol sanitiser has been part of everyday life in Japan — there i
 |---|---|---|
 | Basics | Wash **with running water and soap for about 30 seconds** | MHLW |
 | Where sanitiser fits | A means for **when you cannot wash.** **If there is visible dirt, wash** | Same |
-| Alcohol concentration | **60–95% (around 70% is the guide).** **Wet hands dilute it** | Same, WHO |
+| Alcohol concentration | **60% or more is regarded as effective, and the WHO's recommended formulation is 80 vol% ethanol (the disinfectant ethanol of the Japanese Pharmacopoeia is 76.9–81.4 vol%).** **Wet hands dilute it** | MHLW, WHO |
 | Method | **A generous amount in the palm (a 500-yen coin's worth); rub over the whole hand until dry (15–30 seconds).** **Do not wipe it off** | Same |
 | Sore hands | **Alcohol strips sebum; repeated use leads to dryness and cracking.** **Products with added moisturisers**, and **moisturising after sanitising** | Dermatology |
 | Category | **Alcohol hand sanitiser is a "medicine" (医薬品) or a "quasi-drug" (designated quasi-drug, 指定医薬部外品 — a Japanese category between cosmetics and medicines).** **Different from general goods labelled "除菌" (anti-bacterial)** | MHLW |

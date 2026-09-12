@@ -14,7 +14,7 @@
 | **Static stretching** | No bouncing; **hold at the point where it feels like a pleasant stretch** | **After exercise, after a bath, before bed** | **20–30 seconds per spot**, 2–3 times |
 | Radio calisthenics (*rajio taisō*) | Includes dynamic and static elements | Morning, work breaks | About 3 min for No. 1 |
 
-- The MHLW **Physical Activity and Exercise Guide for Health Promotion 2023** [健康づくりのための身体活動・運動ガイド2023] recommends **varied physical activity including flexibility exercises**, and **balance exercises for older people**.
+- The MHLW **Physical Activity and Exercise Guide for Health Promotion 2023** [健康づくりのための身体活動・運動ガイド2023] recommends that **older people do multicomponent exercise — combining aerobic exercise, strength training, balance exercise and flexibility exercise — on 3 or more days a week**.
 - Many studies find that **long static stretching before exercise can temporarily reduce strength and explosive power straight afterwards**. Guidance from the Japan Sports Agency and the Japan Sport Association also makes **a (dynamic) warm-up** the basic step before exercise.
 - The usual guide for **holding a static stretch is 20–30 seconds**; **longer is not better**.
 
@@ -45,9 +45,9 @@ Several studies find that **with continued practice, range of motion improves at
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
-- Japan Sports Agency, "Guidelines for sports participation" [スポーツ実施のためのガイドライン]
-  https://www.mext.go.jp/sports/
+  https://www.mhlw.go.jp/content/001194020.pdf
+- Japan Sports Agency, "Action Plan for Raising Sports Participation Rates" [スポーツ実施率向上のための行動計画]
+  https://www.mext.go.jp/sports/b_menu/shingi/001_index/bunkabukai002/gaiyou/1408811.htm
 - Japan Sport Association, "Preventing heatstroke and injury during sports activities" [スポーツ活動中の熱中症予防・傷害予防]
   https://www.japan-sports.or.jp/
 

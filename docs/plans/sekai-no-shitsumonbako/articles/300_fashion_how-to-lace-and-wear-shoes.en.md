@@ -48,7 +48,7 @@ It **restricts blood flow, causing numbness and cold feet.** **Room for one fing
 
 ### Sources
 
-- Japanese Society for Footwear Medicine, "Choosing and wearing shoes correctly" [一般社団法人日本靴医学会「正しい靴の選び方・履き方」]
+- Japanese Society for Footwear Medicine, "Choosing and wearing shoes correctly" [日本靴医学会「正しい靴の選び方・履き方」]
   https://kutsuigaku.com/q-and-a/choice.html
 - Japanese Orthopaedic Association, "Hallux valgus (bunions)" [公益社団法人日本整形外科学会「外反母趾」]
   https://www.joa.or.jp/public/sick/
