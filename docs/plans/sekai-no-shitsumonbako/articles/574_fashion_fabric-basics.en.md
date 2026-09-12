@@ -55,7 +55,7 @@ The label says "綿65% ポリエステル35%" (cotton 65%, polyester 35%) or jus
 
 ## Misunderstanding 4｜Wool can't go in the washing machine
 
-**If the label shows a hand-wash symbol, you can wash it on a delicates cycle.** Shrinkage comes from friction and heat; a gentle cycle in cool water is fine.
+**If the label shows a washing-machine symbol with a bar underneath (a gentle machine wash), you can use the delicates or wool cycle with a detergent for delicates.** A hand-wash symbol on its own means no machine washing. Shrinkage comes from friction and heat; a gentle cycle in cool water is fine.
 
 ## Misunderstanding 5｜Stretch fabrics stretch, so they last longer
 

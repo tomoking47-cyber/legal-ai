@@ -49,8 +49,8 @@
 
 ### 出典
 
-- 日本皮膚科学会「アトピー性皮膚炎診療ガイドライン2021」（スキンケア・保湿）
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
+- 日本皮膚科学会・日本アレルギー学会「アトピー性皮膚炎診療ガイドライン2024」（スキンケア・保湿）
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2024.pdf
 - 日本皮膚科学会「皮膚科Q&A：乾燥肌・皮脂欠乏症」
   https://www.dermatol.or.jp/qa/
 - 日本化粧品工業会「化粧品の効能の範囲（56項目）と表示ルール」

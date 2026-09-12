@@ -62,7 +62,7 @@
 
 - 環境省《花粉症環境保健手冊》[花粉症環境保健マニュアル]（衣物上的附著、生活上的對策）
   https://www.env.go.jp/chemi/anzen/kafun/manual.html
-- 環境省《花粉觀測系統（はなこさん）／花粉飛散資訊》[花粉観測システム（はなこさん）／花粉飛散情報]
+- 環境省《花粉飛散狀況・花粉症相關資訊》[花粉飛散状況・花粉症に関する情報]（飛散預測與生活上的注意事項）
   https://www.env.go.jp/chemi/anzen/kafun/
 - 厚生勞動省《花粉症的對策：生活中能做的事》[花粉症の対策：生活の中でできること]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kafun/

@@ -1252,3 +1252,7 @@
 540,fashion,540_fashion_washing-new-clothes-before-wearing.md,「海外サイト直送の個人輸入品は家庭用品規制法の検査を経ていない」という同法の適用範囲（販売業者規制と個人輸入の関係）。,jr_089,,,
 540,fashion,540_fashion_washing-new-clothes-before-wearing.md,ホルムアルデヒド規制値「乳幼児（24か月以下）は検出されないこと＝16ppm以下」「大人用の肌着等は75ppm以下」の現行条文・告示。,jr_089,,,
 540,fashion,540_fashion_washing-new-clothes-before-wearing.md,出典「日本皮膚科学会 接触皮膚炎診療ガイドライン 2020」に2021年以降の改訂版が出ていないか。PDFのURLが現行のものか。,jr_089,,,
+252,trend,252_trend_storing-yogurt.md,出典「消費者庁『乳及び乳製品の成分規格等に関する命令（乳等命令）』」のURLが厚生労働省（mhlw.go.jp）のまま。2024年4月1日に食品衛生基準行政が消費者庁へ移管されており、消費者庁側の正しいURLに差し替えが必要,最終整合パス,,,
+537,fashion,537_fashion_non-iron-shirts.md,出典「厚生労働省『家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）』」のURLが消費者庁（caa.go.jp）。所管（厚労省か消費者庁か）を確定し、機関名とURLを一致させる必要がある,最終整合パス,,,
+521,beauty,521_beauty_skincare-during-pregnancy.md,出典を「厚生労働省『妊娠と薬情報センター』」としているが、URLは国立成育医療研究センター（ncchd.go.jp）。表記主体の確定が必要,最終整合パス,,,
+548,health,548_health_house-dust-allergy.md,出典を「厚生労働省『アレルギーポータル』」としているが、URLは allergyportal.jp（日本アレルギー学会が運営）。運営主体の表記を確定する必要がある,最終整合パス,,,

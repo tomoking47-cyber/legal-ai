@@ -12,7 +12,7 @@ Around 2015 a hard, chalky slab replaced the towelling bath mat in many Japanese
 |---|---|
 | **Material** | **Diatomaceous earth (keisōdo)** — fossilised diatom shells, porous silica — pressed with binders into a board. **Absorbs water instantly by capillary action, then evaporates it** |
 | **Why people liked it** | No wet towelling mat, **no washing**, fast drying, no smell, lasts **2–3 years** |
-| **The 2020–2021 recall** | **Asbestos was found in some products** (mats, coasters, spoons) sold by **Nitori, Cainz, Nafco, Canon-related brands and others**; the earth had been mixed with asbestos-containing material at overseas factories. Retailers published **lot numbers and product lists**, offered **refunds and collection**. Ministry of Health, Labour and Welfare guidance: **do not sand, cut or break** a suspect product; **wrap and return** |
+| **The 2020–2021 recall** | **Asbestos was found in some products** (mats, coasters, spoons) sold by **Nitori, Cainz, Shimachu, Iris Ohyama and other retailers and makers**; the earth had been mixed with asbestos-containing material at overseas factories. Retailers published **lot numbers and product lists**, offered **refunds and collection**. Ministry of Health, Labour and Welfare guidance: **do not sand, cut or break** a suspect product; **wrap and return** |
 | **Risk in practice** | Asbestos is hazardous when **fibres become airborne** — from **sanding, cutting or breaking**. **An intact mat used as a mat** does not release fibres; the concern was people **sanding recalled mats to restore absorbency** |
 | **Now** | Products sold in Japan carry **"asbestos not detected" test claims**; the **Industrial Safety and Health Act** bans asbestos-containing products above 0.1% |
 

@@ -62,7 +62,7 @@
 
 - 환경성 《꽃가루 알레르기 환경보건 매뉴얼》 [花粉症環境保健マニュアル](의류에의 부착, 생활상의 대책)
   https://www.env.go.jp/chemi/anzen/kafun/manual.html
-- 환경성 《꽃가루 관측 시스템(하나코상)／꽃가루 비산 정보》 [花粉観測システム（はなこさん）／花粉飛散情報]
+- 환경성 《꽃가루 비산 상황·꽃가루 알레르기 관련 정보》 [花粉飛散状況・花粉症に関する情報] (비산 예측과 생활상의 주의)
   https://www.env.go.jp/chemi/anzen/kafun/
 - 후생노동성 《꽃가루 알레르기 대책: 생활 속에서 할 수 있는 일》 [花粉症の対策：生活の中でできること]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kafun/

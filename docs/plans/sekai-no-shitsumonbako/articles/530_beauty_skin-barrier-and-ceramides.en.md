@@ -49,8 +49,8 @@ Not a day goes by in Japan without a cosmetics advert saying "supports the barri
 
 ### Sources
 
-- Japanese Dermatological Association, "Atopic Dermatitis Clinical Guidelines 2021" [アトピー性皮膚炎診療ガイドライン2021] (skincare and moisturising)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
+- Japanese Dermatological Association and Japanese Society of Allergology, "Atopic Dermatitis Clinical Guidelines 2024" [アトピー性皮膚炎診療ガイドライン2024] (skincare and moisturising)
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2024.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: dry skin and asteatosis" [皮膚科Q&A：乾燥肌・皮脂欠乏症]
   https://www.dermatol.or.jp/qa/
 - Japan Cosmetic Industry Association, "The scope of cosmetic efficacy claims (56 items) and labelling rules" [化粧品の効能の範囲（56項目）と表示ルール]

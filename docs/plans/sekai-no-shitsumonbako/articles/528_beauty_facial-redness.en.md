@@ -13,7 +13,7 @@ Redness on the cheeks and nose that will not go away; a face that turns crimson 
 | **Constitution — vessels show through, temperature changes** | Goes red at once with heat, cold or nerves. **Fades when you cool down.** Common in people with thin or fair skin | Avoid temperature swings (loosen your scarf before walking into a heated room, for example), low-irritation skincare. **Green-tinted primer** to cancel the colour |
 | **Dryness, weakened barrier (sensitive skin)** | Flakiness, stinging, toner stings | **Wash no more than twice a day, lukewarm water, no rubbing**, **moisturiser (ceramides etc.)**, **sunscreen.** Do not add new products |
 | **Irritation from skincare** | Started after a scrub, peel, high-strength vitamin C, retinol or a high-alcohol toner | **Stop that product and watch for 2–4 weeks.** If it does not settle, see a clinic |
-| **Rosacea (酒さ, shusa)** | **Persistent redness in the centre of the cheeks, nose, chin and forehead**, **flushing**, **visible fine vessels**, **acne-like bumps** (pustules). **Common in women in their 30s to 50s.** Worsened by **sun, alcohol, spicy food, hot baths and stress** | **Dermatology clinic.** Japan published **rosacea clinical guidelines in 2023**; **topical drugs (metronidazole, ivermectin) and oral drugs** are used. Cosmetics do not settle it |
+| **Rosacea (酒さ, shusa)** | **Persistent redness in the centre of the cheeks, nose, chin and forehead**, **flushing**, **visible fine vessels**, **acne-like bumps** (pustules). **Common in women in their 30s to 50s.** Worsened by **sun, alcohol, spicy food, hot baths and stress** | **Dermatology clinic.** Japan published the **"Guidelines for the Treatment of Acne Vulgaris and Rosacea 2023"** in 2023 (it includes a chapter on rosacea); **topical drugs (metronidazole gel, ivermectin cream)** and others are used. Cosmetics do not settle it |
 | **Seborrhoeic dermatitis** | Redness and **flaking** at the **sides of the nose, between the brows and along the hairline**, itching | Dermatology clinic (antifungal or topical steroid) |
 | **Contact dermatitis (allergic reaction)** | Redness, itching and small bumps matching exactly where a product was used | Stop the product; patch test at a dermatology clinic |
 | **Long-term topical steroid use** | Redness and dilated vessels after prolonged steroid use on the face | **Do not stop on your own.** Talk to the prescribing doctor |
@@ -49,8 +49,8 @@ Redness on the cheeks and nose that will not go away; a face that turns crimson 
 
 ### Sources
 
-- Japanese Dermatological Association, "Rosacea Clinical Guidelines 2023" [酒さ診療ガイドライン 2023]
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+- Japanese Dermatological Association, "Guidelines for the Treatment of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023] (Japanese Journal of Dermatology, Vol. 133, No. 3, pp. 407-450)
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: rosacea and red face / seborrhoeic dermatitis" [皮膚科Q&A：酒さ・赤ら顔／脂漏性皮膚炎]
   https://www.dermatol.or.jp/qa/
 - Japan Cosmetic Industry Association, "Using cosmetics correctly: for people with sensitive skin" [化粧品の正しい使い方：敏感肌の方へ]

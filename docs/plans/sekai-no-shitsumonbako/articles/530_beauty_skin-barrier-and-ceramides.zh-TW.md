@@ -49,8 +49,8 @@
 
 ### 出處
 
-- 日本皮膚科學會 [日本皮膚科学会]「異位性皮膚炎診療指引 2021」[アトピー性皮膚炎診療ガイドライン2021]（保養・保濕）
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
+- 日本皮膚科學會 [日本皮膚科学会]・日本過敏學會 [日本アレルギー学会]「異位性皮膚炎診療指引 2024」[アトピー性皮膚炎診療ガイドライン2024]（保養・保濕）
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2024.pdf
 - 日本皮膚科學會 [日本皮膚科学会]「皮膚科Q&A：乾性皮膚・皮脂缺乏症」[皮膚科Q&A：乾燥肌・皮脂欠乏症]
   https://www.dermatol.or.jp/qa/
 - 日本化妝品工業會（JCIA）[日本化粧品工業会]「化妝品效能的範圍（56 項）與標示規則」[化粧品の効能の範囲（56項目）と表示ルール]

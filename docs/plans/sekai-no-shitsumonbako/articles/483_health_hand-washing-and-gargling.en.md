@@ -4,7 +4,7 @@
 
 Japanese children are taught at school: "when you come home, wash your hands and gargle" (手洗い・うがい, tearai-ugai). Gargling with plain water as a daily habit barely exists outside Japan, and some newcomers doubt it does anything. Here we separate the evidence for each habit, and the way of doing them that actually works.
 
-## A. Hand-washing is the method with the most solid evidence for preventing infection. Rubbing with soap for 30 seconds (palms, backs, between the fingers, thumbs, fingertips, wrists) followed by 15 seconds under running water reduced the viruses on the hands to about 1/10,000 in an experiment. For gargling, a Japanese study reported that "water gargling" cut the onset of colds by about 36%, while gargling with an iodine solution made no difference. The current summary is: wash your hands without fail; gargling with water "when you get home" is worth doing. Alcohol sanitiser is a substitute for when you cannot wash, and works poorly against norovirus.
+## A. Hand-washing is the method with the most solid evidence for preventing infection. In an experiment, **soap for 10 seconds plus 15 seconds under running water** cut the viruses on the hands to **about 1/10,000**, and repeating that twice cut them to about 1/1,000,000 (the recommended routine is to rub with soap for 30 seconds, then rinse for 15 seconds). For gargling, a Japanese study reported that "water gargling" cut the onset of colds by about 36%, while gargling with an iodine solution made no difference. The current summary is: wash your hands without fail; gargling with water "when you get home" is worth doing. Alcohol sanitiser is a substitute for when you cannot wash, and works poorly against norovirus.
 
 ## Evidence and figures
 

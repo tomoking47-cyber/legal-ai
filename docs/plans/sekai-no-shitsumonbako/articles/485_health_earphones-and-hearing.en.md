@@ -4,7 +4,7 @@
 
 On commuter trains in Japan's cities, most people are wearing earphones. The WHO warns that "about 1.1 billion young people worldwide are at risk of hearing loss", and loud music is the main cause. Noise-induced hearing loss does not come back once it has progressed, so it is worth knowing, in numbers, "at what volume, and for how many hours".
 
-## A. The guide is the 60/60 rule — "no more than 60% of maximum volume, for up to 60 minutes a day" — or the WHO standard, "at 80 dB, up to 40 hours a week". At 100 dB (loud enough that you can no longer hear anything around you on a train), the limit is 15 minutes a week. If you cannot hear conversation around you, your ears ring when you take the earphones out, or the person next to you can hear your music — each of these is a sign the volume is too high. The practical fix is to cut surrounding noise with noise-cancelling or in-ear (canal-type) earphones, and turn the volume down by the same amount.
+## A. The guide is the 60/60 rule — "no more than 60% of maximum volume, for up to 60 minutes a day" — or the WHO standard, "at 80 dB, up to 40 hours a week". At 100 dB (loud enough that you can no longer hear anything around you on a train), the limit is about 25 minutes a week. If you cannot hear conversation around you, your ears ring when you take the earphones out, or the person next to you can hear your music — each of these is a sign the volume is too high. The practical fix is to cut surrounding noise with noise-cancelling or in-ear (canal-type) earphones, and turn the volume down by the same amount.
 
 ## Volume and time guides (WHO/ITU 2019 standard)
 
@@ -16,7 +16,7 @@ On commuter trains in Japan's cities, most people are wearing earphones. The WHO
 | **89 dB** | — | 5 hours |
 | **92 dB** | — | 2.5 hours |
 | **95 dB** | An underground platform | **75 minutes** |
-| **100 dB** | A live-music venue, earphones near maximum volume | **15 minutes** |
+| **100 dB** | A live-music venue, earphones near maximum volume | **About 25 minutes** |
 | **110 dB** | A car horn at close range | **1–2 minutes** |
 
 - **Every 3 dB up doubles the sound energy**, and halves the allowable time. This is why "turning it up just a little" makes a big difference.

@@ -14,7 +14,7 @@ Every autumn, clinics in Japan start taking bookings for flu vaccinations. The s
 | **How long it lasts** | **About 5 months** (varies between people) |
 | **Recommended timing** | **Mid-October to early December**. The season runs **December–March**, peaking **late January–February** |
 | **Number of doses** | **Age 13 and over: 1 dose**. **6 months to under 13: 2 doses (2–4 weeks apart)** |
-| **Cost** | Voluntary vaccination, about **¥3,000–5,000** (varies by clinic). **Age 65 and over: routine vaccination** with a municipal subsidy (co-payment often about ¥1,000–2,500) |
+| **Cost** | Voluntary vaccination, about **¥3,000–5,000** (varies by clinic). **Age 65 and over, and age 60–64 with severe impairment of heart, kidney or respiratory function or immune impairment due to HIV: routine vaccination** with a municipal subsidy (the co-payment ranges from free to about ¥2,500 depending on the municipality) |
 | **Effectiveness** | **Protection against falling ill is around 40–60% depending on the year** (varies with how well the vaccine matches the circulating strain). **Protection against severe illness, hospital admission and death** is more stable. One report puts the reduction in death risk in care homes for older people at **about 80%** |
 | **Side effects** | **Redness, swelling and pain at the injection site (10–20%)**, **fever and tiredness (5–10%)**, mostly settling within 2–3 days. **Anaphylaxis is rare** |
 | **Who cannot have it / who should ask first** | **A fever of 37.5°C (99.5°F) or higher**, **a serious acute illness**, **a strong allergic reaction in the past**. Egg allergy: most people can still be vaccinated (ask the doctor) |
@@ -25,7 +25,7 @@ Every autumn, clinics in Japan start taking bookings for flu vaccinations. The s
 |---|---|
 | **Who qualifies for routine vaccination** | **Age 65 and over**; **age 60–64 with severe impairment of heart, kidney or respiratory function, or immune impairment due to HIV** |
 | **Timing** | **Autumn–winter (October to March, depending on the municipality)**, **once a year** |
-| **Cost** | **A co-payment in principle (free to about ¥7,000, depending on the municipality)**. **Those outside the scheme pay the full cost as a voluntary vaccination (around ¥15,000)** |
+| **Cost** | **A co-payment in principle; the amount varies by municipality and by fiscal year** (in fiscal 2024, when national support was in place, about ¥7,000 was common; after that support was scaled back, some municipalities moved to around ¥10,000). **Those outside the scheme pay the full cost as a voluntary vaccination (around ¥15,000)** |
 | **Same-day vaccination** | **Can be given on the same day as the flu vaccine** (same day, different site) |
 | **Approach** | Focus is on **preventing severe illness**. **Updated every year to match the circulating strain** |
 
@@ -66,8 +66,8 @@ Every autumn, clinics in Japan start taking bookings for flu vaccinations. The s
   https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou01/qa.html
 - MHLW, "Routine COVID-19 vaccination (fiscal 2024 onwards)" [新型コロナワクチンの定期接種について（2024年度以降）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/vaccine_00184.html
-- National Institute of Infectious Diseases, "Research on the effectiveness of influenza vaccines" [インフルエンザワクチンの有効性に関する研究]
-  https://www.niid.go.jp/niid/ja/flu-m/
+- Japan Institute for Health Security (JIHS) [国立健康危機管理研究機構], formed in April 2025 by merging the National Institute of Infectious Diseases with the National Center for Global Health and Medicine, "Influenza" [インフルエンザ] (identify the URL of the relevant page before publication)
+  https://www.jihs.go.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

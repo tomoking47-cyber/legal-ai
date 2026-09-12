@@ -4,7 +4,7 @@
 
 In Japan's national health survey, constipation ranks near the top of self-reported symptoms among women, and laxatives are a year-round staple of drugstore (Matsumoto Kiyoshi, Welcia, etc.) shelves. Many people believe "if I do not go every day, I am constipated", or take a stimulant laxative every day. There is a lot here worth looking at again.
 
-## A. Medically, constipation is judged not by "how often" but by the state of things: hard stools, difficulty passing them, a feeling that some remains. Change things in this order: ① eat breakfast to set off the bowel reflex, ② keep 5 minutes after breakfast to sit on the toilet, ③ increase dietary fibre (target 21 g a day for men, 18 g for women) and fluids, ④ on the toilet, use a footstool so your knees are higher than your hips, ⑤ walk. OTC stimulant laxatives (senna, bisacodyl and the like) are for "occasional" use as a rule; taken daily, they become less effective. Blood in the stool, weight loss, or constipation that starts suddenly after 50: see a doctor before changing your habits.
+## A. Medically, constipation is judged not by "how often" but by the state of things: hard stools, difficulty passing them, a feeling that some remains. Change things in this order: ① eat breakfast to set off the bowel reflex, ② keep 5 minutes after breakfast to sit on the toilet, ③ increase dietary fibre (target 22 g a day for men, 18 g for women) and fluids, ④ on the toilet, use a footstool so your knees are higher than your hips, ⑤ walk. OTC stimulant laxatives (senna, bisacodyl and the like) are for "occasional" use as a rule; taken daily, they become less effective. Blood in the stool, weight loss, or constipation that starts suddenly after 50: see a doctor before changing your habits.
 
 ## The basics of constipation and daily guides
 
@@ -12,7 +12,7 @@ In Japan's national health survey, constipation ranks near the top of self-repor
 |---|---|
 | **Definition (clinical practice guideline)** | "A state in which stool that should be passed cannot be passed in sufficient quantity and comfortably." **Frequency is not part of the definition** |
 | **How many people** | In the Comprehensive Survey of Living Conditions, **about 3–4% of the population** report constipation; **about twice as many women as men**; **a sharp rise over 70** |
-| **Dietary fibre target** | **Adult men 21 g or more, women 18 g or more per day** (Dietary Reference Intakes for Japanese, 2025 edition). Actual average intake is **about 14–15 g**, so short |
+| **Dietary fibre target** | **Adult men 22 g or more (ages 30–64; 21 g or more for ages 65–74), women 18 g or more per day** (Dietary Reference Intakes for Japanese, 2025 edition). Actual intake is a **median of 13.3 g** among adults, so short |
 | **Fluids** | **Around 1.2 L** besides meals. **A glass of water right after waking** can start the bowel moving |
 | **Bowel reflex** | Most likely **within 30 minutes after breakfast**. Making a habit of sitting on the toilet at this time is the first move |
 | **Sitting position** | **Knees higher than the hips, leaning forward** (use a footstool): the rectum straightens and stool passes more easily |
@@ -59,7 +59,7 @@ In Japan's national health survey, constipation ranks near the top of self-repor
 ### Sources
 
 - Japanese Society of Gastroenterology [日本消化管学会], *Evidence-based clinical practice guidelines for bowel dysfunction 2023: chronic constipation* [便通異常症診療ガイドライン2023 慢性便秘症]
-  https://www.jsgs-ns.jp/
+  https://jpn-ga.or.jp/
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre targets)
   https://www.mhlw.go.jp/stf/newpage_44138.html
 - Ministry of Health, Labour and Welfare, *Comprehensive Survey of Living Conditions* [国民生活基礎調査] (rate of reported symptoms: constipation)

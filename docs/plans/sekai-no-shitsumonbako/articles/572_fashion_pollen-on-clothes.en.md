@@ -62,7 +62,7 @@ If you have hay fever (花粉症, kafunshō — in Japan mainly from cedar and c
 
 - Ministry of the Environment, "Hay Fever Environmental Health Manual" [花粉症環境保健マニュアル] (pollen on clothing, everyday measures)
   https://www.env.go.jp/chemi/anzen/kafun/manual.html
-- Ministry of the Environment, "Pollen observation system (Hanako-san) / pollen dispersal information" [花粉観測システム（はなこさん）／花粉飛散情報]
+- Ministry of the Environment, "Pollen dispersal conditions and hay fever information" [花粉飛散状況・花粉症に関する情報] (dispersal forecasts and everyday precautions)
   https://www.env.go.jp/chemi/anzen/kafun/
 - Ministry of Health, Labour and Welfare, "Hay fever measures: what you can do in daily life" [花粉症の対策：生活の中でできること]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kafun/

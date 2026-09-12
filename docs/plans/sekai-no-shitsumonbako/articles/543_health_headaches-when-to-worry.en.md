@@ -4,7 +4,7 @@
 
 Headaches are generally described as a chronic problem for one in three or four people in Japan, and over-the-counter painkillers are a mainstay of every drugstore (Matsumoto Kiyoshi, Welcia, etc.). Most are "primary headaches" (migraine and tension-type headache) that do not threaten life, but occasionally a headache caused by a brain condition is mixed in. Here is how to tell them apart, and what to watch when using painkillers.
 
-## A. Most headaches are either migraine (throbbing, light and sound hurt, worse with movement, 4–72 hours) or tension-type headache (a tight, squeezing feeling, comes with stiff shoulders, not worse with movement), and can be handled with rest and over-the-counter medicines. But a sudden, severe headache unlike any you have had before (peaking within seconds to a minute); fever with a stiff neck; numbness in the limbs, trouble getting words out or clouded consciousness; a first-ever headache after age 50; a headache after a blow to the head; a headache that worsens day by day — these are danger signs and need emergency care. The other trap is "medication-overuse headache": take painkillers on 10 or more days a month for three months and the medicine itself becomes the cause of the headache. If your over-the-counter use passes 10 days a month, go to a headache clinic (頭痛外来, zutsū gairai).
+## A. Most headaches are either migraine (throbbing, light and sound hurt, worse with movement, 4–72 hours) or tension-type headache (a tight, squeezing feeling, comes with stiff shoulders, not worse with movement), and can be handled with rest and over-the-counter medicines. But a sudden, severe headache unlike any you have had before (peaking within seconds to a minute); fever with a stiff neck; numbness in the limbs, trouble getting words out or clouded consciousness; a first-ever headache after age 50; a headache after a blow to the head; a headache that worsens day by day — these are danger signs and need emergency care. The other trap is "medication-overuse headache": take painkillers on 10 or more days a month (15 or more days a month for simple painkillers such as acetaminophen) for three months and the medicine itself becomes the cause of the headache. If the number of days you take over-the-counter medicine passes 10 a month, go to a headache clinic (頭痛外来, zutsū gairai).
 
 ## Telling common headaches apart
 
@@ -64,8 +64,8 @@ Headaches are generally described as a chronic problem for one in three or four 
   https://www.jhsnet.net/guideline_GL2021.html
 - Japanese Headache Society, "List of certified headache specialists / headache clinics" [頭痛専門医リスト・頭痛外来]
   https://www.jhsnet.net/
-- Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Headache" [頭痛]
-  https://kennet.mhlw.go.jp/information/information/dictionary/
+- Japanese Society of Neurology, list of clinical practice guidelines [診療ガイドライン一覧] (includes the "Clinical Practice Guideline for Headache Disorders 2021" [頭痛の診療ガイドライン2021])
+  https://www.neurology-jp.org/guidelinem/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
