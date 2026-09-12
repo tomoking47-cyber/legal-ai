@@ -19,7 +19,7 @@ Japanese winters are not the coldest, but Japanese homes and stations are colder
 
 - The Ministry of the Environment's **Warm Biz** sets a **20°C** reference for heated offices, and promotes layering over turning up the heat.
 - Japanese homes are **poorly insulated by rich-country standards** (see the kotatsu article); indoor temperatures in winter bedrooms below **18°C** are common, and the WHO recommends **18°C minimum** for health.
-- **Kairo** (disposable heat pads) sell about **1.5 billion units a year**; the low-temperature burn warnings apply (see the hot-water-bottle article).
+- **Kairo** (disposable heat pads) sell about **1.75 billion units a year** (Japan Kairo Industry Association: **1,753 million in FY2025**, 1,777 million in FY2024); the low-temperature burn warnings apply (see the hot-water-bottle article).
 
 > **[Verify]** Warm Biz temperature with the Ministry of the Environment; kairo sales with industry association data; WHO housing temperature guidance.
 
@@ -46,8 +46,8 @@ The **"three necks"** — neck, wrists, ankles — are where Japanese layering f
 ---
 
 ### Sources
-- Ministry of the Environment — Warm Biz
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- Ministry of the Environment — Warm Biz (now run under the ministry's "Decokatsu" national campaign, which replaced COOL CHOICE in 2023)
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/about/
 - Consumer Affairs Agency — Low-temperature burns from disposable heat pads and heating devices
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - World Health Organization — Housing and health guidelines (indoor temperature)

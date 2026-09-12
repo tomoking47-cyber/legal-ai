@@ -10,7 +10,7 @@ Takeaway and delivery became part of everyday life in Japan from 2020, and with 
 
 | Item | Detail | Basis |
 |---|---|---|
-| Time at room temperature | **Eat within 2 hours** (**within 1 hour if the air temperature is 30°C or above**). Bacteria multiply **between 10 and 60°C, and fastest at 30–40°C** | MHLW, food-poisoning prevention |
+| Time at room temperature | **Eat within 2 hours** (**within 1 hour if the air temperature is 30°C or above** — the latter is the US FDA guideline). Bacteria multiply **between 10 and 60°C, and fastest at 30–40°C** | MHLW, food-poisoning prevention / US FDA |
 | Leftovers | **Refrigerate straight away (10°C or below), eat by the next day.** **Divide into small portions to cool** | Same |
 | Reheating | **75°C at the centre for at least 1 minute** (**until the whole dish is hot, stirring as you go**) | Same |
 | Never carry over | **Sashimi and raw sushi, raw vegetable salad, soft-cooked egg dishes, cream-based dishes, onigiri rice balls shaped by hand** | Same |
@@ -48,8 +48,8 @@ Check for the **"microwave-safe" mark.** **Oily dishes can exceed the container'
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Preventing food poisoning from takeaway and delivery" [テイクアウトやデリバリーの食中毒予防]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/
+- Consumer Affairs Agency, "Points to watch when using takeaway and the like: preventing food poisoning" [テイクアウト等を利用するときのポイント～食中毒を防ぐために～]
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_034/
 - Ministry of Health, Labour and Welfare (MHLW), "Institutionalisation of HACCP-based hygiene management" [HACCPに沿った衛生管理の制度化] (fully in force from June 2021)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000197196.html
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]

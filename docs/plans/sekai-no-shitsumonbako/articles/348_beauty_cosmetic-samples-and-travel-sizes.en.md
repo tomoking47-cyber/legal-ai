@@ -15,7 +15,7 @@ Decanting cosmetics into small bottles for a trip, and saving up sample sachets 
 | **Travel sizes (mini bottles)** | Made by the maker **with the same formula and container as the full size.** **Labelled (ingredients, marketing authorisation holder)** and **hygienic** |
 | **Cabin baggage (international flights)** | **Liquids, gels and aerosols in containers of 100 mL or less, in a clear bag of 1 L in total** |
 | **Cabin baggage (Japanese domestic flights)** | **No 100 mL limit** (but **aerosols are limited to 0.5 L per container, 2 L in total**) |
-| **Aerosols (spray cans)** | **Restricted on aircraft**; **cannot be posted by air mail** (see the posting article) |
+| **Aerosols (spray cans)** | **Volume limits apply on aircraft**. **Japan Post (Yu-Pack and the rest) will not accept spray cans that use flammable gas at all** (if no flammable gas is used, they can be sent with that noted in the description of contents). Some courier firms handle them by road only (see the posting article) |
 
 - The **mandatory labelling** of cosmetics (ingredients, marketing authorisation holder, expiry date, etc.) is on **the container or the outer box**, so **decanting loses the label and you may no longer know what is inside** — a problem when you need to identify an allergen.
 - Japan's **travel-size market** grew out of **frequent business and domestic travel** and **the sample culture (samples given with purchases)**, and **100-yen shops and drugstores (Matsumoto Kiyoshi, Welcia, etc.) have dedicated sections.**
@@ -37,7 +37,7 @@ Decanting cosmetics into small bottles for a trip, and saving up sample sachets 
 
 ## Misunderstanding 4｜Spray cans are cosmetics, so there are no restrictions
 
-**Aerosols are volume-limited on aircraft and cannot go by air mail.** **Limits apply in the hold too.**
+**Aerosols are volume-limited on aircraft, and Japan Post does not accept spray cans containing flammable gas at all.** **Limits apply to checked baggage (the hold) too.**
 
 ## Misunderstanding 5｜A 100-yen-shop bottle is good enough for decanting
 

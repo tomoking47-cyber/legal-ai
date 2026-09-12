@@ -29,7 +29,7 @@
 
 ## Misunderstanding 2｜One cap is the same for every detergent
 
-**Products differ by 10 to 25 mL or more.** **Look at the lines on that bottle's own cap** and match them to the water volume on the label.
+**One capful is anywhere from about 10 to 25 mL depending on the product.** **Look at the lines on that bottle's own cap** and match them to the water volume on the label.
 
 ## Misunderstanding 3｜No lingering scent means not enough detergent
 
@@ -47,8 +47,8 @@ Soaking also works at **the stated concentration**; what does the work is **time
 
 ### Sources
 
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act: Quality Labelling Regulations for Miscellaneous Manufactured Goods (detergents)" [家庭用品品質表示法　雑貨工業品品質表示規程（洗剤）]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- Consumer Affairs Agency, "Quality Labelling Regulations for Miscellaneous Manufactured Goods (27. Synthetic detergents, laundry and kitchen soaps, and household or furniture cleaners)" [雑貨工業品品質表示規程（二十七　合成洗剤、洗濯用又は台所用の石けん及び住宅用又は家具用の洗浄剤）]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/law/law_07/item_027.html
 - Japan Soap and Detergent Association (JSDA), "Using detergent correctly" [洗剤の正しい使い方]
   https://jsda.org/w/index.html
 - Association for Electric Home Appliances (AEHA), "Using your washing machine well" [洗濯機の上手な使い方]

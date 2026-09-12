@@ -47,10 +47,10 @@ Basil, coriander (sold in Japan as pakuchī, パクチー), ōba (大葉, the pe
 
 ### Sources
 
-- Food Safety Commission of Japan, "About botulism" [ボツリヌス症について]
-  https://www.fsc.go.jp/sonota/botulinum.html
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), "How to store vegetables and spices" [野菜・香辛料の保存方法]
-  https://www.maff.go.jp/j/seisan/ryutu/yasai/
+- Food Safety Commission of Japan, "Fact sheet: botulism" [ファクトシート ボツリヌス症] (updated 30 March 2021)
+  https://www.fsc.go.jp/factsheets/index.data/20210330botulism.pdf
+- Ministry of Agriculture, Forestry and Fisheries (MAFF), "Vegetables page" [野菜のページ] (information on vegetable consumption and distribution)
+  https://www.maff.go.jp/j/seisan/ryutu/yasai/index.html
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント] (washing)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 

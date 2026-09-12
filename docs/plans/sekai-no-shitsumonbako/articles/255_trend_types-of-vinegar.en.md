@@ -4,7 +4,7 @@
 
 Every kitchen in the world has vinegar, and the choice is wide: Japan's rice vinegar, grain vinegar and black vinegar, the West's wine vinegar and balsamic, China's Zhenjiang vinegar. Two questions come up again and again: "which one should I use?" and "is vinegar good for you?" Here we answer both from Japan's standards and labelling rules.
 
-## A. The biggest misunderstanding is "all vinegar is the same sour liquid." Japan's JAS (Japanese Agricultural Standards) divides table vinegar into "brewed vinegar" (grain, rice, fruit, etc.) and "synthetic vinegar", and the raw material decides the aroma and sweetness. As for health effects, no claim may be made for ordinary vinegar; the exception is products notified as Foods with Function Claims, a regulated Japanese category.
+## A. The biggest misunderstanding is "all vinegar is the same sour liquid." Under Japan's Food Labelling Standards, table vinegar is divided into "brewed vinegar" (grain, rice, fruit, etc.) and "synthetic vinegar", while how much raw material a brewed vinegar must contain is set by JAS (the Japanese Agricultural Standard for Brewed Vinegar). The raw material decides the aroma and sweetness. As for health effects, no claim may be made for ordinary vinegar; the exception is products notified as Foods with Function Claims, a regulated Japanese category.
 
 ## Types and uses
 
@@ -48,7 +48,7 @@ Every kitchen in the world has vinegar, and the choice is wide: Japan's rice vin
 
 ### Sources
 
-- Ministry of Agriculture, Forestry and Fisheries, "Japanese Agricultural Standard (JAS) for Table Vinegar" [食酢の日本農林規格]
+- Ministry of Agriculture, Forestry and Fisheries, "Japanese Agricultural Standard for Brewed Vinegar (JAS 0801)" [醸造酢の日本農林規格]
   https://www.maff.go.jp/j/jas/jas_kikaku/
 - Consumer Affairs Agency, "Foods with Function Claims" [機能性表示食品について]
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/

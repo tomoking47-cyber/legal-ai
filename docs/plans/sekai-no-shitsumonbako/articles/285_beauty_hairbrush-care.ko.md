@@ -47,11 +47,11 @@
 ### 출처
 
 - 도쿄도 보건의료국(東京都保健医療局) 「アタマジラミの予防」(머릿니 예방)
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yomimono/nezukon/atamajirami
 - 일본피부과학회(日本皮膚科学会) 「皮膚科Q&A　髪の毛の病気」(피부과 Q&A　머리카락의 질환)
-  https://www.dermatol.or.jp/qa/qa17/index.html
-- 소비자청(消費者庁) 「家庭用品品質表示法」(가정용품 품질표시법)
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+  https://www.dermatol.or.jp/qa/
+- 도쿄도 보건의료국(東京都保健医療局) 「アタマジラミ対策パンフレット等」(머릿니 대책 팸플릿 등)
+  https://www.hokeniryo.metro.tokyo.lg.jp/documents/d/hokeniryo/atamajirami_dokuhon
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

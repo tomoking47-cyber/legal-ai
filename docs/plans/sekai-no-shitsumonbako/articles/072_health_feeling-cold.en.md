@@ -42,8 +42,8 @@ Moving your body is recommended, but **there is no basis for asserting that it "
 
 - Women's Health Promotion Office, Healthcare Lab (supervised by an MHLW research group), "Hie" [女性の健康推進室 ヘルスケアラボ「冷え」]
   https://w-health.jp/woman_trouble/cold/
-- MHLW, *Comprehensive Survey of Living Conditions* [国民生活基礎調査]
-  https://www.mhlw.go.jp/toukei/list/20-21.html
+- MHLW, *Summary of the 2025 Comprehensive Survey of Living Conditions* [2025（令和7）年 国民生活基礎調査の概況] (the most recent large-scale survey)
+  https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa25/index.html
 - MHLW e-Health Net [e-ヘルスネット]
   https://kennet.mhlw.go.jp/information/information/index.html
 

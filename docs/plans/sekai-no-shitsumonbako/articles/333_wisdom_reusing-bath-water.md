@@ -20,7 +20,7 @@ A Japanese bath holds about 200 litres, and since the family washes before getti
 | Savings | **50–100 L per load; about ¥15–30 per load** in water and sewer charges at Tokyo rates |
 
 - The **Tokyo Waterworks Bureau** lists bath-water reuse among household water-saving measures and gives the wash-only rule.
-- **Bacterial counts** in bath water rise **roughly tenfold overnight**; the wash-only rule and the warm-water benefit make this acceptable for outer clothing, and the tap-water rinse leaves no residue.
+- **Bacterial counts** in bath water rise **by roughly a thousandfold overnight** — from a few hundred to a few thousand per mL just after bathing to hundreds of thousands or more by the next day; that is exactly why the wash-only rule and the **tap-water rinse** matter, and why same-day use is the norm.
 - **Warm water (about 30–35°C the next morning)** dissolves detergent and lifts grease better than cold; Japanese washing machines otherwise use **cold water by default**.
 - Households keep the bath **covered overnight** to retain warmth and keep dust out; the tub is the household's **emergency water** in a quake (200 L for flushing).
 

@@ -27,7 +27,7 @@
 
 ## Misunderstanding 2｜Primer goes evenly over the whole face
 
-**Dividing the face by zone** is how people in Japan use it. **A sebum-control type on the T-zone, a moisturising type on the cheeks, colour correction under the eyes**, and so on. **The total amount is roughly the size of one pearl** as a general guide.
+**Dividing the face by zone** is how people in Japan use it. **A sebum-control type on the T-zone, a moisturising type on the cheeks, colour correction under the eyes**, and so on. As a guide, **a cream-type primer is one pearl-sized amount**; but **if you are relying on the SPF on the label, you need to layer the same amount again, for about 0.8 g in total** (the layering approach in the Ministry of the Environment's UV manual).
 
 ## Misunderstanding 3｜Colour-correcting primer makes skin whiter
 

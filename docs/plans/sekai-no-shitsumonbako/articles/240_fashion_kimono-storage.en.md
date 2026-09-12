@@ -17,7 +17,7 @@ A kimono is often described as something handed down through generations, but th
 | **Airing (mushiboshi)** | **Once or twice a year** (after a run of clear days in October–November, or in January–February), **half a day to a day in a well-ventilated room** | Lets the damp out; time to check for insects and mould |
 | Moth repellent | **One type only**, placed **on top of the garments**. **Paradichlorobenzene can discolour gold and silver thread and foil** | Mixing types makes them liquefy and stain |
 
-- Silk is **animal protein**: it yellows with **sweat (which oxidises and turns alkaline), skin oil and damp**, and is eaten by **clothes moths and carpet beetles**.
+- Silk is **animal protein**: it yellows as **the sweat residues left in the fibre (sodium and the like) and the skin oil oxidise over time**, and it is eaten by **clothes moths and carpet beetles**. Silk is also **weak against alkali**, so avoid improvised home treatments with baking soda, sesquicarbonate soda and the like.
 - **A kimono worn on a sweaty day needs asenuki** (sweat removal, a specialist kimono cleaner's process). **Whole-garment dry cleaning (丸洗い, maruarai) alone is generally described as leaving the sweat components behind.**
 - **The top drawers of a chest stay dry; the bottom ones collect damp.** The usual arrangement is **silk at the top, cotton and linen at the bottom**.
 
@@ -47,10 +47,8 @@ A kimono is often described as something handed down through generations, but th
 
 ### Sources
 
-- Agency for Cultural Affairs, "Preservation of traditional crafts and kimono culture" [伝統的工芸品・和装文化の保存]
-  https://www.bunka.go.jp/
-- Japan Kimono Association / All Japan Kimono Promotion Association, "Caring for and storing kimono" [きもののお手入れと保管]
-  https://www.kimono-shinkoukai.or.jp/
+- All Japan Kimono Promotion Association, "Kimono Net" [一般社団法人全日本きもの振興会「きものネット」]
+  https://www.kimono-net.or.jp/
 - Japan Household Insecticide Industry Association, "Using moth repellents correctly" [防虫剤の正しい使い方]
   https://www.sacchuzai.jp/
 

@@ -12,7 +12,7 @@ More people now wear sunscreen every day, and with it come the questions: "Does 
 |---|---|---|
 | **「石けんで落ちる」「洗顔料で落とせる」 (comes off with soap / face wash)** | **Ordinary face wash or body wash** | Mostly mineral (physical) filters and lower SPF. **Many children's sunscreens** |
 | **No such label, or 「クレンジングをお使いください」 (please use a cleanser)** | **Cleanser (oil, balm, gel, etc.) → face wash** | Common for **waterproof, SPF50+, and primer-type products** |
-| **「ウォータープルーフ」「汗・水に強い」 (waterproof / sweat- and water-resistant)** | **Most need a cleanser** | Film-forming ingredients (silicones, etc.) make them water-resistant |
+| **「UV耐水性★／★★」「ウォータープルーフ」「汗・水に強い」 (UV water resistance ★/★★ / waterproof / sweat- and water-resistant)** | **Most need a cleanser** | Film-forming ingredients (silicones, etc.) make them water-resistant. **For products shipped from 1 December 2024 onwards, sunscreens claiming water resistance must carry the 「UV耐水性★／★★」 (UV water resistance ★/★★) label under the Japan Cosmetic Industry Association's new standard based on ISO 18861** |
 | **Sprays and sticks** | Follow the product label | Anything sprayed on hair comes off with shampoo |
 | **Body sunscreen** | **Body wash** if labelled soap-removable; if waterproof, **a body cleanser, or work in a body milk first** | Back and feet are the usual leftover spots |
 
@@ -46,8 +46,8 @@ More people now wear sunscreen every day, and with it come the questions: "Does 
 
 ### Sources
 
-- Japan Cosmetic Industry Association, "How to Use and Remove Sunscreen Correctly" [日焼け止めの正しい使い方・落とし方]
-  https://www.jcia.org/user/public/
+- Japan Cosmetic Industry Association, "Ultraviolet Rays (How to Choose and Use UV-Protection Cosmetics)" and "Q&A on UV Water Resistance Labelling" [紫外線編（紫外線防止用化粧品の選び方・使い方）／UV耐水性の表示に関するQ&A]
+  https://www.jcia.org/user/public/uv/
 - Japanese Dermatological Association, "Dermatology Q&A: Acne and Skincare" [皮膚科Q&A にきび・スキンケア]
   https://www.dermatol.or.jp/qa/
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]

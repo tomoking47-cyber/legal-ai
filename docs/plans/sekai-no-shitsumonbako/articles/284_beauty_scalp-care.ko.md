@@ -48,7 +48,7 @@
 - 후생노동성(厚生労働省, MHLW) 「医薬部外品の効能効果の範囲」(의약부외품 효능·효과의 범위, 육모제)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 일본피부과학회(日本皮膚科学会) 「男性型および女性型脱毛症診療ガイドライン2017年版」(남성형 및 여성형 탈모증 진료 가이드라인 2017년판)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/AGA_GL2017.pdf
 - 후생노동성(厚生労働省, MHLW) 「化粧品の効能の範囲の改正について」(화장품 효능 범위의 개정에 대하여, 薬食発0721第1号)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

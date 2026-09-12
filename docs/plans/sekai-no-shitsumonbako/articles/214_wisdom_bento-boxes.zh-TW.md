@@ -13,7 +13,7 @@
 | **蓋上蓋子前把所有食物放涼** | 蒸氣會變成冷凝水——濕氣加溫熱正是細菌繁殖的條件 |
 | **裝緊**，用小番茄或青花菜填滿空隙 | 會移動的食物會沾糊、混在一起 |
 | 用小杯、生菜或矽膠分隔片**把濕的和乾的分開** | 變得濕軟；串味 |
-| **一邊白飯，一邊配菜**，按面積約 **1:1** 的比例 | 主食與配菜的平衡（農林水產省的一份指南採用 **3:1:2** 的體積規則——白飯：蛋白質：蔬菜） |
+| **一邊白飯，一邊配菜**，按面積約 **1:1** 的比例 | 主食與配菜的平衡（廣為流傳的 **3:1:2 便當盒法**——主食：主菜：蔬菜配菜，按**面積**比例裝入容量 mL 數與該餐 kcal 數相當的便當盒——由 NPO 法人食生態學實踐論壇提出，農林水產省與各地方政府加以推廣） |
 | **完全煮熟，不放生的或半熟的食物** | 要在室溫下放置數小時 |
 | 剩菜要**重新加熱到冒熱氣**再裝 | 消滅隔夜滋生的細菌 |
 | 溫暖的月份使用保冷劑或保冷袋 | 保持在細菌繁殖溫度範圍以下 |
@@ -49,8 +49,10 @@
 ### 出處
 - 厚生勞動省（Ministry of Health, Labour and Welfare）— 家庭預防食物中毒的六個要點
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
-- 農林水產省（Ministry of Agriculture, Forestry and Fisheries）— 便當的食品安全與營養平衡（お弁当の食中毒予防・3:1:2弁当箱法）
-  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/obento.html
+- 農林水產省（Ministry of Agriculture, Forestry and Fisheries）— 預防便當引起的食物中毒（お弁当づくりによる食中毒を予防するために）
+  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/lunchbox.html
+- NPO 法人食生態學實踐論壇 — 3・1・2 便當盒法（3・1・2弁当箱法）
+  https://shokuseitaigaku.com/bentobako
 - 秋田縣（Akita Prefecture）— 大館曲げわっぱ（傳統工藝）
   https://www.pref.akita.lg.jp/
 

@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/lower-back-stiffness` ／ Status: **Draft — English edition, sources unverified**
 
-Lower-back pain is the most-reported symptom among Japanese men and the second among women (Comprehensive Survey of Living Conditions), and the most common physical complaint worldwide. The long-running misunderstanding, "rest or keep moving?", has been settled by clinical guidelines.
+Lower-back pain is the most-reported symptom among both men and women in Japan (2022 Comprehensive Survey of Living Conditions), and the most common physical complaint worldwide. The long-running misunderstanding, "rest or keep moving?", has been settled by clinical guidelines.
 
 ## A. The biggest misunderstanding is "when your back is stiff, rest and lie down." Japan's clinical guideline for low back pain recommends staying active rather than resting when there are no signs of serious disease ("red flags"). The basics are "do not hold one position", "keep it warm" and "move gently"; numbness, fever, problems passing urine, or pain after an injury are reasons to see a doctor.
 
@@ -11,7 +11,7 @@ Lower-back pain is the most-reported symptom among Japanese men and the second a
 | Item | Detail | Source |
 |---|---|---|
 | Rate of people reporting back pain | **About 90 men and about 110 women per 1,000 population** (1st or 2nd most common symptom) | Comprehensive Survey of Living Conditions (2022) |
-| Back pain with an identifiable cause | **About 15%**. The remaining **about 85% is "non-specific low back pain"** (no cause found on imaging) | Clinical Practice Guideline for Low Back Pain 2019 |
+| Back pain with an identifiable cause | The often-quoted figure that **"about 85% is non-specific low back pain"** rests on overseas literature. A Japanese study using detailed examination reported that **a cause could be identified in about 78% of cases** | Clinical Practice Guideline for Low Back Pain 2019 and others |
 | Rest or activity | **Staying active is recommended.** **Long rest delays recovery** | Same as above |
 | Heat or cold | The general advice is **warmth for chronic stiffness**, and **cold for the first 1–2 days of acute severe pain (*gikkuri-goshi*, a "thrown-out" back)** | Orthopaedics |
 | **Reasons to see a doctor (red flags)** | **Numbness, weakness in the legs, problems with urination or bowel movements, fever, weight loss, pain after an injury, severe pain even at rest, a history of cancer** | Guideline |
@@ -28,7 +28,7 @@ Lower-back pain is the most-reported symptom among Japanese men and the second a
 
 ## Misunderstanding 2｜An X-ray or MRI will find the cause of back pain
 
-**In about 85% of cases, imaging cannot identify a cause.** Changes visible on imaging (such as disc degeneration) are **common in people with no pain at all**.
+**Imaging alone often cannot identify a cause.** Changes visible on imaging (such as disc degeneration) are **common in people with no pain at all**.
 
 ## Misunderstanding 3｜Massage or a *seitai* (manipulation) clinic will fix it
 

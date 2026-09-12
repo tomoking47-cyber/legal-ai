@@ -15,7 +15,7 @@ Japanese apartment buildings are quiet, and newcomers assume the walls are thick
 | Any time | **Walking in shoes indoors**, slamming doors, running children (rugs and play mats are used), balcony parties |
 
 - **Noise is the most common complaint** to building managers and to police "life safety" consultations; the Ministry of the Environment's household noise pages list **footsteps, doors, washing machines and TV** as typical sources.
-- Local government **noise ordinances** set night-time limits (Tokyo residential zones: **45 dB at night**), but they are aimed at businesses and construction; neighbour noise is a civil matter, handled by the **building management association (kanri kumiai) or landlord**.
+- Local government **noise ordinances** do reach households: Tokyo's Environmental Protection Ordinance (環境確保条例 Art. 136, Table 13) caps **everyday domestic noise** at the property boundary — at night (23:00–06:00) **40 dB in low-rise residential zones and 45 dB in other residential zones** — though enforcement against a neighbour is rare, so in practice it is treated as a civil matter, handled by the **building management association (kanri kumiai) or landlord**.
 - **Moving-in greeting (hikkoshi no aisatsu)**: a small gift (**¥500–1,000**; towel, sweets, detergent) to the neighbours **on both sides, above and below**, with "I've just moved in, please excuse any noise" — it pre-empts most future friction.
 
 > **[Verify]** Tokyo ordinance limits with the Tokyo Metropolitan Government's environmental noise standards; complaint statistics with the Ministry of the Environment.
@@ -43,8 +43,8 @@ It is the **most disputed category**. Households with children use **thick play 
 ---
 
 ### Sources
-- Ministry of the Environment — Living noise (生活騒音) guidance for households
-  https://www.env.go.jp/air/life/
+- Ministry of the Environment — Neighbourhood and living noise (近隣騒音・生活騒音) guidance for households
+  https://www.env.go.jp/air/ippan/kinrin.html
 - Tokyo Metropolitan Government Bureau of Environment — Noise regulation standards (騒音規制)
   https://www.kankyo.metro.tokyo.lg.jp/
 - Ministry of Land, Infrastructure, Transport and Tourism — Condominium management guidance (マンション管理)

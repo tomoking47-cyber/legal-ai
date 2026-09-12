@@ -42,8 +42,8 @@
 
 - 女性健康推进室 Healthcare Lab（厚生劳动省研究班监修）「冷え」[女性の健康推進室 ヘルスケアラボ「冷え」]
   https://w-health.jp/woman_trouble/cold/
-- 厚生劳动省《国民生活基础调查》[国民生活基礎調査]
-  https://www.mhlw.go.jp/toukei/list/20-21.html
+- 厚生劳动省《2025（令和7）年 国民生活基础调查概况》[2025（令和7）年 国民生活基礎調査の概況]（最新的大规模调查）
+  https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa25/index.html
 - 厚生劳动省 e-健康网[e-ヘルスネット]
   https://kennet.mhlw.go.jp/information/information/index.html
 

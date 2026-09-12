@@ -10,7 +10,7 @@
 
 | Item | Detail | Source |
 |---|---|---|
-| Where heatstroke happens | **The home, about 40%**, is the most common place (ambulance call-outs) | Fire and Disaster Management Agency (2023, 2024) |
+| Where heatstroke happens | **The home, 38.1%**, is the most common place, followed by roads at 19.7% (confirmed figures for May–September 2025; the 100,510 people transported is the highest since the survey began in 2008) | Fire and Disaster Management Agency (2025) |
 | Heatstroke deaths | **About 80% aged 65 or over**; **most indoor deaths were in homes where air conditioning was not in use or not installed** | Tokyo Medical Examiner's Office; MHLW |
 | Ministry of the Environment guide | **Aim for a room temperature of 28°C** (room temperature, not the set temperature); **use air conditioning rather than putting up with the heat** | Ministry of the Environment heatstroke prevention site |
 | "Reibō-byō" | **Not a medical diagnosis.** A popular term for feeling unwell from over-cooling, temperature swings and dry air | — |

@@ -11,7 +11,7 @@ In Japan, where most people soak in a bath every day, complaints that "the bath 
 | Item | Guide | Reason |
 |---|---|---|
 | Water temperature | **Around 40°C (104°F)** (**41°C (106°F) or below, about 10 minutes** is the guide for preventing bathing accidents) | 42°C (108°F) and above strips sebum easily and leads to itching |
-| Time | **10–15 minutes** | Long soaks wash out the water-holding substances in the stratum corneum |
+| Time | **About 10 minutes** (**15 minutes at the most**) | The Consumer Affairs Agency gives "41°C (106°F) or below, up to 10 minutes" as its guide for preventing bathing accidents. Long soaks wash out the water-holding substances in the stratum corneum |
 | Washing | **With foam, using your hands or a soft towel.** **Do not scrub with a nylon towel** | Friction causes dryness and pigmentation (friction melanosis) |
 | How often to wash with soap | **Oily areas (face, armpits, feet, groin) every day; arms and legs can have water-only days if you have not sweated** | General dermatological guidance |
 | After the bath | **Moisturise within 5–10 minutes** (some people apply it in the bathroom) | Evaporation leaves skin drier than before — "over-drying" |
@@ -25,7 +25,7 @@ In Japan, where most people soak in a bath every day, complaints that "the bath 
 
 ## Misunderstanding 1｜A long soak moisturises the skin
 
-**Evaporation afterwards can leave it drier than before.** **10–15 minutes, then moisturise straight away.**
+**Evaporation afterwards can leave it drier than before.** **About 10 minutes as a guide, then moisturise straight away.**
 
 ## Misunderstanding 2｜Hotter water gets you cleaner
 

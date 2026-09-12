@@ -13,7 +13,7 @@ How much sugar people eat is a public-health issue worldwide; the WHO says "free
 | WHO guide | **Free sugars below 10% of total energy (strong recommendation); below 5% (conditional recommendation)** | WHO (2015) |
 | For a person on 2,000 kcal | **10% = about 50 g / 5% = about 25 g** | Calculation |
 | Japan's Dietary Reference Intakes | **No numerical target for sugars** (carbohydrate 50–65% of total energy) | MHLW (2025 edition) |
-| Japanese sugar intake | Supply of **about 15–17 kg per person per year (about 45 g/day)**. Actual intake in surveys is from about **6–8 g (sugar and sweeteners only)** upwards | Ministry of Agriculture, Forestry and Fisheries; National Health and Nutrition Survey |
+| Japanese sugar intake | Supply of **about 15–17 kg per person per year (about 45 g a day)** (Food Balance Sheets). Actual intake in surveys is about **6–8 g a day (sugar and sweeteners only)** | Ministry of Agriculture, Forestry and Fisheries; National Health and Nutrition Survey |
 | Nutrition labelling | **Declaring "sugars" is voluntary.** "Carbohydrate" is mandatory | Consumer Affairs Agency |
 
 | Drink or food | Approximate sugars |

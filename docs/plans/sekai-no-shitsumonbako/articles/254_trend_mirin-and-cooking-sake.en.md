@@ -21,7 +21,7 @@ Mirin (sweet rice seasoning) and cooking sake are basic seasonings in Japanese c
 | **Cooking sake (料理酒, ryōri-shu; salted)** | **About 2–3% salt** added so it cannot be drunk (no liquor tax, cheap) | **Reduce the salt in the recipe**. A recipe that says "sake" normally assumes **unsalted** |
 | **Sake (清酒, seishu / nihonshu)** | None | Follow the recipe. Sold as liquor |
 
-- Under the **Liquor Tax Act**, any drink of 1% ABV or more is "liquor". **Hon-mirin is liquor, so it cannot be sold to minors and is sold only by shops with a liquor licence**.
+- Under the **Liquor Tax Act**, any drink of 1% ABV or more is "liquor". **Hon-mirin is liquor, so it cannot be sold to anyone under 20 and is sold only by shops with a liquor sales licence**.
 - Hon-mirin is **about 40–45% sugar**; the **gloss** is generally attributed to this sugar, and **keeping food intact while simmering** to the combined action of the alcohol and sugar.
 
 > **[Verify]** Check the alcohol strengths and categories against the Liquor Tax Act and the National Mirin Association's materials, and the salt figures against product labels.
@@ -36,7 +36,7 @@ Mirin (sweet rice seasoning) and cooking sake are basic seasonings in Japanese c
 
 ## Misunderstanding 3｜Cooking sake is the same as Japanese sake
 
-**Salted cooking sake is about 2–3% salt.** **Replacing "1 tablespoon of sake" in a recipe with cooking sake adds roughly 1/8 teaspoon of salt**, so you need to **cut the salt** elsewhere.
+**Salted cooking sake is about 2–3% salt.** **Replacing "1 tablespoon of sake" (about 15 g) in a recipe with cooking sake adds roughly 0.3–0.5 g of salt (about 1/16 teaspoon)**, so you need to **cut the salt** elsewhere.
 
 ## Misunderstanding 4｜Store mirin in the fridge
 

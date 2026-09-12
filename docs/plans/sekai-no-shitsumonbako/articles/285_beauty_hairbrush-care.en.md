@@ -47,11 +47,11 @@ It passes on **sebum, dandruff, head lice and ringworm (a relative of the athlet
 ### Sources
 
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing head lice" [アタマジラミの予防]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yomimono/nezukon/atamajirami
 - Japanese Dermatological Association, "Dermatology Q&A: Hair disorders" [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act" [家庭用品品質表示法]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+  https://www.dermatol.or.jp/qa/
+- Tokyo Metropolitan Government Bureau of Public Health, "Head-lice control pamphlets" [アタマジラミ対策パンフレット等]
+  https://www.hokeniryo.metro.tokyo.lg.jp/documents/d/hokeniryo/atamajirami_dokuhon
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

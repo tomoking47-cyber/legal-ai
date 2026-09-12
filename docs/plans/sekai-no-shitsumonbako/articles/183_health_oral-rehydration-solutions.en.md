@@ -15,7 +15,7 @@ In many countries, "a sports drink for heatstroke" is the standard idea. In Japa
 | Role | **Replacing water and electrolytes when dehydrated** (Food for Special Dietary Uses — for the sick, etc.) | Fluid and energy during exercise | Everyday hydration |
 | Drinking it every day | **Not suitable** (too much salt) | Watch the sugar | The default |
 
-- Most ORS products are approved by the Consumer Affairs Agency as **"Food for Special Dietary Uses (individually evaluated food for the sick)"** [特別用途食品（個別評価型病者用食品）], and may state that they are for **replacing water and electrolytes in "mild to moderate dehydration."**
+- ORS products are approved by the Consumer Affairs Agency as **"Food for Special Dietary Uses (food for the sick)"** [特別用途食品（病者用食品）]. In May 2023 a **standards-based category for "oral rehydration solution"** was created (per 100 mL: sodium 92–138 mg, glucose 1.00–2.60 g, osmolality 300 mOsm/L or below, and so on), and **from 1 June 2025 labelling a product as an "oral rehydration solution" without approval breaches the Health Promotion Act.** Products approved through the older **individual evaluation** route also remain on sale.
 - The basis is the WHO's approach to oral rehydration salts: **a solution containing sodium and glucose in a set ratio speeds up absorption from the gut**.
 - MHLW heatstroke guidance says: **after heavy sweating, a 0.1–0.2% salt solution (1–2 g of salt in 1 L of water)**; **if there is dizziness or nausea, an oral rehydration solution**; **if the person is confused or cannot drink, call an ambulance (dial 119 in Japan)**.
 
@@ -49,8 +49,8 @@ Its role is **correcting mild dehydration**. If the person is **drowsy or confus
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000116133.html
 - Consumer Affairs Agency, "About Food for Special Dietary Uses" [特別用途食品について] (individually evaluated food for the sick)
   https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
-- Ministry of the Environment, *Heat Illness Environmental Health Manual 2022* [熱中症環境保健マニュアル2022]
-  https://www.wbgt.env.go.jp/heatillness_manual.php
+- Ministry of the Environment, *Heat Illness Environmental Health Manual – General Overview* (July 2025 edition) [熱中症環境保健マニュアル 〜総論〜（2025年7月版）]
+  https://www.wbgt.env.go.jp/heatillness_manual_ov.php
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

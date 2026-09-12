@@ -47,10 +47,10 @@
 
 ### 출처
 
-- 식품안전위원회 「보툴리누스증에 대하여」 [ボツリヌス症について]
-  https://www.fsc.go.jp/sonota/botulinum.html
-- 농림수산성 「채소·향신료의 보존 방법」 [野菜・香辛料の保存方法]
-  https://www.maff.go.jp/j/seisan/ryutu/yasai/
+- 식품안전위원회 「팩트시트 보툴리누스증」 [ファクトシート ボツリヌス症] (2021년 3월 30일 갱신)
+  https://www.fsc.go.jp/factsheets/index.data/20210330botulism.pdf
+- 농림수산성 「채소 페이지」 [野菜のページ] (채소 소비·유통 관련 정보)
+  https://www.maff.go.jp/j/seisan/ryutu/yasai/index.html
 - 후생노동성 「가정에서 할 수 있는 식중독 예방 6가지 포인트」 [家庭でできる食中毒予防の6つのポイント] (씻기)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 

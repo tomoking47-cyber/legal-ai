@@ -17,7 +17,7 @@ The habit of drinking a cup of plain hot water first thing in the morning — *s
 | Raises metabolism, so you lose weight | **No evidence found.** Any rise in metabolism from drinking water is temporary and very small |
 | Improves bowel movements | **Varies from person to person.** Taking in fluid on waking is generally described as a trigger that gets the gut moving |
 
-- The MHLW's **"Drink Water for Health" campaign** [「健康のため水を飲もう」推進運動] encourages drinking water **frequently, including on waking and before bed**. **It specifies no temperature.**
+- The **"Drink Water for Health" campaign** [「健康のため水を飲もう」推進運動] (transferred with water-supply administration to the Ministry of Land, Infrastructure, Transport and Tourism and the Ministry of the Environment in April 2024) encourages drinking water **frequently, including on waking and before bed**. **It specifies no temperature.**
 - Regularly drinking beverages **at 65°C (149°F) or above** is rated by the International Agency for Research on Cancer (IARC) as **a risk factor for oesophageal cancer (Group 2A)**. That is a reason to **avoid sayu that is "too hot."**
 
 > **[Verify]** Check the IARC evaluation (2016, beverages above 65°C) and the content of the MHLW campaign.
@@ -46,11 +46,11 @@ Sayu is water. Take in **about 1.2 L a day of fluid apart from meals** (the MHLW
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Drink Water for Health" campaign [「健康のため水を飲もう」推進運動]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/nomou/index.html
+- Ministry of the Environment / Ministry of Land, Infrastructure, Transport and Tourism, "Drink Water for Health" campaign [「健康のため水を飲もう」推進運動] (transferred from the MHLW in April 2024)
+  https://www.env.go.jp/water/water_supply/nomou/index.html
 - International Agency for Research on Cancer (IARC), *Monographs Volume 116: Drinking coffee, mate, and very hot beverages* (2016)
   https://publications.iarc.who.int/566
-- Ministry of Health, Labour and Welfare, e-Health Net, "Hydration" [水分補給]
+- Ministry of Health, Labour and Welfare, e-Health Net (information on lifestyle-related disease), top page
   https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

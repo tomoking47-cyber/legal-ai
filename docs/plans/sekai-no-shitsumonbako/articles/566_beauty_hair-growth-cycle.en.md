@@ -4,13 +4,13 @@
 
 "I want long hair but it never grows." "Trimming the ends makes it grow faster." "Is losing 100 hairs a day normal?" Hair growth and hair loss attract plenty of folklore, in Japan as everywhere. Starting from the basics of the hair cycle, this article separates what has evidence from what does not.
 
-## A. Hair grows about 1–1.5 cm a month (roughly 0.3–0.4 mm a day). Genetics, age and nutrition shift this a little; cutting does not change it at all (trimming the ends does nothing to the follicle). Hair "seems" to grow faster after a trim because damaged ends are gone, breakage falls and length is kept. Losing 50–100 hairs a day is normal, and many people lose a little more in autumn. A single hair lives 2–6 years, renewing through a cycle of growth → regression → rest. Disruption of that cycle (childbirth, stress, poor nutrition, illness) raises shedding temporarily. If you want length, **preventing breakage and split ends** is the most effective step; unless you are short of protein, iron or zinc, there is no evidence that supplements speed growth.
+## A. Hair grows about 1–1.2 cm a month (roughly 0.3–0.4 mm a day). Genetics, age and nutrition shift this a little; cutting does not change it at all (trimming the ends does nothing to the follicle). Hair "seems" to grow faster after a trim because damaged ends are gone, breakage falls and length is kept. Losing 50–100 hairs a day is normal, and many people lose a little more in autumn. A single hair lives 2–6 years, renewing through a cycle of growth → regression → rest. Disruption of that cycle (childbirth, stress, poor nutrition, illness) raises shedding temporarily. If you want length, **preventing breakage and split ends** is the most effective step; unless you are short of protein, iron or zinc, there is no evidence that supplements speed growth.
 
 ## Basic hair numbers
 
 | Item | Figure |
 |---|---|
-| **Growth rate** | **About 0.3–0.4 mm a day, 1–1.5 cm a month, 12–15 cm a year** |
+| **Growth rate** | **About 0.3–0.4 mm a day, 1–1.2 cm a month, 12–15 cm a year** |
 | **Number of hairs** | **About 100,000** (varies by person and hair colour; blondes tend to have more, redheads fewer) |
 | **Daily shedding** | **50–100 hairs** is normal. **Slightly more in autumn (September–November)** for many people |
 | **Life of one hair** | **2–6 years** (slightly longer in women) |

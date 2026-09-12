@@ -47,10 +47,10 @@
 
 ### 出處
 
-- 食品安全委員會「關於肉毒桿菌中毒」[ボツリヌス症について]
-  https://www.fsc.go.jp/sonota/botulinum.html
-- 農林水產省「蔬菜與香辛料的保存方法」[野菜・香辛料の保存方法]
-  https://www.maff.go.jp/j/seisan/ryutu/yasai/
+- 食品安全委員會「資料說明 肉毒桿菌中毒」[ファクトシート ボツリヌス症]（2021年3月30日更新）
+  https://www.fsc.go.jp/factsheets/index.data/20210330botulism.pdf
+- 農林水產省「蔬菜專頁」[野菜のページ]（蔬菜消費與流通相關資訊）
+  https://www.maff.go.jp/j/seisan/ryutu/yasai/index.html
 - 厚生勞動省「家庭可做的預防食物中毒六要點」[家庭でできる食中毒予防の6つのポイント]（清洗）
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 

@@ -49,8 +49,10 @@ Going above **the machine's heat tolerance (many are rated to 50°C / 122°F or 
 
 - Association for Electric Home Appliances (AEHA), "Looking after your washing machine" [洗濯機のお手入れ]
   https://www.aeha.or.jp/
-- Tokyo Metropolitan Government Bureau of Public Health, "Using chlorine cleaners and bleach safely" [塩素系洗浄剤・漂白剤の安全な使い方]
+- Tokyo Metropolitan Government Bureau of Public Health, Everyday Safety series, "Household cleaning agents: use them correctly for a safe home" [住まいの洗浄剤　正しく使って安全な暮らし]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
+- National Consumer Affairs Center of Japan, "How to use household chlorine cleaners: do not mix - danger! Accidents are happening in bathrooms and elsewhere" [住宅用塩素系洗浄剤の使い方−まぜるな危険！浴室などで事故が発生しています−] (published 18 March 2026)
+  https://www.kokusen.go.jp/news/data/n-20260318_1.html
 - National Institute of Technology and Evaluation (NITE), "Washing-machine accidents (children trapped inside etc.)" [洗濯機の事故（子どもの閉じ込め等）]
   https://www.nite.go.jp/jiko/chuikanki/
 

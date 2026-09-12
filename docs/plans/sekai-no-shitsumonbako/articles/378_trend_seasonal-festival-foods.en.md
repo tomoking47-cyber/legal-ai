@@ -11,7 +11,7 @@ Japan's annual festivals each come with a set food, and visitors often ask "why 
 | Festival | Date | Food | Origin / caution |
 |---|---|---|---|
 | **Setsubun** (start of spring) | Around 3 February | **Roasted soybeans (one per year of your age), ehōmaki (a thick sushi roll eaten facing the year's lucky direction), sardines** | Beans ward off evil. **Ehōmaki went nationwide in the 1990s through convenience stores.** **Do not give beans to children aged 5 and under** (Consumer Affairs Agency: choking and aspiration accidents) |
-| **Hinamatsuri** (Girls' Day) | 3 March | **Chirashi-zushi (scattered sushi), hamaguri clam soup, hishi-mochi (diamond-shaped rice cakes), hina-arare (sweet rice puffs), shirozake (sweet white sake; amazake for children)** | A clam's two shells fit only each other = a good marriage |
+| **Hinamatsuri** (Girls' Day) | 3 March | **Chirashi-zushi (scattered sushi), hamaguri clam soup, hishi-mochi (diamond-shaped rice cakes), hina-arare (sweet rice puffs), shirozake (a white sake of about 10% alcohol; give children rice-koji amazake instead)** | A clam's two shells fit only each other = a good marriage |
 | **Tango no Sekku** (Children's Day) | 5 May | **Kashiwa-mochi (rice cake in an oak leaf, Kantō), chimaki (rice dumpling in bamboo leaf, Kansai)** | The oak keeps its old leaves until new buds appear = the family line continues |
 | **Tanabata** (Star Festival) | 7 July | **Sōmen (thin wheat noodles)** | From the Chinese sweet sakubei (索餅) |
 | **Doyō no Ushi no Hi** (midsummer "Day of the Ox") | Late July | **Eel (unagi)** | Traced to an Edo-period advertising idea (attributed to Hiraga Gennai). **Eel is an endangered species** (Ministry of the Environment Red List) |

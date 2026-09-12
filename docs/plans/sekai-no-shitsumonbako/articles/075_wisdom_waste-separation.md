@@ -8,7 +8,7 @@ Seen from outside, household waste separation here looks like unusual diligence.
 
 ## How it is organised
 
-Household waste is the responsibility of each of **1,741 municipalities** (Ministry of the Environment, FY2023 survey). Each sets its own categories, collection days and rules. **Residents work to that calendar — and check it, because it is not obvious.**
+Household waste is the responsibility of each of **1,741 municipalities** (Ministry of the Environment, FY2024 municipal waste survey, published 27 March 2026). Each sets its own categories, collection days and rules. **Residents work to that calendar — and check it, because it is not obvious.**
 
 Some separation exists for safety rather than recycling: **batteries, aerosols and sharp items** are handled apart to protect collection workers and vehicles.
 
@@ -37,8 +37,8 @@ Residents check the calendar too. **Municipalities publish leaflets precisely be
 ---
 
 ### Sources
-- Ministry of the Environment, FY2023 municipal waste survey — press release
-  https://www.env.go.jp/recycle/waste_tech/ippan/r5/data/env_press.pdf
+- Ministry of the Environment, FY2024 municipal waste survey — press release (27 March 2026)
+  https://www.env.go.jp/press/press_03502.html
 - Ministry of the Environment — waste and recycling
   https://www.env.go.jp/recycle/
 - Municipal websites publish local rules

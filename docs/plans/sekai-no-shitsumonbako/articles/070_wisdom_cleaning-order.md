@@ -9,7 +9,7 @@ Cleaning advice usually focuses on products. The sequence is what quietly decide
 
 ## The one rule with a label
 
-Chlorine-based household cleaners that can release **1.0 ppm or more of chlorine gas** must, by law, carry the words **まぜるな危険** — "Do not mix — danger." Inhalation incidents from cleaning products **ranked first among inhalation accidents every year from 2021 to 2024**, and the National Consumer Affairs Center issued a renewed warning in **March 2026** after bathroom incidents.
+Chlorine-based household cleaners that can release **1.0 ppm or more of chlorine gas** must, by law, carry the words **まぜるな危険** — "Do not mix — danger." Across **fiscal years 2021 to 2024**, cleaners for houses and furniture were **the most frequent cause of inhalation incidents involving household products** (Ministry of Health, Labour and Welfare, annual report on health damage caused by household products), and the National Consumer Affairs Center issued a renewed warning in **March 2026** after bathroom incidents.
 
 **If a product carries that label, it is used alone, with ventilation, and rinsed away before anything else.**
 
@@ -42,8 +42,7 @@ Many households do small daily resets and keep the large clean for the year end.
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/zakka_06.html
 - National Consumer Affairs Center, "Using chlorine-based household cleaners — Do not mix" (18 March 2026)
   https://www.kokusen.go.jp/news/data/n-20260318_1.html
-- Tokyo Fire Department — accidents involving household detergents
-  https://www.tfd.metro.tokyo.lg.jp/lfe/nichijo/detergent.html
+- Ministry of Health, Labour and Welfare — "Annual report on health damage caused by household products" (the source of the FY2021–2024 inhalation figures quoted above; editorial desk to insert the verified URL)
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -20,7 +20,7 @@ A belt is fastened and loosened every day — the hardest-worked leather item mo
 
 - **Cracks in a leather belt come from drying out and repeated bending.** **Storage that avoids folds** and **oils** are the prevention.
 - **Green deposits around the buckle (verdigris)** are **a reaction between copper-containing metal and sweat.** If **a cloth wipes them off**, there is no problem. If **your skin becomes irritated**, a metal allergy (nickel etc.) is possible — have it checked at a dermatology clinic (covered by Japanese health insurance).
-- Belts fall under the **Household Goods Quality Labelling Act (miscellaneous manufactured goods)** and carry **a material label (cowhide, synthetic leather, etc.)**.
+- **Clothing belts are outside the scope of the Household Goods Quality Labelling Act**, so **there is no obligation to label the material**. **Any material label (cowhide, synthetic leather, etc.) is something the maker adds voluntarily.**
 
 > **[Verify]** Check the scope of the labelling obligation against the Consumer Affairs Agency's "Quality labelling rules for miscellaneous manufactured goods", and the metal-allergy explanation against Japanese Dermatological Association material.
 
@@ -50,8 +50,8 @@ It causes **a set bend and cracking**. **Hang it** (belt hanger or hook), or **l
 
 - Japan Leather and Leather Goods Industries Association (JLIA), "Caring for leather goods" [一般社団法人日本皮革産業連合会「革製品のお手入れ」]
   https://www.jlia.or.jp/
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act: Quality labelling rules for miscellaneous manufactured goods" [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程」]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- Consumer Affairs Agency, "Items outside the scope of the Household Goods Quality Labelling Act (list)" [消費者庁「家庭用品品質表示法の対象外品目について（一覧）」]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/faq/faq_05.html
 - Japanese Dermatological Association, "Dermatology Q&A: metal allergy" [公益社団法人日本皮膚科学会「皮膚科Q&A　金属アレルギー」]
   https://www.dermatol.or.jp/qa/
 

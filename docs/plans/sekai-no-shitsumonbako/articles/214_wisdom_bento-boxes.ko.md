@@ -13,7 +13,7 @@
 | **뚜껑을 닫기 전에 모두 식히기** | 김이 물방울로 맺힘 — 습기와 온기가 합쳐지면 세균이 번식하는 조건 |
 | **빽빽하게 담기**, 빈틈은 방울토마토나 브로콜리로 채우기 | 움직이는 음식은 묻고 섞임 |
 | 컵, 상추, 실리콘 칸막이로 **물기 있는 것과 마른 것을 분리** | 축축해짐, 맛이 섞임 |
-| **한쪽에 밥, 다른 쪽에 반찬**, 면적 비율 **약 1:1** | 주식과 부식의 균형(농림수산성의 한 안내는 **3:1:2**의 부피 규칙을 사용 — 밥 : 단백질 : 채소) |
+| **한쪽에 밥, 다른 쪽에 반찬**, 면적 비율 **약 1:1** | 주식과 부식의 균형(널리 알려진 **3:1:2 도시락통법** — 주식 : 주채 : 채소 반찬을 **면적** 비율로, 용량 mL 수가 그 끼니의 kcal 수와 같은 도시락통에 담는 방식 — 은 NPO 법인 식생태학 실천 포럼이 고안했고 농림수산성과 지자체가 보급하고 있습니다) |
 | **완전히 익히고, 날것이나 반쯤 익힌 것은 넣지 않기** | 실온에서 몇 시간을 보내야 함 |
 | 남은 음식은 **김이 나도록 다시 데운 뒤** 담기 | 밤사이 자란 세균을 죽이기 |
 | 더운 계절에는 보냉제나 보냉 가방 | 세균 번식 온도 범위 아래로 유지 |
@@ -49,8 +49,10 @@
 ### 출처
 - 후생노동성(Ministry of Health, Labour and Welfare) — 가정에서의 식중독 예방 6대 요점
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
-- 농림수산성(Ministry of Agriculture, Forestry and Fisheries) — 벤토의 식품 안전과 균형(お弁当の食中毒予防・3:1:2弁当箱法)
-  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/obento.html
+- 농림수산성(Ministry of Agriculture, Forestry and Fisheries) — 도시락으로 인한 식중독을 예방하기 위해(お弁当づくりによる食中毒を予防するために)
+  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/lunchbox.html
+- NPO 법인 식생태학 실천 포럼 — 3・1・2 도시락통법(3・1・2弁当箱法)
+  https://shokuseitaigaku.com/bentobako
 - 아키타현(Akita Prefecture) — 오다테 마게왓파(전통 공예)
   https://www.pref.akita.lg.jp/
 

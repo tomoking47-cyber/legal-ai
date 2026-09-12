@@ -16,7 +16,7 @@ New Year is Japan's most important holiday — quieter than Christmas abroad, mo
 | **7 January** | Nanakusa-gayu (seven-herb porridge) to rest the stomach; decorations come down (some regions 15 January) |
 | **11 January** | Kagami-biraki: the display mochi is broken and eaten |
 
-- **Nengajō volume** peaked at **4.4 billion cards in 2003** and fell to about **1.1 billion for 2025**; Japan Post prints special stamps and delivers them all on 1 January.
+- **Nengajō volume** peaked at about **4.46 billion cards for the 2004 issue (printed in 2003)** and has fallen every year since: the initial print run for the **2026 issue was about 750 million**, down **30%** on the previous year and the fifteenth consecutive annual fall. Japan Post holds back cards posted from **15 December** and delivers them on 1 January (post by about 25 December to be sure).
 - **Osechi** is a lacquered box of preserved dishes each with a meaning (black beans for health, herring roe for fertility, sweet chestnuts for wealth). It is preserved food because **cooking on the first three days was traditionally avoided** — the hearth deity rested, and so did the cook.
 - **Mochi (rice cake) choking** is a real seasonal hazard: Tokyo Fire Department reports **dozens of ambulance calls** each New Year, mostly among the elderly; cut mochi small and chew thoroughly.
 

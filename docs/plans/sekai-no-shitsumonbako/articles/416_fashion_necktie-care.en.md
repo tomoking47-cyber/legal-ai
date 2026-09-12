@@ -19,9 +19,9 @@ A tie is worn day after day but almost never washed, so people ask "can it be wa
 | **Storage** | **Hang (tie hanger) or roll into a compartment**. **Use a moth repellent (moths eat silk)**, **keep out of direct sunlight** | — |
 | **Dry cleaning** | **Once a season, or when soiled**. **Say "it is a necktie" so the press does not flatten the interlining** | — |
 
-- Ties are **covered by the Household Goods Quality Labelling Act**, so they carry **the fibre (silk, polyester, etc.) and a care label (Japan uses the international JIS L0001 symbols)**. **The shell, the lining and the interlining** may be different materials.
+- Ties are **covered by the Household Goods Quality Labelling Act (Textile Goods Quality Labelling Regulations)**, so **the fibre composition (silk, polyester, etc.) has to be labelled**. **A care label (Japan's international JIS L0001 symbols) is not required on ties, however, and some carry none**. **The shell, the lining and the interlining** may be different materials.
 - **Knot marks** come out with **steam** in most cases, because **silk fibres recover with humidity and warmth**.
-- **Since Cool Biz (May to September) came in, ties are worn less often**, but they are compulsory at **weddings, funerals, interviews and ceremonies**. It is customary to keep **a plain black tie (funerals) and a white tie (celebrations)** separately.
+- **Since Cool Biz came in, ties are worn less often**. **From FY2021 the Ministry of the Environment dropped the nationwide period (previously May to September) and now asks each person to judge by the temperature and their workplace.** Ties remain compulsory at **weddings, funerals, interviews and ceremonies**, and it is customary to keep **a plain black tie (funerals) and a white tie (celebrations)** separately.
 
 > **[Verify]** The scope of the labelling duty is based on Consumer Affairs Agency materials; the care advice on general guidance from the necktie and textile industries.
 

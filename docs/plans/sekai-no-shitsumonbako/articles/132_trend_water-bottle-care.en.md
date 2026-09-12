@@ -4,12 +4,12 @@
 
 Reusable bottles are everywhere now, but "what can I put in it?" and "how do I wash it?" are common questions in every country. In Japan, cases of metal leaching into acidic drinks kept in metal bottles have been reported, and public bodies have issued warnings. Here is what Japanese makers and consumer authorities say.
 
-## A. The biggest misunderstanding is "a bottle is a bottle, whatever you put in it". If acidic drinks — fizzy drinks, sports drinks, fruit juice — sit for hours in a metal bottle, metal can leach out through scratches on the inside. The Consumer Affairs Agency and the National Consumer Affairs Center of Japan have both issued warnings. The basic rule is to check the instruction leaflet for the list of drinks you must not put in.
+## A. The biggest misunderstanding is "a bottle is a bottle, whatever you put in it". If acidic drinks — fizzy drinks, sports drinks, fruit juice — sit for hours in a metal bottle, metal can leach out through scratches on the inside. The Ministry of Health, Labour and Welfare and the Tokyo Metropolitan Government have issued warnings. The basic rule is to check the instruction leaflet for the list of drinks you must not put in.
 
 ## Incidents and warnings
 
-- **In 2020 the Tokyo Metropolitan Government reported a case in which several people showed symptoms of copper poisoning after drinking a sports drink kept in a metal bottle.** The cause is described as **the inner coating peeling and copper leaching from the damaged surface**.
-- The National Consumer Affairs Center of Japan has also warned about **lids blown off by internal pressure when fizzy drinks are put into a sealed bottle** (other than products sold as carbonation-safe).
+- **The Tokyo Metropolitan Government has published a case (2008) in which six people showed symptoms of copper poisoning after drinking a sports drink kept in a metal bottle whose inside was damaged.** The cause is described as **the acidic drink seeping through the damaged part into the double-wall cavity and dissolving the copper used in the insulating structure**. Separately, in 2020 the Ministry of Health, Labour and Welfare warned about copper poisoning from a sports drink left in a kettle.
+- Bottle manufacturers forbid it in their instruction leaflets: **putting fizzy drinks or dry ice in raises the internal pressure, so the inner stopper or lid may refuse to open, or break and fly off** (other than products sold as carbonation-safe).
 - Drinks that most makers list as **"do not fill with"** in their instruction leaflets: **carbonated drinks, dairy, drinks containing fruit juice or pulp, salty liquids such as miso soup, and dry ice**.
 
 | Care | Guide |
@@ -47,8 +47,8 @@ As the drink cools, bacteria grow more easily. **Take special care with drinks c
 
 - Tokyo Metropolitan Bureau of Public Health, "Beware of copper poisoning from metal containers (2020)" [金属製の容器での銅中毒に注意]
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
-- National Consumer Affairs Center of Japan, "Do not put carbonated drinks in sealed bottles" [密閉型の水筒に炭酸飲料を入れないで]
-  https://www.kokusen.go.jp/news/data/n-20200820_1.html
+- Tokyo Metropolitan Bureau of Public Health, "Please take care how you use metal containers such as water bottles and kettles" [水筒、やかんなど金属製の容器の使用方法にご注意ください！]
+  https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/pamphlet2/files/metal.pdf
 - Consumer Affairs Agency, "Watch for scratches and peeling inside water bottles" [水筒の内側の傷・はがれに注意]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 

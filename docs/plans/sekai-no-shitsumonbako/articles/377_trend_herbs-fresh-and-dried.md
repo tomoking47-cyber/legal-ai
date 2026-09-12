@@ -47,10 +47,10 @@
 
 ### 出典
 
-- 食品安全委員会「ボツリヌス症について」
-  https://www.fsc.go.jp/sonota/botulinum.html
-- 農林水産省「野菜・香辛料の保存方法」
-  https://www.maff.go.jp/j/seisan/ryutu/yasai/
+- 食品安全委員会「ファクトシート ボツリヌス症」（令和3年3月30日更新）
+  https://www.fsc.go.jp/factsheets/index.data/20210330botulism.pdf
+- 農林水産省「野菜のページ」（野菜の消費・流通に関する情報）
+  https://www.maff.go.jp/j/seisan/ryutu/yasai/index.html
 - 厚生労働省「家庭でできる食中毒予防の6つのポイント」（洗浄）
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 

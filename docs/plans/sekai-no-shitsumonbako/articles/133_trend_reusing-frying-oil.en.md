@@ -17,7 +17,7 @@ How many times can you reuse frying oil, and how do you get rid of it? Household
 
 - Guides often quote **2–4 uses**, but **how fast oil deteriorates depends on what you fried (batter, fish, meat)**, so judge by condition.
 - For household waste oil, the usual method in Tokyo's 23 wards is to **soak it into newspaper or cloth, or set it with a shop-bought solidifier (凝固剤, gyōkozai), and put it out as "burnable waste" (燃やすごみ, moyasu gomi)**. A growing number of municipalities also run **collection points (supermarkets, ward offices)**.
-- Ministry of the Environment material estimates **household waste cooking oil at around 100,000 tonnes a year**, most of which is thrown away rather than collected.
+- An industry body, the National Federation of Oil and Fat Business Cooperatives, estimates **household waste cooking oil at around 100,000 tonnes a year**; only about 30% of municipalities collect it separately.
 
 > **[Verify]** Smoke points differ by type of oil. Check the waste-oil estimate against Ministry of the Environment and MAFF material. Always follow your own municipality's guidance on sorting.
 

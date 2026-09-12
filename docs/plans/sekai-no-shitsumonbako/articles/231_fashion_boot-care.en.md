@@ -18,7 +18,7 @@ Autumn and winter boots come in smooth leather, suede and synthetic leather, and
 
 - The inside of a boot absorbs **foot sweat (about 200 mL a day)**. **Wearing them again the next day before they have dried** is the cause of smell and mould. **Wear for one day, rest for one or two** is the basic rule.
 - For storage, **stand the shaft upright with a boot keeper (or rolled newspaper or magazines)** and **never stack them lying down** (creases, lost shape). **Put a desiccant inside.**
-- **Inhalation accidents with fluorine-based waterproofing sprays** have been the subject of a warning from the National Consumer Affairs Center of Japan. **Spray outdoors, from upwind, and do not breathe it in.**
+- **Inhalation accidents with fluorine-based waterproofing sprays** have been the subject of warnings from the Consumer Affairs Agency, the Japan Poison Information Center and the Tokyo Metropolitan Government. **Spray outdoors, from upwind, and do not breathe it in. Never use one in a poorly ventilated space such as an entrance hall, indoors or inside a car.**
 
 > **[Verify]** The sweat figure is a general physiology statement. Confirm the waterproofing-spray accidents against the published material of the National Consumer Affairs Center of Japan.
 
@@ -48,9 +48,11 @@ Autumn and winter boots come in smooth leather, suede and synthetic leather, and
 
 - Japan Leather and Leather Goods Industries Association (JLIA), "Caring for leather goods" [革製品のお手入れ]
   https://www.jlia.or.jp/
-- National Consumer Affairs Center of Japan, "Accidents caused by the use of waterproofing sprays" [防水スプレーの使用による事故]
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
-- Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには]
+- Japan Poison Information Center, "Accidents while using waterproofing sprays" [防水スプレーを使用中の事故]
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
+- Consumer Affairs Agency, "Column Vol.13: Beware of inhalation accidents with waterproofing sprays!" [コラムVol.13　防水スプレーの吸込み事故に注意！] (25 December 2024)
+  https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20241225/
+- Tokyo Metropolitan Government Bureau of Public Health, "Guidelines for a healthy and comfortable living environment" (mould and mite control) [健康・快適居住環境の指針]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

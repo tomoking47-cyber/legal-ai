@@ -17,9 +17,9 @@ Most Japanese homes keep a first-aid box, historically restocked by a visiting s
 | **Paper** | **Copies of health-insurance cards**, clinic and pharmacy numbers, **#7119 / #8000 / 119** written down, medication list | For anyone in the house — or a babysitter |
 | **Check** | **Every 1 March and 1 September** (with the emergency kit); discard expired items | Dates on OTC boxes |
 
-- **OTC medicines in Japan are classed 1–3** (see the OTC article); keep them **in their boxes** with the package insert — dosage and age limits are printed there.
+- **OTC medicines in Japan are classed 1–3**, above which sit **要指導医薬品 (pharmacist-guidance medicines)**; and since **1 May 2026** a set of **指定濫用防止医薬品 (eight misuse-risk ingredients, mostly in cough and cold remedies)** may be sold only with an ID and age check and in limited quantities, with tighter rules for under-18s (see the OTC article). Keep everything **in its box** with the package insert — dosage and age limits are printed there.
 - **Children's medicine** is dosed by **age and weight**; keep a children's acetaminophen product rather than splitting adult tablets.
-- **#7119** (emergency consultation), **#8000** (children, nights and weekends) and **119** (ambulance) are the three numbers; **poison information: Japan Poison Information Center 072-727-2499 (Osaka) / 029-852-9999 (Tsukuba)**.
+- **#7119** (emergency consultation — **not available everywhere**: it is run region by region and covers only about half the population, so check whether your prefecture or city has it and write down the local number if not), **#8000** (children, nights and weekends — all 47 prefectures) and **119** (ambulance) are the numbers to have; **poison information: Japan Poison Information Center 072-727-2499 (Osaka) / 029-852-9999 (Tsukuba)**.
 - The **okigusuri** (placed medicine) system — a box left in the home and restocked by a visiting vendor, paid for on use — dates from the Edo period in Toyama and still serves rural households.
 
 > **[Verify]** Phone numbers with the Fire and Disaster Management Agency and the Japan Poison Information Center; wound-care guidance with the Japanese Society for Burn Injuries / MHLW first-aid materials.
@@ -47,8 +47,10 @@ Put it **where a guest or babysitter could find it** — a labelled box in the k
 ---
 
 ### Sources
-- Fire and Disaster Management Agency — Emergency consultation lines #7119 and #8000
-  https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html
+- Fire and Disaster Management Agency — Emergency consultation line #7119 (救急安心センター事業)
+  https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate006.html
+- Ministry of Health, Labour and Welfare — Paediatric emergency telephone consultation #8000 (小児救急電話相談事業)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kodomo/kodomo_kosodate/kodomo-kosodate/index.html
 - Japan Poison Information Center — Contact numbers and household poisoning guidance
   https://www.j-poison-ic.jp/
 - Ministry of Health, Labour and Welfare — OTC medicine classification and safe use

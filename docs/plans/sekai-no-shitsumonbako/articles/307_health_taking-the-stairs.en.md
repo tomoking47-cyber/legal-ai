@@ -4,13 +4,13 @@
 
 "Take the stairs, not the lift" is health advice heard everywhere, but in Japan station stairs are part of daily life, and many people climb several hundred steps a day. Here we look at the value of stairs as exercise, and at the misunderstandings about their effect on the knees.
 
-## A. The biggest misunderstanding is "stairs are bad for your knees, so avoid them." For healthy knees, stairs are a short burst of high-intensity physical activity (about 8 METs going up, about 3–4 METs coming down), and the easiest way to follow the Ministry of Health, Labour and Welfare guide's advice to "move even a little more than now". If your knees hurt, avoid going down, use the handrail and talk to a doctor.
+## A. The biggest misunderstanding is "stairs are bad for your knees, so avoid them." For healthy knees, stairs are a short burst of high-intensity physical activity (about 4.0–8.8 METs going up depending on pace, about 3.5 METs coming down), and the easiest way to follow the Ministry of Health, Labour and Welfare guide's advice to "move even a little more than now". If your knees hurt, avoid going down, use the handrail and talk to a doctor.
 
 ## In numbers
 
 | Item | Detail | Source |
 |---|---|---|
-| Climbing stairs | **About 8 METs** (about twice brisk walking) | METs table for physical activities |
+| Climbing stairs | **About 8.8 METs climbing fast, about 4.0 METs climbing slowly** | METs table for physical activities |
 | Descending stairs | **About 3–4 METs** | Same as above |
 | Guide 2023 | **60 minutes or more of physical activity a day (3 METs or more)**. **Using the stairs** is named as an everyday measure | MHLW |
 | Station stairs | Deep Tokyo subway stations have **more than 100 steps to street level** | — |
@@ -48,8 +48,8 @@
 
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001171393.pdf
-- National Institute of Health and Nutrition, *Revised METs table for physical activities* [改訂版　身体活動のメッツ（METs）表]
-  https://www.nibiohn.go.jp/eiken/programs/2011mets.pdf
+- National Institutes of Biomedical Innovation, Health and Nutrition, *METs table for physical activities, 2nd revised edition — adult version* [改訂第2版　身体活動のメッツ（METs）表　成人版] (based on the 2024 Compendium)
+  https://www.nibn.go.jp/activities/documents/2024Compendium_table_adult_ver1_1_5.pdf
 - Consumer Affairs Agency, *Accidents in the home among older people (stairs, falls)* [高齢者の住宅内の事故（階段・転倒）]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 

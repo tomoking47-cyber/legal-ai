@@ -6,7 +6,7 @@ Sunglasses are often assumed to protect the eyes in proportion to how dark they 
 
 ## A. The biggest misunderstanding is "the darker the lens, the more UV it blocks". UV protection comes from the lens material and coating and has nothing to do with the depth of tint. A dark lens without UV protection is actually worse: the pupil opens wider and lets in more UV. Choose by the label (UV transmittance 1.0% or less, UV400, etc.), and store the glasses away from heat and scratches.
 
-## Reading the label (JIS T 7333)
+## Reading the label (Household Goods Quality Labelling Act / JIS T 8141)
 
 | Label | Meaning | Note |
 |---|---|---|
@@ -16,7 +16,7 @@ Sunglasses are often assumed to protect the eyes in proportion to how dark they 
 | Polarised (偏光) | Reduces reflected glare (water, road surface) | LCD screens can be hard to see |
 | Photochromic (調光) | Tint changes with the amount of UV | Changes little inside a car (UV-cut glass) |
 
-- **JIS T 7333 (sunglasses)** specifies labelling for **UV transmittance, visible light transmittance and suitability for driving**, among other things. **Even with cheap fashion sunglasses, check for a JIS label or a "UV cut" (UVカット) label.**
+- The **Household Goods Quality Labelling Act** (Quality Labelling Rules for Miscellaneous Manufactured Goods, item 5 "sunglasses") requires labelling of **the product name, the lens material, the frame material, visible light transmittance, UV transmittance and precautions for use** (transmittance is measured by the method in **JIS T 8141**). **Even with cheap fashion sunglasses, check for a transmittance figure or a "UV cut" (UVカット) label.**
 - The Ministry of the Environment's "UV Environmental Health Manual" lists risks such as **cataract and pterygium** (a growth on the surface of the eye) from UV, and recommends **UV-blocking sunglasses and a hat**. **A shape that fits the face closely and blocks light from the side** is effective.
 - **Plastic lenses are heat-sensitive (around 60°C)**; **left on a car dashboard, the coating cracks and the lens warps**.
 
@@ -46,12 +46,12 @@ Sunglasses are often assumed to protect the eyes in proportion to how dark they 
 
 ### Sources
 
-- Japanese Industrial Standards Committee (JISC), JIS T 7333 "Sunglasses, sun visors and fashion spectacles" [日本産業標準調査会 JIS T 7333「サングラス、サンバイザ及び眼鏡ファッション用」]
-  https://www.jisc.go.jp/
+- Consumer Affairs Agency, "Quality Labelling Rules for Miscellaneous Manufactured Goods (5. Sunglasses)" [消費者庁「雑貨工業品品質表示規程（五　サングラス）」]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/law/law_07/item_005.html
 - Ministry of the Environment, "UV Environmental Health Manual 2020" (effects on the eyes and sunglasses) [環境省「紫外線環境保健マニュアル2020」]
   https://www.env.go.jp/content/900410650.pdf
-- Japan Federation of Optical Industry Associations, "How to choose sunglasses" [日本眼鏡関連団体連合会「サングラスの選び方」]
-  https://www.megane-japan.or.jp/
+- Consumer Affairs Agency, "Miscellaneous manufactured goods list: sunglasses" [消費者庁「雑貨工業品一覧表　サングラス」]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/zakka_24.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

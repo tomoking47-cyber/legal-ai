@@ -11,7 +11,7 @@ The tea ceremony gets the attention; the tea that Japanese households actually d
 | Tea | What it is | When | Caffeine |
 |---|---|---|---|
 | **Mugicha (麦茶)** | Roasted barley — **not a tea plant** | **Summer, cold, all day**, children included | **None** |
-| **Hōjicha (ほうじ茶)** | Roasted green tea | After meals, evening, with elderly and children | Low (roasting reduces it) |
+| **Hōjicha (ほうじ茶)** | Roasted green tea | After meals, evening, with elderly and children | Moderate — **about 20 mg/100 mL**, much the same as sencha; roasting changes the flavour, not the caffeine |
 | **Genmaicha (玄米茶)** | Green tea with roasted rice | With meals | Low–moderate |
 | **Sencha (煎茶)** | Standard steamed green tea | Guests, afternoons | Moderate (~20 mg/100 mL) |
 | **Bancha (番茶)** | Coarse late-harvest green tea | Everyday, cheap | Low |
@@ -19,7 +19,7 @@ The tea ceremony gets the attention; the tea that Japanese households actually d
 | **Sobacha, kuromame-cha** | Buckwheat, black soybean | Alternatives | None |
 | Matcha | Powdered tencha | **Occasions, cafés, sweets** | High (see the matcha article) |
 
-- **Household consumption** of leaf green tea has fallen (about **600 g per household per year**, down from ~1 kg in the early 2000s), while **bottled tea** rose to over **¥400 billion a year** — the vending machine tea is unsweetened green or barley tea.
+- **Household consumption** of leaf green tea has fallen — MAFF puts the drop at **about 30% since 2008** — while **bottled tea** kept growing: green-tea drinks alone were **¥525.2 billion in 2024, up 8.7% year on year**, and tea beverages as a whole are over **¥900 billion**. The vending machine tea is unsweetened green or barley tea.
 - **Cold brew (mizudashi)** in a fridge jug is the summer default for both barley and green tea; hygiene rules apply (see the cold-brew article): **use within a day or two, wash the jug daily**.
 - **Tea after a meal** is not for taste alone: hōjicha and genmaicha are mild on the stomach; the habit is also why Japanese meals rarely come with a sweet drink.
 
@@ -31,7 +31,7 @@ The tea ceremony gets the attention; the tea that Japanese households actually d
 
 ## Misunderstanding 2｜Japanese tea is high in caffeine
 
-**Barley tea has none; hōjicha little.** Children drink mugicha from infancy. Sencha has about a third of coffee's caffeine per cup.
+**Barley tea has none; bancha and genmaicha about 10 mg/100 mL.** Children drink mugicha from infancy. Sencha — and roasted hōjicha — come to about **20 mg/100 mL**, roughly a third of drip coffee's 60 mg.
 
 ## Misunderstanding 3｜"Kombucha" is the fizzy fermented drink
 
@@ -43,7 +43,7 @@ In Japan it is **kelp tea** — hot water on powdered kelp, salty and savoury. T
 
 ## Misunderstanding 5｜Bottled tea is a compromise
 
-Unsweetened bottled tea is a **¥400-billion market** and the standard drink with a convenience-store lunch. Nobody looks down on it; it is what the vending machine is for.
+Unsweetened bottled tea is a **¥500-billion-plus market** — green-tea drinks alone came to ¥525.2 billion in 2024 — and the standard drink with a convenience-store lunch. Nobody looks down on it; it is what the vending machine is for.
 
 ---
 

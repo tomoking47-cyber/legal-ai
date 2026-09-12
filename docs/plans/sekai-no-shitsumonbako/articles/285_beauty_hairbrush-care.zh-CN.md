@@ -47,11 +47,11 @@
 ### 出处
 
 - 东京都保健医疗局（東京都保健医療局）「アタマジラミの予防」（头虱的预防）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yomimono/nezukon/atamajirami
 - 日本皮肤科学会（日本皮膚科学会）「皮膚科Q&A　髪の毛の病気」（皮肤科 Q&A　头发的疾病）
-  https://www.dermatol.or.jp/qa/qa17/index.html
-- 消费者厅（消費者庁）「家庭用品品質表示法」（家庭用品品质标示法）
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+  https://www.dermatol.or.jp/qa/
+- 东京都保健医疗局（東京都保健医療局）「アタマジラミ対策パンフレット等」（头虱防治手册等）
+  https://www.hokeniryo.metro.tokyo.lg.jp/documents/d/hokeniryo/atamajirami_dokuhon
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

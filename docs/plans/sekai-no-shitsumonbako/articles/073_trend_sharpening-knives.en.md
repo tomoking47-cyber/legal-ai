@@ -8,7 +8,7 @@ Japanese kitchen knives are famous, and sharpening them is often assumed to be a
 
 ## The safety angle
 
-NITE (the National Institute of Technology and Evaluation, Japan's product-safety body) was notified of **49 accidents involving children and kitchen goods** over the ten years from FY2010 to FY2019: 4 deaths, 8 serious injuries and 21 minor injuries. The Consumer Affairs Agency has also published accident reports from medical institutions under the heading "Beware of injuries from knives and other blades in the kitchen".
+NITE (the National Institute of Technology and Evaluation, Japan's product-safety body) was notified of **49 accidents involving children and kitchen goods** over the ten years from FY2010 to FY2019: 4 deaths, 8 serious injuries and 21 minor injuries. **Those 49 cases are mostly about cooking appliances — gas hobs (15 cases), electric kettles and the like — and the commonest accident type is burns.** The Consumer Affairs Agency has also published accident reports from medical institutions under the heading "Beware of injuries from knives and other blades in the kitchen".
 
 **A sharp blade cuts where you aim it, with little force.** A blunt blade needs extra force, and when that force slips, it becomes an injury.
 
@@ -36,7 +36,7 @@ Shops offering a sharpening service (研ぎ, togi) exist all over Japan, includi
 
 ## Storage
 
-**Keep blades out of children's reach.** Some of the accidents counted above could be reduced by this one step alone.
+**Keep blades out of children's reach.** Rethinking where you store them reduces the chances of a child reaching a blade in the first place.
 
 Always follow the instructions for the tools you use, and handle blades with care.
 

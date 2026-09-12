@@ -49,8 +49,10 @@
 
 - 一般財団法人家電製品協会「洗濯機のお手入れ」
   https://www.aeha.or.jp/
-- 東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」
+- 東京都保健医療局　くらしの安全シリーズ「住まいの洗浄剤　正しく使って安全な暮らし」
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
+- 国民生活センター「住宅用塩素系洗浄剤の使い方−まぜるな危険！浴室などで事故が発生しています−」（2026年3月18日公表）
+  https://www.kokusen.go.jp/news/data/n-20260318_1.html
 - 独立行政法人製品評価技術基盤機構（NITE）「洗濯機の事故（子どもの閉じ込め等）」
   https://www.nite.go.jp/jiko/chuikanki/
 

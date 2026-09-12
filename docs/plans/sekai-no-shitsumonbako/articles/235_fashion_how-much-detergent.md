@@ -29,7 +29,7 @@
 
 ## 誤解2｜キャップ1杯はどの洗剤でも同じ
 
-**製品ごとに10〜25mL以上の差**があります。**そのボトルのキャップの線**を見て、表示の水量に合わせます。
+**キャップ1杯の量は製品によって10〜25mL程度と幅があります。** **そのボトルのキャップの線**を見て、表示の水量に合わせます。
 
 ## 誤解3｜においが残らないのは洗剤が足りないから
 
@@ -47,8 +47,8 @@
 
 ### 出典
 
-- 消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤）」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- 消費者庁「雑貨工業品品質表示規程（二十七　合成洗剤、洗濯用又は台所用の石けん及び住宅用又は家具用の洗浄剤）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/law/law_07/item_027.html
 - 日本石鹸洗剤工業会「洗剤の正しい使い方」
   https://jsda.org/w/index.html
 - 一般財団法人家電製品協会「洗濯機の上手な使い方」
