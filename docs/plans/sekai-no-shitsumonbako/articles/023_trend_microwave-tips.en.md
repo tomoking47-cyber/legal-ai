@@ -4,7 +4,7 @@
 
 Microwave ovens are in kitchens all over the world. What is unusual in Japan is that **the number of accidents, and their causes, are recorded by public bodies.** Those records show where the risk really lies.
 
-## A. The biggest misunderstanding is "it just heats things — it's a safe appliance". 157 accidents were reported in five years, and most of them came down to misuse.
+## A. The biggest misunderstanding is "it just heats things — it's a safe appliance". 157 accidents were reported in five years, and 31 of them (about 20%) came down to misuse or carelessness.
 
 ## Accidents in numbers
 

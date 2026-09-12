@@ -14,7 +14,7 @@ The word *furoshiki* — literally "bath spread" — is generally traced to the 
 
 ## Why it came back
 
-Japan introduced a **mandatory charge on plastic shopping bags on 1 July 2020**. The Ministry of the Environment had already promoted furoshiki as a bag alternative — including a "Mottainai Furoshiki" designed under environment minister Yuriko Koike, shown to delegates at a 3R ministerial meeting in **March 2006**.
+Japan introduced a **mandatory charge on plastic shopping bags on 1 July 2020**. The Ministry of the Environment had already promoted furoshiki as a bag alternative — including a "Mottainai Furoshiki" designed by environment minister Yuriko Koike, shown to delegates at the 3R Initiative Senior Officials Meeting in **March 2006**.
 
 **The cloth did not change. The context did.**
 

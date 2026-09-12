@@ -10,9 +10,9 @@ How people use a fridge is where household habits show most. But the temperature
 
 | Compartment | Guide temperature | Suited to |
 |---|---|---|
-| Main fridge compartment (冷蔵室) | **about 2–5°C** | Cooked dishes, drinks, condiments |
-| Chilled compartment (チルド室, chirudo-shitsu) | **about 0–3°C** | Meat, fish, processed meat (just above freezing) |
-| Vegetable compartment (野菜室, yasai-shitsu) | **about 3–8°C** | Vegetables and fruit (not too cold; keeps humidity) |
+| Main fridge compartment (冷蔵室) | **about 0–6°C** | Cooked dishes, drinks, condiments |
+| Chilled compartment (チルド室, chirudo-shitsu) | **about 0–2°C** | Meat, fish, processed meat (just above freezing) |
+| Vegetable compartment (野菜室, yasai-shitsu) | **about 4–8°C** | Vegetables and fruit (not too cold; keeps humidity) |
 | Freezer (冷凍室) | **about −18 to −20°C** | Frozen food, ingredients you freeze yourself |
 
 The Ministry of Health, Labour and Welfare (MHLW) pamphlet "Six points for preventing food poisoning at home" gives **10°C or below for the fridge and −15°C or below for the freezer** as a guide. Makers' standard settings are lower than this, leaving a margin.

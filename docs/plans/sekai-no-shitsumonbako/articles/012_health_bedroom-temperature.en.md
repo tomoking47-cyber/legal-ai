@@ -9,7 +9,7 @@ Sleep with the air conditioner on, or off? Opinions divide around the world, and
 ## The numbers in the guidance
 
 - **Sleep Guide for Health Promotion 2023** [健康づくりのための睡眠ガイド2023] (Ministry of Health, Labour and Welfare, MHLW): a room temperature of **13–29°C** during sleep is described as desirable, and **26–28°C in summer** is reported to make sleep easier.
-- **Ministry of the Environment heatstroke prevention information**: the often-quoted "28°C" — a figure you will hear everywhere in Japan in summer — is described as **a guide for room temperature, not the air conditioner's set temperature itself.**
+- **Ministry of the Environment, Cool Biz (Deco-katsu) guidance**: the often-quoted "28°C" — a figure you will hear everywhere in Japan in summer — is described as **a guide for room temperature, not the air conditioner's set temperature itself.**
 
 > **[Verify]** The figures above were confirmed through secondary sources. **Before publication, check the original text of the Sleep Guide 2023 and the Ministry of the Environment heatstroke prevention information site.**
 

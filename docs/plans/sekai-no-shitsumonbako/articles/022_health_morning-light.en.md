@@ -36,7 +36,7 @@ There is no need to look directly at the sun, and **doing so can damage your eye
 
 ## Misunderstanding 4｜Light at night doesn't matter
 
-Exposure to 2,500 lux or more at night is generally described as suppressing the release of melatonin (the hormone linked to sleep) and raising alertness. **Get light in the morning, avoid it at night. The two go together as a pair.**
+The release of melatonin (the hormone linked to sleep) is suppressed at levels far below 2,500 lux. Suppression has been reported at around 100 lux measured at face height, which means **ordinary indoor lighting is quite bright enough to matter at night**. **Get light in the morning, turn it down at night. The two go together as a pair.**
 
 ## Misunderstanding 5｜Light alone decides your sleep
 
@@ -46,7 +46,7 @@ Regular waking and bedtimes, how active you are in the day, the environment befo
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Good sleep and lifestyle habits" [快眠と生活習慣]
+- Ministry of Health, Labour and Welfare (MHLW), Health Promotion Support Net [健康づくりサポートネット] (formerly e-Health Net), "Good sleep and lifestyle habits" [快眠と生活習慣]
   https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - MHLW, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html

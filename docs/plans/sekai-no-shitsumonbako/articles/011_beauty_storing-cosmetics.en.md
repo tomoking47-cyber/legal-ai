@@ -6,7 +6,7 @@ How to store cosmetics is debated around the world, and it is one of the points 
 
 ## A. The biggest misunderstanding is "keeping it cold makes it last longer." Products are made to keep their quality for at least 3 years under the conditions shown on the label.
 
-Under Japan's Pharmaceuticals and Medical Devices Act (the country's cosmetics and drugs law), **an expiry date is not required except on cosmetics that could deteriorate within 3 years of manufacture.** So a product with no date printed is, by design, one that **"keeps its quality unopened for 3 years if stored properly."**
+Under Japan's Pharmaceuticals and Medical Devices Act (the country's cosmetics and drugs law), **an expiry date is not required except on cosmetics containing ascorbic acid or enzymes, and on those that could deteriorate within 3 years of manufacture.** So a product with no date printed is, by design, one that **"keeps its quality unopened for 3 years if stored properly."**
 
 Rather than chilling, the surer thing is that **"proper storage": keeping the product away from direct sunlight, heat and humidity.** Always follow the storage instructions on each product's label.
 

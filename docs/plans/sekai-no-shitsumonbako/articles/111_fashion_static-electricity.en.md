@@ -27,13 +27,13 @@ A spray **temporarily bleeds off the surface charge**, and the effect fades with
 
 Cotton sits in the middle of the series, so it is merely less prone; **in very dry air it still happens.** That said, putting a cotton layer between two fabrics from opposite ends of the series is an effective way to avoid the worst pairs.
 
-## Misunderstanding 3｜Touching metal before the door handle makes no difference
+## Misunderstanding 3｜Touching another piece of metal before the door handle is the fix
 
 **Touch a wall or a piece of wooden furniture first and let the charge drain slowly**, and the sting is milder. Touching with the whole palm rather than a fingertip spreads the discharge instead of concentrating it at one point, so it hurts less.
 
 ## Misunderstanding 4｜Fabric softener has nothing to do with static
 
-Fabric softener (柔軟剤, jūnanzai) coats the fibre surface with cationic ingredients and **suppresses charging** (this is listed among its uses under the Household Goods Quality Labelling Act). Using more than the stated dose does not increase the effect.
+Fabric softener (柔軟剤, jūnanzai) coats the fibre surface with cationic ingredients and is said to **suppress charging** (Japan Soap and Detergent Association, voluntary labelling standard for fabric softeners). Using more than the stated dose does not increase the effect.
 
 ## Misunderstanding 5｜Humidifying is only for your skin
 

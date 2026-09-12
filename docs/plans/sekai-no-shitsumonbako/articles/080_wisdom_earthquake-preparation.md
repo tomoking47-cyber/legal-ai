@@ -5,13 +5,13 @@
 
 Preparation here is treated as ordinary household maintenance. Government surveys show which parts people actually do — and which they skip.
 
-## A. The common misunderstanding is that preparation means an emergency bag. The official advice starts with securing furniture, and only 35.9% of people have done it.
+## A. The common misunderstanding is that preparation means an emergency bag. The official advice starts with securing furniture, and only 37.6% of people have done it.
 
 ## What the surveys show
 
 | Measure | Figure | Source |
 |---|---|---|
-| Households that have secured furniture against toppling | **35.9%** | Cabinet Office survey, September 2022 |
+| Households that have secured furniture against toppling | **37.6%** | Cabinet Office survey, August 2025 |
 | Households with 3+ days of drinking water stocked | **69.8%** | Cabinet Office survey, August 2025 |
 | Households with 3+ days of food stocked | **59.7%** | Same |
 | Households with 3+ days of hygiene supplies | **38.7%** | Same |

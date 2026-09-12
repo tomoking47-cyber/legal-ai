@@ -24,7 +24,7 @@ It is drawn as a spinning top (koma), carrying the message that **the top stays 
 
 ## Misunderstanding 1｜Decide the menu first, then shop
 
-Decide first, and what is already at home gets left over. **Starting from your stock wastes less.** Household food waste in Japan runs at about 2.33 million tonnes a year (see #88).
+Decide first, and what is already at home gets left over. **Starting from your stock wastes less.** Household food waste in Japan runs at about 2.24 million tonnes a year (FY2024 estimate, see #88).
 
 ## Misunderstanding 2｜Every meal should be a different dish
 
@@ -50,8 +50,8 @@ Not if you cannot use it all up. **Buying only what you can finish is the surer 
   https://www.maff.go.jp/j/syokuiku/kenzensyokuseikatsu/about_b_guide.html
 - Ministry of Agriculture, Forestry and Fisheries, "Food Guide Spinning Top SV quick-reference chart" [食事バランスガイド SV早見表]
   https://www.maff.go.jp/j/syokuiku/minna_navi/about/chart.html
-- Ministry of the Environment, press release "Estimated volume of food loss in Japan (FY2023)" [我が国の食品ロスの発生量の推計値（令和５年度）]
-  https://www.env.go.jp/press/press_00002.html
+- Ministry of the Environment, press release "Estimated volume of food loss in Japan (FY2024)" [我が国の食品ロスの発生量の推計値（令和６年度）]
+  https://www.env.go.jp/press/press_05155.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

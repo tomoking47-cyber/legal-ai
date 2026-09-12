@@ -15,7 +15,7 @@ Should the morning routine differ from the evening one? The debate runs worldwid
 | 3 | Oil-rich product (乳液, nyūeki, "milky emulsion") | Forms a film on the skin surface and **physically blocks evaporation** |
 | 4 | Sunscreen | SPF and PA values are measured with **2 mg per cm²** applied. For the whole face the guide is **0.7–0.9 g** |
 
-This sequence is presented on several medical-institution websites as information from the Japanese Dermatological Association. PA (Protection Grade of UVA) is Japan's UVA rating, shown as PA+ to PA++++.
+This sequence is presented on several medical-institution websites as a common routine. PA (Protection Grade of UVA) is Japan's UVA rating, shown as PA+ to PA++++.
 
 > **[Verify]** **Confirm the source of the sequence (Japanese Dermatological Association) and the sunscreen figures (2 mg/cm², 0.7–0.9 g) against primary sources before publication.**
 

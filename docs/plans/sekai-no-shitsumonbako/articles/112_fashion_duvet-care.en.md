@@ -8,7 +8,7 @@ Can you wash a down duvet (羽毛布団, umō futon) at home, and how should you
 
 ## What the label tells you
 
-- Down duvets fall under the **Household Goods Quality Labelling Act (Textile Goods Quality Labelling Regulations)**, which requires the label to state the **type of filling, fill weight, shell-fabric composition and care instructions**.
+- Down duvets fall under the **Household Goods Quality Labelling Act (Textile Goods Quality Labelling Regulations)**, which requires the label to state the **fibre composition of the face fabric, backing fabric and filling**, the **home laundering and care instructions (care symbols)**, and the **name and contact details of the labelling party**. Fill weight is not a statutory labelling item; it is shown under industry voluntary standards such as the Japan Down Products Cooperative Association's Gold Label.
 - A figure such as "Down 90%" is the **ratio of down (the soft breast plumage) to feathers**; **the higher the down ratio, the lighter and warmer** the duvet tends to be.
 - If the care label (Japan uses the international JIS L0001 symbols) shows a **wash-tub symbol, it can be washed at home**, but because of its size you need a machine with a **large enough capacity (e.g. 7–8 kg or more)** as a rough guide.
 

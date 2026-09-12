@@ -12,7 +12,7 @@ The Ministry of Health, Labour and Welfare (MHLW) **Sleep Guide for Health Promo
 
 Sleep moves into deeper stages as time passes. Waking from a deep stage can leave you feeling foggy for a while.
 
-The MHLW's earlier guidance, the **Sleep Guidelines for Health Promotion 2014** [健康づくりのための睡眠指針2014], listed **"a short nap of 30 minutes or less in the early afternoon"** as a way of coping with daytime sleepiness.
+The predecessor of the current Sleep Guide 2023, the **Sleep Guidelines for Health Promotion 2014** [健康づくりのための睡眠指針2014], listed **"a short nap of 30 minutes or less in the early afternoon"** as a way of coping with daytime sleepiness. The current guide also states that **older people should avoid long naps**.
 
 > **[Verify]** The wording "30 minutes or less" and "early afternoon" is based on the 2014 Sleep Guidelines. **Check the original texts, including how the 2023 edition handles this point.**
 
