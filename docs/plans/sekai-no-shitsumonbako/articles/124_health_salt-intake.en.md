@@ -12,8 +12,10 @@ Cutting salt is a challenge everywhere, but Japan is one of the higher-salt coun
 |---|---|---|
 | Average daily salt intake in Japan (age 20 and over) | **About 9.8 g** (men 10.7 g, women 9.1 g) | National Health and Nutrition Survey (2023) |
 | Target in the Dietary Reference Intakes for Japanese (2025 edition) | **Under 7.5 g for men, under 6.5 g for women** | MHLW |
-| Health Japan 21 (third term) target | **Under 7 g** | MHLW |
+| Health Japan 21 (third term) target (FY2032) | **7 g** (not "under 7 g") | MHLW |
 | WHO recommendation | **Under 5 g** | WHO |
+
+**These are two different figures.** The Dietary Reference Intakes (2025 edition) set a target of **under 7.5 g for men and under 6.5 g for women**, while the Health Japan 21 (third term) population target for FY2032 is **7 g a day** — 7 g, not "under 7 g".
 
 Under the **Food Labelling Act** (食品表示法), processed food must show **"salt equivalent"** (食塩相当量) on the nutrition label (fully in force since April 2020). The conversion is **sodium (mg) × 2.54 ÷ 1000 = salt equivalent (g)**.
 
@@ -25,7 +27,7 @@ Under the **Food Labelling Act** (食品表示法), processed food must show **"
 | Instant cup noodles, 1 serving | About 5–6 g |
 | Sliced white bread (shokupan), 1 slice from a 6-slice loaf | About 0.7 g |
 
-> **[Verify]** Check intake against the latest year of the National Health and Nutrition Survey, and the targets against the "Dietary Reference Intakes for Japanese (2025 edition)". The food figures are rough estimates based on the Standard Tables of Food Composition in Japan (8th revised edition).
+> **[Verify]** Check intake against the latest year of the National Health and Nutrition Survey, the Dietary Reference Intakes targets against the "Dietary Reference Intakes for Japanese (2025 edition)", and the Health Japan 21 (third term) target (7 g a day) against that plan's own explanatory materials. The food figures are rough estimates based on the Standard Tables of Food Composition in Japan (8th revised edition).
 
 ## Misunderstanding 1｜Japanese food is healthy, so salt is not a problem
 
@@ -53,6 +55,8 @@ The **umami in dashi supplements saltiness and makes it easier to use less soy s
 
 - MHLW, "Dietary Reference Intakes for Japanese (2025 edition)" [日本人の食事摂取基準（2025年版）]
   https://www.mhlw.go.jp/stf/newpage_44138.html
+- MHLW, "Explanatory materials for promoting Health Japan 21 (third term)" [健康日本21（第三次）推進のための説明資料] (May 2023)
+  https://www.mhlw.go.jp/content/001426890.pdf
 - MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要]
   https://www.mhlw.go.jp/stf/newpage_47433.html
 - Consumer Affairs Agency, "Food Labelling Standards" [食品表示基準] (nutrition labelling, salt equivalent)

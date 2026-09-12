@@ -13,7 +13,7 @@ Umeboshi, Japan's salted pickled plums, are sometimes introduced abroad as a "Ja
 | **Umeboshi (梅干)** (shiraboshi, plain salt-dried; or pickled with red shiso) | **About 18–20%** | **Long-term at room temperature** (years) | Only salt and plums (and red shiso). Strongly sour and salty |
 | **Seasoned umeboshi (調味梅干, chōmi umeboshi)** (honey, bonito, low-salt, etc.) | **About 5–12%** | **Refrigerate**; once opened, follow the label (weeks to months) | Desalted, then re-pickled in a seasoning liquid. **Keeps poorly** |
 
-- One umeboshi (about 10 g) contains **about 2 g of salt equivalent in the plain type and about 0.5–1 g in the low-salt type**. Set that against the **daily salt target (under 7 g)**.
+- One umeboshi (about 10 g) contains **about 2 g of salt equivalent in the plain type and about 0.5–1 g in the low-salt type**. Set that against the **daily salt target (around 7 g)**.
 - The sourness comes from **citric acid**. Claims such as "relieves fatigue" or "kills germs" **may not be made for an ordinary food** (Health Promotion Act; Act against Unjustifiable Premiums and Misleading Representations). **An umeboshi in a lunch box does not stop the rest of the food spoiling** (see the article on bento).
 - **White crystals on the surface** are **salt or citric acid**, not mould. **Fluffy, blue-green or black growth** is mould.
 

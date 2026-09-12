@@ -38,7 +38,7 @@ The **ingredients in miso soup (tofu, potato) spoil easily**. **Do not leave it 
 
 ## Misunderstanding 5｜Miso is high in salt, so it is bad for you
 
-A bowl of miso soup (1 tablespoon of miso) contains **about 2 g of salt**. Japanese households share the habit of **more ingredients, less liquid and a stronger dashi** to keep within the daily target (under 7 g).
+A bowl of miso soup (1 tablespoon of miso) contains **about 2 g of salt**. Japanese households share the habit of **more ingredients, less liquid and a stronger dashi** to keep within the daily target (around 7 g).
 
 ---
 

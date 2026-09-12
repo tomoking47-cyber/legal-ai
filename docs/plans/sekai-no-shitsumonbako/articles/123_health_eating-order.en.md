@@ -9,7 +9,7 @@
 ## Where the official guidance stands
 
 - The **"Japanese Food Guide Spinning Top" (食事バランスガイド)**, issued by the Ministry of Health, Labour and Welfare (MHLW) and the Ministry of Agriculture, Forestry and Fisheries, shows **the balance of amounts between staples, side dishes, main dishes, milk and dairy, and fruit**. It does not prescribe an eating order.
-- **Health Japan 21 (third term)** (健康日本21（第三次）, the national health-promotion plan) sets a target of **350 g of vegetables a day** and **under 7 g of salt a day**.
+- **Health Japan 21 (third term)** (健康日本21（第三次）, the national health-promotion plan) sets a target of **350 g of vegetables a day** and **7 g of salt a day**.
 - "Vegetables first" appears in many municipal health-promotion leaflets as a technique that leads to **chewing well and eating slowly**, and **makes it easier to feel full**.
 
 | Order technique | Expected benefit | Limit |

@@ -14,7 +14,7 @@
 | Position in the Dietary Reference Intakes | **There is no target intake specific to "fermented foods".** **Dietary fibre (at least 21 g for men, 18 g for women)** is what is emphasised as food for gut bacteria |
 | Labelling rules | **Ordinary foods**: no health claims ／ **FOSHU (トクホ, Foods for Specified Health Uses)**: approved claims such as "helps keep your stomach in good condition" ／ **Foods with Function Claims (機能性表示食品)**: within the scope of the notification. **"Chōkatsu" (腸活, "gut activity") is not a legal term** |
 | State of the research | **Some specific strains show effects under specific conditions**, but **the generalisation "fermented foods in general improve health" cannot be made**. **Individual variation is large** |
-| Salt | **Miso, soy sauce and pickles are high in salt.** Keep them within the target of under 7 g a day (see our article on salt) |
+| Salt | **Miso, soy sauce and pickles are high in salt.** Keep them within the daily target — 7 g under Health Japan 21 (third term), or under 7.5 g for men and under 6.5 g for women under the Dietary Reference Intakes 2025 edition (see our article on salt) |
 | Heating | **Most of the bacteria in miso soup are killed by heating**, but **the food's value (umami, nutrients) is unchanged** |
 
 - **Diversity of gut bacteria** is described as **linked to the amount of dietary fibre eaten**; **vegetables, beans, whole grains and seaweed** are the main sources (see our article on dietary fibre).
@@ -33,7 +33,7 @@
 
 ## Misunderstanding 3｜The more fermented food, the better
 
-**Miso, soy sauce and pickles are high in salt**, so there is a ceiling on quantity. Stay within **the daily salt target (under 7 g)**.
+**Miso, soy sauce and pickles are high in salt**, so there is a ceiling on quantity. Stay within **the daily salt target — 7 g under Health Japan 21 (third term), or under 7.5 g for men and under 6.5 g for women under the Dietary Reference Intakes 2025 edition**.
 
 ## Misunderstanding 4｜"Chōkatsu" (gut-activity) products are backed by evidence
 
@@ -49,8 +49,10 @@
 
 - Consumer Affairs Agency, *About Foods for Specified Health Uses* and *About Foods with Function Claims* [特定保健用食品について／機能性表示食品について]
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/
-- Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre)
+- Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre; salt targets)
   https://www.mhlw.go.jp/stf/newpage_44138.html
+- Ministry of Health, Labour and Welfare, *Explanatory materials for promoting Health Japan 21 (third term)* [健康日本21（第三次）推進のための説明資料] (May 2023) (salt intake target)
+  https://www.mhlw.go.jp/content/001426890.pdf
 - Ministry of Health, Labour and Welfare, e-Health Net, *Gut bacteria and health* [腸内細菌と健康]
   https://kennet.mhlw.go.jp/information/information/food/e-05-003.html
 
