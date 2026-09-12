@@ -17,7 +17,7 @@ Onigiri — rice pressed around a filling, wrapped in seaweed — is the Japanes
 | **Salt** | On the surface, **about a pinch per onigiri** | Flavour and mild preservation |
 | **Nori** | **Wrap just before eating** for crisp; **wrap when making** for soft (traditional) | Convenience-store film keeps them separate for this reason |
 | **Cooling** | **Let steam escape before wrapping** in cling film or foil | Trapped steam = soggy and warm = bacteria |
-| **Keeping** | **Room temperature a few hours** (the point); **refrigerated rice hardens** — if you must, microwave briefly before eating; **freeze** without nori, reheat |
+| **Keeping** | **Room temperature a few hours** (the point); **refrigerated rice hardens** — if you must, microwave briefly before eating; **freeze** without nori, reheat | Onigiri is made to be eaten hours later at room temperature; chilling is what hardens the rice |
 
 - **Food safety**: the Ministry of Health's guidance for bento applies — **clean hands or wrap, cook filling through, cool before closing, keep out of heat** (see the bento article). **Salted and pickled fillings** are the traditional safety margin; **mayonnaise fillings need refrigeration in summer**.
 - **Rice for onigiri** is often cooked with **slightly less water**; **"onigiri rice"** is sold as such in some supermarkets.

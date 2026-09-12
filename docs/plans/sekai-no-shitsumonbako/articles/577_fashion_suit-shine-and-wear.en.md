@@ -62,7 +62,7 @@ Sit at a desk all day and the seat, elbows and knees of a suit start to shine. T
   https://www.zenkuren.or.jp/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act: textile products (labelling of wool and polyester)" [家庭用品品質表示法：繊維製品]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- Japan Wool Textile Industry Federation / Woolmark Japan, "Caring for wool products" [ウール製品のお手入れ]
+- The Woolmark Company, "Caring for wool products" [ウール製品のお手入れ]
   https://www.woolmark.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

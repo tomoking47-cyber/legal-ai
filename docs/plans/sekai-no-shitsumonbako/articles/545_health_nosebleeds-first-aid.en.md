@@ -68,8 +68,8 @@ A child's nosebleed, or a nosebleed on a dry winter morning. "Tilt your head bac
 
 ### Sources
 
-- Japan Society of Otolaryngology–Head and Neck Surgery, "Dealing with epistaxis (nosebleeds)" [鼻出血（鼻血）の対処法]
-  https://www.jibika.or.jp/owned/hp/disease/
+- Oto-Rhino-Laryngological Society of Japan (Japan Society of Otolaryngology–Head and Neck Surgery), disease explanations for the public, "Epistaxis" [鼻出血] (check the content_id of the relevant page before publication)
+  https://www.jibika.or.jp/modules/disease_kids/
 - Japan Pediatric Society, "Children's emergencies: nosebleeds" [こどもの救急：鼻血]
   http://kodomo-qq.jp/
 - Fire and Disaster Management Agency, "Emergency care guide: nosebleeds" [救急受診ガイド：鼻出血]

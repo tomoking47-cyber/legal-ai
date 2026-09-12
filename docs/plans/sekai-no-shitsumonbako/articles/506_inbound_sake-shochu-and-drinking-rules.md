@@ -25,7 +25,7 @@ Japan is relaxed about alcohol in some ways — cans in the park, beer from vend
 | **Shōchū** | **Distilled** from sweet potato (imo), barley (mugi), rice (kome) or brown sugar (kokutō) | **20–25%** (up to 45% for genshu) | **With hot water (oyuwari)**, ice, or soda; Kyushu's home drink |
 | **Awamori** | Okinawan rice spirit | 25–43% | With water or ice |
 | **Umeshu** | Plum liqueur | 10–15% | On ice or with soda |
-| **Chūhai / sours** | Shōchū or vodka + soda + fruit, in cans (**3–9%**) | Cheap; **the 9% "Strong" cans are the ones that catch visitors out** |
+| **Chūhai / sours** | Shōchū or vodka + soda + fruit, in cans | **3–9%** | Cheap; **the 9% "Strong" cans are the ones that catch visitors out** |
 | **Highball** | Whisky and soda — the default izakaya drink | 7–9% | — |
 | **Beer** | Asahi, Kirin, Sapporo, Suntory; **happōshu and "third beer"** are cheaper low-malt versions | 5% | — |
 

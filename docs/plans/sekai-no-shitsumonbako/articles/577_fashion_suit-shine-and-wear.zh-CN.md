@@ -62,7 +62,7 @@
   https://www.zenkuren.or.jp/
 - 消费者厅《家庭用品质量标识法：纺织品（羊毛与涤纶的标识）》[家庭用品品質表示法：繊維製品]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 日本毛纺织工业联合会／Woolmark Japan《羊毛制品的保养》[ウール製品のお手入れ]
+- The Woolmark Company（澳大利亚羊毛发展公司）《羊毛制品的保养》[ウール製品のお手入れ]
   https://www.woolmark.jp/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**

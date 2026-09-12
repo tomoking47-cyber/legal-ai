@@ -13,7 +13,7 @@
 | **S / M / L / LL** | **Body-measurement ranges set by JIS L4004 and L4005** (e.g. women's M = bust 79–87 cm, height 154–162 cm) | JIS (a voluntary standard) |
 | **7号 / 9号 / 11号 / 13号** (women) | JIS single-number sizes. **9号 = bust 83 cm, hips 91 cm**, **R = height 158 cm** (written for example "9R"). **The March 2023 revision of JIS L4005 abolished the A / AB / B / Y body-type divisions** | JIS L4005:2023 |
 | **A / Y / AB / B body** (men's suits) | Body type by **the difference between chest and waist**. **A = 12 cm difference (standard), Y = 16 cm (slim), AB = 10 cm, B = 8 cm, BB = 6 cm**. **The March 2023 revision of JIS L4004 removed the body-type labels altogether**, so they survive only as industry practice | Former JIS L4004:2001 (current: JIS L4004:2023) |
-| **36 / 38 / 40** (womenswear) | Brand labelling **borrowed from the French system**. **Not JIS** |
+| **36 / 38 / 40** (womenswear) | Brand labelling **borrowed from the French system**. **Not JIS** | Each maker's own label |
 | **Actual measurements** (length, chest width, shoulder width, sleeve length) | **The garment measured flat**. **The most reliable guide** | Each maker's own label |
 | **Legal duty** | Under the Household Goods Quality Labelling Act (Japan's labelling law), **size is not compulsory** (fibre composition, care label and the labeller's name are) | Consumer Affairs Agency |
 

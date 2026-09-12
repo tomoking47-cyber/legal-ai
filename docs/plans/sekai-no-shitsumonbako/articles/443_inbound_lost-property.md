@@ -13,9 +13,9 @@ Japan's reputation for returning lost wallets is deserved and it rests on a syst
 | **1. Same day** | **The venue** (station office, shop, restaurant, taxi company) | Items are kept locally for **a few days to a week** before going to police; **JR East has an English lost-and-found phone line and online form** |
 | **2. Within days** | **Police lost-property centre (遺失物センター)** or any **kōban** | File a report (遺失届); **Tokyo Metropolitan Police has English guidance pages, but its online search of found items is Japanese-only** (use browser translation or ask at a kōban); other prefectures by phone |
 | **3. Passport** | Police report → **your embassy or consulate** for an emergency passport | Keep a photocopy separately |
-| **4. Cards and phones** | Cancel cards; **phones are usually found** — use the tracking app, and note that finders often leave phones with the venue |
+| **4. Cards and phones** | **Your card company**; the venue | Cancel cards; **phones are usually found** — use the tracking app, and note that finders often leave phones with the venue |
 | Reward | Finder is legally entitled to **5–20% of the value** (halved to 2.5–10% when the item was found inside a station, shop or other facility, which takes the other half); **most decline** | Lost Property Act, Art. 28 |
-| Retention | Police hold items **3 months**; unclaimed valuables go to the finder or the prefecture |
+| Retention | Police hold items **3 months**; unclaimed valuables go to the finder or the prefecture | Lost Property Act |
 
 - **Tokyo Metropolitan Police** logged about **4.1 million found-property reports (4.4 million items) in 2023**, up 19%; **cash handed in reached a record ¥4.4 billion**, of which about **three-quarters was returned to owners**.
 - The **Lost Property Act (revised 2007)** requires finders to hand in items promptly, creates the police database, and allows quick disposal of perishables and low-value items; the finder's reward and the option to keep unclaimed items are incentives.

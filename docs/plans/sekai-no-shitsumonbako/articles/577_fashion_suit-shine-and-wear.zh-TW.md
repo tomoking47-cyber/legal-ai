@@ -62,7 +62,7 @@
   https://www.zenkuren.or.jp/
 - 消費者廳《家庭用品品質標示法：紡織品（羊毛與聚酯纖維的標示）》[家庭用品品質表示法：繊維製品]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 日本毛紡織工業聯合會／Woolmark Japan《羊毛製品的保養》[ウール製品のお手入れ]
+- The Woolmark Company（澳洲羊毛發展公司）《羊毛製品的保養》[ウール製品のお手入れ]
   https://www.woolmark.jp/
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**

@@ -68,8 +68,8 @@
 
 ### 出典
 
-- 日本耳鼻咽喉科頭頸部外科学会「鼻出血（鼻血）の対処法」
-  https://www.jibika.or.jp/owned/hp/disease/
+- 一般社団法人 日本耳鼻咽喉科頭頸部外科学会 一般向け疾患解説「鼻出血」（該当ページのcontent_idを確認して記載すること）
+  https://www.jibika.or.jp/modules/disease_kids/
 - 日本小児科学会「こどもの救急：鼻血」
   http://kodomo-qq.jp/
 - 消防庁「救急受診ガイド：鼻出血」

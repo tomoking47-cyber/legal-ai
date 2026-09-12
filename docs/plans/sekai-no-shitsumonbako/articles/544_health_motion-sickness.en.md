@@ -62,11 +62,11 @@ Cars, buses, ferries, planes — and lately VR headsets. Motion sickness is most
 
 ### Sources
 
-- Japan Society for Equilibrium Research, "Motion sickness" [動揺病（乗り物酔い）]
+- Japan Society for Equilibrium Research (identify the URL of the page that covers motion sickness [動揺病] before publication)
   https://www.memai.jp/
-- Ministry of Health, Labour and Welfare (MHLW), "OTC medicines: precautions for use of anti-motion-sickness drugs" [一般用医薬品：鎮暈薬（乗り物酔い薬）の使用上の注意]
-  https://www.mhlw.go.jp/
-- Japan Pediatric Society, "Motion sickness in children" [こどもの乗り物酔い]
+- Pharmaceuticals and Medical Devices Agency (PMDA), package insert information for OTC medicines (dosage and precautions for anti-motion-sickness drugs [鎮暈薬]; identify the page for the specific product before publication)
+  https://www.pmda.go.jp/
+- Japan Pediatric Society (no page titled "Motion sickness in children" [こどもの乗り物酔い] could be confirmed; identify the relevant page or replace this source)
   https://www.jpeds.or.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

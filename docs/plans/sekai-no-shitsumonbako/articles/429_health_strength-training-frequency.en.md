@@ -12,11 +12,11 @@ In 2023, the Ministry of Health, Labour and Welfare (MHLW) guide stated "2–3 d
 |---|---|---|---|
 | **Adults (18–64)** | **2–3 days a week** | Exercises using the major muscle groups (squats, push-ups, core). **10–15 reps make one set; 1–3 sets a day** | 2–3 days a week = Physical Activity and Exercise Guide 2023; reps and sets = e-Health Net, "Resistance exercise" |
 | **Older people (65 and over)** | **2–3 days a week** | Strength training plus **balance exercises** (one-leg standing etc.). Do it safely: **use a chair, keep a hand on the wall** | Same |
-| Recovery | | **Leave 48–72 hours between sessions for the same muscle group** (on consecutive days, split body parts) | Exercise physiology |
-| Load | | **Stop with "2–3 more reps" in reserve.** **If your form breaks down, that is too many** | Same |
-| Breathing | | **Do not hold your breath** (raises blood pressure). **Breathe out on the effort** | Same |
-| Equipment | | **Your own body weight is enough to start.** Add dumbbells or resistance bands step by step | — |
-| Existing conditions | | **High blood pressure, heart disease, joint problems**: ask your doctor. **Stop if it hurts** | — |
+| Recovery | — | **Leave 48–72 hours between sessions for the same muscle group** (on consecutive days, split body parts) | Exercise physiology |
+| Load | — | **Stop with "2–3 more reps" in reserve.** **If your form breaks down, that is too many** | Same |
+| Breathing | — | **Do not hold your breath** (raises blood pressure). **Breathe out on the effort** | Same |
+| Equipment | — | **Your own body weight is enough to start.** Add dumbbells or resistance bands step by step | — |
+| Existing conditions | — | **High blood pressure, heart disease, joint problems**: ask your doctor. **Stop if it hurts** | — |
 
 - The 2023 guide states that **strength training is associated with lower risk of death, lifestyle diseases and needing long-term care**, and sets **2–3 days a week separately from aerobic exercise such as walking**. **Among people in Japan aged 18 and over, only about 15–18% do any strength training even once a year** (Sasakawa Sports Foundation, *Sports Life Data*), and the rate is **higher in their 20s and lower in middle and older age**.
 - **Muscle mass is generally described as falling about 1% a year from the 30s**, and **sarcopenia (muscle loss) in old age** is a main cause of falls and needing care (see our article on locomo). **Many studies show that strength increases in older people who train.**
