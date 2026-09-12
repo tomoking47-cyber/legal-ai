@@ -8,7 +8,7 @@ Mending is often presented abroad as a philosophy about imperfection. In daily l
 
 ## The context in numbers
 
-Japan generated about **4.61 million tonnes of food loss in fiscal 2024** — about half of it from households. The Ministry of the Environment tracks this alongside broader circular-economy targets. Repair sits in the same policy space: **keeping objects in use is treated as waste prevention, not nostalgia.**
+Japan generated about **4.61 million tonnes of food loss in fiscal 2024** — just under half of it from households. The Ministry of the Environment and the Ministry of Agriculture, Forestry and Fisheries publish the estimate jointly, alongside broader circular-economy targets. Repair sits in the same policy space: **keeping objects in use is treated as waste prevention, not nostalgia.**
 
 Shoe-repair counters in stations, knife-sharpening services and clothing-alteration shops remain common because **the infrastructure for repair never went away.**
 

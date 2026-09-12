@@ -4,13 +4,13 @@
 
 With the spread of gel nails, complaints about nail problems have risen in Japan too. In overseas communities the recurring question is "do nails need a rest period?". This article sets things out, including a case where the Consumer Affairs Agency (Japan's consumer watchdog) issued a public warning.
 
-## A. The biggest misunderstanding is "nails are hard, so anything goes." Nails are part of the skin. They can thin, or the surrounding skin can react, through drying by acetone remover, forcing gel off, or a reaction to gel under the curing lamp. In 2023 the Consumer Affairs Agency reported a rise in complaints of skin disorders caused by gel nails.
+## A. The biggest misunderstanding is "nails are hard, so anything goes." Nails are part of the skin. They can thin, or the surrounding skin can react, through drying by acetone remover, forcing gel off, or a reaction to gel under the curing lamp. The National Consumer Affairs Center of Japan has also received complaints of itching, swelling and blisters after gel nails.
 
 ## What to base your decision on
 
 | Item | Details |
 |---|---|
-| Consumer Affairs Agency warning (2023) | More complaints of **rashes, nail discolouration and nail separation** from **DIY gel nails**. Allergy (**to HEMA and other acrylates**) from **under-cured gel** touching the skin was identified |
+| Complaints to the National Consumer Affairs Center of Japan | Cases of **itching, swelling and blisters** from **gel nails**. Allergy (**to HEMA and other acrylates**) from **under-cured gel** touching the skin is reported in the dermatology literature |
 | Remover | **Acetone strips oil** from the nail and surrounding skin. **Wash your hands and moisturise** afterwards |
 | Removing gel | **Do not force it off** (it takes the nail surface with it). **Soak it off with solvent.** Having it removed at a salon is the safe side |
 | Nail growth rate | Fingernails grow **about 0.1 mm a day**; full replacement takes **about six months** |
@@ -42,8 +42,8 @@ White spots on the nails (punctate leukonychia) are generally described as **mos
 
 ### Sources
 
-- Consumer Affairs Agency, "Beware of skin disorders from DIY gel nails" (public warning) [セルフジェルネイルによる皮膚障害に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- National Consumer Affairs Center of Japan, "Gel nails that caused burns by heating up during curing" (From tests for resolving complaints, No.123) [硬化時に発熱してやけどを負ったジェルネイル]
+  https://www.kokusen.go.jp/news/data/n-20180906_3.html
 - National Consumer Affairs Center of Japan, "Harm caused by gel nails" [ジェルネイルによる危害]
   https://www.kokusen.go.jp/
 - Japanese Dermatological Association, "Dermatology Q&A — Nail disorders" [皮膚科Q&A　爪の病気]
