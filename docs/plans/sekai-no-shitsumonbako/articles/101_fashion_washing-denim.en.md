@@ -49,8 +49,8 @@ High heat damages the fibres. That is all the more true if the label shows **"do
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Textile Goods Quality Labelling Regulations" [消費者庁「家庭用品品質表示法　繊維製品品質表示規程」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- Government Public Relations Online, "The new care labels are made up of five basic symbols" [政府広報オンライン「新しい洗濯表示は、5つの基本記号で構成されています」]
-  https://www.gov-online.go.jp/useful/article/201611/1.html
+- Government Public Relations Online, "It is the season to change your wardrobe. Are you washing your clothes correctly?" — five basic symbols; 43 symbols after the August 2024 revision [政府広報オンライン「衣替えの季節です。あなたは正しく洗濯していますか？」（5つの基本記号／令和6年8月改正で43種類）]
+  https://www.gov-online.go.jp/article/201812/entry-9307.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

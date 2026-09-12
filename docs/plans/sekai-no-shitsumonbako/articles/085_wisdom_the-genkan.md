@@ -4,7 +4,7 @@
 
 The entrance area of a Japanese home is usually described as a hallway. It works more like a threshold — and in a home of 90.86 m², a threshold is worth the floor space it takes.
 
-## A. The common misunderstanding is that it is wasted floor space. It is the boundary that keeps outdoor dirt out of the rest of the home, and it has been there since at least the Heian period.
+## A. The common misunderstanding is that it is wasted floor space. It is the boundary that keeps outdoor dirt out of the rest of the home, and the custom of leaving footwear at that boundary goes back at least to the Heian period.
 
 ## Why a small home gives up floor to it
 

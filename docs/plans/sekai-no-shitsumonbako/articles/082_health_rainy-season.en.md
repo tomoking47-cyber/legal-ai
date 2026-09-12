@@ -9,7 +9,7 @@ Japan's rainy season, *tsuyu* (梅雨), runs from roughly June into July, and ma
 ## Where the research stands
 
 - Previous studies of weather and headache are generally described as **mostly small, with no study showing consistent results.**
-- In 2021, with the cooperation of specialists from the Japanese Headache Society, an analysis began using **headache records from 4,375 people together with weather data from the Japan Meteorological Agency**. It suggests that **migraine attacks tend to occur around the approach of a low-pressure system**, and that **a pressure drop of only about 5–10 hPa makes them more likely**.
+- In February 2023, a joint research team from BellSystem24 and several medical institutions (the neurosurgery department of Itoigawa General Hospital, Dokkyo Medical University and others) published a paper in *Headache*, the journal of the American Headache Society, in which **headache records from 4,375 people (December 2020 to November 2021) and weather data from the Japan Meteorological Agency** were analysed with AI. **Low atmospheric pressure, high humidity, rainfall, and a large drop in pressure compared with six hours earlier** were among the factors most strongly associated with the onset of headaches.
 - However, **the mechanism is generally described as "still not clearly understood"**.
 
 **"A link is suggested. The mechanism is unexplained."** That is the honest summary as of 2026.
@@ -40,6 +40,8 @@ Keeping a regular daily rhythm is recommended, but **it cannot be asserted that 
 
 ### Sources
 
+- BellSystem24 and joint research team, "Joint research on weather and the onset of headaches" (published in *Headache*, the journal of the American Headache Society, February 2023) [株式会社ベルシステム24ほか共同研究チーム]
+  https://www.bell24.co.jp/ja/news/holdings/20230303-1/
 - Japanese Headache Society [一般社団法人 日本頭痛学会]
   https://www.jhsnet.net/
 - Japan Meteorological Agency, weather data [気象庁 気象データ]

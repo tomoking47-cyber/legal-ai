@@ -48,8 +48,10 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 消費者廳《家庭用品品質標示法　雜貨工業品品質標示規程（洗劑・漂白劑）》[消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
-- 東京都保健醫療局《氯系清潔劑・漂白劑的安全使用方法》[東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
+- 東京都保健醫療局　生活安全系列《居家清潔劑　正確使用，安全生活》[東京都保健医療局　くらしの安全シリーズ「住まいの洗浄剤　正しく使って安全な暮らし」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
+- 國民生活中心《住宅用氯系清潔劑的使用方法——切勿混合　危險！浴室等處已發生事故》（2026年3月18日）[国民生活センター「住宅用塩素系洗浄剤の使い方－まぜるな危険！浴室などで事故が発生しています－」（2026年3月18日）]
+  https://www.kokusen.go.jp/news/data/n-20260318_1.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

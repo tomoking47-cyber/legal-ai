@@ -10,7 +10,7 @@
 
 日本肥皂清潔劑工業會（Japan Soap and Detergent Association，日本石鹸洗剤工業会）的報告指出，**補充包所用的塑膠，比它所取代的原裝瓶少大約 70–80%**。
 
-同一個協會也統計會員企業的包裝塑膠總量。就其五大主要產品類別而言，**2022 年的塑膠用量約為 606,000 公噸——與前一年大致持平，但比 1995 年高出 25.3%。**
+同一個協會也統計會員企業的包裝塑膠總量。就其五大主要產品類別而言，**2022 調查年度的塑膠用量約為 606,000 公噸——與前一年大致持平，但比 1995 年高出 25.3%。** 發布前請查閱該協會最新的《環境年報》以確認目前的數值。
 
 **兩件事都是事實。** 單位包裝量大幅下降；總量上升是因為消費成長了。補充包是真實的節省，但不是已經解決的問題。
 
@@ -41,8 +41,8 @@
 ### 出處
 - 日本肥皂清潔劑工業會（Japan Soap and Detergent Association）——「包裝與 3R 措施」
   https://jsda.org/w/02_anzen/3kankyo_7.htm
-- 日本肥皂清潔劑工業會（Japan Soap and Detergent Association），《統計年報第 74 號（2024）》（*Statistical Annual Report No. 74 (2024)*）
-  https://jsda.org/w/00_jsda/9_Annual-Report/No74_2024_Statistical_Annual_Report.pdf
+- 日本肥皂清潔劑工業會（Japan Soap and Detergent Association），《環境年報》（環境年報，*Environmental Annual Report*）Vol. 48（2023 年版）及其後各版
+  https://jsda.org/w/00_jsda/9_Annual-Report/Environmental-Annual-Report_Vol.48_2023.pdf
 - 環境省（Ministry of the Environment）——塑膠資源循環
   https://www.env.go.jp/recycle/plastic/
 

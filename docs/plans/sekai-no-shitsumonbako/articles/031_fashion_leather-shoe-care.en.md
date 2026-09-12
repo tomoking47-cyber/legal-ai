@@ -4,12 +4,12 @@
 
 Advice on leather shoes usually starts with tools and polishing routines. Before any of that, there is a number most people miss. In Japan's humid summers it is worth taking seriously.
 
-## A. The biggest misunderstanding is "polishing is what care means". Your feet sweat about a glassful a day, and leather takes half a day to a full day to dry. Resting the shoes is the heart of shoe care.
+## A. The biggest misunderstanding is "polishing is what care means". Your feet sweat about a glassful a day, and leather takes one to two days to dry. Resting the shoes is the heart of shoe care.
 
 ## The numbers behind "rest them"
 
 - Sweat from the feet is generally described as **about one glass (コップ1杯) a day**.
-- Moisture absorbed by a leather shoe takes **half a day to a full day** to dry out.
+- Moisture absorbed by a leather shoe is said to take **one to two days (around 48 hours)** to dry out, and longer in humid seasons.
 - Hence the industry recommends **"wear for one day, rest for two or three days"**.
 - Wearing shoes that are still damp day after day speeds up deterioration and shortens their life.
 

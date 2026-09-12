@@ -48,8 +48,8 @@
 
 - 후생노동성(MHLW) 「화장품 효능 범위의 개정에 대하여」 (薬食発0721第1号, 2011년 7월 21일) [化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 일본피부과학회 「피부과 Q&A 머리카락의 질환」 [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 일본피부과학회 「피부과 Q&A 탈모증」 [皮膚科Q&A　脱毛症]
+  https://qa.dermatol.or.jp/qa11/
 - 소비자청 「가정용품품질표시법」 [家庭用品品質表示法]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

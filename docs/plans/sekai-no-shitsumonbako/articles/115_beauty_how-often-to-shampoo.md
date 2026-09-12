@@ -48,8 +48,8 @@
 
 - 厚生労働省「化粧品の効能の範囲の改正について」（薬食発0721第1号、平成23年7月21日）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 公益社団法人日本皮膚科学会「皮膚科Q&A　髪の毛の病気」
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 公益社団法人日本皮膚科学会「皮膚科Q&A　脱毛症」
+  https://qa.dermatol.or.jp/qa11/
 - 消費者庁「家庭用品品質表示法」
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

@@ -48,8 +48,8 @@
 
 - 厚生劳动省（MHLW）「关于化妆品功效范围的修订」（薬食発0721第1号，2011 年 7 月 21 日）[化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 日本皮肤科学会「皮肤科 Q&A　头发的疾病」[皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 日本皮肤科学会「皮肤科 Q&A　脱发症」[皮膚科Q&A　脱毛症]
+  https://qa.dermatol.or.jp/qa11/
 - 消费者厅「家庭用品品质表示法」[家庭用品品質表示法]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

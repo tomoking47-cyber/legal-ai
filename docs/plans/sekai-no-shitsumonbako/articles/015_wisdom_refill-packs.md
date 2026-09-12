@@ -10,7 +10,7 @@ Walk down a household aisle here and a large share of the shelf is contents with
 
 The Japan Soap and Detergent Association reports that a **refill pouch uses roughly 70–80% less plastic than the original bottle** it replaces.
 
-The same association also tracks total packaging plastic across its member companies. For its five main product groups, **plastic use in 2022 was about 606,000 tonnes — roughly flat on the year, but 25.3% higher than in 1995.**
+The same association also tracks total packaging plastic across its member companies. For its five main product groups, **plastic use in the 2022 survey year was about 606,000 tonnes — roughly flat on the year, but 25.3% higher than in 1995.** Check the association's latest Environmental Annual Report for the current figure before publication.
 
 **Both facts are true.** Per-unit packaging fell sharply; total volume rose because consumption grew. Refills are a real saving, not a solved problem.
 
@@ -41,8 +41,8 @@ Refills exist for cosmetics, seasonings, stationery and more. **Once the format 
 ### Sources
 - Japan Soap and Detergent Association — "Packaging and 3R measures"
   https://jsda.org/w/02_anzen/3kankyo_7.htm
-- Japan Soap and Detergent Association, *Statistical Annual Report No. 74 (2024)*
-  https://jsda.org/w/00_jsda/9_Annual-Report/No74_2024_Statistical_Annual_Report.pdf
+- Japan Soap and Detergent Association, *Environmental Annual Report* (環境年報) Vol. 48 (2023 edition) and later
+  https://jsda.org/w/00_jsda/9_Annual-Report/Environmental-Annual-Report_Vol.48_2023.pdf
 - Ministry of the Environment — plastic resource circulation
   https://www.env.go.jp/recycle/plastic/
 

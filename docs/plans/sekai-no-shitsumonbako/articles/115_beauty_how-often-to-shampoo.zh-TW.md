@@ -48,8 +48,8 @@
 
 - 厚生勞動省（MHLW）「化妝品效能範圍的修訂」（薬食発0721第1号，2011 年 7 月 21 日）[化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 日本皮膚科學會「皮膚科 Q&A　頭髮的疾病」[皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 日本皮膚科學會「皮膚科 Q&A　落髮症」[皮膚科Q&A　脱毛症]
+  https://qa.dermatol.or.jp/qa11/
 - 消費者廳「家庭用品品質表示法」[家庭用品品質表示法]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

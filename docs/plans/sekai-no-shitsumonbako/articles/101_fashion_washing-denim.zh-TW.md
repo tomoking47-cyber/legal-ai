@@ -49,8 +49,8 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 消費者廳《家庭用品品質標示法　纖維製品品質標示規程》[消費者庁「家庭用品品質表示法　繊維製品品質表示規程」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 政府公關線上《新的洗滌標示由5個基本符號構成》[政府広報オンライン「新しい洗濯表示は、5つの基本記号で構成されています」]
-  https://www.gov-online.go.jp/useful/article/201611/1.html
+- 政府公關線上《換季的季節到了。您洗滌的方法正確嗎？》——5個基本符號／2024年8月修訂後共43種 [政府広報オンライン「衣替えの季節です。あなたは正しく洗濯していますか？」（5つの基本記号／令和6年8月改正で43種類）]
+  https://www.gov-online.go.jp/article/201812/entry-9307.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

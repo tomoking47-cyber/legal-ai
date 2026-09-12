@@ -49,8 +49,8 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 소비자청 「가정용품 품질표시법　섬유제품 품질표시 규정」 [消費者庁「家庭用品品質表示法　繊維製品品質表示規程」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 정부홍보 온라인 「새로운 취급 표시는 5개의 기본 기호로 구성되어 있습니다」 [政府広報オンライン「新しい洗濯表示は、5つの基本記号で構成されています」]
-  https://www.gov-online.go.jp/useful/article/201611/1.html
+- 정부홍보 온라인 「옷을 바꿔 입는 계절입니다. 올바르게 세탁하고 계십니까?」 5개의 기본 기호／2024년 8월 개정으로 43종 [政府広報オンライン「衣替えの季節です。あなたは正しく洗濯していますか？」（5つの基本記号／令和6年8月改正で43種類）]
+  https://www.gov-online.go.jp/article/201812/entry-9307.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

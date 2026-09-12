@@ -48,8 +48,10 @@ Powdered oxygen bleach is generally described as working better at **around 40�
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Industrial Goods Quality Labelling Regulations (detergents and bleach)" [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
-- Tokyo Metropolitan Bureau of Public Health, "Safe use of chlorine-based cleaners and bleach" [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
+- Tokyo Metropolitan Bureau of Public Health, Everyday Safety series, "Household cleaners: use them correctly for a safe home" [東京都保健医療局　くらしの安全シリーズ「住まいの洗浄剤　正しく使って安全な暮らし」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
+- National Consumer Affairs Center of Japan, "Using chlorine-based household cleaners — do not mix! Accidents are happening in bathrooms and elsewhere" (18 March 2026) [国民生活センター「住宅用塩素系洗浄剤の使い方－まぜるな危険！浴室などで事故が発生しています－」（2026年3月18日）]
+  https://www.kokusen.go.jp/news/data/n-20260318_1.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

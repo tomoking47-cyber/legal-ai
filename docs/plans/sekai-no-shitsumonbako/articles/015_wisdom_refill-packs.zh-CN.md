@@ -10,7 +10,7 @@
 
 日本肥皂洗涤剂工业会（Japan Soap and Detergent Association，日本石鹸洗剤工業会）的报告显示，**替换装软包所用的塑料，比它所替代的原装瓶少大约 70–80%**。
 
-同一协会也统计其会员企业的包装塑料总量。就其五大主要产品类别而言，**2022 年的塑料用量约为 606,000 吨——与上一年基本持平，但比 1995 年高出 25.3%。**
+同一协会也统计其会员企业的包装塑料总量。就其五大主要产品类别而言，**2022 调查年度的塑料用量约为 606,000 吨——与上一年基本持平，但比 1995 年高出 25.3%。** 发布前请查阅该协会最新的《环境年报》以确认当前数值。
 
 **两个事实都成立。** 单位包装量大幅下降；总量上升是因为消费增长了。替换装是真实的节约，但不是已经解决的问题。
 
@@ -41,8 +41,8 @@
 ### 出处
 - 日本肥皂洗涤剂工业会（Japan Soap and Detergent Association）——"包装与 3R 措施"
   https://jsda.org/w/02_anzen/3kankyo_7.htm
-- 日本肥皂洗涤剂工业会（Japan Soap and Detergent Association），《统计年报第 74 号（2024）》（*Statistical Annual Report No. 74 (2024)*）
-  https://jsda.org/w/00_jsda/9_Annual-Report/No74_2024_Statistical_Annual_Report.pdf
+- 日本肥皂洗涤剂工业会（Japan Soap and Detergent Association），《环境年报》（環境年報，*Environmental Annual Report*）Vol. 48（2023 年版）及其后各版
+  https://jsda.org/w/00_jsda/9_Annual-Report/Environmental-Annual-Report_Vol.48_2023.pdf
 - 环境省（Ministry of the Environment）——塑料资源循环
   https://www.env.go.jp/recycle/plastic/
 

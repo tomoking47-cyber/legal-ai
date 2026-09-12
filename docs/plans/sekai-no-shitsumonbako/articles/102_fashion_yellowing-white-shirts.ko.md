@@ -48,8 +48,10 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 소비자청 「가정용품 품질표시법　잡화공업품 품질표시 규정(세제·표백제)」 [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
-- 도쿄도 보건의료국 「염소계 세정제·표백제의 안전한 사용법」 [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
+- 도쿄도 보건의료국 생활안전 시리즈 「주거용 세정제, 올바르게 사용해 안전한 생활」 [東京都保健医療局　くらしの安全シリーズ「住まいの洗浄剤　正しく使って安全な暮らし」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
+- 국민생활센터 「주택용 염소계 세정제 사용법 — 섞지 마시오 위험! 욕실 등에서 사고가 발생하고 있습니다」(2026년 3월 18일) [国民生活センター「住宅用塩素系洗浄剤の使い方－まぜるな危険！浴室などで事故が発生しています－」（2026年3月18日）]
+  https://www.kokusen.go.jp/news/data/n-20260318_1.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

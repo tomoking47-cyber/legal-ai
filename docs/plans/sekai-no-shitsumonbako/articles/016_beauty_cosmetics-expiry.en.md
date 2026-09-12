@@ -22,7 +22,7 @@ All other cosmetics are exempt from date labelling on the assumption that they *
 
 ## Misunderstanding 1｜No date, so it can be used for ever
 
-No label and no deterioration are two different things. **The lot number printed on the base or back of the container is a clue to when it was made.**
+No label and no deterioration are two different things. There is a lot number printed on the base or back of the container, but **each manufacturer sets its own coding, so a consumer cannot necessarily read the date of manufacture from it.** If you want to know, note the number down and ask the manufacturer's customer service desk.
 
 ## Misunderstanding 2｜Unopened and opened are the same
 

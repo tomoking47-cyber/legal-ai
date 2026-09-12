@@ -10,7 +10,7 @@
 
 일본 비누·세제 공업회(Japan Soap and Detergent Association, 日本石鹸洗剤工業会)의 보고에 따르면, **리필 파우치는 그것이 대체하는 원래 용기보다 플라스틱을 약 70–80% 적게 사용합니다.**
 
-같은 공업회는 회원사의 포장용 플라스틱 총량도 집계합니다. 주요 5개 제품군을 기준으로 **2022년 플라스틱 사용량은 약 606,000톤으로, 전년과 거의 같은 수준이지만 1995년보다는 25.3% 많았습니다.**
+같은 공업회는 회원사의 포장용 플라스틱 총량도 집계합니다. 주요 5개 제품군을 기준으로 **2022년 조사 연도의 플라스틱 사용량은 약 606,000톤으로, 전년과 거의 같은 수준이지만 1995년보다는 25.3% 많았습니다.** 게재 전에 공업회의 최신 『환경 연보』에서 현재 수치를 확인해 주십시오.
 
 **두 사실은 모두 참입니다.** 단위당 포장은 크게 줄었고, 총량은 소비가 늘어서 증가했습니다. 리필은 실제로 절감 효과가 있지만, 해결된 문제는 아닙니다.
 
@@ -41,8 +41,8 @@
 ### 출처
 - 일본 비누·세제 공업회(Japan Soap and Detergent Association) — 「포장과 3R 대책」
   https://jsda.org/w/02_anzen/3kankyo_7.htm
-- 일본 비누·세제 공업회(Japan Soap and Detergent Association), 『통계 연보 제74호(2024)』(*Statistical Annual Report No. 74 (2024)*)
-  https://jsda.org/w/00_jsda/9_Annual-Report/No74_2024_Statistical_Annual_Report.pdf
+- 일본 비누·세제 공업회(Japan Soap and Detergent Association), 『환경 연보』(環境年報, *Environmental Annual Report*) Vol. 48(2023년판) 및 이후 판
+  https://jsda.org/w/00_jsda/9_Annual-Report/Environmental-Annual-Report_Vol.48_2023.pdf
 - 환경성(Ministry of the Environment) — 플라스틱 자원 순환
   https://www.env.go.jp/recycle/plastic/
 

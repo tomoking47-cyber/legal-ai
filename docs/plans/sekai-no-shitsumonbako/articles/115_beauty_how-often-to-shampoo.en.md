@@ -48,8 +48,8 @@ Residue **causes itching and dandruff**. A guide shared among people in Japan is
 
 - Ministry of Health, Labour and Welfare (MHLW), "Revision of the scope of cosmetic efficacy claims" (Yakushoku-hatsu 0721 No. 1, 21 July 2011) [化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- Japanese Dermatological Association, "Dermatology Q&A: Diseases of the hair" [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- Japanese Dermatological Association, "Dermatology Q&A: Alopecia (hair loss)" [皮膚科Q&A　脱毛症]
+  https://qa.dermatol.or.jp/qa11/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act" [家庭用品品質表示法]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 
