@@ -46,8 +46,8 @@ Usually it is **sweat condensation** (reduced breathability) or **water getting 
 
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- National Consumer Affairs Center of Japan, "Accidents from using waterproofing sprays" [防水スプレーの使用による事故] (2018)
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- Japan Poison Information Center, "Accidents while using waterproofing sprays" [防水スプレーを使用中の事故]
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
 - Japan Textile Products Quality and Technology Center (QTEC), "Waterproof and water-repellent performance" [防水・撥水性能]
   https://www.qtec.or.jp/
 

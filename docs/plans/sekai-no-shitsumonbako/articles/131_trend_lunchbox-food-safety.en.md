@@ -10,7 +10,7 @@ Packed lunches exist in every culture, but the Japanese bento is made to be carr
 
 - The MHLW sums up food-poisoning prevention in three principles: **"don't contaminate, don't let it multiply, kill it"**.
 - Most bacteria **multiply slowly below 10°C and stop below −15°C**, and are generally described as killed by **heating to a core temperature of 75°C for at least 1 minute** (norovirus: 85–90°C for at least 90 seconds).
-- In 2023 (Reiwa 5) Japan recorded **1,021 food-poisoning incidents with 11,803 patients** (MHLW food-poisoning statistics). Restaurants are the most common source, but **homes account for around 100 incidents every year**.
+- In 2025 (Reiwa 7) Japan recorded **1,172 food-poisoning incidents with 24,727 patients** (MHLW food-poisoning statistics). Restaurants are the most common source, but **homes account for around 100 incidents every year** (108 in 2024).
 
 | Lunchbox practice | Principle |
 |---|---|

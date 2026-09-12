@@ -46,8 +46,8 @@
 
 ### 出处
 
-- 日本皮肤科学会「皮膚科Q&A　日焼け（サンバーン）」（皮肤科 Q&A　晒伤）
-  https://www.dermatol.or.jp/qa/qa6/index.html
+- 日本皮肤科学会「皮膚科Q&A」（皮肤科 Q&A）
+  https://www.dermatol.or.jp/qa/
 - 环境省「紫外線環境保健マニュアル2020」（紫外线环境保健手册 2020）
   https://www.env.go.jp/content/900410650.pdf
 - 厚生劳动省「化粧品の効能の範囲の改正について」（关于化妆品效能范围的修订）（药食发 0721 第 1 号）

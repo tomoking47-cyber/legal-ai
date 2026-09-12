@@ -17,7 +17,7 @@ Yoghurt is the classic example of a food people assume "is fermented, so the dat
 | Signs to throw it away | **Too sour, bitter, pink/black/green spots (mould), a bulging lid, a smell of alcohol** |
 | Freezing | Possible, but **the texture changes** (it separates). Eating it as frozen yoghurt is one option |
 
-- Most yoghurt is labelled **"fermented milk" (発酵乳, hakkō-nyū)**, defined in Japan's Ministerial Ordinance on Milk and Milk Products as **non-fat milk solids of 8.0% or more and 10 million or more lactic acid bacteria per 1 mL**.
+- Most yoghurt is labelled **"fermented milk" (発酵乳, hakkō-nyū)**, defined in Japan's Order on Milk and Milk Products (乳等命令, formerly the Ministerial Ordinance 乳等省令) as **non-fat milk solids of 8.0% or more and 10 million or more lactic acid bacteria or yeasts per 1 mL**.
 - Claims such as **"reaches the gut alive"** are allowed only on products approved or notified as **Foods with Function Claims or Foods for Specified Health Uses (FOSHU, トクホ)**, two Japanese regulated categories; **ordinary yoghurt cannot carry them** (Health Promotion Act; Act against Unjustifiable Premiums and Misleading Representations).
 - **A best-before date (賞味期限, shōmi kigen) is the limit for eating the food at its best**; it differs from a use-by date (消費期限) (see the article on date labelling).
 
@@ -47,7 +47,7 @@ Yoghurt is the classic example of a food people assume "is fermented, so the dat
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Ministerial Ordinance on Milk and Milk Products Concerning Compositional Standards" [乳及び乳製品の成分規格等に関する省令（乳等省令）]
+- Consumer Affairs Agency, "Order on Compositional Standards etc. for Milk and Milk Products" [乳及び乳製品の成分規格等に関する命令（乳等命令）] — in April 2024 food-hygiene standard-setting moved from the Ministry of Health, Labour and Welfare to the Consumer Affairs Agency and the former 乳等省令 was renamed
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
 - Consumer Affairs Agency, "Foods with Function Claims" and "Foods for Specified Health Uses" [機能性表示食品について／特定保健用食品について]
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/

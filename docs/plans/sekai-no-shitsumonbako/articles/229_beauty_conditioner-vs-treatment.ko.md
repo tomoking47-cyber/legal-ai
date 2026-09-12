@@ -48,8 +48,8 @@
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 일본화장품공업연합회(日本化粧品工業連合会) 「化粧品等の適正広告ガイドライン」(화장품 등의 적정 광고 가이드라인)(모발 관련 표현)
   https://www.jcia.org/user/business/advertising
-- 일본피부과학회 「皮膚科Q&A　髪の毛の病気」(피부과 Q&A 머리카락의 질환)
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 일본피부과학회 「皮膚科Q&A　脱毛症」(피부과 Q&A 탈모증)
+  https://www.dermatol.or.jp/qa/qa11/
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

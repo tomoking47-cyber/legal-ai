@@ -18,7 +18,7 @@ Wiping your lenses on your shirt is a habit the world over, and it is the one Ja
 
 | Avoid | Why |
 |---|---|
-| **Hot water (40°C / 104°F or above)** | The coating cracks |
+| **Hot water and heat** (lenses risk heat cracks from around **60°C / 140°F**) | The base material expands and the coating cracks |
 | **Alcohol, sanitising wipes, acetone** | Can damage the coating |
 | **Dry wiping** | The dust on the lens scratches it |
 | **Soap, alkaline or acidic cleaners** | Discolour the coating and frame |
@@ -26,7 +26,7 @@ Wiping your lenses on your shirt is a habit the world over, and it is the one Ja
 
 - Lens **coatings (anti-reflective, scratch-resistant)** are several thin layers, and their common weakness is **heat and chemicals**.
 - **The nose pads and the parts behind the ears** collect skin oil, sweat and make-up, which cause **verdigris (green copper corrosion)** and discolouration. Have them replaced at an optician regularly (often free, or a few hundred yen).
-- **About 90% of the frames made in Japan come from Sabae, Fukui prefecture** (Fukui prefecture statistics).
+- **About 95% of the frames made in Japan come from Fukui prefecture** (the production area centred on Sabae and Fukui cities) (Fukui prefecture material).
 
 > **[Verify]** Check the hot-water temperature guide and the detergent advice with lens makers and the Japan Optical Industry Federation (日本眼鏡関連団体連合会). Check the Sabae production share against Fukui prefecture's published material.
 
@@ -36,7 +36,7 @@ Wiping your lenses on your shirt is a habit the world over, and it is the one Ja
 
 ## Misunderstanding 2｜Hot water removes skin oil better
 
-**Hot water of 40°C or above cracks the coating.** **Always cold water.** Wearing glasses in the bath is avoided for the same reason.
+**Heat cracks the coating.** The usual guide is **60°C / 140°F or above**, though it can happen lower depending on how long and in what conditions. Wash with **cold water.** Wearing glasses in the bath or a sauna is avoided for the same reason.
 
 ## Misunderstanding 3｜Sanitising wipes keep them clean
 
@@ -54,8 +54,8 @@ Wiping your lenses on your shirt is a habit the world over, and it is the one Ja
 
 ### Sources
 
-- Japan Optical Industry Federation, "Caring for glasses" [メガネのお手入れ]
-  https://www.megane-japan.or.jp/
+- Japan Opticianry Association [公益社団法人 日本眼鏡技術者協会] (handling and care of glasses)
+  https://megane-joa.or.jp/
 - Fukui Prefecture, "Overview of the eyewear industry" [眼鏡産業の概要] (Sabae's share of frame production)
   https://www.pref.fukui.lg.jp/doc/sangyou/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act" [家庭用品品質表示法]

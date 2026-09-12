@@ -4,13 +4,13 @@
 
 Once you decide "I have dry skin" or "I have sensitive skin", you tend to choose products on that basis for years. In Japanese drugstores (Matsumoto Kiyoshi, Welcia, etc.) you will see "for sensitive skin" (敏感肌用, binkan-hada-yō) on shelf after shelf. Yet "sensitive skin" is a term with no medical definition.
 
-## A. The biggest misunderstanding is "your skin type is fixed at birth and never changes". More than half of Japanese women feel their skin is sensitive, while dermatology has no definition of "sensitive skin" at all.
+## A. The biggest misunderstanding is "your skin type is fixed at birth and never changes". In a private survey, 53.4% of women in their 20s to 50s felt their skin was sensitive — while "sensitive skin" has no established medical diagnostic criteria.
 
 ## What "sensitive skin" actually is
 
-- **"Sensitive skin" is not an academic term and has no medical definition.** It has no entry in dermatology textbooks, and is generally described as a state in which the skin stings after cosmetics are applied but shows no visible symptoms.
-- At the same time, **53.4% of women feel their skin is sensitive** (a private survey from the 2020s); other surveys report around 60%, and around 70% among women in their twenties.
-- Because the figures include self-reporting, some materials put the rate at **60–70% for women and 50–60% for men**.
+- **"Sensitive skin" is not a diagnosis, and there are no medical diagnostic criteria that a test can confirm.** The glossary of the Society of Cosmetic Chemists of Japan (SCCJ) describes it as skin prone to trouble such as irritation, roughness and acne, with a weakened stratum-corneum barrier or dry skin often behind it — but it is not a disease category.
+- At the same time, **53.4% of women feel their skin is sensitive** (HANA LABO, "Survey on the skincare of women troubled by sensitive skin", covering women in their 20s to 50s); other private surveys report around 60%, and around 70% among women in their twenties.
+- Epidemiological studies, including ones outside Japan, report self-reported rates of **60–70% for women and 50–60% for men** (these differ widely by country and region, and are not figures for Japan).
 
 **Something with no definition, that more than half of people fit.** That is the reality behind the phrase "skin type".
 

@@ -11,9 +11,9 @@ Japan is one of the world's biggest consumers of umbrellas: around 120–130 mil
 | Item | Figure / content |
 |---|---|
 | Umbrellas consumed in Japan per year | **About 120–130 million** (estimate by the Japan Umbrella Promotion Association). **More than one per person per year** |
-| Share that are disposable plastic umbrellas | Estimated at **around half** |
+| Share that are disposable plastic umbrellas | Estimated at **around 60%** (put at roughly 65–80 million a year) |
 | How the repellent finish works | **Fine fluorine- or silicone-based pile** on the fabric surface repels water. **When dirt and friction flatten the pile, it stops working** |
-| How to revive it | ① **Dry it** ② **Hairdryer on warm (low)**, held 10–20 cm away (raises the pile) ③ **Water-repellent spray** (outdoors) |
+| How to revive it | ① **Dry it** ② **Hairdryer on warm (low)**, held 10–20 cm away and **kept moving rather than held on one spot** ③ **Water-repellent spray** (outdoors). **Do not use a hairdryer on a clear plastic umbrella — heat deforms and damages it** |
 
 - **Folding it while wet** causes **mould, rust and smell**. **Open it and dry it in the shade.**
 - **Rib repairs**: many can be done with parts from a 100-yen shop or by an umbrella repair shop, and **some municipalities and shops run umbrella-repair workshops**.

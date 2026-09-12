@@ -17,7 +17,7 @@ In rainy Japan, you cannot avoid a leather bag getting wet at some point. "What 
 | By material | **Suede and nubuck: a spray made for them**; **patent leather: no spray, just wipe**; **synthetic leather: resists water but hydrolyses** | Cream on suede |
 
 - A **rain mark** forms when **oils and dyes inside the leather migrate to the boundary between the wet and dry areas, leaving an edge.** **Dampening the whole surface evenly and drying it** can make the mark less visible.
-- **Respiratory injury from inhaling fluorine-based waterproofing spray** is something the National Consumer Affairs Center of Japan has warned about repeatedly. **Outdoors, upwind, with a mask** is the rule.
+- **Respiratory injury from inhaling waterproofing sprays (those containing fluororesin, silicone resin and the like)** is something the National Consumer Affairs Center of Japan and the Tokyo Metropolitan Government have warned about. **Outdoors, upwind, with a mask** is the rule.
 - **Colour transfer**: a wet leather bag can **stain light-coloured clothing**. On rainy days, **keep a wet bag from resting against your clothes**.
 
 > **[Verify]** Check waterproofing-spray accidents against the National Consumer Affairs Center's published material. Care methods are based on guidance from the Japan Leather and Leather Goods Industries Association and others.
@@ -48,8 +48,8 @@ With **waterproofing spray, a bag cover (or rain cover), and knowing what to do 
 
 - Japan Leather and Leather Goods Industries Association (JLIA), "Caring for leather goods (when wet by rain)" [一般社団法人日本皮革産業連合会]
   https://www.jlia.or.jp/
-- National Consumer Affairs Center of Japan, "Accidents from the use of waterproofing sprays" [国民生活センター「防水スプレーの使用による事故」]
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- National Consumer Affairs Center of Japan, "Safety of clothing spray products containing fluororesin, silicone resin and the like" (product test results, 4 April 2013) [国民生活センター「フッ素樹脂、シリコーン樹脂等を含む衣類用スプレー製品の安全性－防水効果をうたっていない商品について－」]
+  https://www.kokusen.go.jp/test/data/s_test/n-20130404_1.html
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act" (bags) [消費者庁「家庭用品品質表示法」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

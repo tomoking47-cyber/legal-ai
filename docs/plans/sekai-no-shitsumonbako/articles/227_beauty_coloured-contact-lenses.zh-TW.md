@@ -47,7 +47,7 @@
 ### 出處
 
 - 厚生勞動省「視力補正を目的としないカラーコンタクトレンズの高度管理医療機器への指定について」（關於將不以矯正視力為目的的彩色隱形眼鏡指定為高度管理醫療器材）（2009 年）
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/colorcontact/index.html
 - 國民生活中心「カラーコンタクトレンズによる目の障害」（彩色隱形眼鏡造成的眼睛傷害）
   https://www.kokusen.go.jp/
 - 日本隱形眼鏡學會（日本コンタクトレンズ学会）「カラーコンタクトレンズの安全な使い方」（彩色隱形眼鏡的安全使用方法）

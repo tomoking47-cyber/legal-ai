@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 「視力補正を目的としないカラーコンタクトレンズの高度管理医療機器への指定について」(시력 보정을 목적으로 하지 않는 컬러 콘택트렌즈의 고도관리의료기기 지정에 대하여)(2009년)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/colorcontact/index.html
 - 국민생활센터 「カラーコンタクトレンズによる目の障害」(컬러 콘택트렌즈로 인한 눈의 장애)
   https://www.kokusen.go.jp/
 - 일본콘택트렌즈학회(日本コンタクトレンズ学会) 「カラーコンタクトレンズの安全な使い方」(컬러 콘택트렌즈의 안전한 사용법)

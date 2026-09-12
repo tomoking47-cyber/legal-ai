@@ -47,7 +47,7 @@ Coloured contact lenses ("karakon", カラコン) are widely worn by young peopl
 ### Sources
 
 - Ministry of Health, Labour and Welfare, "Designation of coloured contact lenses not intended for vision correction as specially controlled medical devices" [視力補正を目的としないカラーコンタクトレンズの高度管理医療機器への指定について] (2009)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/colorcontact/index.html
 - National Consumer Affairs Center of Japan, "Eye injuries from coloured contact lenses" [カラーコンタクトレンズによる目の障害]
   https://www.kokusen.go.jp/
 - Japan Contact Lens Society, "Safe use of coloured contact lenses" [カラーコンタクトレンズの安全な使い方]

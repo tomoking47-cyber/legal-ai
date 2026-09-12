@@ -52,8 +52,8 @@
 
 ### 出典
 
-- 消費者庁「消費生活用製品安全法：特定製品（家庭用の圧力なべ及び圧力がま）とPSCマーク」
-  https://www.caa.go.jp/policies/policy/consumer_safety/other/
+- 経済産業省「製品安全ガイド：消費生活用製品安全法の特定製品（家庭用の圧力なべ及び圧力がま）とPSCマーク」
+  https://www.meti.go.jp/product_safety/
 - 独立行政法人国民生活センター「圧力鍋の事故と安全な使い方」
   https://www.kokusen.go.jp/
 - 独立行政法人製品評価技術基盤機構（NITE）「圧力鍋・電気圧力鍋の事故事例と注意点」

@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/snoring` ／ Status: **Draft — English edition, sources unverified**
 
-Snoring is often dismissed as nothing more than a noise problem. In Japan, however, the number of people with undiagnosed sleep apnoea syndrome (SAS) is estimated in the millions, and public information on it is growing. Here we set out the everyday measures, and the line at which you should see a doctor.
+Snoring is often dismissed as nothing more than a noise problem. In Japan, however, the number of people with undiagnosed sleep apnoea syndrome (SAS) is estimated at about 9.4 million for moderate or severe cases alone, and public information on it is growing. Here we set out the everyday measures, and the line at which you should see a doctor.
 
 ## A. The biggest misunderstanding is "snoring is just how some people are built, and has nothing to do with health." Most snoring is the sound of air passing through a narrowed airway. If it comes with pauses in breathing, strong daytime sleepiness or a headache on waking, sleep apnoea is possible, and that is a matter for a doctor. On the lifestyle side, the basics are sleeping on your side, losing weight and avoiding alcohol before bed.
 
@@ -11,7 +11,7 @@ Snoring is often dismissed as nothing more than a noise problem. In Japan, howev
 | Item | Details |
 |---|---|
 | How snoring happens | During sleep **the tongue and soft palate drop and the airway narrows**; the air makes the tissue vibrate and produce sound |
-| Sleep apnoea syndrome (SAS) | **Breathing stops for 10 seconds or more, 5 or more times an hour** during sleep. Undiagnosed cases in Japan are estimated at **several million** |
+| Sleep apnoea syndrome (SAS) | **Breathing stops for 10 seconds or more, 5 or more times an hour** during sleep (AHI 5 or above). Undiagnosed cases in Japan are estimated at **about 9.4 million for moderate or severe cases (AHI 15 or above) alone** (2019 international estimate) |
 | When to see a doctor | **You are told your breathing stops / strong daytime sleepiness / headache or dry mouth on waking / getting up to urinate at night** |
 | Tests | **A simple test you can do at home** (covered by Japanese health insurance) → an overnight hospital test if needed |
 | Management | **CPAP (continuous positive airway pressure therapy)**, a mouthpiece, lifestyle changes and so on. **The doctor decides** |
@@ -50,8 +50,8 @@ Children's snoring can be caused by **enlarged adenoids or tonsils**, and it can
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, e-Health Net, "Sleep apnoea syndrome (SAS)" [睡眠時無呼吸症候群（SAS）]
-  https://kennet.mhlw.go.jp/information/information/heart/k-02-006.html
+- Ministry of Health, Labour and Welfare, e-Health Net, "The close relationship between sleep and lifestyle-related disease" [睡眠と生活習慣病との深い関係] (covers sleep apnoea syndrome)
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-008.html
 - Japanese Respiratory Society, "Sleep apnoea syndrome" [睡眠時無呼吸症候群]
   https://www.jrs.or.jp/citizen/disease/
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]

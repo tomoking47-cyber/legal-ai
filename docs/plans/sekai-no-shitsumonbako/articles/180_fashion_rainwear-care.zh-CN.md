@@ -46,8 +46,8 @@
 
 - 消费者厅“洗涤标识（令和6年8月20日以后）”[洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 国民生活中心 [国民生活センター]“因使用防水喷雾引发的事故”[防水スプレーの使用による事故]（2018年）
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- 日本中毒信息中心 [公益財団法人 日本中毒情報センター]“使用防水喷雾过程中的事故”[防水スプレーを使用中の事故]
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
 - 日本纺织品品质技术中心（QTEC）[一般財団法人 日本繊維製品品質技術センター]“防水・拒水性能”[防水・撥水性能]
   https://www.qtec.or.jp/
 

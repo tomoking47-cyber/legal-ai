@@ -46,8 +46,8 @@
 
 - 消費者庁「洗濯表示（令和6年8月20日以降）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 国民生活センター「防水スプレーの使用による事故」
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- 公益財団法人日本中毒情報センター「防水スプレーを使用中の事故」
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
 - 一般財団法人日本繊維製品品質技術センター（QTEC）「防水・撥水性能」
   https://www.qtec.or.jp/
 

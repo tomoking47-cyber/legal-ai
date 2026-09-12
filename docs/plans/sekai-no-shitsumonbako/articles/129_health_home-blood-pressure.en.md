@@ -6,7 +6,7 @@ Home blood-pressure monitors are common in every country, but the questions abou
 
 ## A. The biggest misunderstanding is that the reading at the clinic is the correct one and home readings are only a rough guide. The JSH guidelines state clearly that where clinic and home readings differ, the home reading takes priority. The precondition is that you measure under the right conditions.
 
-## The guideline method (JSH2019)
+## The guideline method (JSH2025)
 
 | Item | Detail |
 |---|---|
@@ -49,7 +49,7 @@ Home monitors sold in Japan carry **JIS certification or medical-device approval
 
 ### Sources
 
-- Japanese Society of Hypertension, "Guidelines for the Management of Hypertension 2019 (JSH2019)" [高血圧治療ガイドライン2019]
+- Japanese Society of Hypertension, "Guidelines for the Management and Treatment of Hypertension 2025 (JSH2025)" (published August 2025) [高血圧管理・治療ガイドライン2025]
   https://www.jpnsh.jp/guideline.html
 - MHLW e-Health Net, "Hypertension" [高血圧]
   https://kennet.mhlw.go.jp/information/information/metabolic/m-05-003.html

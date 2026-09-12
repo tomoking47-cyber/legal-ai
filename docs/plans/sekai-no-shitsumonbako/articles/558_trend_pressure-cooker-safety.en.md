@@ -52,8 +52,8 @@ Pressure cookers and electric pressure cookers have become standard time-savers 
 
 ### Sources
 
-- Consumer Affairs Agency, "Consumer Product Safety Act: specified products (domestic pressure cookers and pressure pans) and the PSC mark" [消費生活用製品安全法：特定製品（家庭用の圧力なべ及び圧力がま）とPSCマーク]
-  https://www.caa.go.jp/policies/policy/consumer_safety/other/
+- Ministry of Economy, Trade and Industry, "Product Safety Guide: specified products under the Consumer Product Safety Act (domestic pressure cookers and pressure pans) and the PSC mark" [製品安全ガイド：消費生活用製品安全法の特定製品（家庭用の圧力なべ及び圧力がま）とPSCマーク]
+  https://www.meti.go.jp/product_safety/
 - National Consumer Affairs Center of Japan, "Pressure-cooker accidents and safe use" [圧力鍋の事故と安全な使い方]
   https://www.kokusen.go.jp/
 - National Institute of Technology and Evaluation (NITE), "Accident cases and precautions for pressure cookers and electric pressure cookers" [圧力鍋・電気圧力鍋の事故事例と注意点]

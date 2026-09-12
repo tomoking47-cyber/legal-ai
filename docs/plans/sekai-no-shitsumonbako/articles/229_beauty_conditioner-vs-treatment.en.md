@@ -48,8 +48,8 @@ Most products state that **a few minutes is enough**. **Leaving it longer adds n
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Japan Cosmetic Industry Association, "Guidelines for appropriate advertising of cosmetics" [化粧品等の適正広告ガイドライン] (hair-related wording)
   https://www.jcia.org/user/business/advertising
-- Japanese Dermatological Association, "Dermatology Q&A: Diseases of the hair" [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- Japanese Dermatological Association, "Dermatology Q&A: Alopecia" [皮膚科Q&A　脱毛症]
+  https://www.dermatol.or.jp/qa/qa11/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -27,7 +27,7 @@ Grilled fish is a staple of the Japanese breakfast, yet fewer households grill i
 | **Anisakis** (a parasite in some fish) | **Killed by heating (70°C or above, or 60°C for 1 minute)** (see our fish-storage article) |
 
 - **The smell of grilled fish** comes mainly from **the fish's fat and the charring of the skin.** **Use a frying pan with parchment**, **turn the extractor fan to high before you start**, and **wash the grill's drip tray straight after.**
-- **Himono (干物, salted dried fish) is high in salt** (one butterflied dried horse mackerel, aji no hiraki, carries about 1.5–2 g salt equivalent). Keep it **within your salt target.**
+- **Himono (干物, salted dried fish) is high in salt** (one butterflied dried horse mackerel, aji no hiraki, 60–85 g edible portion, carries about 1–1.5 g salt equivalent). Keep it **within your salt target.**
 
 > **[Verify]** Check the heating temperature and the anisakis temperatures against Ministry of Health, Labour and Welfare (MHLW) materials. Grilling times are guides and vary with the thickness of the fillet.
 
@@ -59,8 +59,8 @@ Grilled fish is a staple of the Japanese breakfast, yet fewer households grill i
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - Ministry of Health, Labour and Welfare (MHLW), "Let's prevent food poisoning caused by Anisakis" [アニサキスによる食中毒を予防しましょう]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), "Promoting fish consumption (Sakana no Hi, Fish Day)" [魚食の普及（さかなの日）]
-  https://www.maff.go.jp/j/pr/sakananohi/
+- Fisheries Agency, "Sakana no Hi (Fish Day): through your everyday consumption, pass delicious fish on to the next generation" [さかなの日～あなたの日々の消費で、おいしい魚を次の世代へ～]
+  https://www.jfa.maff.go.jp/j/kakou/sakananohi1137.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

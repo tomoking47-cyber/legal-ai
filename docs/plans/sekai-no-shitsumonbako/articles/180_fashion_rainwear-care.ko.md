@@ -46,8 +46,8 @@
 
 - 소비자청 "세탁 표시(레이와 6년 8월 20일 이후)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 국민생활센터 [国民生活センター] "방수 스프레이 사용에 의한 사고" [防水スプレーの使用による事故] (2018년)
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- 일본중독정보센터 [公益財団法人 日本中毒情報センター] "방수 스프레이 사용 중의 사고" [防水スプレーを使用中の事故]
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
 - 일본섬유제품품질기술센터(QTEC) [一般財団法人 日本繊維製品品質技術センター] "방수·발수 성능" [防水・撥水性能]
   https://www.qtec.or.jp/
 

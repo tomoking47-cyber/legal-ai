@@ -15,7 +15,7 @@ In Japan an annual health check (健康診断, kenkō shindan, often shortened t
 | **Cancer screening** | Run by municipalities (stomach, lung, colorectal, breast, cervical) | Health Promotion Act | Free to a few thousand yen, depending on the municipality |
 | Ningen dock (comprehensive private check-up) | Voluntary | — | Self-paid (subsidy schemes exist) |
 
-- **Uptake of the Specific Health Check is about 59%** (fiscal 2022, MHLW). The national target is 70%.
+- **Uptake of the Specific Health Check is 61.5%** (fiscal 2024, MHLW; the first time it has passed 60% since the scheme began). The national target is 70%.
 - The Industrial Safety and Health Act places **a duty to provide on the employer and a duty to attend on the worker** (there is no penalty on the worker's side).
 
 > **[Verify]** Check the uptake rate and the target against the latest fiscal year of the MHLW "Implementation Status of Specific Health Checks and Specific Health Guidance".
