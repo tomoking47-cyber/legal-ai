@@ -49,7 +49,7 @@
 - 消费者厅「洗涤标识（2024 年 8 月 20 日以后）」[洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本羽毛制品协同组合「羽绒制品的清洗」[羽毛製品の洗濯について]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 全国洗衣生活卫生同业组合联合会（全ク连）「洗衣的种类」[全国クリーニング生活衛生同業組合連合会「クリーニングの種類」]
   https://www.zenkuren.or.jp/
 

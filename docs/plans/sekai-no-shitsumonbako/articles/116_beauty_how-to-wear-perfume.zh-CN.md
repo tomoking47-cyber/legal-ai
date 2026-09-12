@@ -48,7 +48,7 @@
 - 厚生劳动省「化妆品基准」（成分标注）[化粧品基準]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 日本香氛协会「香水的种类」[日本フレグランス協会「フレグランスの種類」]
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/abc-web/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

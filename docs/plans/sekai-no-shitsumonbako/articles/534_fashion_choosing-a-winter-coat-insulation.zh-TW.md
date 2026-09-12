@@ -65,7 +65,7 @@
 - 消費者廳（Consumer Affairs Agency），《家庭用品品質表示法：纖維製品品質表示規程（填充物・羽毛的標示）》[家庭用品品質表示法：繊維製品品質表示規程（詰物・羽毛の表示）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - 日本羽毛製品協同組合（Japan Down Products Cooperative Association），《羽毛製品的品質標示與蓬鬆度》[羽毛製品の品質表示とフィルパワー]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 國民生活中心（National Consumer Affairs Center of Japan），《關於羽絨外套品質的商品測試》[ダウンジャケットの品質に関する商品テスト]
   https://www.kokusen.go.jp/
 

@@ -49,7 +49,7 @@ A **mosquito spray, a cockroach spray and a wasp spray have different ingredient
 - Ministry of Health, Labour and Welfare — Quasi-drugs: insecticides and repellents (防除用医薬部外品)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/
 - Japan Household Insecticide Industry Association — Safe use of household insecticides
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - Ministry of the Environment — Mosquito-borne disease prevention (dengue): reducing breeding sites
   https://www.env.go.jp/nature/dokuhou/
 

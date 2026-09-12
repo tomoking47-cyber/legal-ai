@@ -46,7 +46,7 @@
 
 ### 出处
 - 日本毛巾工业组合联合会 — 行业概况（日本タオル工業組合連合会 / Japan Towel Industry Association）
-  https://www.jtia.gr.jp/
+  https://jp-towel.jp/
 - 文部科学省 — 学校保健与卫生指导（Ministry of Education, Culture, Sports, Science and Technology）
   https://www.mext.go.jp/
 - 环境省 — 公共设施中的塑料与纸类废弃物减量（Ministry of the Environment）

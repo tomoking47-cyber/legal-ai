@@ -51,7 +51,7 @@ It is a **response to closet size**. Anyone living in a small flat does a versio
 - Consumer Affairs Agency — Care labelling and storage (洗濯表示)
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
 - Japan Household Insecticide Industry Association — Using clothes moth repellents safely
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

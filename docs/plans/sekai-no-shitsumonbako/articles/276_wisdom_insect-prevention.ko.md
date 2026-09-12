@@ -49,7 +49,7 @@
 - 후생노동성 — 의약부외품: 살충제와 기피제（防除用医薬部外品 / Ministry of Health, Labour and Welfare）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/
 - 일본가정용살충제공업회 — 가정용 살충제의 안전한 사용（Japan Household Insecticide Industry Association）
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 환경성 — 모기 매개 감염병（뎅기열）예방: 발생원 줄이기（Ministry of the Environment）
   https://www.env.go.jp/nature/dokuhou/
 

@@ -46,7 +46,7 @@
 
 ### 출처
 - 일본타월공업조합연합회 — 업계 개요（日本タオル工業組合連合会 / Japan Towel Industry Association）
-  https://www.jtia.gr.jp/
+  https://jp-towel.jp/
 - 문부과학성 — 학교 보건·위생 지도（Ministry of Education, Culture, Sports, Science and Technology）
   https://www.mext.go.jp/
 - 환경성 — 공공시설의 플라스틱·종이 폐기물 감축（Ministry of the Environment）

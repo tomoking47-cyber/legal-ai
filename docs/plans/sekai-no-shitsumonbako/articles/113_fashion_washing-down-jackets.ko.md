@@ -49,7 +49,7 @@
 - 소비자청 「취급 표시(2024년 8월 20일 이후)」 [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 일본우모제품협동조합 「우모 제품의 세탁에 대하여」 [羽毛製品の洗濯について]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 전국클리닝생활위생동업조합연합회(전쿠렌) 「클리닝의 종류」 [全国クリーニング生活衛生同業組合連合会「クリーニングの種類」]
   https://www.zenkuren.or.jp/
 

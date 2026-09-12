@@ -49,7 +49,7 @@
 ### 出典
 
 - 一般社団法人日本靴医学会「正しい靴の選び方・履き方」
-  https://www.kutsuigaku.jp/
+  https://kutsuigaku.com/q-and-a/choice.html
 - 公益社団法人日本整形外科学会「外反母趾」
   https://www.joa.or.jp/public/sick/
 - 消費者庁「子どもの靴の選び方・事故防止」

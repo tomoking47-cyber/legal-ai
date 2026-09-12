@@ -51,7 +51,7 @@
 - 消费者厅（Consumer Affairs Agency）— 洗涤标签与收纳（洗濯表示）
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
 - 日本家庭用杀虫剂工业会（Japan Household Insecticide Industry Association）— 安全使用衣物防虫剂
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

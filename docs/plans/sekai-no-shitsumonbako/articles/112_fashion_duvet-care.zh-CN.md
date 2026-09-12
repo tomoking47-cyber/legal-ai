@@ -49,7 +49,7 @@
 - 消费者厅（CAA）「家庭用品品质表示法　纤维制品品质表示规程」[家庭用品品質表示法　繊維製品品質表示規程]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - 日本羽毛制品协同组合「羽绒被的保养」[日本羽毛製品協同組合「羽毛ふとんのお手入れ」]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 消费者厅「洗涤标识（2024 年 8 月 20 日以后）」[洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 

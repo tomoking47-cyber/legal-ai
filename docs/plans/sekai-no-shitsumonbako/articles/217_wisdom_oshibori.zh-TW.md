@@ -48,7 +48,7 @@
 - 厚生勞動省（Ministry of Health, Labour and Welfare）——出租おしぼり的衛生管理指導（貸おしぼりの衛生等管理要領）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
 - 全國おしぼり協同組合連合會（Japan Oshibori Association，全国おしぼり協同組合連合会）
-  https://www.oshibori.or.jp/
+  http://www.kasiosibori.or.jp/
 - 日本政府觀光局（Japan National Tourism Organization）——用餐禮儀
   https://www.japan.travel/en/guide/dining-etiquette/
 

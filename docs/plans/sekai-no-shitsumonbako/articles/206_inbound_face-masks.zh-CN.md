@@ -47,7 +47,7 @@
 - 厚生劳动省（Ministry of Health, Labour and Welfare）— 关于口罩的佩戴（マスクの着用について），2023 年 3 月 13 日的变更
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
 - 日本卫生材料工业联合会（Japan Hygiene Products Industry Association）— 口罩产量与市场统计
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 环境省（Ministry of the Environment）— 花粉信息与花粉症
   https://www.env.go.jp/chemi/anzen/kafun/
 

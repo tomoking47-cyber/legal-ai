@@ -46,7 +46,7 @@ Tissues **disintegrate on wet hands** and create litter where bins are scarce. T
 
 ### Sources
 - Japan Towel Industry Association (日本タオル工業組合連合会) — Industry overview
-  https://www.jtia.gr.jp/
+  https://jp-towel.jp/
 - Ministry of Education, Culture, Sports, Science and Technology — School health and hygiene guidance
   https://www.mext.go.jp/
 - Ministry of the Environment — Plastic and paper waste reduction in public facilities

@@ -49,7 +49,7 @@
 - 소비자청(CAA) 「가정용품품질표시법 섬유제품품질표시규정」 [家庭用品品質表示法　繊維製品品質表示規程]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - 일본우모제품협동조합 「오리털 이불 손질법」 [日本羽毛製品協同組合「羽毛ふとんのお手入れ」]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 소비자청 「취급 표시(2024년 8월 20일 이후)」 [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 

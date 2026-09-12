@@ -52,7 +52,7 @@ Vacuum storage bags (圧縮袋, asshuku-bukuro), which you flatten with a vacuum
 ### Sources
 
 - Japan Down Products Cooperative Association (日本羽毛製品協同組合), "Correct handling of down futons (storage)"
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Product test of vacuum storage bags for clothing"
   https://www.kokusen.go.jp/
 - Japan Household Insecticide Industry Association / Japan Moth Repellent Council (日本家庭用殺虫剤工業会／日本防虫剤協議会), "Correct use of moth repellents"

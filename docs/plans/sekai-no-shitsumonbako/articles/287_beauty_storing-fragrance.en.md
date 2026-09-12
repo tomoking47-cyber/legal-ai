@@ -50,7 +50,7 @@ It is **the colour of oxidation**, and the scent has changed. **A sour top note*
 - Ministry of Health, Labour and Welfare (MHLW), "Labelling of use-by dates on cosmetics" [化粧品の使用期限の表示について] (Article 61 of the Pharmaceuticals and Medical Devices Act)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - Japan Fragrance Association, "Storing and using fragrance" [フレグランスの保管と使い方]
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/
 - Fire and Disaster Management Agency, Ministry of Internal Affairs and Communications, "Hazardous materials under the Fire Service Act (alcohols)" [消防法における危険物（アルコール類）]
   https://www.fdma.go.jp/
 

@@ -50,7 +50,7 @@ Many people dry-clean a coat only once a season, so "how do I look after it in b
 - Zenkuren (National Federation of Dry Cleaning Associations), "Dry-cleaning Q&A" [クリーニングQ&A]
   https://www.zenkuren.or.jp/
 - Japan Household Insecticide Industry Association, "Using moth repellents correctly" [防虫剤の正しい使い方]
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

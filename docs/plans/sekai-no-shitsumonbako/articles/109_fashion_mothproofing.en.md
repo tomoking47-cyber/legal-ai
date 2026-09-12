@@ -44,7 +44,7 @@ Repellents **shrink as they vaporise**, so they have a working life (**6 months 
 ### Sources
 
 - Japan Household Insecticide Industry Association, "Using moth repellents correctly" [一般社団法人日本家庭用殺虫剤工業会「防虫剤の正しい使い方」]
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - Tokyo Metropolitan Bureau of Public Health, "Clothing pests" [東京都保健医療局「衣類の害虫」]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Industrial Goods Quality Labelling Regulations (moth repellents)" [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（防虫剤）」]

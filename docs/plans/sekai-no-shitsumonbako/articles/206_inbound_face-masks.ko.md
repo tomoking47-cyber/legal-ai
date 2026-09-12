@@ -47,7 +47,7 @@
 - 후생노동성(Ministry of Health, Labour and Welfare) — 마스크 착용에 대하여(マスクの着用について), 2023년 3월 13일 변경
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
 - 일본위생재료공업연합회(Japan Hygiene Products Industry Association) — 마스크 생산 및 시장 통계
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 환경성(Ministry of the Environment) — 꽃가루 정보와 꽃가루 알레르기
   https://www.env.go.jp/chemi/anzen/kafun/
 

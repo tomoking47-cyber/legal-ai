@@ -50,7 +50,7 @@
 - 消费者厅（Consumer Affairs Agency）— 一次性暖宝宝（使い捨てカイロ）导致的低温烫伤
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 日本卫生材料工业联合会（Japan Hygiene Products Industry Association）— 一次性暖宝宝：安全使用
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 制品评价技术基础机构（NITE）— 取暖器具事故
   https://www.nite.go.jp/jiko/chuikanki/
 

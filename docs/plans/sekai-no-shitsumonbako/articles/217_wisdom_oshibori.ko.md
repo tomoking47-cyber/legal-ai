@@ -48,7 +48,7 @@
 - 후생노동성(Ministry of Health, Labour and Welfare) — 대여 오시보리 위생 관리 지침(貸おしぼりの衛生等管理要領)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
 - 전국오시보리협동조합연합회(Japan Oshibori Association, 全国おしぼり協同組合連合会)
-  https://www.oshibori.or.jp/
+  http://www.kasiosibori.or.jp/
 - 일본정부관광국(Japan National Tourism Organization) — 식사 예절
   https://www.japan.travel/en/guide/dining-etiquette/
 

@@ -52,7 +52,7 @@
 - 消費者庁「洗濯表示（令和6年8月20日以降）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 一般社団法人日本被服工業組合連合会「学生服のお手入れ」
-  https://www.gakuseifuku.or.jp/
+  http://nippiren.com/
 - 消費者庁「家庭用品品質表示法　繊維製品品質表示規程」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 

@@ -50,7 +50,7 @@
 - 후생노동성 「화장품 사용기한 표시에 대하여」[化粧品の使用期限の表示について] (약기법 제61조)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 일본향료협회(Japan Fragrance Association) 「프래그런스의 보관과 사용법」[フレグランスの保管と使い方]
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/
 - 총무성 소방청 「소방법상의 위험물(알코올류)」[消防法における危険物（アルコール類）]
   https://www.fdma.go.jp/
 

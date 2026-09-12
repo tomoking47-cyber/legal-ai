@@ -65,7 +65,7 @@ Winter coat labels in Japan carry numbers that are hard to compare: "Down 90% / 
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act: labelling rules for textile products (fillings and down)" [家庭用品品質表示法：繊維製品品質表示規程（詰物・羽毛の表示）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - Japan Down Products Cooperative Association, "Quality labelling and fill power of down products" [羽毛製品の品質表示とフィルパワー]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - National Consumer Affairs Center of Japan, "Product test on the quality of down jackets" [ダウンジャケットの品質に関する商品テスト]
   https://www.kokusen.go.jp/
 

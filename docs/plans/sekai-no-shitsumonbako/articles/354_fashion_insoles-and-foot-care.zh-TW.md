@@ -50,7 +50,7 @@
 - 厚生勞動省《治療用裝具的療養費（足底板等）》[厚生労働省「治療用装具の療養費（足底板等）」]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/
 - 日本靴醫學會《鞋與足部健康》[一般社団法人日本靴医学会「靴と足の健康」]
-  https://www.kutsuigaku.jp/
+  https://kutsuigaku.com/q-and-a/choice.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

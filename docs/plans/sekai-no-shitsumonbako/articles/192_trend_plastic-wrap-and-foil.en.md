@@ -50,7 +50,7 @@ The main job of cling film is **to cut food waste by preventing drying, oxidatio
 - Consumer Affairs Agency, "Safe use of microwave ovens" [電子レンジの安全な使い方] (consumer alert)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - Japan Polyolefin Film Industry Association [日本ポリオレフィンフィルム工業組合] / individual makers, "Cling film Q&A" [ラップの使い方Q&A]
-  https://www.jpfa.gr.jp/
+  https://www.pof.or.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

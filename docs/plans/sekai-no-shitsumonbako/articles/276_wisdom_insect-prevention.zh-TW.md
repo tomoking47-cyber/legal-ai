@@ -49,7 +49,7 @@
 - 厚生勞動省 — 醫藥部外品：殺蟲劑與驅蟲劑（防除用医薬部外品 / Ministry of Health, Labour and Welfare）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/
 - 日本家庭用殺蟲劑工業會 — 家用殺蟲劑的安全使用（Japan Household Insecticide Industry Association）
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 環境省 — 蚊媒傳染病（登革熱）預防：減少孳生源（Ministry of the Environment）
   https://www.env.go.jp/nature/dokuhou/
 

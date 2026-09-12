@@ -48,7 +48,7 @@ It is a **greeting**. Being handed a hot towel on a cold day, or a cold one in A
 - Ministry of Health, Labour and Welfare — Hygiene management guidance for rental oshibori (貸おしぼりの衛生等管理要領)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/seikatsu-eisei/
 - Japan Oshibori Association (全国おしぼり協同組合連合会)
-  https://www.oshibori.or.jp/
+  http://www.kasiosibori.or.jp/
 - Japan National Tourism Organization — Dining etiquette
   https://www.japan.travel/en/guide/dining-etiquette/
 

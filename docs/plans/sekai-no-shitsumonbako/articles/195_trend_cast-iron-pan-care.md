@@ -48,7 +48,7 @@
 - 消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（なべ・フライパン）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - 一般社団法人日本金属ハウスウェア工業組合「調理器具のお手入れ」
-  https://www.jmhia.or.jp/
+  https://houseware.jp/
 - 厚生労働省「日本人の食事摂取基準（2025年版）」（鉄の推奨量）
   https://www.mhlw.go.jp/stf/newpage_44138.html
 

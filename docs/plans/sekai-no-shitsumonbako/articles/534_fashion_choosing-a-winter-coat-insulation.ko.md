@@ -65,7 +65,7 @@
 - 소비자청(Consumer Affairs Agency), 「가정용품품질표시법: 섬유제품 품질표시 규정(충전물·우모 표시)」[家庭用品品質表示法：繊維製品品質表示規程（詰物・羽毛の表示）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - 일본우모제품협동조합(Japan Down Products Cooperative Association), 「우모 제품의 품질 표시와 필파워」[羽毛製品の品質表示とフィルパワー]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - 국민생활센터(National Consumer Affairs Center of Japan), 「다운재킷 품질에 관한 상품 테스트」[ダウンジャケットの品質に関する商品テスト]
   https://www.kokusen.go.jp/
 

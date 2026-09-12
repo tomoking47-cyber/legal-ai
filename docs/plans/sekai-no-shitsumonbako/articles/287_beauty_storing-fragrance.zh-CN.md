@@ -50,7 +50,7 @@
 - 厚生劳动省「关于化妆品使用期限的标注」[化粧品の使用期限の表示について]（药机法第61条）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 日本香料工业会（Japan Fragrance Association）「香氛的保管与用法」[フレグランスの保管と使い方]
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/
 - 总务省消防厅「消防法上的危险物（醇类）」[消防法における危険物（アルコール類）]
   https://www.fdma.go.jp/
 

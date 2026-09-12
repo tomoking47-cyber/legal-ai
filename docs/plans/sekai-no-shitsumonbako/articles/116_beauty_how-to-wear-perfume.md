@@ -48,7 +48,7 @@
 - 厚生労働省「化粧品基準」（成分表示）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 日本フレグランス協会「フレグランスの種類」
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/abc-web/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

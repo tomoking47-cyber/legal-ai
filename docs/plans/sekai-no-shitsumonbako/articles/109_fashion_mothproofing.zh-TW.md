@@ -44,7 +44,7 @@
 ### 出處
 
 - 一般社團法人日本家庭用殺蟲劑工業會《防蟲劑的正確用法》[一般社団法人日本家庭用殺虫剤工業会「防虫剤の正しい使い方」]
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 - 東京都保健醫療局《衣物的害蟲》[東京都保健医療局「衣類の害虫」]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/eisei/yokuaru_shitsumon/gaichu/
 - 消費者廳《家庭用品品質標示法　雜貨工業品品質標示規程（防蟲劑）》[消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（防虫剤）」]

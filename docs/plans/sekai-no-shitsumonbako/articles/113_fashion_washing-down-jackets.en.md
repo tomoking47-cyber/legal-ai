@@ -49,7 +49,7 @@ The shell fabric of a down jacket is thin; **rubbing damages it and the down lea
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Japan Down Products Cooperative Association, "Washing down products" [羽毛製品の洗濯について]
-  https://www.jdfa.or.jp/
+  https://www.nichiukyo.org/
 - National Federation of Dry Cleaning Associations (Zenkuren), "Types of cleaning" [全国クリーニング生活衛生同業組合連合会「クリーニングの種類」]
   https://www.zenkuren.or.jp/
 

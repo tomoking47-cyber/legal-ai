@@ -50,7 +50,7 @@ Japanese shoe shops and drugstores (Matsumoto Kiyoshi, Welcia, etc.) sell an eno
 - Ministry of Health, Labour and Welfare, "Reimbursement for medical orthoses (orthotic insoles etc.)" [厚生労働省「治療用装具の療養費（足底板等）」]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryouhoken/
 - Japanese Society for Medical Study of Footwear, "Shoes and foot health" [一般社団法人日本靴医学会「靴と足の健康」]
-  https://www.kutsuigaku.jp/
+  https://kutsuigaku.com/q-and-a/choice.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

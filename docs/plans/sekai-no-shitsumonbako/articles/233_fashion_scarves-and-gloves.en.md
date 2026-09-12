@@ -52,7 +52,7 @@ Scarves and gloves touch your skin every day, yet they are among the items most 
 - Japan Textile Products Quality and Technology Center (QTEC), "Handling animal-hair fibres (cashmere etc.)" [獣毛繊維（カシミヤ等）の取扱い]
   https://www.qtec.or.jp/
 - Japan Household Insecticide Industry Association, "Using moth repellents correctly" [防虫剤の正しい使い方]
-  https://www.jhpia.or.jp/
+  https://www.sacchuzai.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

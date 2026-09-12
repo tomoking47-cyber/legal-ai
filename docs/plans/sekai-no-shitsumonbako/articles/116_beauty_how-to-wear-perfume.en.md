@@ -48,7 +48,7 @@ It is officially recognised that **some people become unwell from fragrance**; i
 - Ministry of Health, Labour and Welfare (MHLW), "Standards for Cosmetics" (ingredient labelling) [化粧品基準]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - Japan Fragrance Association, "Types of fragrance" [フレグランスの種類]
-  https://www.jfa-fragrance.jp/
+  http://japanfragrance.org/abc-web/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
