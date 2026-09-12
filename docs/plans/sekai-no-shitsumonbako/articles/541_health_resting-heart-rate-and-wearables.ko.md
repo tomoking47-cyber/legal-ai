@@ -53,7 +53,7 @@
 - 일본순환기학회(日本循環器学会) 「부정맥 진단과 웨어러블 기기에 관한 지침」 [不整脈の診断とウェアラブルデバイスに関する指針]
   https://www.j-circ.or.jp/
 - 후생노동성(厚生労働省) e-Health Net 「심박수와 운동 강도」 [心拍数と運動強度]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - 일본부정맥심전학회(日本不整脈心電学会) 「심방세동과 일반인 대상 정보」 [心房細動と一般向け情報]
   https://new.jhrs.or.jp/
 

@@ -49,7 +49,7 @@
 - 厚生劳动省《医疗广告指南》[医療広告ガイドライン]（关于医业、齿科医业、医院、诊所广告的指南，2018年）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kokokukisei/index.html
 - 日本皮肤科学会《寻常性痤疮·酒渣治疗指南 2023》[尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 消费者厅《美容医疗服务的合同纠纷（冷静期的适用）》[美容医療サービスの契約トラブル]
   https://www.caa.go.jp/policies/policy/consumer_transaction/
 

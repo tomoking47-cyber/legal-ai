@@ -42,7 +42,7 @@ It usually goes down overnight, but **if it does not, another factor may be invo
 ### Sources
 
 - MHLW e-Health Net [厚生労働省 e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 - National Cerebral and Cardiovascular Center [国立研究開発法人 国立循環器病研究センター]
   https://www.ncvc.go.jp/
 - Ministry of Health, Labour and Welfare (MHLW) [厚生労働省]

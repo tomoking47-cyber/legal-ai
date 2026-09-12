@@ -65,7 +65,7 @@ Headaches are generally described as a chronic problem for one in three or four 
 - Japanese Headache Society, "List of certified headache specialists / headache clinics" [頭痛専門医リスト・頭痛外来]
   https://www.jhsnet.net/
 - Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Headache" [頭痛]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/
+  https://kennet.mhlw.go.jp/information/information/dictionary/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

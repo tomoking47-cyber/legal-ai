@@ -55,7 +55,7 @@
 ### 出典
 
 - 公益社団法人日本皮膚科学会「接触皮膚炎診療ガイドライン2020」
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 国民生活センター「化粧品による皮膚障害に関する相談」
   https://www.kokusen.go.jp/
 - 日本化粧品工業会「化粧品の正しい使い方（初めて使うときの注意）」

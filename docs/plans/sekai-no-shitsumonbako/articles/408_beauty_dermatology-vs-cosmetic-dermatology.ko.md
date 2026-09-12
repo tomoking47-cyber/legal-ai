@@ -49,7 +49,7 @@
 - 후생노동성 「의료광고 가이드라인」[医療広告ガイドライン] (의업·치과의업, 병원·진료소의 광고에 관한 지침, 2018년)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kokokukisei/index.html
 - 일본피부과학회 「심상성 좌창·주사 진료 가이드라인 2023」[尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 소비자청 「미용의료 서비스의 계약 분쟁(쿨링오프의 적용)」[美容医療サービスの契約トラブル]
   https://www.caa.go.jp/policies/policy/consumer_transaction/
 

@@ -65,7 +65,7 @@
 - 日本頭痛学会「頭痛専門医リスト・頭痛外来」
   https://www.jhsnet.net/
 - 厚生労働省 e-ヘルスネット「頭痛」
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/
+  https://kennet.mhlw.go.jp/information/information/dictionary/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

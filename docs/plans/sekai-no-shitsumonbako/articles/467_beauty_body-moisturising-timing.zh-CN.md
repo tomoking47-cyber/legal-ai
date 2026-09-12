@@ -49,7 +49,7 @@
 ### 出处
 
 - 日本皮肤科学会 [日本皮膚科学会]「特应性皮炎诊疗指南2021」[アトピー性皮膚炎診療ガイドライン2021]（护肤；保湿剂用量、FTU）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - 日本皮肤科学会 [日本皮膚科学会]「皮肤科Q&A：皮脂缺乏症（乾皮症）」[皮膚科Q&A：皮脂欠乏症（乾皮症）]
   https://www.dermatol.or.jp/qa/
 - 厚生劳动省 [厚生労働省]「冬季的室内环境（湿度）与健康」[冬季の室内環境（湿度）と健康]（建筑物卫生管理标准，40～70%）

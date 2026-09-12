@@ -45,7 +45,7 @@
 ### 出處
 
 - 日本皮膚科學會《皮膚真菌症診療指引》[皮膚真菌症診療ガイドライン]（香港腳）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 厚生勞動省「醫藥部外品的效能效果範圍／關於化妝品效能範圍的修訂」[医薬部外品の効能効果の範囲／化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 日本皮膚科學會「皮膚科Q&A　香港腳（水虫）」[皮膚科Q&A　水虫]

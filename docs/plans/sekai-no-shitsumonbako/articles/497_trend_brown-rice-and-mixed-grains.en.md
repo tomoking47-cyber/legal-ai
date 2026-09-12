@@ -62,7 +62,7 @@ Convenience-store onigiri now come in "mochi-mugi" (barley) and "zakkoku" (mixed
 - Ministry of Agriculture, Forestry and Fisheries, "Information on arsenic in food: arsenic in rice" [食品中のヒ素に関する情報：お米に含まれるヒ素]
   https://www.maff.go.jp/j/syouan/nouan/kome/k_as/
 - Ministry of Health, Labour and Welfare e-Health Net, "Why dietary fibre matters for health" [食物繊維の必要性と健康]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-001.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-001.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

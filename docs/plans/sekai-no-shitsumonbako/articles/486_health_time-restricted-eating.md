@@ -52,7 +52,7 @@
 - Lowe DA, et al. "Effects of Time-Restricted Eating on Weight Loss and Other Metabolic Parameters in Women and Men With Overweight and Obesity: The TREAT Randomized Clinical Trial." JAMA Internal Medicine, 2020; 180(11): 1491–1499.
   https://doi.org/10.1001/jamainternmed.2020.4153
 - 厚生労働省 e-ヘルスネット「朝食欠食と健康」
-  https://www.e-healthnet.mhlw.go.jp/information/food/
+  https://kennet.mhlw.go.jp/information/information/food/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

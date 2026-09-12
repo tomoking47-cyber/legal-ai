@@ -50,7 +50,7 @@ It is a tool for **temporarily loosening tension in the body**. **It does not ch
 - Ministry of Health, Labour and Welfare, *Kokoro no Mimi* [こころの耳] (relaxation: breathing methods and muscle relaxation)
   https://kokoro.mhlw.go.jp/
 - Ministry of Health, Labour and Welfare, e-Health Net, *Stress and the autonomic nervous system* [ストレスと自律神経]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/
+  https://kennet.mhlw.go.jp/information/information/heart/
 - Ministry of Health, Labour and Welfare, *Mamorou yo Kokoro* [まもろうよ こころ] (counselling contact points)
   https://www.mhlw.go.jp/mamorouyokokoro/
 

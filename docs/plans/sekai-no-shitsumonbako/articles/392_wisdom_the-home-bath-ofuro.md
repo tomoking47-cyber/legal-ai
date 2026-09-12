@@ -53,7 +53,7 @@ For most households the evening bath is **the daily reset**: warmth for sleep (s
 - Agency for Natural Resources and Energy — Household energy use: hot water and bathing
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - Ministry of Health, Labour and Welfare — e-Health Net: bathing and health
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

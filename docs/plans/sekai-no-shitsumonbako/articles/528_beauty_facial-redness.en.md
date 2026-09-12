@@ -50,7 +50,7 @@ Redness on the cheeks and nose that will not go away; a face that turns crimson 
 ### Sources
 
 - Japanese Dermatological Association, "Rosacea Clinical Guidelines 2023" [酒さ診療ガイドライン 2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Japanese Dermatological Association, "Dermatology Q&A: rosacea and red face / seborrhoeic dermatitis" [皮膚科Q&A：酒さ・赤ら顔／脂漏性皮膚炎]
   https://www.dermatol.or.jp/qa/
 - Japan Cosmetic Industry Association, "Using cosmetics correctly: for people with sensitive skin" [化粧品の正しい使い方：敏感肌の方へ]

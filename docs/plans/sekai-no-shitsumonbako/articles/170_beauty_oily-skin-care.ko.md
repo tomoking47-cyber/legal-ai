@@ -48,7 +48,7 @@
 - 후생노동성 통지 「화장품 효능 범위의 개정에 대하여」[化粧品の効能の範囲の改正について](薬食発0721第1号)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 일본피부과학회 「심상성 좌창·주사 진료 가이드라인 2023」[尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 일본피부과학회 「피부과 Q&A　여드름」[皮膚科Q&A　にきび]
   https://www.dermatol.or.jp/qa/qa3/index.html
 

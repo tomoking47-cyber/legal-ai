@@ -45,7 +45,7 @@ Petroleum jelly (ワセリン, waserin) is **a protective layer that slows water
 ### Sources
 
 - Japanese Dermatological Association, "Guidelines for the management of dermatomycosis" [皮膚真菌症診療ガイドライン] (tinea pedis)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Ministry of Health, Labour and Welfare (MHLW), "Scope of efficacy claims for quasi-drugs" / "Revision of the scope of efficacy claims for cosmetics" [医薬部外品の効能効果の範囲／化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - Japanese Dermatological Association, "Dermatology Q&A: Athlete's foot" [皮膚科Q&A　水虫]

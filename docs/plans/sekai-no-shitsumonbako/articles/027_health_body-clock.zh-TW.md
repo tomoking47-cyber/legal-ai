@@ -41,7 +41,7 @@
 - 日本藥學會 [公益社団法人 日本薬学会]「日夜節律」[概日リズム]（藥學用語解說）
   https://www.pharm.or.jp/words/word00678.html
 - 厚生勞動省 e-健康網（e-ヘルスネット）「良好睡眠與生活習慣」[快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 

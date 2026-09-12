@@ -47,7 +47,7 @@
 ### Sources
 
 - Ministry of Health, Labour and Welfare, e-Health Net, *Autonomic dysfunction* [自律神経失調症]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/heart/yk-058.html
+  https://kennet.mhlw.go.jp/information/information/dictionary/heart/yk-058.html
 - Japan Meteorological Agency, *Weather data (daily temperature range and pressure)* [気象データ（日々の気温差・気圧）]
   https://www.data.jma.go.jp/stats/etrn/
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] (the body clock and light)

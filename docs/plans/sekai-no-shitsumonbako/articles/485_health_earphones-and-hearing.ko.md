@@ -56,7 +56,7 @@
 - 세계보건기구／ITU 《안전한 청취 기기와 시스템: WHO-ITU 표준》*Safe listening devices and systems: a WHO-ITU standard*(2019년)
   https://www.who.int/publications/i/item/9789241515276
 - 후생노동성 e-헬스넷 《헤드폰 난청(소음성 난청)》[ヘッドホン難聴（騒音性難聴）]
-  https://www.e-healthnet.mhlw.go.jp/information/hearing/
+  https://kennet.mhlw.go.jp/information/information/hearing/
 - 일본이비인후과두경부외과학회 《귀의 질환: 소음성 난청·돌발성 난청》[耳の病気：騒音性難聴・突発性難聴]
   https://www.jibika.or.jp/owned/hp/disease/
 

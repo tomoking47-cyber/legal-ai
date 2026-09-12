@@ -51,7 +51,7 @@ Children's snoring can be caused by **enlarged adenoids or tonsils**, and it can
 ### Sources
 
 - Ministry of Health, Labour and Welfare, e-Health Net, "Sleep apnoea syndrome (SAS)" [睡眠時無呼吸症候群（SAS）]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-006.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-006.html
 - Japanese Respiratory Society, "Sleep apnoea syndrome" [睡眠時無呼吸症候群]
   https://www.jrs.or.jp/citizen/disease/
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]

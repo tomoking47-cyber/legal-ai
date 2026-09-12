@@ -51,7 +51,7 @@
 - 厚生勞動省（厚生労働省）《健康促進身體活動·運動指南 2023》[健康づくりのための身体活動・運動ガイド2023]（重量訓練）
   https://www.mhlw.go.jp/content/10904750/001171393.pdf
 - 厚生勞動省（厚生労働省）e-健康net《阻力運動》[レジスタンス運動]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/s-05-003.html
+  https://kennet.mhlw.go.jp/information/information/exercise/s-05-003.html
 - 日本整形外科學會（日本整形外科学会）《ロコモONLINE》（ロコトレ）[ロコモONLINE]
   https://locomo-joa.jp/
 

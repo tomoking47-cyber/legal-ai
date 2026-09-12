@@ -53,7 +53,7 @@
 - WHO《醫療中的手部衛生指南》[Guidelines on Hand Hygiene in Health Care]（酒精濃度）
   https://www.who.int/publications/i/item/9789241597906
 - 日本皮膚科學會《手部濕疹診療指引》[手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

@@ -63,7 +63,7 @@
 ### Sources
 
 - Japanese Dermatological Association, "Guidelines for the diagnosis and management of male- and female-pattern hair loss, 2017 edition" [男性型および女性型脱毛症診療ガイドライン2017年版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Japanese Dermatological Association, "Dermatology Q&A: hair structure and the hair cycle" [皮膚科Q&A：毛髪の構造と毛周期]
   https://www.dermatol.or.jp/qa/
 - Japan Hair Science Association, "Basic knowledge of hair" [毛髪の基礎知識]

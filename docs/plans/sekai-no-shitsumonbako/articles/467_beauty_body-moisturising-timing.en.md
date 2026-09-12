@@ -49,7 +49,7 @@ Come winter, shins and elbows turn flaky and itchy. Dry skin (kansō-hada) and x
 ### Sources
 
 - Japanese Dermatological Association, "Clinical Practice Guidelines for Atopic Dermatitis 2021" [アトピー性皮膚炎診療ガイドライン2021] (skincare; amount of moisturiser, FTU)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: Sebum Deficiency (Xerosis)" [皮膚科Q&A：皮脂欠乏症（乾皮症）]
   https://www.dermatol.or.jp/qa/
 - Ministry of Health, Labour and Welfare, "Indoor Environment (Humidity) in Winter and Health" [冬季の室内環境（湿度）と健康] (Building Sanitation Management Standards, 40–70%)

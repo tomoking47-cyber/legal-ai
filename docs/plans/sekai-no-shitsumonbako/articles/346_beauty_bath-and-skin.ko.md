@@ -52,7 +52,7 @@
 - 소비자청 〈겨울철에 많이 발생하는 고령자의 입욕 중 사고에 주의〉 [冬季に多発する高齢者の入浴中の事故に注意]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 후생노동성 e-헬스넷 〈입욕과 건강〉 [入浴と健康]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

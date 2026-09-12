@@ -50,7 +50,7 @@
 ### 출처
 
 - 일본피부과학회 [日本皮膚科学会] 「아토피피부염 진료 가이드라인 2021」[アトピー性皮膚炎診療ガイドライン2021] (스킨케어·보습)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - 일본피부과학회 [日本皮膚科学会] 「피부과 Q&A: 건성 피부·피지결핍증」[皮膚科Q&A：乾燥肌・皮脂欠乏症]
   https://www.dermatol.or.jp/qa/
 - 일본화장품공업회(JCIA) [日本化粧品工業会] 「화장품 효능의 범위(56개 항목)와 표시 규칙」[化粧品の効能の範囲（56項目）と表示ルール]

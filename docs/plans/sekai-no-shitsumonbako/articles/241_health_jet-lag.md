@@ -49,7 +49,7 @@
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 厚生労働省 e-ヘルスネット「体内時計」
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-002.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 - 厚生労働省「医薬品の個人輸入について」（メラトニン等）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/yakubuturanyou/index.html
 

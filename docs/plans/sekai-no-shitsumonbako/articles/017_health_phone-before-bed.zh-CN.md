@@ -43,7 +43,7 @@
 - 厚生劳动省（MHLW）《为促进健康的睡眠指南2023》[健康づくりのための睡眠ガイド2023]（2024年2月发布）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生劳动省 e-健康网（e-Health Net）“良好睡眠与生活习惯”[快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 国立精神・神经医疗研究中心（NCNP）睡眠觉醒障碍部门
   https://www.ncnp.go.jp/nimh/sleep/
 

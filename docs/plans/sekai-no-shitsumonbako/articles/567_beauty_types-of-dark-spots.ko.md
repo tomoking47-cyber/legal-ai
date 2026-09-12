@@ -52,7 +52,7 @@
 - 일본피부과학회 「피부과 Q&A: 기미(노인성 색소반·간반·주근깨)」 [皮膚科Q&A：しみ（老人性色素斑・肝斑・そばかす）]
   https://www.dermatol.or.jp/qa/
 - 일본피부과학회 『피부 악성종양 진료 가이드라인』 [皮膚悪性腫瘍診療ガイドライン]（흑색종 식별）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 후생노동성(MHLW) 「의약부외품의 효능 또는 효과의 범위」 [医薬部外品の効能又は効果の範囲]（미백 성분: 멜라닌 생성을 억제하여 기미·주근깨를 방지）
   https://www.mhlw.go.jp/
 

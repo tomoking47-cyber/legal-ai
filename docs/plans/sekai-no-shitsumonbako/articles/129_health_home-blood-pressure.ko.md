@@ -52,7 +52,7 @@
 - 일본고혈압학회 『JSH2019 가이드라인』[高血圧治療ガイドライン2019]
   https://www.jpnsh.jp/guideline.html
 - 후생노동성 e-헬스넷 「고혈압」[e-ヘルスネット／高血圧]
-  https://www.e-healthnet.mhlw.go.jp/information/metabolic/m-05-003.html
+  https://kennet.mhlw.go.jp/information/information/metabolic/m-05-003.html
 - 후생노동성 「건강일본21（제3차）」（혈압 관련 목표）[健康日本21（第三次）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

@@ -66,7 +66,7 @@
 - 消費者庁「新しい洗濯表示（JIS L0001）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 日本皮膚科学会「接触皮膚炎診療ガイドライン 2020」（衣類・繊維製品による接触皮膚炎）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

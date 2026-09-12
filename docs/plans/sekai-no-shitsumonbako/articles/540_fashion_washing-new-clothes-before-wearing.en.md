@@ -66,7 +66,7 @@ Some people wear new clothes straight from the shop; others always wash them fir
 - Consumer Affairs Agency, "The new care labels (JIS L0001)" [新しい洗濯表示（JIS L0001）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - Japanese Dermatological Association, "Clinical guidelines for contact dermatitis 2020" [接触皮膚炎診療ガイドライン 2020] (contact dermatitis from clothing and textiles)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -39,7 +39,7 @@
 ### 出处
 
 - 公益社团法人 日本皮肤科学会「寻常性痤疮・酒渣诊疗指南」[尋常性痤瘡・酒皶治療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 公益社团法人 日本皮肤科学会「皮肤科 Q&A」[皮膚科Q&A]
   https://www.dermatol.or.jp/qa/
 - 厚生劳动省「关于化妆品功效范围的修订」[化粧品の効能の範囲の改正について]（薬食発0721第1号）

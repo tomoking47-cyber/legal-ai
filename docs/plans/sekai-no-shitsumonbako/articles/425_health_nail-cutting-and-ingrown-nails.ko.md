@@ -60,7 +60,7 @@
 - 일본하지·족부의학회(풋케어와 족부의학) 『올바른 손발톱 깎는 법』[正しい爪の切り方]
   https://jfcpm.org/
 - 일본피부과학회 『피부진균증 진료 가이드라인』[皮膚真菌症診療ガイドライン](손발톱 무좀)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

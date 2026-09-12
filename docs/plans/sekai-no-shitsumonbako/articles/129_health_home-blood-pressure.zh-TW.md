@@ -52,7 +52,7 @@
 - 日本高血壓學會《高血壓治療指引 2019（JSH2019）》[高血圧治療ガイドライン2019]
   https://www.jpnsh.jp/guideline.html
 - 厚生勞動省 e-健康網「高血壓」[e-ヘルスネット／高血圧]
-  https://www.e-healthnet.mhlw.go.jp/information/metabolic/m-05-003.html
+  https://kennet.mhlw.go.jp/information/information/metabolic/m-05-003.html
 - 厚生勞動省「健康日本 21（第三次）」（關於血壓的目標）[健康日本21（第三次）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

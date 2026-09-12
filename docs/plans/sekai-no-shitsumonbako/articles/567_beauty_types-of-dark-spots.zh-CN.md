@@ -52,7 +52,7 @@
 - 日本皮肤科学会「皮肤科 Q&A：色斑（老年性色素斑・黄褐斑・雀斑）」[皮膚科Q&A：しみ（老人性色素斑・肝斑・そばかす）]
   https://www.dermatol.or.jp/qa/
 - 日本皮肤科学会《皮肤恶性肿瘤诊疗指南》[皮膚悪性腫瘍診療ガイドライン]（识别黑色素瘤）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 厚生劳动省（MHLW）「医药部外品的功效或效果范围」[医薬部外品の効能又は効果の範囲]（美白成分：抑制黑色素生成，防止色斑与雀斑）
   https://www.mhlw.go.jp/
 

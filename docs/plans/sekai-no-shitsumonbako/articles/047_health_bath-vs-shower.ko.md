@@ -43,7 +43,7 @@
 - 정부 홍보 온라인(政府広報オンライン) 「교통사고 사망의 약 3배?! 겨울철 입욕 중 사고에 주의!」 [交通事故死の約3倍？！冬の入浴中の事故に要注意！]
   https://www.gov-online.go.jp/article/202111/entry-9952.html
 - 후생노동성 e-헬스넷 [e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

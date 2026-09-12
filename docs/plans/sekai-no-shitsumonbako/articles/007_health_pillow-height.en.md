@@ -47,7 +47,7 @@ Neck and shoulder trouble has many possible causes. **If it persists, do not try
 ### Sources
 
 - Ministry of Health, Labour and Welfare, e-Health Net [e-ヘルスネット], "Good sleep and lifestyle habits" [快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] (adopted February 2024)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Official guidance from bedding manufacturers (source of the guide figures) — identify and cite the specific documents before publication

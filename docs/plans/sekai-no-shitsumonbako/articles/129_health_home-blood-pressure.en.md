@@ -52,7 +52,7 @@ Home monitors sold in Japan carry **JIS certification or medical-device approval
 - Japanese Society of Hypertension, "Guidelines for the Management of Hypertension 2019 (JSH2019)" [高血圧治療ガイドライン2019]
   https://www.jpnsh.jp/guideline.html
 - MHLW e-Health Net, "Hypertension" [高血圧]
-  https://www.e-healthnet.mhlw.go.jp/information/metabolic/m-05-003.html
+  https://kennet.mhlw.go.jp/information/information/metabolic/m-05-003.html
 - MHLW, "Health Japan 21 (third term)" (blood-pressure targets) [健康日本21（第三次）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

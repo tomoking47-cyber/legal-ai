@@ -49,7 +49,7 @@
 - 厚生勞動省《為促進健康的睡眠指南2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 厚生勞動省 e-Healthnet《良好睡眠與生活習慣》[快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-005.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-005.html
 - 消費者廳《注意冬季頻傳的長者泡澡事故》[冬季に多発する高齢者の入浴中の事故に注意]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 

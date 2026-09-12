@@ -48,7 +48,7 @@
 ### 出典
 
 - 厚生労働省 e-ヘルスネット「快眠と生活習慣」
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 厚生労働省『健康づくりのための睡眠ガイド2023』
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 公益社団法人 日本薬学会「概日リズム」（薬学用語解説）

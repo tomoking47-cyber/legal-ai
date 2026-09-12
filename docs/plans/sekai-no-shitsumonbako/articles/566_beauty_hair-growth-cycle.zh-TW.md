@@ -63,7 +63,7 @@
 ### 出處
 
 - 日本皮膚科學會《男性型及女性型脫髮症診療指引 2017 年版》[男性型および女性型脱毛症診療ガイドライン2017年版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 日本皮膚科學會「皮膚科 Q&A：毛髮的構造與毛週期」[皮膚科Q&A：毛髪の構造と毛周期]
   https://www.dermatol.or.jp/qa/
 - 日本毛髮科學協會「毛髮的基礎知識」[毛髪の基礎知識]

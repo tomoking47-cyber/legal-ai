@@ -45,7 +45,7 @@ Moving your body is recommended, but **there is no basis for asserting that it "
 - MHLW, *Comprehensive Survey of Living Conditions* [国民生活基礎調査]
   https://www.mhlw.go.jp/toukei/list/20-21.html
 - MHLW e-Health Net [e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

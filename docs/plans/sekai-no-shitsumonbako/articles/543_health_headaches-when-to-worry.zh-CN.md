@@ -65,7 +65,7 @@
 - 日本头痛学会「头痛专科认定医名单・头痛外来」[頭痛専門医リスト・頭痛外来]
   https://www.jhsnet.net/
 - 厚生劳动省（厚生労働省）e-Health Net「头痛」[頭痛]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/
+  https://kennet.mhlw.go.jp/information/information/dictionary/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

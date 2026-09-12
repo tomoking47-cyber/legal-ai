@@ -61,7 +61,7 @@
 - 国立健康·营养研究所（国立健康・栄養研究所）《「健康食品」的安全性·有效性信息（姜黄）》[「健康食品」の安全性・有効性情報（ウコン）]
   https://hfnet.nibiohn.go.jp/
 - 厚生劳动省（厚生労働省）e-健康net《酒精的分解与体质（ALDH2）》[アルコールの分解と体質（ALDH2）]
-  https://www.e-healthnet.mhlw.go.jp/information/alcohol/a-02-001.html
+  https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

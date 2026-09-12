@@ -49,7 +49,7 @@
 ### 출처
 
 - 일본피부과학회 [日本皮膚科学会] 「아토피피부염 진료 가이드라인 2021」[アトピー性皮膚炎診療ガイドライン2021] (스킨케어; 보습제의 양, FTU)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - 일본피부과학회 [日本皮膚科学会] 「피부과 Q&A: 피지결핍증(건피증)」[皮膚科Q&A：皮脂欠乏症（乾皮症）]
   https://www.dermatol.or.jp/qa/
 - 후생노동성 [厚生労働省] 「겨울철 실내 환경(습도)과 건강」[冬季の室内環境（湿度）と健康] (건축물 위생관리 기준, 40~70%)

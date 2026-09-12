@@ -51,7 +51,7 @@
 - 日本産業標準調査会（JISC）JIS Z9110「照明基準総則」
   https://www.jisc.go.jp/
 - 厚生労働省 e-ヘルスネット「体内時計と光」
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-002.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

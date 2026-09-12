@@ -61,7 +61,7 @@
 - 国立健康・栄養研究所「『健康食品』の安全性・有効性情報（ウコン）」
   https://hfnet.nibiohn.go.jp/
 - 厚生労働省 e-ヘルスネット「アルコールの分解と体質（ALDH2）」
-  https://www.e-healthnet.mhlw.go.jp/information/alcohol/a-02-001.html
+  https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

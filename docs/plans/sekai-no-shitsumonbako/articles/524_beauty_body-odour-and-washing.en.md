@@ -53,7 +53,7 @@
 - Japanese Dermatological Association, "Dermatology Q&A: axillary osmidrosis (wakiga) and hyperhidrosis" [皮膚科Q&A：腋臭症（わきが）・多汗症]
   https://www.dermatol.or.jp/qa/
 - Japanese Dermatological Association, "Guidelines for primary focal hyperhidrosis, 2023 revision" [原発性局所多汗症診療ガイドライン 2023年改訂版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Japan Cosmetic Industry Association, "Using cosmetics correctly: antiperspirant and deodorant products" [化粧品の正しい使い方：制汗・デオドラント製品]
   https://www.jcia.org/user/public/knowledge/usage
 

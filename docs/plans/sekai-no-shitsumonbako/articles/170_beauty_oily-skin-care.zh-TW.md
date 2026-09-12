@@ -48,7 +48,7 @@
 - 厚生勞動省 通知「化妝品功效範圍的修訂」[化粧品の効能の範囲の改正について]（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 日本皮膚科學會「尋常性痤瘡・酒皶診療指引2023」[尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 日本皮膚科學會「皮膚科Q&A　痘痘」[皮膚科Q&A　にきび]
   https://www.dermatol.or.jp/qa/qa3/index.html
 

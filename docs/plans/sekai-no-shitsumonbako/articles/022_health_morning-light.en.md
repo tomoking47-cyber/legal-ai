@@ -47,7 +47,7 @@ Regular waking and bedtimes, how active you are in the day, the environment befo
 ### Sources
 
 - Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Good sleep and lifestyle habits" [快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - MHLW, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Pharmaceutical Society of Japan [公益社団法人 日本薬学会], "Circadian rhythm" [概日リズム] (glossary of pharmaceutical terms)

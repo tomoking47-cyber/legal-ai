@@ -43,7 +43,7 @@
 - 政府廣報線上（政府広報オンライン）《約為交通事故死亡的3倍？！冬季入浴事故要當心！》[交通事故死の約3倍？！冬の入浴中の事故に要注意！]
   https://www.gov-online.go.jp/article/202111/entry-9952.html
 - 厚生勞動省 e-健康網 [e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

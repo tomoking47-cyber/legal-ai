@@ -62,7 +62,7 @@
 - 农林水产省「食品中砷的相关信息：大米中含有的砷」[食品中のヒ素に関する情報：お米に含まれるヒ素]
   https://www.maff.go.jp/j/syouan/nouan/kome/k_as/
 - 厚生劳动省 e-健康网 [e-ヘルスネット]「膳食纤维的必要性与健康」[食物繊維の必要性と健康]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-001.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-001.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

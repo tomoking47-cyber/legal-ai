@@ -47,7 +47,7 @@
 - 日本眼科學會[公益財団法人 日本眼科学会]
   https://www.nichigan.or.jp/
 - 厚生勞動省 e-健康網[e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

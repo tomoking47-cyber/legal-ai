@@ -51,7 +51,7 @@
 - 国际癌症研究机构（IARC）《Monographs Volume 116: Drinking coffee, mate, and very hot beverages》（2016）
   https://publications.iarc.who.int/566
 - 厚生劳动省 e-健康网（e-ヘルスネット）「水分补充」[水分補給]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

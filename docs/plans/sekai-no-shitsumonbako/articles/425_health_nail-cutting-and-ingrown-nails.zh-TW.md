@@ -60,7 +60,7 @@
 - 日本下肢病學會（足部照護與足病醫學）《正確的剪指甲方法》[正しい爪の切り方]
   https://jfcpm.org/
 - 日本皮膚科學會《皮膚真菌症診療指引》[皮膚真菌症診療ガイドライン]（甲癬）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

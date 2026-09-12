@@ -48,7 +48,7 @@ The guidelines place it as **pleasant through better blood flow, but without suf
 - Ministry of Health, Labour and Welfare (MHLW), "Scope of efficacy claims for quasi-drugs" [医薬部外品の効能効果の範囲] (hair-growth tonics)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - Japanese Dermatological Association, "Guidelines for the diagnosis and management of male- and female-pattern hair loss, 2017" [男性型および女性型脱毛症診療ガイドライン2017年版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Ministry of Health, Labour and Welfare (MHLW), "Revision of the scope of efficacy claims for cosmetics" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

@@ -51,7 +51,7 @@
 - 厚生勞動省《令和4年（2022年）牙科疾病實態調查》[令和4年 歯科疾患実態調査]（8020 達成率）
   https://www.mhlw.go.jp/toukei/list/62-17.html
 - 厚生勞動省 e-Healthnet《吃太快與肥胖》[早食いと肥満]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-02-010.html
+  https://kennet.mhlw.go.jp/information/information/food/e-02-010.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

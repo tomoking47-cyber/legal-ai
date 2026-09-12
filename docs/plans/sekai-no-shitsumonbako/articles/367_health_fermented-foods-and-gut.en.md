@@ -52,7 +52,7 @@
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre)
   https://www.mhlw.go.jp/stf/newpage_44138.html
 - Ministry of Health, Labour and Welfare, e-Health Net, *Gut bacteria and health* [腸内細菌と健康]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-003.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-003.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

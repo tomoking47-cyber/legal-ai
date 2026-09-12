@@ -66,7 +66,7 @@
 - 消费者厅《新的洗涤标识（JIS L0001）》[新しい洗濯表示（JIS L0001）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 日本皮肤科学会《接触性皮炎诊疗指南 2020》[接触皮膚炎診療ガイドライン 2020]（衣物与纺织品引起的接触性皮炎）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

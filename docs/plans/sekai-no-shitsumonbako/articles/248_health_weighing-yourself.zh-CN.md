@@ -51,7 +51,7 @@
 - 厚生劳动省《2023 年 国民健康・营养调查结果概要》[令和5年 国民健康・栄養調査結果の概要]（BMI 分布）
   https://www.mhlw.go.jp/stf/newpage_47433.html
 - 厚生劳动省 e-健康网（e-ヘルスネット）「BMI」
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/metabolic/ym-002.html
+  https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/ym-002.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

@@ -49,7 +49,7 @@
 ### 出典
 
 - 日本皮膚科学会「アトピー性皮膚炎診療ガイドライン2021」（スキンケア・保湿剤の使用量 FTU）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - 日本皮膚科学会「皮膚科Q&A：皮脂欠乏症（乾皮症）」
   https://www.dermatol.or.jp/qa/
 - 厚生労働省「冬季の室内環境（湿度）と健康」（建築物環境衛生管理基準 40〜70%）

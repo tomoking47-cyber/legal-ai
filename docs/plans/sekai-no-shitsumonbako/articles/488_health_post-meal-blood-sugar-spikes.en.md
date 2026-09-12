@@ -65,7 +65,7 @@ Japan reports blood glucose in mg/dL (140 mg/dL is about 7.8 mmol/L).
 - Ministry of Health, Labour and Welfare, *National Health and Nutrition Survey* [国民健康・栄養調査] (estimate of people strongly suspected of having diabetes)
   https://www.mhlw.go.jp/bunya/kenkou/kenkou_eiyou_chousa.html
 - Ministry of Health, Labour and Welfare, e-Health Net, *Post-meal hyperglycaemia* [食後高血糖]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/metabolic/
+  https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

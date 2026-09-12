@@ -42,7 +42,7 @@
 ### 出處
 
 - 厚生勞動省 e-健康網 [厚生労働省 e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 - 國立研究開發法人 國立循環器病研究中心 [国立研究開発法人 国立循環器病研究センター]
   https://www.ncvc.go.jp/
 - 厚生勞動省（MHLW）[厚生労働省]

@@ -51,7 +51,7 @@
 ### 出处
 
 - 厚生劳动省 e-健康网（e-ヘルスネット）「睡眠呼吸暂停综合征（SAS）」[睡眠時無呼吸症候群（SAS）]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-006.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-006.html
 - 日本呼吸器学会「睡眠呼吸暂停综合征」[睡眠時無呼吸症候群]
   https://www.jrs.or.jp/citizen/disease/
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]

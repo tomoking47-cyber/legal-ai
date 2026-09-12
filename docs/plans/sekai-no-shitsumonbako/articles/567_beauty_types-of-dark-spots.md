@@ -52,7 +52,7 @@
 - 日本皮膚科学会「皮膚科Q&A：しみ（老人性色素斑・肝斑・そばかす）」
   https://www.dermatol.or.jp/qa/
 - 日本皮膚科学会「皮膚悪性腫瘍診療ガイドライン」（メラノーマの見分け）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 厚生労働省「医薬部外品の効能又は効果の範囲」（美白有効成分：メラニンの生成を抑え、しみ・そばかすを防ぐ）
   https://www.mhlw.go.jp/
 

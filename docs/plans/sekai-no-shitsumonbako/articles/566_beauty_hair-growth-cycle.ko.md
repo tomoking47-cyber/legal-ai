@@ -63,7 +63,7 @@
 ### 출처
 
 - 일본피부과학회 『남성형 및 여성형 탈모증 진료 가이드라인 2017년판』 [男性型および女性型脱毛症診療ガイドライン2017年版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 일본피부과학회 「피부과 Q&A: 모발의 구조와 모주기」 [皮膚科Q&A：毛髪の構造と毛周期]
   https://www.dermatol.or.jp/qa/
 - 일본모발과학협회 「모발의 기초 지식」 [毛髪の基礎知識]

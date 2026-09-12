@@ -61,7 +61,7 @@
 - 日本整形外科学会「こむら返り（筋けいれん）」
   https://www.joa.or.jp/public/sick/
 - 厚生労働省 e-ヘルスネット「運動と筋肉のけいれん」
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - 医薬品医療機器総合機構（PMDA）「芍薬甘草湯 添付文書（偽アルドステロン症の注意）」
   https://www.pmda.go.jp/
 

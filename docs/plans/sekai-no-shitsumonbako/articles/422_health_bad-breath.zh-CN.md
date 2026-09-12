@@ -54,7 +54,7 @@
 - 日本口臭学会 [日本口臭学会]《口臭的原因与对策》[口臭の原因と対策]
   http://jams-site.kenkyuukai.jp/
 - 厚生劳动省 e-健康网《牙周病》[歯周病]
-  https://www.e-healthnet.mhlw.go.jp/information/teeth/h-02-001.html
+  https://kennet.mhlw.go.jp/information/information/teeth/h-02-001.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

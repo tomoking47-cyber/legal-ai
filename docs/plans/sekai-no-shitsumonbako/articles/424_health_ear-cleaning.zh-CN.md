@@ -53,7 +53,7 @@
 - 消费者厅《注意掏耳朵时的事故（儿童鼓膜损伤）》[耳掃除中の事故に注意（子どもの鼓膜損傷）]
   https://www.caa.go.jp/policies/policy/consumer_safety/child/
 - 厚生劳动省 e-健康网《耳朵的健康》[耳の健康]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

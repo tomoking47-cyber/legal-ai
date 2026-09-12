@@ -51,7 +51,7 @@
 - 후생노동성 『레이와 4년(2022년) 치과 질환 실태 조사』[令和4年 歯科疾患実態調査] (8020 달성률)
   https://www.mhlw.go.jp/toukei/list/62-17.html
 - 후생노동성 e-Healthnet 『빨리 먹기와 비만』[早食いと肥満]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-02-010.html
+  https://kennet.mhlw.go.jp/information/information/food/e-02-010.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

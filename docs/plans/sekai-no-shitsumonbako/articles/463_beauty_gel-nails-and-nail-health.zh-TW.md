@@ -51,7 +51,7 @@
 - 日本國民生活中心 [独立行政法人 国民生活センター] 關於光療指甲危害（接觸性皮膚炎、指甲變色）的資訊 [ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報]
   https://www.kokusen.go.jp/
 - 日本皮膚科學會「接觸性皮膚炎診療指引 2020」[接触皮膚炎診療ガイドライン 2020]（丙烯酸酯類引起的接觸性皮膚炎）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 - 日本皮膚科學會「皮膚科Q&A：指甲的疾病」[皮膚科Q&A：爪の病気]
   https://www.dermatol.or.jp/qa/
 

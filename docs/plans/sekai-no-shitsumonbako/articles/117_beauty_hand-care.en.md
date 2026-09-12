@@ -46,7 +46,7 @@ The Ministry of Health, Labour and Welfare regards **washing with soap under run
 ### Sources
 
 - Japanese Dermatological Association, "Clinical Guidelines for Hand Eczema" [手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 - Ministry of Health, Labour and Welfare (MHLW), "Revision of the scope of cosmetic efficacy claims" (Yakushoku-hatsu 0721 No. 1) [化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - MHLW, "How to wash your hands" [手洗いの手順]

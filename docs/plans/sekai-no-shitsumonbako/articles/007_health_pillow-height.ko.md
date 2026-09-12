@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 e-헬스넷 [e-ヘルスネット] 「쾌면과 생활 습관」 [快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023] (2024년 2월 책정)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 침구 제조사의 공식 안내(기준 수치의 출처) — 게재 전에 구체적인 자료를 특정해 인용할 것

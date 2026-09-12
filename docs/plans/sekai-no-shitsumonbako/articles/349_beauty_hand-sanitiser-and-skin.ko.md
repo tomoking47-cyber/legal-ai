@@ -53,7 +53,7 @@
 - WHO 〈Guidelines on Hand Hygiene in Health Care〉 (의료 현장의 손 위생 지침, 알코올 농도)
   https://www.who.int/publications/i/item/9789241597906
 - 일본피부과학회 〈손 습진 진료 가이드라인〉 [手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

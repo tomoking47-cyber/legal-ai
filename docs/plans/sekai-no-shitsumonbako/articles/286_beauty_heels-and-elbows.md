@@ -45,7 +45,7 @@
 ### 出典
 
 - 公益社団法人日本皮膚科学会「皮膚真菌症診療ガイドライン」（足白癬）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 厚生労働省「医薬部外品の効能効果の範囲」／「化粧品の効能の範囲の改正について」
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 公益社団法人日本皮膚科学会「皮膚科Q&A　水虫」

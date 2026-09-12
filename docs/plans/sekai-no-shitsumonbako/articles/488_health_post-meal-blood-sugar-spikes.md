@@ -63,7 +63,7 @@
 - 厚生労働省「国民健康・栄養調査」（糖尿病が強く疑われる者の推計）
   https://www.mhlw.go.jp/bunya/kenkou/kenkou_eiyou_chousa.html
 - 厚生労働省 e-ヘルスネット「食後高血糖」
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/metabolic/
+  https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

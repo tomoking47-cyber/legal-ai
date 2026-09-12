@@ -60,7 +60,7 @@
 - 一般社団法人日本フットケア・足病医学会「正しい爪の切り方」
   https://jfcpm.org/
 - 公益社団法人日本皮膚科学会「皮膚真菌症診療ガイドライン」（爪白癬）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

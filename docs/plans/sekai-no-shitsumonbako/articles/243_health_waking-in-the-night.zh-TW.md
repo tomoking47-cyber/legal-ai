@@ -48,7 +48,7 @@
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 厚生勞動省 e-健康網（e-ヘルスネット）「失眠症」[不眠症]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-001.html
 - 日本睡眠學會「睡眠障礙的診斷與治療」[睡眠障害の診断と治療]
   https://jssr.jp/
 

@@ -62,7 +62,7 @@
 - 農林水産省「食品中のヒ素に関する情報：お米に含まれるヒ素」
   https://www.maff.go.jp/j/syouan/nouan/kome/k_as/
 - 厚生労働省 e-ヘルスネット「食物繊維の必要性と健康」
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-001.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-001.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

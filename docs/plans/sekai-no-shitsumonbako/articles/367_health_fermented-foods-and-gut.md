@@ -52,7 +52,7 @@
 - 厚生労働省「日本人の食事摂取基準（2025年版）」（食物繊維）
   https://www.mhlw.go.jp/stf/newpage_44138.html
 - 厚生労働省 e-ヘルスネット「腸内細菌と健康」
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-003.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-003.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

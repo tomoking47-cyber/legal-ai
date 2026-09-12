@@ -53,7 +53,7 @@
 - 資源能源廳（Agency for Natural Resources and Energy）——家庭能源使用：熱水與入浴
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 厚生勞動省（Ministry of Health, Labour and Welfare）——e-健康網（e-Health Net）：入浴與健康
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

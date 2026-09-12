@@ -39,7 +39,7 @@
 ### 출처
 
 - 공익사단법인 일본피부과학회 「심상성 좌창·주사 진료 가이드라인」 [尋常性痤瘡・酒皶治療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 공익사단법인 일본피부과학회 「피부과 Q&A」 [皮膚科Q&A]
   https://www.dermatol.or.jp/qa/
 - 후생노동성 「화장품 효능 범위의 개정에 대하여」 [化粧品の効能の範囲の改正について] (薬食発0721第1号)

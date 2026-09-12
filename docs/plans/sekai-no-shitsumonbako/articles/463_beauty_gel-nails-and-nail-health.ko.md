@@ -51,7 +51,7 @@
 - 일본 국민생활센터 [独立行政法人 国民生活センター] 젤네일로 인한 위해(접촉피부염·손톱 변색) 정보 [ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報]
   https://www.kokusen.go.jp/
 - 일본피부과학회 「접촉피부염 진료 가이드라인 2020」[接触皮膚炎診療ガイドライン 2020] (아크릴레이트에 의한 접촉피부염)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 - 일본피부과학회 「피부과 Q&A: 손톱 질환」[皮膚科Q&A：爪の病気]
   https://www.dermatol.or.jp/qa/
 

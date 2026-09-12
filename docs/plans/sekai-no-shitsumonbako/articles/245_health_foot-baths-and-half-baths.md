@@ -49,7 +49,7 @@
 - 一般社団法人日本温泉気候物理医学会「入浴の医学」
   https://www.onki.jp/
 - 厚生労働省 e-ヘルスネット「入浴と健康」
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

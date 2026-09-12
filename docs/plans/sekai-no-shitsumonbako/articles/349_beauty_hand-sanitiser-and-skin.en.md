@@ -53,7 +53,7 @@ Many people improve with **sanitiser containing moisturisers, hand cream after s
 - WHO, "Guidelines on Hand Hygiene in Health Care" (alcohol concentration)
   https://www.who.int/publications/i/item/9789241597906
 - Japanese Dermatological Association, "Clinical practice guidelines for hand eczema" [手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

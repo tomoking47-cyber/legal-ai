@@ -61,7 +61,7 @@
 - 일본정형외과학회 「다리 쥐(근경련)」[こむら返り（筋けいれん）]
   https://www.joa.or.jp/public/sick/
 - 후생노동성(厚生労働省) e-헬스넷 「운동과 근육 경련」[運動と筋肉のけいれん]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - 의약품의료기기종합기구(PMDA) 「작약감초탕 첨부문서(가성 알도스테론증 주의)」[芍薬甘草湯 添付文書（偽アルドステロン症の注意）]
   https://www.pmda.go.jp/
 

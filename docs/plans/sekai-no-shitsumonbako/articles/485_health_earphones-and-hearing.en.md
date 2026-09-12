@@ -56,7 +56,7 @@ On commuter trains in Japan's cities, most people are wearing earphones. The WHO
 - World Health Organization / ITU, *Safe listening devices and systems: a WHO-ITU standard* (2019)
   https://www.who.int/publications/i/item/9789241515276
 - Ministry of Health, Labour and Welfare, e-Health Net, *Headphone hearing loss (noise-induced hearing loss)* [ヘッドホン難聴（騒音性難聴）]
-  https://www.e-healthnet.mhlw.go.jp/information/hearing/
+  https://kennet.mhlw.go.jp/information/information/hearing/
 - Oto-Rhino-Laryngological Society of Japan, *Ear diseases: noise-induced hearing loss, sudden hearing loss* [耳の病気：騒音性難聴・突発性難聴]
   https://www.jibika.or.jp/owned/hp/disease/
 

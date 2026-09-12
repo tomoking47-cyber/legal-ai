@@ -51,7 +51,7 @@
 - 日本国民生活中心 [独立行政法人 国民生活センター] 关于甲油胶危害（接触性皮炎、指甲变色）的信息 [ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報]
   https://www.kokusen.go.jp/
 - 日本皮肤科学会「接触性皮炎诊疗指南 2020」[接触皮膚炎診療ガイドライン 2020]（丙烯酸酯类引起的接触性皮炎）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
 - 日本皮肤科学会「皮肤科Q&A：指甲的疾病」[皮膚科Q&A：爪の病気]
   https://www.dermatol.or.jp/qa/
 

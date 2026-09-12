@@ -53,7 +53,7 @@
 - 日本循環器学会「不整脈の診断とウェアラブルデバイスに関する指針」
   https://www.j-circ.or.jp/
 - 厚生労働省 e-ヘルスネット「心拍数と運動強度」
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - 日本不整脈心電学会「心房細動と一般向け情報」
   https://new.jhrs.or.jp/
 

@@ -51,7 +51,7 @@ Home readings are **estimates**. **They shift by several % with hydration**, so 
 - Ministry of Health, Labour and Welfare, *Summary of the 2023 National Health and Nutrition Survey* [令和5年 国民健康・栄養調査結果の概要] (BMI distribution)
   https://www.mhlw.go.jp/stf/newpage_47433.html
 - Ministry of Health, Labour and Welfare, e-Health Net, "BMI"
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/metabolic/ym-002.html
+  https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/ym-002.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

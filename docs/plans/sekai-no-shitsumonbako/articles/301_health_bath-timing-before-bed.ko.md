@@ -49,7 +49,7 @@
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 후생노동성 e-Healthnet 『쾌면과 생활 습관』[快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-005.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-005.html
 - 소비자청 『겨울에 많이 발생하는 고령자의 입욕 중 사고에 주의』[冬季に多発する高齢者の入浴中の事故に注意]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 

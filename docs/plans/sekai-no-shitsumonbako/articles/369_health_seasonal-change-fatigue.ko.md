@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「자율신경실조증」 [自律神経失調症]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/heart/yk-058.html
+  https://kennet.mhlw.go.jp/information/information/dictionary/heart/yk-058.html
 - 기상청 『기상 데이터(매일의 기온차・기압)』 [気象データ（日々の気温差・気圧）]
   https://www.data.jma.go.jp/stats/etrn/
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023] (체내 시계와 빛)

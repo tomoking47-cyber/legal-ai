@@ -50,7 +50,7 @@
 - 厚生勞動省《心之耳》[こころの耳]（放鬆：呼吸法與肌肉放鬆）
   https://kokoro.mhlw.go.jp/
 - 厚生勞動省 e-健康網（e-ヘルスネット）《壓力與自律神經》[ストレスと自律神経]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/
+  https://kennet.mhlw.go.jp/information/information/heart/
 - 厚生勞動省《まもろうよ こころ》（守護你的心，諮詢窗口）
   https://www.mhlw.go.jp/mamorouyokokoro/
 

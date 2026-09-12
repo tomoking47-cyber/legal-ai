@@ -48,7 +48,7 @@
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 厚生劳动省 e-健康网（e-ヘルスネット）「睡眠与生活习惯」[睡眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-01-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-001.html
 - 厚生劳动省《2023年 国民健康・营养调查结果概要》[令和5年 国民健康・栄養調査結果の概要]（睡眠）
   https://www.mhlw.go.jp/stf/newpage_47433.html
 

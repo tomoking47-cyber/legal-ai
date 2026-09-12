@@ -55,7 +55,7 @@ It is **only a screen for strong irritants**. **Delayed allergies and reactions 
 ### Sources
 
 - Japanese Dermatological Association, "Guideline for the Management of Contact Dermatitis 2020" [接触皮膚炎診療ガイドライン2020]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - National Consumer Affairs Center of Japan, "Complaints about Skin Damage from Cosmetics" [化粧品による皮膚障害に関する相談]
   https://www.kokusen.go.jp/
 - Japan Cosmetic Industry Association, "Using Cosmetics Correctly (precautions when using a product for the first time)" [化粧品の正しい使い方]

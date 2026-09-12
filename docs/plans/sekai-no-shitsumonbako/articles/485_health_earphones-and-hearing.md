@@ -56,7 +56,7 @@
 - World Health Organization / ITU「Safe listening devices and systems: a WHO-ITU standard」（2019年）
   https://www.who.int/publications/i/item/9789241515276
 - 厚生労働省 e-ヘルスネット「ヘッドホン難聴（騒音性難聴）」
-  https://www.e-healthnet.mhlw.go.jp/information/hearing/
+  https://kennet.mhlw.go.jp/information/information/hearing/
 - 日本耳鼻咽喉科頭頸部外科学会「耳の病気：騒音性難聴・突発性難聴」
   https://www.jibika.or.jp/owned/hp/disease/
 

@@ -47,7 +47,7 @@
 ### 出處
 
 - 厚生勞動省 e-健康網（e-ヘルスネット）「自律神經失調症」[自律神経失調症]
-  https://www.e-healthnet.mhlw.go.jp/information/dictionary/heart/yk-058.html
+  https://kennet.mhlw.go.jp/information/information/dictionary/heart/yk-058.html
 - 氣象廳《氣象資料（每日的氣溫差・氣壓）》[気象データ（日々の気温差・気圧）]
   https://www.data.jma.go.jp/stats/etrn/
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]（生理時鐘與光）

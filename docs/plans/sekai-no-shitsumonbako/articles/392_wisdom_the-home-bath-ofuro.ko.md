@@ -53,7 +53,7 @@
 - 자원에너지청(Agency for Natural Resources and Energy) — 가정 에너지 사용: 온수와 목욕
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 후생노동성(Ministry of Health, Labour and Welfare) — e-헬스넷(e-Health Net): 목욕과 건강
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

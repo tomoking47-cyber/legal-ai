@@ -50,7 +50,7 @@
 ### 出处
 
 - 日本皮肤科学会 [日本皮膚科学会]「玫瑰痤疮（酒渣）诊疗指南 2023」[酒さ診療ガイドライン 2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 日本皮肤科学会 [日本皮膚科学会]「皮肤科Q&A：酒渣・红脸／脂溢性皮炎」[皮膚科Q&A：酒さ・赤ら顔／脂漏性皮膚炎]
   https://www.dermatol.or.jp/qa/
 - 日本化妆品工业会（JCIA）[日本化粧品工業会]「化妆品的正确用法：致敏感肌的您」[化粧品の正しい使い方：敏感肌の方へ]

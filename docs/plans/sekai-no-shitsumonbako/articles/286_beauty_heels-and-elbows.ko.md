@@ -45,7 +45,7 @@
 ### 출처
 
 - 일본피부과학회 『피부진균증 진료 가이드라인』[皮膚真菌症診療ガイドライン] (무좀)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 후생노동성 「의약부외품의 효능효과 범위／화장품 효능 범위 개정에 대하여」[医薬部外品の効能効果の範囲／化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 일본피부과학회 「피부과 Q&A　무좀」[皮膚科Q&A　水虫]

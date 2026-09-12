@@ -47,7 +47,7 @@ The greater the difference in brightness between the screen and its surroundings
 - Japanese Ophthalmological Society [公益財団法人 日本眼科学会]
   https://www.nichigan.or.jp/
 - MHLW e-Health Net [e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

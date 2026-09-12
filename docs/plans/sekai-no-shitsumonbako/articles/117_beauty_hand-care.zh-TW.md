@@ -46,7 +46,7 @@
 ### 出處
 
 - 日本皮膚科學會《手濕疹診療指引》[手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 - 厚生勞動省「關於化妝品功效範圍的修訂」[化粧品の効能の範囲の改正について]（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 厚生勞動省「洗手的步驟」[手洗いの手順]

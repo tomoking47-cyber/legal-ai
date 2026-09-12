@@ -51,7 +51,7 @@
 ### 출처
 
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「수면 무호흡 증후군(SAS)」 [睡眠時無呼吸症候群（SAS）]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-006.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-006.html
 - 일본호흡기학회 「수면 무호흡 증후군」 [睡眠時無呼吸症候群]
   https://www.jrs.or.jp/citizen/disease/
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]

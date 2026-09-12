@@ -50,7 +50,7 @@
 ### 出處
 
 - 日本皮膚科學會 [日本皮膚科学会]「玫瑰斑（酒糟）診療指引 2023」[酒さ診療ガイドライン 2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 日本皮膚科學會 [日本皮膚科学会]「皮膚科Q&A：酒糟・紅臉／脂漏性皮膚炎」[皮膚科Q&A：酒さ・赤ら顔／脂漏性皮膚炎]
   https://www.dermatol.or.jp/qa/
 - 日本化妝品工業會（JCIA）[日本化粧品工業会]「化妝品的正確用法：致敏感肌的您」[化粧品の正しい使い方：敏感肌の方へ]

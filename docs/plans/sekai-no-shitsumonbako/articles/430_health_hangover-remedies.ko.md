@@ -61,7 +61,7 @@
 - 국립건강·영양연구소(国立健康・栄養研究所) 『「건강식품」의 안전성·유효성 정보(울금)』 [「健康食品」の安全性・有効性情報（ウコン）]
   https://hfnet.nibiohn.go.jp/
 - 후생노동성(厚生労働省) e-헬스넷 『알코올의 분해와 체질(ALDH2)』 [アルコールの分解と体質（ALDH2）]
-  https://www.e-healthnet.mhlw.go.jp/information/alcohol/a-02-001.html
+  https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

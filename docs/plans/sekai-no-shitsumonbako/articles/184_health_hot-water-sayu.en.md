@@ -51,7 +51,7 @@ Sayu is water. Take in **about 1.2 L a day of fluid apart from meals** (the MHLW
 - International Agency for Research on Cancer (IARC), *Monographs Volume 116: Drinking coffee, mate, and very hot beverages* (2016)
   https://publications.iarc.who.int/566
 - Ministry of Health, Labour and Welfare, e-Health Net, "Hydration" [水分補給]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

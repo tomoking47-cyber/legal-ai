@@ -60,7 +60,7 @@ Few people are ever taught how to cut their nails, and "short and rounded" is ta
 - Japanese Society for Foot Care and Podiatric Medicine, *How to cut nails correctly* [正しい爪の切り方]
   https://jfcpm.org/
 - Japanese Dermatological Association, *Clinical Practice Guidelines for Dermatomycosis* [皮膚真菌症診療ガイドライン] (nail fungus)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

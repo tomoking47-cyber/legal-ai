@@ -53,7 +53,7 @@ In Japan, ear cleaning is an established habit, and the bamboo ear pick (耳か�
 - Consumer Affairs Agency, *Beware of accidents during ear cleaning (perforated eardrums in children)* [耳掃除中の事故に注意（子どもの鼓膜損傷）]
   https://www.caa.go.jp/policies/policy/consumer_safety/child/
 - Ministry of Health, Labour and Welfare, e-Health Net, *Ear health* [耳の健康]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

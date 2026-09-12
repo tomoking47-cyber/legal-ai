@@ -52,7 +52,7 @@
 - 厚生勞動省《日本人膳食攝取基準（2025 年版）》[日本人の食事摂取基準（2025年版）]（膳食纖維）
   https://www.mhlw.go.jp/stf/newpage_44138.html
 - 厚生勞動省 e-健康網（e-ヘルスネット）「腸道細菌與健康」[腸内細菌と健康]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-05-003.html
+  https://kennet.mhlw.go.jp/information/information/food/e-05-003.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

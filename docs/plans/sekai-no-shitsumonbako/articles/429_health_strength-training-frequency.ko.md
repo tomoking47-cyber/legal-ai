@@ -51,7 +51,7 @@
 - 후생노동성(厚生労働省) 『건강 증진을 위한 신체활동·운동 가이드 2023』 [健康づくりのための身体活動・運動ガイド2023] (근력 운동)
   https://www.mhlw.go.jp/content/10904750/001171393.pdf
 - 후생노동성(厚生労働省) e-헬스넷 『레지스턴스 운동』 [レジスタンス運動]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/s-05-003.html
+  https://kennet.mhlw.go.jp/information/information/exercise/s-05-003.html
 - 일본정형외과학회(日本整形外科学会) 『ロコモONLINE』 (로코트레) [ロコモONLINE]
   https://locomo-joa.jp/
 

@@ -49,7 +49,7 @@
 - 厚生労働省「医療広告ガイドライン」（医業若しくは歯科医業又は病院若しくは診療所に関する広告等に関する指針、2018年）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kokokukisei/index.html
 - 公益社団法人日本皮膚科学会「尋常性痤瘡・酒皶治療ガイドライン2023」
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 消費者庁「美容医療サービスの契約トラブル（クーリングオフの適用）」
   https://www.caa.go.jp/policies/policy/consumer_transaction/
 

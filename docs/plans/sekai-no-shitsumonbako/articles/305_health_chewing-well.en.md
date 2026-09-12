@@ -51,7 +51,7 @@
 - Ministry of Health, Labour and Welfare, *2022 Survey of Dental Diseases* [令和4年 歯科疾患実態調査] (8020 achievement rate)
   https://www.mhlw.go.jp/toukei/list/62-17.html
 - Ministry of Health, Labour and Welfare, e-Healthnet, *Fast eating and obesity* [早食いと肥満]
-  https://www.e-healthnet.mhlw.go.jp/information/food/e-02-010.html
+  https://kennet.mhlw.go.jp/information/information/food/e-02-010.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -61,7 +61,7 @@
 - 日本骨科学会「腿抽筋（肌肉痉挛）」[こむら返り（筋けいれん）]
   https://www.joa.or.jp/public/sick/
 - 厚生劳动省（厚生労働省）e-健康网「运动与肌肉痉挛」[運動と筋肉のけいれん]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - 医药品医疗器械综合机构（PMDA）「芍药甘草汤 说明书（关于假性醛固酮症的注意）」[芍薬甘草湯 添付文書（偽アルドステロン症の注意）]
   https://www.pmda.go.jp/
 

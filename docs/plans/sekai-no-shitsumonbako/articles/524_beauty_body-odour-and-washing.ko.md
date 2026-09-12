@@ -53,7 +53,7 @@
 - 일본피부과학회 《피부과 Q&A: 액취증(와키가)·다한증》[皮膚科Q&A：腋臭症（わきが）・多汗症]
   https://www.dermatol.or.jp/qa/
 - 일본피부과학회 《원발성 국소 다한증 진료 가이드라인 2023년 개정판》[原発性局所多汗症診療ガイドライン 2023年改訂版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 일본화장품공업연합회 《화장품의 올바른 사용법: 제한·데오드란트 제품》[化粧品の正しい使い方：制汗・デオドラント製品]
   https://www.jcia.org/user/public/knowledge/usage
 

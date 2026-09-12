@@ -50,7 +50,7 @@ What you lose is **water**, and it comes back when you drink. **The dehydration 
 - Japan Sauna & Spa Association, "The right way to take a sauna" [サウナの正しい入り方]
   https://www.sauna.or.jp/
 - Ministry of Health, Labour and Welfare, e-Health Net, "Bathing and health" [入浴と健康]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

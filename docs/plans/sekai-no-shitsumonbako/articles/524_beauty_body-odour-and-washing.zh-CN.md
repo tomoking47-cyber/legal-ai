@@ -53,7 +53,7 @@
 - 日本皮肤科学会《皮肤科Q&A：腋臭症（腋臭）・多汗症》[皮膚科Q&A：腋臭症（わきが）・多汗症]
   https://www.dermatol.or.jp/qa/
 - 日本皮肤科学会《原发性局部多汗症诊疗指南 2023年修订版》[原発性局所多汗症診療ガイドライン 2023年改訂版]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 日本化妆品工业联合会《化妆品的正确使用方法：止汗・除臭产品》[化粧品の正しい使い方：制汗・デオドラント製品]
   https://www.jcia.org/user/public/knowledge/usage
 

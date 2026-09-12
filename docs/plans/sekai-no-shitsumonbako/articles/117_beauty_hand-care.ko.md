@@ -46,7 +46,7 @@
 ### 출처
 
 - 일본피부과학회 「손 습진 진료 가이드라인」 [手湿疹診療ガイドライン]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/hand_eczema_GL.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/hand_eczema_GL.pdf
 - 후생노동성 「화장품 효능 범위의 개정에 대하여」 [化粧品の効能の範囲の改正について] (薬食発0721第1号)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 후생노동성 「손 씻는 순서」 [手洗いの手順]

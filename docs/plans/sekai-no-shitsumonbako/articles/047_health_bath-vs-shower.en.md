@@ -43,7 +43,7 @@ Switch according to the season and how you feel. **There is no need to fix on on
 - Government Public Relations Online (政府広報オンライン), "About three times road-traffic deaths?! Beware of bathing accidents in winter!" [交通事故死の約3倍？！冬の入浴中の事故に要注意！]
   https://www.gov-online.go.jp/article/202111/entry-9952.html
 - Ministry of Health, Labour and Welfare, e-Health Net [e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

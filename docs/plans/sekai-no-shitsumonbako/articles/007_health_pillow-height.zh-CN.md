@@ -47,7 +47,7 @@
 ### 出处
 
 - 厚生劳动省 e-健康网 [e-ヘルスネット]「良好睡眠与生活习惯」[快眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]（2024年2月制定）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 寝具厂商的官方指引（参考数值的来源）——发布前请确定并注明具体文件

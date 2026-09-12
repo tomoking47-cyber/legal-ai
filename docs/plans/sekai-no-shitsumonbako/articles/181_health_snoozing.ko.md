@@ -48,7 +48,7 @@
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「수면과 생활 습관」 [睡眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-01-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-001.html
 - 후생노동성 『2023년 국민건강・영양조사 결과 개요』 [令和5年 国民健康・栄養調査結果の概要] (수면)
   https://www.mhlw.go.jp/stf/newpage_47433.html
 

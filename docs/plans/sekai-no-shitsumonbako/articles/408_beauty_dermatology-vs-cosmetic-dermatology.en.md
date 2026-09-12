@@ -49,7 +49,7 @@
 - Ministry of Health, Labour and Welfare, "Medical Advertising Guidelines" [医療広告ガイドライン] (Guidelines on Advertising of Medical and Dental Practice, Hospitals and Clinics, 2018)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kokokukisei/index.html
 - Japanese Dermatological Association, "Guideline for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Consumer Affairs Agency, "Contract Disputes over Cosmetic Medical Services (application of cooling-off)" [美容医療サービスの契約トラブル]
   https://www.caa.go.jp/policies/policy/consumer_transaction/
 

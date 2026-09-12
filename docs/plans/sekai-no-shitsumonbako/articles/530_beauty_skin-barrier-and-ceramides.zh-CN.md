@@ -50,7 +50,7 @@
 ### 出处
 
 - 日本皮肤科学会 [日本皮膚科学会]「特应性皮炎诊疗指南 2021」[アトピー性皮膚炎診療ガイドライン2021]（护肤・保湿）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/ADGL2021.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
 - 日本皮肤科学会 [日本皮膚科学会]「皮肤科Q&A：干性皮肤・皮脂缺乏症」[皮膚科Q&A：乾燥肌・皮脂欠乏症]
   https://www.dermatol.or.jp/qa/
 - 日本化妆品工业会（JCIA）[日本化粧品工業会]「化妆品功效的范围（56 项）与标示规则」[化粧品の効能の範囲（56項目）と表示ルール]

@@ -56,7 +56,7 @@
 - 世界卫生组织／国际电信联盟《安全聆听设备与系统：WHO-ITU 标准》*Safe listening devices and systems: a WHO-ITU standard*（2019 年）
   https://www.who.int/publications/i/item/9789241515276
 - 厚生劳动省 e-健康网《耳机性听力损失（噪声性听力损失）》[ヘッドホン難聴（騒音性難聴）]
-  https://www.e-healthnet.mhlw.go.jp/information/hearing/
+  https://kennet.mhlw.go.jp/information/information/hearing/
 - 日本耳鼻咽喉科头颈部外科学会《耳部疾病：噪声性听力损失・突发性听力损失》[耳の病気：騒音性難聴・突発性難聴]
   https://www.jibika.or.jp/owned/hp/disease/
 

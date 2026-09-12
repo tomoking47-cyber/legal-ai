@@ -61,7 +61,7 @@ Waking at night with a violent pain in the calf — komura-gaeri in Japanese. Mo
 - Japanese Orthopaedic Association, "Leg cramps (muscle cramps)" [こむら返り（筋けいれん）]
   https://www.joa.or.jp/public/sick/
 - Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Exercise and muscle cramps" [運動と筋肉のけいれん]
-  https://www.e-healthnet.mhlw.go.jp/information/exercise/
+  https://kennet.mhlw.go.jp/information/information/exercise/
 - Pharmaceuticals and Medical Devices Agency (PMDA), "Shakuyaku-kanzō-tō package insert (warning on pseudoaldosteronism)" [芍薬甘草湯 添付文書（偽アルドステロン症の注意）]
   https://www.pmda.go.jp/
 

@@ -48,7 +48,7 @@ The pleasant feeling is **the sensation of light sleep and dozing**; it has noth
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/content/10904750/001181265.pdf
 - Ministry of Health, Labour and Welfare, e-Health Net, "Sleep and lifestyle habits" [睡眠と生活習慣]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-01-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-001.html
 - Ministry of Health, Labour and Welfare, *Outline of Results of the 2023 National Health and Nutrition Survey* [令和5年 国民健康・栄養調査結果の概要] (sleep)
   https://www.mhlw.go.jp/stf/newpage_47433.html
 

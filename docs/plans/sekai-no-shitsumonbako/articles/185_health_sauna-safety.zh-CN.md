@@ -50,7 +50,7 @@
 - 日本桑拿・SPA 协会「桑拿的正确泡法」[サウナの正しい入り方]
   https://www.sauna.or.jp/
 - 厚生劳动省 e-健康网（e-ヘルスネット）「洗浴与健康」[入浴と健康]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

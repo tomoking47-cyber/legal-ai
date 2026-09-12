@@ -45,7 +45,7 @@
 ### 出处
 
 - 日本皮肤科学会《皮肤真菌症诊疗指南》[皮膚真菌症診療ガイドライン]（足癣）
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - 厚生劳动省「医药部外品的效能效果范围／关于化妆品效能范围的修订」[医薬部外品の効能効果の範囲／化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 日本皮肤科学会「皮肤科Q&A　脚气（水虫）」[皮膚科Q&A　水虫]

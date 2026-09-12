@@ -45,7 +45,7 @@ Keeping a regular daily rhythm is recommended, but **it cannot be asserted that 
 - Japan Meteorological Agency, weather data [気象庁 気象データ]
   https://www.data.jma.go.jp/stats/etrn/
 - MHLW e-Health Net [厚生労働省 e-ヘルスネット]
-  https://www.e-healthnet.mhlw.go.jp/
+  https://kennet.mhlw.go.jp/information/information/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

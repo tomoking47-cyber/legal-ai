@@ -48,7 +48,7 @@ It changes with **sleep, diet, season and hormones.** If acne is involved, a der
 - Ministry of Health, Labour and Welfare, notice "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Japanese Dermatological Association, "Dermatology Q&A — Acne" [皮膚科Q&A　にきび]
   https://www.dermatol.or.jp/qa/qa3/index.html
 

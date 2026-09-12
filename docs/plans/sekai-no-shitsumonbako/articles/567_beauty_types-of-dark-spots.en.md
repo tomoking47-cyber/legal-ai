@@ -52,7 +52,7 @@ The brown patches lumped together as "シミ" (shimi, dark spots) in Japan come 
 - Japanese Dermatological Association, "Dermatology Q&A: dark spots (solar lentigo, melasma, freckles)" [皮膚科Q&A：しみ（老人性色素斑・肝斑・そばかす）]
   https://www.dermatol.or.jp/qa/
 - Japanese Dermatological Association, "Clinical practice guidelines for skin malignancies" [皮膚悪性腫瘍診療ガイドライン] (recognising melanoma)
-  https://www.dermatol.or.jp/uploads/uploads/files/guideline/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/
 - Ministry of Health, Labour and Welfare (MHLW), "Scope of efficacy or effects of quasi-drugs" [医薬部外品の効能又は効果の範囲] (brightening actives: suppresses melanin production and prevents spots and freckles)
   https://www.mhlw.go.jp/
 

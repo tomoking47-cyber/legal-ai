@@ -48,7 +48,7 @@
 ### 出典
 
 - 厚生労働省 e-ヘルスネット「快眠と生活習慣」
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-001.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 厚生労働省『健康づくりのための睡眠ガイド2023』（2024年2月策定）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 寝具メーカー各社の公式案内（数値の目安）— 公開前に具体的な資料を特定して記載すること

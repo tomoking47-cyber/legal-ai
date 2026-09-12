@@ -51,7 +51,7 @@ They are effective at **blocking city light at night**, but they **also block th
 - Japanese Industrial Standards Committee (JISC), JIS Z9110 *General rules of recommended lighting levels* [照明基準総則]
   https://www.jisc.go.jp/
 - Ministry of Health, Labour and Welfare, e-Healthnet, *The body clock and light* [体内時計と光]
-  https://www.e-healthnet.mhlw.go.jp/information/heart/k-02-002.html
+  https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
