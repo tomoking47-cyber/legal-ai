@@ -20,7 +20,7 @@ The Japanese Dermatological Association lists **contact dermatitis, worsening of
 
 ## Misunderstanding 1｜Layering more skincare prevents it
 
-Inside a mask the skin is **humid, so ingredients penetrate more easily and irritate more easily.** "**Thin and simple in the morning**" is the practice shared among people in Japan.
+Inside a mask the skin is **humid, so ingredients settle into the stratum corneum more easily and irritate more easily.** "**Thin and simple in the morning**" is the practice shared among people in Japan.
 
 ## Misunderstanding 2｜One mask is fine all day
 

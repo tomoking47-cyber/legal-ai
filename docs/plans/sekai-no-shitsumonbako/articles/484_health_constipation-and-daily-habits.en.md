@@ -48,11 +48,11 @@ In Japan's national health survey, constipation ranks near the top of self-repor
 
 ## Misunderstanding 4｜Mornings are busy, so I will sit on the toilet at night
 
-**The bowel reflex is most likely after breakfast.** Getting up 5 minutes earlier to sit works better than 30 minutes at night.
+**The bowel reflex is most likely after breakfast.** Getting up 5 minutes earlier to sit makes more sense than 30 minutes at night.
 
 ## Misunderstanding 5｜It is just age, nothing to be done
 
-**Constipation in older age often has fluids, exercise or medicine side effects (painkillers, anticholinergics and so on) behind it**, and improves when these are reviewed. Constipation that starts suddenly may also be a sign of illness, so ask a doctor.
+**Constipation in older age often has fluids, exercise or medicine side effects (painkillers, anticholinergics and so on) behind it**, and it is not uncommon for it to improve when these are reviewed. Constipation that starts suddenly may also be a sign of illness, so ask a doctor.
 
 ---
 

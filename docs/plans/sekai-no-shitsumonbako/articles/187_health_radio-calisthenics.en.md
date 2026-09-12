@@ -23,7 +23,7 @@ Radio calisthenics (*rajio taisō*, ラジオ体操) is the most widely known ex
 
 ## Misunderstanding 1｜It is exercise for children and older people
 
-No. 1 is designed so that **anyone can do it**; No. 2 is **somewhat harder and was made for the working-age population**. **Done with correct form, many people feel muscle soreness the next day.**
+No. 1 is designed to be **easy to do whatever your age**; No. 2 is **somewhat harder and was made for the working-age population**. **Done with correct form, many people feel muscle soreness the next day.** **If you have a long-term condition or joint pain, there will be movements you cannot do. Work only within a comfortable range, and talk to a doctor if you have any concerns.**
 
 ## Misunderstanding 2｜Any vague waving of the arms is the same
 

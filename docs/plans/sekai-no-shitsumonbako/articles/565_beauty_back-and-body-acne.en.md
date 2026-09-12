@@ -32,7 +32,7 @@ You want to wear something backless in the Japanese summer, but your back is cov
 - **Spotting Malassezia folliculitis matters**: **a month of acne medicine with no change, uniform bumps, itching** → dermatologist. **Topical antifungals usually bring improvement in 2–4 weeks.** **It comes back easily**, so keep managing sweat the same way.
 - **Diet**: as with facial acne, **no direct link to specific foods is established**, though some reports link it to high-sugar diets.
 - **Stress, sleep and the menstrual cycle** make it worse for some people (hormonal influence).
-- **Marks on the back (darkening)**: **usually fade over several months to a year.** **Brightening (bihaku) active ingredients of quasi-drug grade plus UV protection** help. **Indented scars do not respond to cosmetics and belong to cosmetic dermatology (self-pay).**
+- **Marks on the back (darkening)**: **usually fade over several months to a year.** **What quasi-drug brightening (bihaku) actives are approved to claim is "suppresses melanin production and prevents spots and freckles"**, so together with **UV protection** they help keep marks from darkening further. **Indented scars do not respond to cosmetics and belong to cosmetic dermatology (self-pay).**
 - **Clothing plans**: **if you have a backless outfit or swimwear coming up, start 2–3 months ahead.** It does not settle overnight.
 
 > **[Verify]** Check the description and management of Malassezia folliculitis, and the medicines recommended in the acne guideline, against Japanese Dermatological Association material.

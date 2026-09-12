@@ -39,7 +39,7 @@ Many jobs in Japan are done on your feet: retail, kitchens, healthcare, factory 
 
 ## Misunderstanding 4｜If you are tired, sitting down in your break is enough
 
-**Raising your feet above heart level helps swollen legs more than just sitting.** **Even a few minutes.**
+**Raising your feet above heart level, rather than just sitting, is said to make leg swelling easier to ease.** **Even a few minutes.**
 
 ## Misunderstanding 5｜Choose shoes by looks; you will get used to them
 

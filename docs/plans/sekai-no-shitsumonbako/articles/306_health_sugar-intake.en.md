@@ -4,7 +4,7 @@
 
 How much sugar people eat is a public-health issue worldwide; the WHO says "free sugars below 10% of total energy, and preferably below 5%". Japan's Dietary Reference Intakes set no numerical target for sugars, and the difference causes confusion.
 
-## A. The biggest misunderstanding is "Japan has no sugar standard, so there is no need to worry." Japan's Dietary Reference Intakes (2025 edition) do not set a target for sugars, but the WHO's "below 10%" (about 50 g on 2,000 kcal; 25 g at 5%) is widely used as a reference value. A single sweet drink often exceeds 25 g, so "cut down on drinks first" is the most effective step.
+## A. The biggest misunderstanding is "Japan has no sugar standard, so there is no need to worry." Japan's Dietary Reference Intakes (2025 edition) do not set a target for sugars, but the WHO's "below 10%" (about 50 g on 2,000 kcal; 25 g at 5%) is widely used as a reference value. A single sweet drink often exceeds 25 g, and "cutting down on drinks first" is described as having a large effect.
 
 ## In numbers
 

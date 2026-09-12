@@ -12,7 +12,7 @@ Sunscreen is used all over the world, but few people know the conditions under w
 - Actual use, however, has been reported at **about a quarter of the proper amount** in one study, and at **an average of 0.56 g, roughly half the theoretical amount** in another.
 - The guide for the whole face is **0.7–0.9 g** (two pearl-sized drops of cream, or two 1-yen-coin-sized pools of liquid — a 1-yen coin is about 2 cm across).
 
-**The performance on the label applies only when you apply the amount on the label.** Applying the right amount does more than choosing a higher number.
+**The performance on the label applies only when you apply the amount on the label.** Applying the labelled amount gets you closer to the labelled performance than choosing a higher number does.
 
 > **[Verify]** 2 mg/cm² is widely presented as the international standard test condition. The usage-survey figures come from several dermatology and cosmetics information sites, so **check them against Japan Cosmetic Industry Association (JCIA) materials or similar before publication.**
 

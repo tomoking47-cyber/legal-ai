@@ -4,14 +4,14 @@
 
 Face mists (ミスト化粧水, a spray version of the watery Japanese "lotion" step) have become a handbag staple in Japan. They promise a quick spritz against daytime dryness and moisture over make-up. But you also hear that "spraying alone dries the skin". This article looks at how water actually behaves on skin.
 
-## A. If you spray a mist and leave it, the droplets take some of your skin's own moisture with them as they evaporate, so on balance the skin can end up slightly drier than if you had done nothing (especially in an air-conditioned room). Whether a mist moisturises depends on **the ingredients** and **what you do next**: ① products containing humectants such as glycerin, hyaluronic acid or ceramides, or some oil, hold water on the skin; ② press the mist in gently with your palms after spraying; ③ where possible, seal with a milky emulsion (乳液, nyūeki) or cream. Water-only mists (hot-spring water, purified water) give a cooling feel and a moment of moisture, but the moisture does not last. Over make-up, use a fine-particle mist held 20–30 cm away.
+## A. If you spray a mist and leave it, the droplets take some of your skin's own moisture with them as they evaporate, so on balance the skin can end up slightly drier than if you had done nothing (especially in an air-conditioned room). Whether a mist moisturises depends on **the ingredients** and **what you do next**: ① products containing humectants such as glycerin, hyaluronic acid or ceramides, or some oil, hold water on the skin; ② press the mist in gently with your palms after spraying so that it settles into the stratum corneum, the surface layer of the skin; ③ where possible, seal with a milky emulsion (乳液, nyūeki) or cream. Water-only mists (hot-spring water, purified water) give a cooling feel and a moment of moisture, but the moisture does not last. Over make-up, use a fine-particle mist held 20–30 cm away.
 
 ## Types of mist and what they do
 
 | Type | Ingredients | How long the moisture lasts | Best use |
 |---|---|---|---|
 | **Water-based mist (hot-spring water, purified water, spray versions of lotion)** | Water plus a little humectant | **Short** (a few minutes to ten-odd minutes). Left alone, tends to dry | **Cooling, a moment of moisture after washing, blending primer before make-up.** Press in and layer afterwards |
-| **Humectant mist** | **Glycerin, BG (butylene glycol), hyaluronic acid, ceramides, amino acids** | **Medium.** Stays on the skin and holds water | **Daytime dryness, air-conditioned rooms.** Press in |
+| **Humectant mist** | **Glycerin, BG (butylene glycol), hyaluronic acid, ceramides, amino acids** | **Medium.** Stays on the skin and holds water | **Daytime dryness, air-conditioned rooms.** Press in to settle it |
 | **Oil-in mist (two-layer)** | Water layer plus oil layer (squalane, jojoba oil, etc.). Shake before use | **Long.** The oil slows evaporation | **Daytime moisture for dry skin, a glow over make-up.** Use sparingly if you shine easily |
 | **Make-up fixing mist** | Film-forming polymers, alcohol | Not moisture but **holding make-up in place** | Finishing make-up. **The alcohol dries some people out** |
 

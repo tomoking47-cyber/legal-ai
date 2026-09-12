@@ -14,7 +14,7 @@ The men's skincare market has grown fast in Japan, and visitors ask "what are Ja
 | Water content | Tends to be **lower than women's** (partly because many men do not moisturise) | **Do not skip moisturising** (milky lotion or gel) |
 | Shaving | **A daily blade scrapes the outer layer: dryness, redness, folliculitis** | **Shaving gel, a clean blade, moisturise after shaving** |
 | UV | Many men spend long hours outdoors | **Sunscreen** (the Ministry of the Environment manual makes no distinction by sex) |
-| Ageing | Spots and dullness follow the same mechanism in men and women | UV protection is the most effective prevention |
+| Ageing | Spots and dullness follow the same mechanism in men and women | UV protection is the basis of prevention |
 
 - Japan's men's cosmetics market **has grown since the 2010s, and some surveys report that about 60% of men in their twenties do skincare daily** (industry surveys).
 - **"Men's" and "for men" are not legal categories**; the regulation and the permitted claims (the list of 56 items) for a cosmetic are the same. **Men's products tend towards a cooling feel (menthol) and sebum control**, which may not suit men with dry skin.

@@ -38,7 +38,7 @@ Many people use a straightener or curling iron every day, and two questions keep
 
 ## Misunderstanding 4｜Daily use is fine if you look after it
 
-**Damaged hair does not regenerate.** **Iron-free days and lower temperatures** are the only prevention.
+**Damaged hair does not regenerate.** Reducing the heat load — **iron-free days, lower temperatures** and the like — is what prevents it.
 
 ## Misunderstanding 5｜Put it straight back on the shelf when done
 

@@ -36,7 +36,7 @@ Coloured contact lenses ("karakon", カラコン) are widely worn by young peopl
 
 ## Misunderstanding 4｜Wearing a daily lens for two days saves money
 
-**A 1-day lens is designed to be thrown away after one wear**, and **re-wearing it causes infection**. For cost, a two-week lens looked after properly is the safer choice.
+**A 1-day lens is designed to be thrown away after one wear**, and **re-wearing it causes infection**. If you want to keep the cost down, the option is not to re-wear a 1-day lens but to **use a two-week lens, cleaning and disinfecting it exactly as the label directs**. With either type, **an eye examination, correct care and keeping to the stated wearing time are the premise**.
 
 ## Misunderstanding 5｜It is fine to lend them to a friend
 
