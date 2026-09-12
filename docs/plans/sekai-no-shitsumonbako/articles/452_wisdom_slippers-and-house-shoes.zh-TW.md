@@ -50,10 +50,10 @@
 ### 出處
 - 消費者廳（Consumer Affairs Agency）— 預防長者在家中跌倒（鞋類）
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- 日本政府觀光局（Japan National Tourism Organization）— 禮儀：脫鞋與使用拖鞋
-  https://www.japan.travel/en/guide/etiquette/
-- 環境省（Ministry of the Environment）— Warm Biz：在家中保持雙腳溫暖
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- 日本政府觀光局（Japan National Tourism Organization）— 理解與掌握日本的禮節與禮儀（脫鞋與拖鞋）
+  https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/
+- 環境省（Ministry of the Environment）— WARM BIZ，現由「Deco活」（デコ活）國民運動承接（COOL CHOICE 的後繼）
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

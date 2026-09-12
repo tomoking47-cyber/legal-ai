@@ -12,7 +12,7 @@ Collagen drinks, powders and jellies are everyday "beauty foods" in Japan — yo
 |---|---|
 | **Legal position** | Collagen is a **food**. Drug-like wording — that it makes a condition go away or "improves" it — is not allowed |
 | **Foods with Function Claims (機能性表示食品)** | Some products are **notified to the Consumer Affairs Agency**, on the maker's own responsibility, with claims such as "helps maintain skin elasticity" or "helps keep skin hydrated". **The government has not reviewed or approved their effects** |
-| **State of the research** | Meta-analyses pooling clinical trials of oral collagen peptides (2019–2021) report **improvement in skin hydration and elasticity**. Limitations noted: small trials, and many funded by manufacturers |
+| **State of the research** | Meta-analyses pooling clinical trials of oral collagen peptides (for example a 2023 analysis of 26 trials and 1,721 participants, with newer reports in 2025) report **improvement in skin hydration and elasticity**. Limitations noted: small trials, and many funded by manufacturers |
 | **Amounts commonly used in studies** | **2.5–10 g a day** for **8–12 weeks** |
 | **Nutritional value as protein** | Collagen lacks one of the essential amino acids (tryptophan), so it is **an incomplete protein source**. It does not replace protein from ordinary meals (recommended intake for women: 50 g a day) |
 | **Safety** | Generally regarded as safe, but **allergy to fish- or pork-derived products** and, rarely, stomach upset have been reported |

@@ -2,7 +2,7 @@
 
 - Shelf: `health` ／ URL: `/en/health/heatstroke-prevention` ／ Status: **Draft — English edition, sources unverified**
 
-Every summer in Japan, around 90,000 people are taken to hospital by ambulance for heatstroke (熱中症, netchūshō). Many newcomers picture young people exercising outdoors. In fact, more than half of those taken to hospital are older people, and the single most common place it happens is the home. If this is your first Japanese summer, the humidity makes the heat harder on the body than the thermometer suggests. Here are the basics of prevention, and how to judge symptoms when they appear.
+Every summer in Japan, around 100,000 people are taken to hospital by ambulance for heatstroke (熱中症, netchūshō). Many newcomers picture young people exercising outdoors. In fact, more than half of those taken to hospital are older people, and the single most common place it happens is the home. If this is your first Japanese summer, the humidity makes the heat harder on the body than the thermometer suggests. Here are the basics of prevention, and how to judge symptoms when they appear.
 
 ## A. Around 40% of heatstroke cases happen inside the home. Prevention rests on three pillars: keep the room at 28°C (82°F) or below and humidity at 60% or below (do not hesitate to use the air conditioner); drink small amounts often, before you feel thirsty, and add salt if you sweat heavily; and avoid going out or exercising on days when the heat index (WBGT) is 28 or above. For dizziness, light-headedness or muscle cramps, move somewhere cool, cool the body and drink. For headache, nausea or exhaustion, go to a medical facility. If the person responds slowly when spoken to, or cannot drink unaided, call 119 (Japan's ambulance number) without hesitating.
 
@@ -10,15 +10,17 @@ Every summer in Japan, around 90,000 people are taken to hospital by ambulance f
 
 | Item | Figure (guide) |
 |---|---|
-| **Ambulance transports** | **About 90,000 a year** (May–September, Fire and Disaster Management Agency; 91,467 in 2023) |
-| **Age** | **About 55% of those transported are 65 or older** |
+| **Ambulance transports** | **About 100,000 a year** (May–September, Fire and Disaster Management Agency; a record 100,510 in 2025 and 97,578 in 2024) |
+| **Age** | **About 57% of those transported are 65 or older** (57,433 people, 57.1%, in 2025) |
 | **Where it happens** | **The home is the most common place, at about 40%.** Then roads, outdoor workplaces and sports grounds |
-| **Deaths** | **Around 1,000–1,500 a year** (Vital Statistics). **Over 80% are 65 or older**; in most indoor deaths **the air conditioner was not in use** |
-| **Heat index (WBGT)** | **25 and above: caution. 28 and above: severe caution (stop strenuous exercise). 31 and above: danger (avoid going out).** At **33 and above** a "Heatstroke Alert" (熱中症警戒アラート) is issued |
+| **Deaths** | **Around 1,500 to over 2,000 a year** (Vital Statistics: 1,651 in 2023 and a record 2,160 in 2024). **Over 80% are 65 or older**; in most indoor deaths **the air conditioner was not in use** |
+| **Heat index (WBGT)** | **25 and above: caution. 28 and above: severe caution (stop strenuous exercise). 31 and above: danger (avoid going out).** At **33 and above** a "Heatstroke Alert" (熱中症警戒アラート) is issued, and where every observation point in a prefecture reaches **35 and above**, the "Special Heatstroke Alert" (熱中症特別警戒アラート) introduced in April 2024 is issued |
 | **Indoor environment** | **Room temperature 28°C or below, humidity 60% or below** as a guide. Older people feel heat less, so place a **thermometer-hygrometer** and judge by the numbers |
 | **Fluids** | **1.2 L a day** besides meals, as a guide (Ministry of the Environment). If you sweat heavily, add **0.1–0.2% salt** (sports drinks, oral rehydration solution — 経口補水液, keikō hosui-eki, sold at drugstores) |
 
-## Severity and response (simplified from the Japanese Association for Acute Medicine classification)
+## Severity and response (simplified from the Japanese Association for Acute Medicine's Clinical Practice Guideline for Heatstroke 2024)
+
+> The 2024 revision carved a new **Stage IV (most severe)** out of Stage III, for cases with a **core temperature of 40°C or above together with severe impairment of consciousness (GCS 8 or below)**. The first aid a bystander gives is the same as for Stage III: call 119 at once and cool the whole body.
 
 | Grade | Symptoms | Response |
 |---|---|---|

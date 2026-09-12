@@ -52,7 +52,7 @@ A washing-up sponge combines skin oils, food scraps and moisture, making it one 
   https://doi.org/10.1038/s41598-017-06055-9
 - Japan Soap and Detergent Association [日本石鹸洗剤工業会], "Hygienic use of kitchen sponges" [台所用スポンジの衛生的な使い方]
   https://jsda.org/w/03_shiki/
-- National Consumer Affairs Center of Japan [独立行政法人国民生活センター], "Fires caused by heating sponges in microwave ovens" [電子レンジでのスポンジ加熱による発火事故]
+- National Consumer Affairs Center of Japan [独立行政法人国民生活センター], "Prevent microwave-oven accidents! Why not re-check how you use yours?" [電子レンジによる事故を防止！使い方を再チェックしませんか？] (published 25 March 2026)
   https://www.kokusen.go.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

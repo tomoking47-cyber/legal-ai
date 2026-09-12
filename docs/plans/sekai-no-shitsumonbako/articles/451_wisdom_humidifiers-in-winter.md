@@ -17,7 +17,7 @@ The dehumidifier runs from June to September; from December the humidifier takes
 | No machine | **Wet towels hung up, laundry drying indoors, a bowl of water, the bathroom door open after a bath, plants** | Free | Slow, uncontrolled | — |
 
 - **Target: 40–60% relative humidity**; below 40% dries mucous membranes and skin (and viruses survive longer in dry air), above 60% brings **condensation and mould** (see the condensation article). **A ¥1,000 hygrometer** is the essential accessory.
-- **"Humidifier lung"** (加湿器肺) is a hypersensitivity pneumonitis from bacteria and mould in a dirty tank, reported in Japan mostly with **ultrasonic units cleaned rarely**; a 2018 case in a care facility led to deaths from **Legionella** in a humidifier. **Use tap water** (chlorinated) not mineral water, **empty and dry daily, clean weekly**.
+- **"Humidifier lung"** (加湿器肺) is a hypersensitivity pneumonitis from bacteria and mould in a dirty tank, reported in Japan mostly with **ultrasonic units cleaned rarely**; a **2017–18 outbreak at a care home in Ōita**, traced to an ultrasonic humidifier, infected three residents and killed one. **Use tap water** (chlorinated) not mineral water, **empty and dry daily, clean weekly**.
 - **White dust** on furniture near an ultrasonic unit is **minerals from the water**; it is a sign the unit is spraying tank contents — and a reason many households moved to steam or hybrid types.
 - **Placement**: away from walls and windows (condensation), not blowing on a person, at table height.
 

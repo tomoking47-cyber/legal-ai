@@ -2,9 +2,9 @@
 
 - Shelf: `wisdom` ／ URL: `/en/wisdom/the-kairo-heat-pad` ／ Status: **Draft — sources unverified**
 
-Japan uses about 1.5 billion disposable heat pads a winter. They are in every convenience store, every commuter's pocket and every school bag, and they carry a burn warning that most users have never read. What they are, where they go, and the two safety rules cover it.
+Japan gets through about 1.75 billion disposable heat pads a year. They are in every convenience store, every commuter's pocket and every school bag, and they carry a burn warning that most users have never read. What they are, where they go, and the two safety rules cover it.
 
-## A. The common misunderstanding is that a kairo is harmless because it is "warm, not hot". A kairo reaches 50–60°C at peak and holds 40–50°C for 8–20 hours — the low-temperature burn range — so the two rules are: never directly on skin, and never while sleeping. Used correctly (on the outer layer, at the lower back, abdomen or shoulder blades) it warms the whole body and is the cheapest heating there is.
+## A. The common misunderstanding is that a kairo is harmless because it is "warm, not hot". A kairo averages about 50–55°C and peaks at 60–65°C, staying above 40°C for 8–20 hours — the low-temperature burn range — so the two rules are: never directly on skin, and never while sleeping. Used correctly (on the outer layer, at the lower back, abdomen or shoulder blades) it warms the whole body and is the cheapest heating there is.
 
 ## The product
 
@@ -19,7 +19,7 @@ Japan uses about 1.5 billion disposable heat pads a winter. They are in every co
 | Reuse | **Not re-usable**; sealing in a plastic bag pauses but does not reset it |
 
 - **Low-temperature burns** from kairo are reported every winter to the Consumer Affairs Agency; typical cases involve **sleeping with a pad, pads directly on skin under socks, and elderly users**. The time-temperature table (44°C ≈ 3–4 h; 46°C ≈ 30–60 min) applies (see the hot-water-bottle article).
-- Kairo were invented in Japan (**1978, Lotte "Hokkairo"**) and remain a Japanese export; the **shoe-insert type** runs cooler (~40°C) because feet have less airflow.
+- The disposable kairo was invented in Japan (**1975, Asahi Kasei's "Attakasan"**; Lotte's 1978 "Hokaron" made it a mass-market product) and it remains a Japanese export; the **shoe-insert type** runs cooler (~40°C) because feet have less airflow.
 - **Cost**: **¥30–60 per pad**; a winter's daily use is ¥3,000–5,000 — cheaper than any electric heating, and portable.
 
 > **[Verify]** Temperature and duration figures from product labels and the Japan Hygiene Products Industry Association; burn warnings with the Consumer Affairs Agency.
@@ -42,15 +42,15 @@ Japan uses about 1.5 billion disposable heat pads a winter. They are in every co
 
 ## Misunderstanding 5｜It is a gadget
 
-**A billion and a half a year**, in school bags and on construction sites; the cheapest portable heat that exists. Respected, it is one of the best pieces of Japanese winter kit.
+**About 1.75 billion a year**, in school bags and on construction sites; the cheapest portable heat that exists. Respected, it is one of the best pieces of Japanese winter kit.
 
 ---
 
 ### Sources
 - Consumer Affairs Agency — Low-temperature burns from disposable heat pads (使い捨てカイロ)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- Japan Hygiene Products Industry Association — Disposable heat pads: safe use
-  https://www.jhpia.or.jp/
+- Japan Kairo Industry Association (日本カイロ工業会) — Disposable heat pads: safe use and low-temperature burns
+  https://www.kairo.jp/useful/yakedo/
 - National Institute of Technology and Evaluation (NITE) — Heating device accidents
   https://www.nite.go.jp/jiko/chuikanki/
 

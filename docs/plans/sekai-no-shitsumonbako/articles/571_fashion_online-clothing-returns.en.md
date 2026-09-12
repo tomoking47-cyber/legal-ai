@@ -33,7 +33,7 @@ Most of us buy clothes online now, but whether you can send back an item that is
 - **Try-on etiquette**: **do not remove tags; avoid getting make-up or perfume on the garment; try indoors for a short time; do not walk on the floor in shoes**. Some people **order several sizes intending to return the rest**, but some shops have **restricted the accounts of customers with high return rates**.
 - **How to return**: **apply through the shop's My Page or contact address → follow the return instructions → post within the deadline → refund (1–2 weeks)**. Check **whether cash-on-delivery return postage is accepted, and keep the tracking number**. **Parcels sent back without applying first may be refused**.
 - **Flea-market apps and private sales (Mercari etc.)**: **returns are not accepted in principle** ("no claims, no returns"). **If the item differs from the description or is faulty, go through the platform's support office**.
-- **Subscriptions and repeat purchases**: many disputes arise where **a "first order free" offer turns into a recurring contract**. **Check the cancellation terms**; **the Act on Specified Commercial Transactions requires a final confirmation screen** (2022 amendment).
+- **Subscriptions and repeat purchases**: many disputes arise where **a "first order free" offer turns into a recurring contract**. **Check the cancellation terms**; **the Act on Specified Commercial Transactions requires a final confirmation screen** (2021 amendment, in force from 1 June 2022).
 - **If you are stuck**: call the **Consumer Affairs Centre hotline (188)** (消費生活センター, the local consumer advice service). A shop **refusing returns without displaying a returns policy**, or **refusing to exchange a faulty item**, is a valid subject for advice.
 
 > **[Verify]** Check the statutory return right (8 days) under the Act on Specified Commercial Transactions, the duty to display a returns policy, and the 2022 amendment's final-confirmation-screen rule against Consumer Affairs Agency materials.
@@ -66,8 +66,8 @@ Most of us buy clothes online now, but whether you can send back an item that is
   https://www.no-trouble.caa.go.jp/what/mailorder/
 - National Consumer Affairs Center of Japan, "Return disputes in online shopping" [インターネット通販の返品トラブル]
   https://www.kokusen.go.jp/
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act: size labelling of textile products (JIS L4001–4007)" [家庭用品品質表示法：繊維製品のサイズ表示]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+- Japanese Industrial Standards Committee, "JIS L4001–4007: clothing sizes" [JIS L4001〜4007：衣料のサイズ] (clothing size labelling is a voluntary JIS standard; the Household Goods Quality Labelling Act requires labelling of fibre composition and care instructions, not sizes)
+  https://www.jisc.go.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

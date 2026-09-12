@@ -50,10 +50,10 @@ If shoes come off at the door, what goes on? In Japan the answer is a small syst
 ### Sources
 - Consumer Affairs Agency — Preventing falls among older people at home (footwear)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- Japan National Tourism Organization — Etiquette: removing shoes and using slippers
-  https://www.japan.travel/en/guide/etiquette/
-- Ministry of the Environment — Warm Biz: keeping feet warm at home
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- Japan National Tourism Organization — Understanding and Mastering Japanese Manners and Etiquette (shoes and slippers)
+  https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/
+- Ministry of the Environment — WARM BIZ, now run under the "Deco-katsu" campaign (successor to COOL CHOICE)
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

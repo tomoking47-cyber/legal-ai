@@ -50,10 +50,10 @@
 ### 출처
 - 소비자청(Consumer Affairs Agency) — 가정 내 고령자 낙상 예방(신발)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- 일본정부관광국(Japan National Tourism Organization) — 에티켓: 신발 벗기와 슬리퍼 사용
-  https://www.japan.travel/en/guide/etiquette/
-- 환경성(Ministry of the Environment) — 웜비즈(Warm Biz): 집에서 발을 따뜻하게
-  https://ondankataisaku.env.go.jp/coolchoice/warmbiz/
+- 일본정부관광국(Japan National Tourism Organization) — 일본의 매너와 에티켓 이해하기(신발과 슬리퍼)
+  https://www.japan.travel/en/guide/understanding-and-mastering-japanese-manners-and-etiquette/
+- 환경성(Ministry of the Environment) — WARM BIZ, 현재는 「데코카쓰(デコ活)」 캠페인에서 운영(COOL CHOICE의 후속)
+  https://ondankataisaku.env.go.jp/decokatsu/warmbiz/
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

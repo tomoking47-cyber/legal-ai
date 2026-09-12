@@ -20,7 +20,7 @@ Every January, Japanese bookshops stack the year's kakeibo — printed household
 - **Why it works**: it makes the **living budget explicit** and the **food budget weekly** — the only two numbers most households can actually change. The rest is fixed.
 - **Paper vs app**: paper kakeibo (**Fujin no Tomo, Takahashi, Kodansha; ¥500–1,500**) suit people who buy mostly in cash; **apps (Zaim, MoneyForward ME, Moneytree)** link to bank and card accounts and auto-categorise — **most under-40s use an app**, most over-60s paper. **Receipt-scanning** covers cash.
 - **The Fujin no Tomo model** (Hani Motoko, 1904): budget by category **at the start of the year**, and record **only against those categories**; the founder's line — "**the point is not to record, but to plan**" — is still on the first page.
-- **Typical Japanese household figures** (2-person-plus, Statistics Bureau, 2023): monthly consumption **about ¥290,000**; **food ~27%**, **utilities ~8%**, **transport/communications ~14%**, **leisure ~10%**. Households compare their own share to these.
+- **Typical Japanese household figures** (2-person-plus, Statistics Bureau, 2025 annual average): monthly consumption **about ¥314,000**; **food ~29%** (the Engel coefficient hit **28.6%**, a 44-year high), **utilities ~8%**, **transport/communications ~14%**, **leisure ~10%**. Households compare their own share to these.
 - **Common failure**: **too many categories** and **tracking every item** — people quit by March. Four categories and a weekly total survive.
 - **Couples**: a **shared kakeibo for household costs** and **separate personal allowances (okozukai)** is the standard Japanese arrangement; the allowance survey (Shinsei Bank, annual) is a national talking point.
 - **Kids**: children's kakeibo (**okozukai-chō**) are sold for pocket money; schools use them in home-economics classes.
@@ -30,7 +30,7 @@ Every January, Japanese bookshops stack the year's kakeibo — printed household
 ---
 
 ### Sources
-- Statistics Bureau of Japan — Family Income and Expenditure Survey (household consumption by category, 2023)
+- Statistics Bureau of Japan — Family Income and Expenditure Survey (household consumption by category, 2025 annual average)
   https://www.stat.go.jp/english/data/kakei/
 - Financial Services Agency — Financial literacy and household budgeting guidance
   https://www.fsa.go.jp/teach/
