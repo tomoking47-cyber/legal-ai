@@ -47,7 +47,7 @@ A **waterproofing spray** (防水スプレー, bōsui supurē) applied after dry
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
 - National Consumer Affairs Center of Japan, "Accidents from the use of waterproofing sprays" [国民生活センター「防水スプレーの使用による事故」]
   https://www.kokusen.go.jp/news/data/n-20180125_1.html
-- Ministry of Economy, Trade and Industry, "Household Goods Quality Labelling Act" [経済産業省「家庭用品品質表示法」]
+- Consumer Affairs Agency, "Household Goods Quality Labelling Act" [消費者庁「家庭用品品質表示法」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

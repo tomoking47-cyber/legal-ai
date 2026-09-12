@@ -18,7 +18,7 @@
 
 洗濯表示の**三角の記号**が漂白の可否を示します。三角（漂白可）／三角に斜線2本（酸素系のみ可）／三角に×（漂白不可）の3種類です。
 
-> 【要検証】漂白記号の区分は消費者庁「洗濯表示」で、「まぜるな危険」表示は経済産業省の家庭用品品質表示法（雑貨工業品）で確認してください。
+> 【要検証】漂白記号の区分は消費者庁「洗濯表示」で、「まぜるな危険」表示は消費者庁の家庭用品品質表示法（雑貨工業品）で確認してください。
 
 ## 誤解1｜黄ばみは汗の色
 
@@ -46,7 +46,7 @@
 
 - 消費者庁「洗濯表示（令和6年8月20日以降）」漂白記号
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- 経済産業省「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」
+- 消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - 東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/

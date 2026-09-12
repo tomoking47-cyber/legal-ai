@@ -47,7 +47,7 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
 - 国民生活中心《使用防水喷雾造成的事故》[国民生活センター「防水スプレーの使用による事故」]
   https://www.kokusen.go.jp/news/data/n-20180125_1.html
-- 经济产业省《家庭用品品质标示法》[経済産業省「家庭用品品質表示法」]
+- 消费者厅《家庭用品品质标示法》[消費者庁「家庭用品品質表示法」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**

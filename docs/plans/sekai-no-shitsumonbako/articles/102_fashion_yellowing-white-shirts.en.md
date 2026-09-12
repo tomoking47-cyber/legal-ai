@@ -18,7 +18,7 @@ The main cause of yellowing is **oxidised skin oil**. Sebum that was not fully w
 
 The **triangle symbol** on the care label shows whether bleach is allowed. There are three: a plain triangle (any bleach), a triangle with two diagonal lines (oxygen bleach only), and a crossed-out triangle (no bleach).
 
-> **[Verify]** Check the bleach-symbol categories on the Consumer Affairs Agency's "Care labelling" page, and the "Do not mix — danger" (まぜるな危険) labelling under the Household Goods Quality Labelling Act (miscellaneous industrial goods) at the Ministry of Economy, Trade and Industry.
+> **[Verify]** Check the bleach-symbol categories on the Consumer Affairs Agency's "Care labelling" page, and the "Do not mix — danger" (まぜるな危険) labelling under the Household Goods Quality Labelling Act (miscellaneous industrial goods) at the Consumer Affairs Agency.
 
 ## Misunderstanding 1｜The yellow is the colour of sweat
 
@@ -46,7 +46,7 @@ Powdered oxygen bleach is generally described as working better at **around 40�
 
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" — bleach symbols [消費者庁「洗濯表示（令和6年8月20日以降）」漂白記号]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- Ministry of Economy, Trade and Industry, "Household Goods Quality Labelling Act — Miscellaneous Industrial Goods Quality Labelling Regulations (detergents and bleach)" [経済産業省「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
+- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Industrial Goods Quality Labelling Regulations (detergents and bleach)" [消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（洗剤・漂白剤）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - Tokyo Metropolitan Bureau of Public Health, "Safe use of chlorine-based cleaners and bleach" [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
