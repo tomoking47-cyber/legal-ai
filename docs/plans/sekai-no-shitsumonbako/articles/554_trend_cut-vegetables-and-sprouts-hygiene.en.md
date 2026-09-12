@@ -16,7 +16,7 @@ Bagged cut vegetables (カット野菜, katto yasai), salad mixes and bean sprou
 | **Cut fruit** | Not needed | Yes | Same day | Bacteria grow readily on cut surfaces. Must be refrigerated |
 | **Shredded cabbage** | Not needed (per label) | Yes | Same day | Many cut surfaces; loses freshness fastest |
 
-- **How cut vegetables are sanitised**: **the standards of the Food Sanitation Act (Japan's food hygiene law) require sanitising, and in practice this is done with sodium hypochlorite (a concentration set by industry practice, not by the law, of around 100–200 ppm) and then rinsed thoroughly with water**. **Residual chlorine is kept at or below tap-water level**, and you will hardly ever notice a smell. **They are not sterile, which is why the use-by date is short**.
+- **How cut vegetables are sanitised**: **the "Standards for foods and additives" under the Food Sanitation Act (Japan's food hygiene law) set no sanitising standard specific to cut vegetables; each company manages its sanitising step under HACCP-based hygiene control, fully in force since June 2021. In practice, following the MHLW's "Sanitation management manual for mass catering facilities", sodium hypochlorite is used (about 200 ppm for 5 minutes, or 100 ppm for 10 minutes) and then rinsed thoroughly with water** (the concentration is an operational hygiene figure, not a product standard). **Residual chlorine is kept at or below tap-water level**, and you will hardly ever notice a smell. **They are not sterile, which is why the use-by date is short**.
 - **Use-by date (消費期限, shōhi kigen)**: cut vegetables last **2–4 days from manufacture**. **Even unopened, eat within the date**; **once opened, the same day**. Discard if there are **droplets inside the bag, wilting or a change in smell**.
 - **Temperature**: store at **10°C or below (refrigerated)**. **Pick them up last when shopping and carry them home in a cool bag**. Left in a car in summer, quality drops within tens of minutes.
 - **On eating moyashi raw**: **factory moyashi are grown in water alone and need no pesticides**, but **bacteria from the seed plus the high-humidity environment** mean counts can be high. **Japan's industry association also recommends cooking**. **Blanch them even for namul or dressed salads** (**30 seconds to 1 minute** is enough; they stay crunchy).
@@ -51,7 +51,7 @@ Bagged cut vegetables (カット野菜, katto yasai), salad mixes and bean sprou
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Food Sanitation Act, Standards for foods and additives: manufacturing standards for vegetables for raw consumption (cut vegetables)" [食品衛生法 食品、添加物等の規格基準：生食用野菜（カット野菜）の製造基準]
+- Ministry of Health, Labour and Welfare (MHLW), "Sanitation management manual for mass catering facilities" [大量調理施設衛生管理マニュアル] (procedures for washing and sanitising vegetables)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
 - Ministry of Agriculture, Forestry and Fisheries (MAFF), "Hygiene management and labelling of cut vegetables and cut fruit" [カット野菜・カットフルーツの衛生管理と表示]
   https://www.maff.go.jp/j/syouan/

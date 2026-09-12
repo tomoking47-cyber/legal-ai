@@ -64,7 +64,7 @@ Strawberry jam in season, marmalade from the yuzu in the garden, ume (Japanese p
 - Ministry of Agriculture, Forestry and Fisheries (MAFF), "Preventing food poisoning at home: cautions for home-made preserves" [家庭でできる食中毒予防：手作り保存食の注意]
   https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/
 - Japan Jam Industry Association [日本ジャム工業組合], "Jam standards (sugar-content classes) and storage" [ジャムの規格（糖度区分）と保存]
-  https://www.jam-kogyo.jp/
+  http://www.jam.or.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
