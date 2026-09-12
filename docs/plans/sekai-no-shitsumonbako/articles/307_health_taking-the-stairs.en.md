@@ -47,7 +47,7 @@
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - National Institutes of Biomedical Innovation, Health and Nutrition, *METs table for physical activities, 2nd revised edition — adult version* [改訂第2版　身体活動のメッツ（METs）表　成人版] (based on the 2024 Compendium)
   https://www.nibn.go.jp/activities/documents/2024Compendium_table_adult_ver1_1_5.pdf
 - Consumer Affairs Agency, *Accidents in the home among older people (stairs, falls)* [高齢者の住宅内の事故（階段・転倒）]

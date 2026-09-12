@@ -49,7 +49,7 @@
 ### 出典
 
 - 厚生労働省「健康づくりのための身体活動・運動ガイド2023」（筋力トレーニング）
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 厚生労働省 e-ヘルスネット「レジスタンス運動」
   https://kennet.mhlw.go.jp/information/information/exercise/s-05-003.html
 - 公益社団法人日本整形外科学会「ロコモONLINE」（ロコトレ）

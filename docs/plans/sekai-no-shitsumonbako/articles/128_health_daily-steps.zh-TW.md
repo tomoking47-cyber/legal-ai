@@ -45,9 +45,9 @@
 ### 出處
 
 - 厚生勞動省《促進健康的身體活動・運動指南 2023》[健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 厚生勞動省《令和 6 年 國民健康・營養調查結果概要》[令和6年 国民健康・栄養調査結果の概要]（步數）【待確認：下方 URL 為令和 5 年版頁面，請替換為令和 6 年版】
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - 厚生勞動省「健康日本 21（第三次）」目標一覽 [健康日本21（第三次）目標一覧]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

@@ -53,7 +53,7 @@
 - 东京都（東京都）——《防止被动吸烟条例》
   https://www.hokeniryo.metro.tokyo.lg.jp/kensui/kitsuen/
 - 厚生劳动省（厚生労働省）——国民健康与营养调查（吸烟率）
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

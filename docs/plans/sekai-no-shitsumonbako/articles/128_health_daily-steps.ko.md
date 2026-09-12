@@ -45,9 +45,9 @@
 ### 출처
 
 - 후생노동성 『건강 증진을 위한 신체활동·운동 가이드 2023』[健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 후생노동성 『레이와 6년 국민건강·영양조사 결과 개요』[令和6年 国民健康・栄養調査結果の概要]（걸음 수）【확인 필요: 아래 URL은 레이와 5년판 페이지입니다. 레이와 6년판으로 교체해 주십시오】
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - 후생노동성 「건강일본21（제3차）」 목표 일람 [健康日本21（第三次）目標一覧]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

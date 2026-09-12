@@ -47,7 +47,7 @@
 ### 出處
 
 - 厚生勞動省《健康促進身體活動・運動指南 2023》[健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 醫藥基盤・健康・營養研究所《改訂第 2 版　身體活動的代謝當量（METs）表　成人版》（依據 2024 年版 Compendium）[改訂第2版　身体活動のメッツ（METs）表　成人版]
   https://www.nibn.go.jp/activities/documents/2024Compendium_table_adult_ver1_1_5.pdf
 - 消費者廳《高齡者住宅內的事故（樓梯・跌倒）》[高齢者の住宅内の事故（階段・転倒）]

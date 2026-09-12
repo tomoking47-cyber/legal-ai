@@ -49,7 +49,7 @@
 ### 出处
 
 - 厚生劳动省（厚生労働省）《健康促进身体活动·运动指南 2023》[健康づくりのための身体活動・運動ガイド2023]（力量训练）
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 厚生劳动省（厚生労働省）e-健康net《抗阻运动》[レジスタンス運動]
   https://kennet.mhlw.go.jp/information/information/exercise/s-05-003.html
 - 日本整形外科学会（日本整形外科学会）《ロコモONLINE》（ロコトレ）[ロコモONLINE]

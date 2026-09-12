@@ -49,7 +49,7 @@ In 2023, the Ministry of Health, Labour and Welfare (MHLW) guide stated "2–3 d
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023] (strength training)
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - Ministry of Health, Labour and Welfare, e-Health Net, *Resistance exercise* [レジスタンス運動]
   https://kennet.mhlw.go.jp/information/information/exercise/s-05-003.html
 - Japanese Orthopaedic Association, *Locomo ONLINE* (Locotra) [ロコモONLINE]

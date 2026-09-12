@@ -53,7 +53,7 @@ It is **tobacco under the law**. Some venues have **heated-tobacco-only rooms** 
 - Tokyo Metropolitan Government — Ordinance to Prevent Passive Smoking
   https://www.hokeniryo.metro.tokyo.lg.jp/kensui/kitsuen/
 - Ministry of Health, Labour and Welfare — National Health and Nutrition Survey (smoking rates)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -47,7 +47,7 @@
 ### 出典
 
 - 厚生労働省「健康づくりのための身体活動・運動ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 医薬基盤・健康・栄養研究所「改訂第2版　身体活動のメッツ（METs）表　成人版」（2024年版Compendium準拠）
   https://www.nibn.go.jp/activities/documents/2024Compendium_table_adult_ver1_1_5.pdf
 - 消費者庁「高齢者の住宅内の事故（階段・転倒）」

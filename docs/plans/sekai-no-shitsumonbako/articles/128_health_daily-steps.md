@@ -45,9 +45,9 @@
 ### 出典
 
 - 厚生労働省「健康づくりのための身体活動・運動ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
-- 厚生労働省「令和6年 国民健康・栄養調査結果の概要」（歩数）【要確認：下記URLは令和5年版のページです。令和6年版に差し替えてください】
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/content/001194020.pdf
+- 厚生労働省「令和6年 国民健康・栄養調査結果の概要」（歩数）
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - 厚生労働省「健康日本21（第三次）」目標一覧
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

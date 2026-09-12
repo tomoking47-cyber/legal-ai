@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 『건강 증진을 위한 신체활동・운동 가이드 2023』 [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 의약기반・건강・영양연구소 『개정 제2판　신체활동의 메츠(METs) 표　성인판』(2024년판 Compendium 기준) [改訂第2版　身体活動のメッツ（METs）表　成人版]
   https://www.nibn.go.jp/activities/documents/2024Compendium_table_adult_ver1_1_5.pdf
 - 소비자청 『고령자의 주택 내 사고(계단・낙상)』 [高齢者の住宅内の事故（階段・転倒）]

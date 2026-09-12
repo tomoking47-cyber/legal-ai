@@ -50,7 +50,7 @@
 - 厚生労働省 e-ヘルスネット「快眠と生活習慣」
   https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - 厚生労働省「令和6年 国民健康・栄養調査結果の概要」（睡眠）
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r5-houkoku_00002.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r6-houkoku_00001.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

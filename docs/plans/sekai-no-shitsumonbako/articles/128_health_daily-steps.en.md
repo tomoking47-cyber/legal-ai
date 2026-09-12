@@ -45,9 +45,9 @@ The Guide 2023 recommends that older people do **balance exercises in addition t
 ### Sources
 
 - MHLW, "Physical Activity and Exercise Guide for Health Promotion 2023" [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - MHLW, "Outline of Results of the 2024 National Health and Nutrition Survey" [令和6年 国民健康・栄養調査結果の概要] (step counts) 【To be confirmed: the URL below is the 2023 page; replace it with the 2024 edition】
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - MHLW, "Health Japan 21 (third term)" list of targets [健康日本21（第三次）目標一覧]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
 

@@ -53,7 +53,7 @@
 - 東京都（東京都）——《防止二手菸條例》
   https://www.hokeniryo.metro.tokyo.lg.jp/kensui/kitsuen/
 - 厚生勞動省（厚生労働省）——國民健康與營養調查（吸菸率）
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

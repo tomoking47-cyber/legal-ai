@@ -50,7 +50,7 @@ The pleasant feeling is **the sensation of light sleep and dozing**; it has noth
 - Ministry of Health, Labour and Welfare, e-Health Net, "Good sleep and lifestyle habits" [快眠と生活習慣]
   https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
 - Ministry of Health, Labour and Welfare, *Outline of Results of the 2024 National Health and Nutrition Survey* [令和6年 国民健康・栄養調査結果の概要] (sleep)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r5-houkoku_00002.html
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r6-houkoku_00001.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
