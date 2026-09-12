@@ -67,7 +67,7 @@ When you buy trousers in Japan, most shops will hem them for you before you take
 
 ### Sources
 
-- Consumer Affairs Agency, "The new care labels (JIS L0001)" [新しい洗濯表示] (shrinkage and washing of cotton and denim)
+- Consumer Affairs Agency, "The new care labels (JIS L0001)" [新しい洗濯表示] (what the care symbols mean)
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - All Japan Tailors' Cooperative Federation (Zenyoren), "Basics of trouser length and finishes" [ズボンの丈・仕上げの基礎知識]
   https://www.zenyoren.jp/

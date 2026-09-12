@@ -67,7 +67,7 @@
 
 ### 出处
 
-- 消费者厅《新的洗涤标识（JIS L0001）》[新しい洗濯表示]（棉与牛仔布的缩水和洗涤）
+- 消费者厅《新的洗涤标识（JIS L0001）》[新しい洗濯表示]（洗涤标识符号的含义）
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 全日本洋服协同组合联合会（全洋联）《裤长与收边的基础知识》[ズボンの丈・仕上げの基礎知識]
   https://www.zenyoren.jp/

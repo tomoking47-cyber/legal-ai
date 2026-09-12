@@ -14,7 +14,7 @@ Every winter the shelves of Japan's big clothing chains fill with "heat-generati
 | **Why they actually feel warm** | ① **A thin, dense fabric hugs the skin and holds a layer of air**; ② **it absorbs sweat (vapour) and keeps the skin dry**; ③ **stretch leaves no gaps**. These three matter more than the "heat" |
 | **Good for** | **Commuting, school, the office, walking around town, light housework — activity that does not make you sweat** |
 | **Not for** | **Hiking, running, shovelling snow, skiing — anything that makes you sweat heavily.** The absorbed sweat does not dry and causes **sweat chill** (汗冷え, ase-bie). For sport, use **quick-dry, water-repellent polyester**; for hiking, **merino wool** is the standard |
-| **Dryness and itching** | **Rayon and acrylic also draw moisture from the skin**, so **people with dry or sensitive skin, older people and those with atopic dermatitis may feel itching or dryness**. **Friction and static between synthetic fibre and skin** also play a part |
+| **Dryness and itching** | **Highly absorbent rayon, and acrylate fibres engineered for absorbency, are said to draw moisture from the skin surface as well**, so **people with dry or sensitive skin, older people and those with atopic dermatitis may feel itching or dryness**. **Friction and static between synthetic fibre and skin** also play a part |
 | **What helps** | **Products with a cotton inner face**, **cotton blends**, **silk or merino wool base layers**, **moisturising before dressing**, **changing when you have sweated** |
 | **Labelling** | The test for "moisture-absorbing heat generation" is standardised in **JIS L1927 (established 2020)**, and **claims must be backed by evidence**. **A figure such as "+X°C" is a value under test conditions** |
 
@@ -37,7 +37,7 @@ Every winter the shelves of Japan's big clothing chains fill with "heat-generati
 
 ## Misunderstanding 3｜The itching means my skin is weak, so I should put up with it
 
-**Rayon and acrylic draw moisture from the skin, so people with dry skin itch easily in them.** Switching to a cotton inner face, silk or wool usually solves it.
+**Highly absorbent fibres such as rayon are said to draw moisture from the skin surface too, so people with dry skin itch easily in them** (ordinary acrylic absorbs little moisture, and the itching is put down mainly to friction and static). Switching to a cotton inner face, silk or wool usually solves it.
 
 ## Misunderstanding 4｜Two layers are twice as warm
 

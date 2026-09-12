@@ -67,7 +67,7 @@
 
 ### 출처
 
-- 소비자청 「새로운 세탁 표시(JIS L0001)」 [新しい洗濯表示](면과 데님의 수축·세탁)
+- 소비자청 「새로운 세탁 표시(JIS L0001)」 [新しい洗濯表示](세탁 표시 기호의 의미)
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 전일본양복협동조합연합회(全洋連) 「바지 기장·마무리의 기초 지식」 [ズボンの丈・仕上げの基礎知識]
   https://www.zenyoren.jp/

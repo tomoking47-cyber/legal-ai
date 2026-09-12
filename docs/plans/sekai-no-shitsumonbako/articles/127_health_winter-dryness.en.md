@@ -47,8 +47,8 @@ Wearing a mask in bed is widely used among people living in Japan because **the 
   https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei10/
 - Japan Meteorological Agency, "Past weather data search", Tokyo climatological normals [過去の気象データ検索]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- Ministry of Health, Labour and Welfare / National Consumer Affairs Center of Japan, advisories on the hygienic maintenance of humidifiers (preventing growth of Legionella and other bacteria) [加湿器の衛生管理に関する注意喚起]
-  【To be confirmed】the URL of the specific document must be identified before publication
+
+> **Editorial note: for the hygienic maintenance of humidifiers (Legionella and other bacteria), identify the relevant MHLW or National Consumer Affairs Center document and add it to the sources.**
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

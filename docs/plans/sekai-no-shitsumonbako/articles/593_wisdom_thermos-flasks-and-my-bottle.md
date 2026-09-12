@@ -2,7 +2,7 @@
 
 - Shelf: `wisdom` ／ URL: `/en/wisdom/thermos-flasks-and-my-bottle` ／ Status: **Draft — sources unverified**
 
-Japan invented the household vacuum flask (Thermos was Japanese-owned for decades; Zojirushi and Tiger are Osaka companies) and carries it everywhere: office workers with 350 ml of hot tea, children with 800 ml of cold barley tea, hikers with 500 ml of boiling water for cup noodles. The habit saves money and plastic, and it also has a hygiene side that most owners ignore.
+Japan did not invent the vacuum flask — James Dewar built the first one in 1892 and the Thermos brand started in Germany in 1904 — but it made it a household object (Thermos has been Japanese-owned since 1989; Zojirushi and Tiger are Osaka companies) and carries it everywhere: office workers with 350 ml of hot tea, children with 800 ml of cold barley tea, hikers with 500 ml of boiling water for cup noodles. The habit saves money and plastic, and it also has a hygiene side that most owners ignore.
 
 ## A. The common misunderstanding is that a flask is a set-and-forget object. A stainless vacuum bottle keeps drinks hot (over 60°C) for 6 hours or cold (under 10°C) for 6–8 hours, which is exactly why it is dangerous for the wrong contents: milk, soup, juice or sports drinks left at lukewarm temperatures grow bacteria, and carbonated or fermenting drinks build pressure. Use it for water, tea, coffee and plain hot water; wash the lid gasket and inner surfaces daily with a bottle brush; soak in diluted oxygen bleach weekly (never chlorine — it corrodes steel); and replace the gasket every year or two. Sports drinks and salt-containing drinks need a "sports drink OK" model, and children's bottles need the straw parts taken apart every day.
 

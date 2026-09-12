@@ -62,7 +62,7 @@ As people spend longer using their phones one-handed, orthopaedic clinics in Jap
   https://www.joa.or.jp/public/sick/condition/de_quervain_disease.html
 - Japanese Society for Surgery of the Hand, "Hand conditions: tenosynovitis and trigger finger" [手の病気：腱鞘炎・ばね指]
   https://www.jssh.or.jp/ippan/sikkan/
-- Ministry of Health, Labour and Welfare (MHLW), "Guidelines for occupational health management in work using information devices" [情報機器作業における労働衛生管理のためのガイドライン] (2019)
+- Ministry of Health, Labour and Welfare (MHLW), "Guidelines for occupational health management in work using information devices" [情報機器作業における労働衛生管理のためのガイドライン] (issued 2019, revised December 2021)
   https://www.mhlw.go.jp/stf/newpage_05590.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

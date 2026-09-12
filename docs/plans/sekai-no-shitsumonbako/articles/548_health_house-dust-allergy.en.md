@@ -51,7 +51,7 @@ It is not pollen season, yet you sneeze when you get home and wake with a blocke
 
 ### Sources
 
-- Japanese Society of Allergology, "Practical Guideline for the Management of Allergic Rhinitis in Japan, 2024 edition" [アレルギー性鼻炎診療ガイドライン（鼻アレルギー診療ガイドライン2024年版）]
+- Japanese Guideline Committee for Allergic Rhinitis (Japanese Society of Oto-Rhino-Laryngological Immunology, Allergology and Infection), "Practical Guideline for the Management of Allergic Rhinitis in Japan — Perennial Rhinitis and Pollinosis — 2024 edition" [鼻アレルギー診療ガイドライン——通年性鼻炎と花粉症——2024年版]
   https://www.jsaweb.jp/
 - Ministry of Health, Labour and Welfare (MHLW), "Allergy Portal (mite control)" [アレルギー疾患対策：アレルギーポータル（ダニ対策）]
   https://allergyportal.jp/

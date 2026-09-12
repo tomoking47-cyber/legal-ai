@@ -67,7 +67,7 @@
 
 ### 出典
 
-- 消費者庁「新しい洗濯表示（JIS L0001）」（綿・デニムの縮みと洗濯）
+- 消費者庁「新しい洗濯表示（JIS L0001）」（洗濯表示記号の意味）
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
 - 全日本洋服協同組合連合会「ズボンの丈・仕上げの基礎知識」
   https://www.zenyoren.jp/

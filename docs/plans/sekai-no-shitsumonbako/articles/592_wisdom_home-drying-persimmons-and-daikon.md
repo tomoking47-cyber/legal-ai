@@ -16,7 +16,7 @@ Every November, strings of peeled orange persimmons appear under the eaves of Ja
 | **Blanch** | **Dip 5–10 seconds in boiling water** (or spray with shōchū) | Kills surface mould spores — the step most beginners skip |
 | **Hang** | **Under eaves or a covered balcony, in shade with wind**, fruits **not touching**, **on a rod or hanger**; **a mesh drying basket or net keeps birds and insects off** | Sun darkens the skin and hardens it; shade + wind dries evenly |
 | **Massage** | From **day 7**, **gently knead each fruit every 2–3 days** | Breaks internal fibres, evens moisture, draws sugar to the surface (the white bloom is crystallised glucose, not mould) |
-| **Done** | **2–3 weeks**: firm outside, soft inside (anpo-gaki at ~50% moisture, 1–2 weeks) or fully dried (**korogaki**, 3–4 weeks, white bloom) | — |
+| **Done** | **1–4 weeks depending on the finish**: semi-dried (**anpo-gaki**, ~50% moisture, **1–2 weeks**) — firm outside, soft inside — or fully dried (**korogaki**, **3–4 weeks**, white bloom) | — |
 | **Store** | **Refrigerate 1–2 weeks, freeze 6 months** in bags; the white bloom develops in the cold | Home-dried has no preservatives |
 | **Mould vs bloom** | **Bloom is white, dry, powdery, all over; mould is fuzzy, green/black/blue, in spots**. Mould → discard that fruit (and check neighbours) | — |
 
