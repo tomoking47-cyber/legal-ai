@@ -47,7 +47,7 @@
 ### 出处
 
 - 厚生劳动省《为促进健康的睡眠指南2023》[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 日本工业标准调查会（JISC）JIS Z9110《照明基准总则》[照明基準総則]
   https://www.jisc.go.jp/
 - 厚生劳动省 e-Healthnet《生物钟与光》[体内時計と光]

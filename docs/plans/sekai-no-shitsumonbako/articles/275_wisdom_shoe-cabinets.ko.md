@@ -47,7 +47,7 @@
 
 ### 출처
 - 도쿄도 보건의료국 — 가정의 곰팡이 예방（Tokyo Metropolitan Government Bureau of Public Health）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 국토교통성 — 주택 설계 지침(현관 수납)（Ministry of Land, Infrastructure, Transport and Tourism）
   https://www.mlit.go.jp/jutakukentiku/house/
 - 일본피혁산업연합회 — 신발의 손질과 보관（Japan Leather and Leather Goods Industries Association）

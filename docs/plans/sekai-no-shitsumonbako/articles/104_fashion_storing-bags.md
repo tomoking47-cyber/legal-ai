@@ -49,7 +49,7 @@
 - 気象庁「過去の気象データ検索」東京・月平均相対湿度
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
 - 東京都保健医療局「カビの発生を防ぐには」
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 国民生活センター「合成皮革製品の劣化（加水分解）に関する相談」
   https://www.kokusen.go.jp/
 

@@ -49,7 +49,7 @@ Wiping the surface **leaves the roots (hyphae) behind.** For mould on clothing, 
 - Japan Meteorological Agency, "Historical weather data search" — Tokyo normals (relative humidity) [気象庁「過去の気象データ検索」東京・平年値（相対湿度）]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
 - Tokyo Metropolitan Bureau of Public Health, "Preventing mould" [東京都保健医療局「カビの発生を防ぐには」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Tokyo Metropolitan Bureau of Public Health, "Safe use of chlorine-based cleaners and bleach" [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
 

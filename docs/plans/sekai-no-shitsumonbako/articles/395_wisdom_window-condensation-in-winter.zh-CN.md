@@ -51,7 +51,7 @@
 - 国土交通省（Ministry of Land, Infrastructure, Transport and Tourism）——现有住宅的保温性能
   https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk4_000103.html
 - 东京都保健医疗局（Tokyo Metropolitan Government Bureau of Public Health）——住宅中的结露与霉菌
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

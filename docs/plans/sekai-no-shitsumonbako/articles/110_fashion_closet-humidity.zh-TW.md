@@ -49,7 +49,7 @@
 - 氣象廳《過去的氣象資料檢索》東京・平年值（相對濕度）[気象庁「過去の気象データ検索」東京・平年値（相対湿度）]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
 - 東京都保健醫療局《如何防止黴菌滋生》[東京都保健医療局「カビの発生を防ぐには」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 東京都保健醫療局《含氯洗淨劑・漂白劑的安全使用方法》[東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
 

@@ -51,7 +51,7 @@
 - 厚生労働省『健康づくりのための睡眠ガイド2023』
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省「健康づくりのための睡眠指針の改訂に関する検討会」資料1（令和5年12月21日）
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 公益社団法人 日本薬学会「概日リズム」
   https://www.pharm.or.jp/words/word00678.html
 

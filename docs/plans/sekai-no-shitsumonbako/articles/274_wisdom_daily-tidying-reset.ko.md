@@ -49,7 +49,7 @@
 - 총무성 — 2023년 주택·토지통계조사(1인당 주거 면적)（Ministry of Internal Affairs and Communications）
   https://www.stat.go.jp/data/jyutaku/
 - 도쿄도 보건의료국 — 가정의 곰팡이와 위생（Tokyo Metropolitan Government Bureau of Public Health）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 문부과학성 — 학교 청소 활동（Ministry of Education, Culture, Sports, Science and Technology）
   https://www.mext.go.jp/
 

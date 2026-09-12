@@ -48,7 +48,7 @@
 - 기상청 「과거의 기상 데이터 검색」 [過去の気象データ検索] (일조 시간·평년값)
   https://www.data.jma.go.jp/stats/etrn/
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「우울증」 [うつ病] ／ 후생노동성 「まもろうよ こころ」 상담 창구 안내
   https://www.mhlw.go.jp/mamorouyokokoro/
 

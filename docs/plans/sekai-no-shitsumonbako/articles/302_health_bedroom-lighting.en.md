@@ -47,7 +47,7 @@ They are effective at **blocking city light at night**, but they **also block th
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Japanese Industrial Standards Committee (JISC), JIS Z9110 *General rules of recommended lighting levels* [照明基準総則]
   https://www.jisc.go.jp/
 - Ministry of Health, Labour and Welfare, e-Healthnet, *The body clock and light* [体内時計と光]

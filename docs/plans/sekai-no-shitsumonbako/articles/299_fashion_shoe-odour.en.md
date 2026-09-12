@@ -52,7 +52,7 @@ Bacteria stay **between the toes, around the nails and in the hard skin on the h
 - Japan Leather and Leather Goods Industries Association (JLIA), "Shoe care" [一般社団法人日本皮革産業連合会「靴のお手入れ」]
   https://www.jlia.or.jp/
 - Tokyo Metropolitan Bureau of Public Health and Medical Services, "Mould, bacteria and humidity" [東京都保健医療局「カビ・細菌と湿度」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

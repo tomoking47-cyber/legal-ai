@@ -47,7 +47,7 @@ What matters is **matching your sleep to the destination's time**; **simply slee
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, e-Health Net, "The body clock" [体内時計]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 - Ministry of Health, Labour and Welfare, "Personal import of medicines" [医薬品の個人輸入について] (melatonin and others)

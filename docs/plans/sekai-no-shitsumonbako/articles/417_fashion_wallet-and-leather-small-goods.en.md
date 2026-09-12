@@ -60,7 +60,7 @@ The main cause of **loss of shape, split seams and zip failure**. **Carry only t
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Miscellaneous Manufactured Goods Quality Labelling Regulations (bags and wallets)" [家庭用品品質表示法　雑貨工業品品質表示規程（かばん・財布）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

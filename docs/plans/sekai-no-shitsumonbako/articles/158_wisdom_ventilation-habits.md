@@ -48,7 +48,7 @@ Ten minutes with two windows costs little heat compared with the moisture proble
 - Ministry of Land, Infrastructure, Transport and Tourism — Building Standards Act: mechanical ventilation and sick house measures (2003)
   https://www.mlit.go.jp/jutakukentiku/build/sickhouse.html
 - Tokyo Metropolitan Government Bureau of Public Health — Preventing mould at home
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -47,7 +47,7 @@ Modern designs hold **umbrellas, the shoehorn, slippers for guests, the emergenc
 
 ### Sources
 - Tokyo Metropolitan Government Bureau of Public Health — Preventing mould at home
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Ministry of Land, Infrastructure, Transport and Tourism — Housing design guidance (entrance storage)
   https://www.mlit.go.jp/jutakukentiku/house/
 - Japan Leather and Leather Goods Industries Association — Care and storage of shoes

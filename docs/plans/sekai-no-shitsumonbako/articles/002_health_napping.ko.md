@@ -43,7 +43,7 @@ VV는 휴식을 게으름과 연결 짓는 사고방식에서 벗어나고 싶�
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023] (2024년 2월 책정)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 「건강 증진을 위한 수면 지침 개정에 관한 검토회」 자료1 『건강 증진을 위한 수면 가이드 2023(안)』 [健康づくりのための睡眠ガイド2023（案）] (2023년 12월 21일)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 『건강 증진을 위한 수면 지침 2014』 [健康づくりのための睡眠指針2014] (「수면 12개조」)
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**

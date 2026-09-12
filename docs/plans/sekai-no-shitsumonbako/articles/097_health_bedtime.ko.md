@@ -50,7 +50,7 @@
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 「건강 증진을 위한 수면 지침 개정에 관한 검토회」 자료1 (2023년 12월 21일)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 일본약학회(公益社団法人 日本薬学会) 「일주기 리듬」 [概日リズム]
   https://www.pharm.or.jp/words/word00678.html
 

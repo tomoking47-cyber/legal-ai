@@ -49,7 +49,7 @@
 - 日本电机工业会 — 除湿机的选购指南（除湿機の選び方 / Japan Electrical Manufacturers' Association）
   https://www.jema-net.or.jp/
 - 东京都保健医疗局 — 预防家中的霉菌（Tokyo Metropolitan Government Bureau of Public Health）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

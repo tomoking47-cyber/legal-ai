@@ -47,7 +47,7 @@
 
 ### 出处
 - 东京都保健医疗局 — 预防家中的霉菌（Tokyo Metropolitan Government Bureau of Public Health）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 国土交通省 — 住宅设计指导（玄关收纳）（Ministry of Land, Infrastructure, Transport and Tourism）
   https://www.mlit.go.jp/jutakukentiku/house/
 - 日本皮革产业联合会 — 鞋子的保养与收纳（Japan Leather and Leather Goods Industries Association）

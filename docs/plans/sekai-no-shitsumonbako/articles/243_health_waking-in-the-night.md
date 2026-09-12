@@ -46,7 +46,7 @@
 ### 出典
 
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省 e-ヘルスネット「不眠症」
   https://kennet.mhlw.go.jp/information/information/heart/k-02-001.html
 - 一般社団法人日本睡眠学会「睡眠障害の診断と治療」

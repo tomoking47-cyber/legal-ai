@@ -51,7 +51,7 @@
 - Japan Meteorological Agency, *Weather data (daily temperature range and pressure)* [気象データ（日々の気温差・気圧）]
   https://www.data.jma.go.jp/stats/etrn/
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] (the body clock and light)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -56,7 +56,7 @@ Fine for a short time, but **long term they mark the shoulders, and in damp the 
 - Japan Textile Products Quality and Technology Center (QTEC)
   https://www.qtec.or.jp/
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには] (damp in storage)
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

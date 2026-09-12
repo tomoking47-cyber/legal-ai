@@ -51,7 +51,7 @@ Autumn and winter boots come in smooth leather, suede and synthetic leather, and
 - National Consumer Affairs Center of Japan, "Accidents caused by the use of waterproofing sprays" [防水スプレーの使用による事故]
   https://www.kokusen.go.jp/news/data/n-20180125_1.html
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

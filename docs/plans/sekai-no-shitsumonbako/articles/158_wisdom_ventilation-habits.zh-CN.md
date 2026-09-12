@@ -48,7 +48,7 @@
 - 国土交通省（国土交通省）——《建筑基准法》：机械换气与病态建筑对策（2003 年）
   https://www.mlit.go.jp/jutakukentiku/build/sickhouse.html
 - 东京都保健医疗局（東京都保健医療局）——家中防霉
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

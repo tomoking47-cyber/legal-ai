@@ -49,7 +49,7 @@
 - 국토교통성(Ministry of Land, Infrastructure, Transport and Tourism) — 주택 설계 기준과 수납(住宅の設計・収納)
   https://www.mlit.go.jp/jutakukentiku/house/
 - 도쿄도 보건의료국(Tokyo Metropolitan Government Bureau of Public Health) — 집 안 곰팡이 예방(벽장)
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 총무성(Ministry of Internal Affairs and Communications) — 2023년 주택·토지 통계조사
   https://www.stat.go.jp/data/jyutaku/
 

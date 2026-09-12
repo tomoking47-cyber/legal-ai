@@ -49,7 +49,7 @@ Treat it as a **drawer**: flat cases on wheels for **the current off-season** (w
 - Ministry of Land, Infrastructure, Transport and Tourism — Housing design standards and storage (住宅の設計・収納)
   https://www.mlit.go.jp/jutakukentiku/house/
 - Tokyo Metropolitan Government Bureau of Public Health — Preventing mould at home (closets)
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Ministry of Internal Affairs and Communications — Housing and Land Survey 2023
   https://www.stat.go.jp/data/jyutaku/
 

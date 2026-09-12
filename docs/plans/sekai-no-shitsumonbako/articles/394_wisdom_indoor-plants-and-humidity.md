@@ -50,7 +50,7 @@ Japanese homes keep plants — bonsai, kokedama, the ubiquitous pothos — but t
 - Japan Meteorological Agency — Climatological normals (humidity)
   https://www.data.jma.go.jp/stats/etrn/
 - Tokyo Metropolitan Government Bureau of Public Health — Indoor mould prevention
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

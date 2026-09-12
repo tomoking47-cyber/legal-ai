@@ -49,7 +49,7 @@
 - 国土交通省（Ministry of Land, Infrastructure, Transport and Tourism）——住宅设计标准与收纳（住宅の設計・収納）
   https://www.mlit.go.jp/jutakukentiku/house/
 - 东京都保健医疗局（Tokyo Metropolitan Government Bureau of Public Health）——家庭防霉（壁橱）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 总务省（Ministry of Internal Affairs and Communications）——2023 年住宅・土地统计调查
   https://www.stat.go.jp/data/jyutaku/
 

@@ -46,7 +46,7 @@
 ### 出處
 
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生勞動省、農林水產省《飲食均衡指南》[食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
 - 厚生勞動省《令和5年 國民健康・營養調查結果概要》[令和5年 国民健康・栄養調査結果の概要]

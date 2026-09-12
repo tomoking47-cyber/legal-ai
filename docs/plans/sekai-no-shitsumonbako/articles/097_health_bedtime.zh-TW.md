@@ -50,7 +50,7 @@
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生勞動省「健康促進睡眠指針修訂檢討會」資料1（2023 年 12 月 21 日）
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 日本藥學會（公益社団法人 日本薬学会）《晝夜節律》[概日リズム]
   https://www.pharm.or.jp/words/word00678.html
 

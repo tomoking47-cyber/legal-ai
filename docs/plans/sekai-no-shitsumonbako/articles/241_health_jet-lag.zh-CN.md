@@ -47,7 +47,7 @@
 ### 出处
 
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生劳动省 e-健康网（e-ヘルスネット）「生物钟」[体内時計]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 - 厚生劳动省「药品的个人进口」[医薬品の個人輸入について]（褪黑素等）

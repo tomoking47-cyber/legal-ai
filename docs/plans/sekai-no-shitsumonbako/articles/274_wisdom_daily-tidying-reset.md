@@ -49,7 +49,7 @@ Japanese kindergartens and schools have **cleaning time built into the day** (se
 - Ministry of Internal Affairs and Communications — Housing and Land Survey 2023 (floor area per person)
   https://www.stat.go.jp/data/jyutaku/
 - Tokyo Metropolitan Government Bureau of Public Health — Household mould and hygiene
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Ministry of Education, Culture, Sports, Science and Technology — School cleaning activities
   https://www.mext.go.jp/
 

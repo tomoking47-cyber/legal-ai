@@ -60,7 +60,7 @@
 - 消費者廳《家庭用品品質標示法　雜貨工業品品質標示規程（包款・皮夾）》[家庭用品品質表示法　雑貨工業品品質表示規程（かばん・財布）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
 - 東京都保健醫療局《如何防止黴菌滋生》[カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

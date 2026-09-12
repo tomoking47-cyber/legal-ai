@@ -52,7 +52,7 @@
 - Kovacs FM, et al. "Effect of firmness of mattress on chronic non-specific low-back pain." Lancet. 2003;362(9396):1599-1604.
   https://pubmed.ncbi.nlm.nih.gov/14630439/
 - 厚生劳动省《为促进健康的睡眠指南2023》[健康づくりのための睡眠ガイド2023]（卧室环境）
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

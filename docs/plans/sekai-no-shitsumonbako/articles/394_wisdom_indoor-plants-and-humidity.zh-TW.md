@@ -50,7 +50,7 @@
 - 氣象廳（Japan Meteorological Agency）——氣候平年值（濕度）
   https://www.data.jma.go.jp/stats/etrn/
 - 東京都保健醫療局（Tokyo Metropolitan Government Bureau of Public Health）——室內黴菌防治
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

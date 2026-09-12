@@ -43,7 +43,7 @@ VV 希望擺脫把休息和偷懶連在一起的想法。**短，而且早。** 
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]（2024年2月制定）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生勞動省「健康促進睡眠指針修訂研討會」資料1《健康促進睡眠指南 2023（草案）》[健康づくりのための睡眠ガイド2023（案）]（2023年12月21日）
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生勞動省《健康促進睡眠指針 2014》[健康づくりのための睡眠指針2014]（「睡眠 12 條」）
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**

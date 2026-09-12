@@ -51,7 +51,7 @@ Wake up in a Japanese flat in January and the windows are streaming. Condensatio
 - Ministry of Land, Infrastructure, Transport and Tourism — Insulation performance of the housing stock
   https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk4_000103.html
 - Tokyo Metropolitan Government Bureau of Public Health — Condensation and mould in the home
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

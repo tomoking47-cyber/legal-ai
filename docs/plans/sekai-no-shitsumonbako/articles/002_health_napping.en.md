@@ -43,7 +43,7 @@ VV wants to move away from thinking that links rest with slacking off. **Short, 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] (adopted February 2024)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, Study Group on Revising the Sleep Guidelines for Health Promotion, Document 1, *Sleep Guide for Health Promotion 2023 (draft)* [健康づくりのための睡眠ガイド2023（案）] (21 December 2023)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, *Sleep Guidelines for Health Promotion 2014* [健康づくりのための睡眠指針2014] (the "12 articles on sleep")
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

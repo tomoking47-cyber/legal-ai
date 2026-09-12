@@ -45,7 +45,7 @@ International differences in sleep time are generally attributed largely to **wo
 ### Sources
 
 - MHLW, "Sleep Guide for Health Promotion 2023" [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - MHLW, "Outline of Results of the 2023 National Health and Nutrition Survey" [令和5年 国民健康・栄養調査結果の概要] (distribution of sleep time)
   https://www.mhlw.go.jp/stf/newpage_47433.html
 - OECD Gender Data Portal, "Time use across the world"

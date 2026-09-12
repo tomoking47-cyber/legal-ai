@@ -46,7 +46,7 @@
 ### 出處
 
 - 東京都保健醫療局「如何防止黴菌孳生」[カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 日本皮革產業聯合會（JLIA）[一般社団法人 日本皮革産業連合会]「皮革製品的保養」[革製品のお手入れ]
   https://www.jlia.or.jp/
 - 國民生活中心「合成皮革製品的劣化（水解）」[国民生活センター　合成皮革製品の劣化（加水分解）]

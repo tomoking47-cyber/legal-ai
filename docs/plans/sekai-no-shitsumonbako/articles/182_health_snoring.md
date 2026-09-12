@@ -55,7 +55,7 @@
 - 一般社団法人日本呼吸器学会「睡眠時無呼吸症候群」
   https://www.jrs.or.jp/citizen/disease/
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

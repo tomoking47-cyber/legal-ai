@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 일본산업표준조사회(JISC) JIS Z9110 『조명 기준 총칙』[照明基準総則]
   https://www.jisc.go.jp/
 - 후생노동성 e-Healthnet 『체내 시계와 빛』[体内時計と光]

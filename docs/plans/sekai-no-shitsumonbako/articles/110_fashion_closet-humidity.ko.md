@@ -49,7 +49,7 @@
 - 기상청 「과거 기상 데이터 검색」 도쿄·평년값(상대습도) [気象庁「過去の気象データ検索」東京・平年値（相対湿度）]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
 - 도쿄도 보건의료국 「곰팡이 발생을 막으려면」 [東京都保健医療局「カビの発生を防ぐには」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 도쿄도 보건의료국 「염소계 세정제·표백제의 안전한 사용법」 [東京都保健医療局「塩素系洗浄剤・漂白剤の安全な使い方」]
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/ensokei/
 

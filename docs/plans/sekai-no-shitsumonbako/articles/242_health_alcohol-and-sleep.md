@@ -48,7 +48,7 @@
 - 厚生労働省「健康に配慮した飲酒に関するガイドライン」（2024年2月）
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省 e-ヘルスネット「アルコールの吸収と分解」
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

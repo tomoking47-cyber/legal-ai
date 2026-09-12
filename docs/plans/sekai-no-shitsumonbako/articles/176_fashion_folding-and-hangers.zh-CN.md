@@ -56,7 +56,7 @@
 - 日本纺织品品质技术中心 [一般財団法人 日本繊維製品品質技術センター（QTEC）]
   https://www.qtec.or.jp/
 - 东京都保健医疗局“如何防止霉菌滋生”[カビの発生を防ぐには]（收纳中的潮气）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

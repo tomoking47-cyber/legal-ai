@@ -51,7 +51,7 @@
 - 日本国民生活中心 [国民生活センター]“防水喷雾使用引发的事故”[防水スプレーの使用による事故]
   https://www.kokusen.go.jp/news/data/n-20180125_1.html
 - 东京都保健医疗局 [東京都保健医療局]“如何防止霉菌滋生”[カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

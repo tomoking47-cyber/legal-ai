@@ -50,7 +50,7 @@ Lying in bed for a long time unable to sleep is not recommended. **If it continu
 - Ministry of Health, Labour and Welfare, "Sleep Guide for Health Promotion 2023" [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, "Study group on revising the sleep guidelines for health promotion", Document 1 (21 December 2023)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Pharmaceutical Society of Japan (公益社団法人 日本薬学会), "Circadian rhythm" [概日リズム]
   https://www.pharm.or.jp/words/word00678.html
 

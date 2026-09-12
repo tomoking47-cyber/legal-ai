@@ -49,7 +49,7 @@
 - 總務省 — 2023 年住宅・土地統計調查（每人居住面積）（Ministry of Internal Affairs and Communications）
   https://www.stat.go.jp/data/jyutaku/
 - 東京都保健醫療局 — 家庭中的黴菌與衛生（Tokyo Metropolitan Government Bureau of Public Health）
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 文部科學省 — 學校清掃活動（Ministry of Education, Culture, Sports, Science and Technology）
   https://www.mext.go.jp/
 

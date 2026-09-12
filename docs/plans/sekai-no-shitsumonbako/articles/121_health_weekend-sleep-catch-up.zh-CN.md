@@ -45,7 +45,7 @@
 ### 出处
 
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生劳动省《令和5年 国民健康・营养调查结果概要》[令和5年 国民健康・栄養調査結果の概要]（睡眠时间的分布）
   https://www.mhlw.go.jp/stf/newpage_47433.html
 - OECD Gender Data Portal「Time use across the world」

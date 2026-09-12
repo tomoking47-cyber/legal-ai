@@ -48,7 +48,7 @@
 - 후생노동성 『건강에 배려한 음주에 관한 가이드라인』 [健康に配慮した飲酒に関するガイドライン] (2024년 2월)
   https://www.mhlw.go.jp/stf/newpage_37785.html
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「알코올의 흡수와 분해」 [アルコールの吸収と分解]
   https://kennet.mhlw.go.jp/information/information/alcohol/a-02-001.html
 

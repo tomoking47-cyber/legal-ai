@@ -46,7 +46,7 @@
 ### 출처
 
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성・농림수산성 『식사 밸런스 가이드』 [食事バランスガイド]
   https://www.maff.go.jp/j/balance_guide/
 - 후생노동성 『레이와 5년 국민건강・영양조사 결과 개요』 [令和5年 国民健康・栄養調査結果の概要]

@@ -47,7 +47,7 @@
 ### 출처
 
 - 후생노동성 『건강 증진을 위한 수면 가이드 2023』 [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 후생노동성 e-헬스넷(e-ヘルスネット) 「체내 시계」 [体内時計]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 - 후생노동성 「의약품의 개인 수입에 대하여」 [医薬品の個人輸入について] (멜라토닌 등)

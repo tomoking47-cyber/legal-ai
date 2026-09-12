@@ -47,7 +47,7 @@
 ### 出典
 
 - 厚生労働省「健康づくりのための睡眠ガイド2023」
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省 e-ヘルスネット「快眠と生活習慣」
   https://kennet.mhlw.go.jp/information/information/heart/k-02-005.html
 - 消費者庁「冬季に多発する高齢者の入浴中の事故に注意」

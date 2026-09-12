@@ -46,7 +46,7 @@ Over-the-counter sleep aids in Japan (睡眠改善薬, suimin kaizen-yaku, sold 
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, e-Health Net, "Insomnia" [不眠症]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-001.html
 - Japanese Society of Sleep Research, "Diagnosis and therapy of sleep disorders" [睡眠障害の診断と治療]

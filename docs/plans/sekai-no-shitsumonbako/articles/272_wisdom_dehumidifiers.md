@@ -49,7 +49,7 @@ The machine **stops automatically** when the tank fills — often at 2 a.m. in t
 - Japan Electrical Manufacturers' Association — Dehumidifier selection guide (除湿機の選び方)
   https://www.jema-net.or.jp/
 - Tokyo Metropolitan Government Bureau of Public Health — Preventing mould at home
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

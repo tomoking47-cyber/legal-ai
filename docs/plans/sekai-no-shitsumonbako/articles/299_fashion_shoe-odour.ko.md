@@ -52,7 +52,7 @@
 - 일반사단법인 일본피혁산업연합회(JLIA) 「신발 손질법」 [一般社団法人日本皮革産業連合会「靴のお手入れ」]
   https://www.jlia.or.jp/
 - 도쿄도 보건의료국 「곰팡이·세균과 습도」 [東京都保健医療局「カビ・細菌と湿度」]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

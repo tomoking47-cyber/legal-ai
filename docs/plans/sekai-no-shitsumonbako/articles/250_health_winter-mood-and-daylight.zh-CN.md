@@ -48,7 +48,7 @@
 - 气象厅「过去的气象数据检索」[過去の気象データ検索]（日照时间・平年值）
   https://www.data.jma.go.jp/stats/etrn/
 - 厚生劳动省《健康促进睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生劳动省 e-健康网（e-ヘルスネット）「抑郁症」[うつ病]／厚生劳动省「まもろうよ こころ」咨询窗口一览
   https://www.mhlw.go.jp/mamorouyokokoro/
 

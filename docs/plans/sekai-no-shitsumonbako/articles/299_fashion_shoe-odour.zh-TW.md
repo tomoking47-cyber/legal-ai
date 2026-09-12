@@ -52,7 +52,7 @@
 - 一般社團法人日本皮革產業聯合會（JLIA）「鞋子的保養」[一般社団法人日本皮革産業連合会「靴のお手入れ」]
   https://www.jlia.or.jp/
 - 東京都保健醫療局 [東京都保健医療局]「黴菌・細菌與濕度」[カビ・細菌と湿度]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

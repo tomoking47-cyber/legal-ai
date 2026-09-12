@@ -53,7 +53,7 @@
 - 全国干洗生活卫生同业组合联合会（全ク连）《皮革制品的清洗》[皮革製品のクリーニング]
   https://www.zenkuren.or.jp/
 - 东京都保健医疗局《如何防止霉菌滋生》[カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

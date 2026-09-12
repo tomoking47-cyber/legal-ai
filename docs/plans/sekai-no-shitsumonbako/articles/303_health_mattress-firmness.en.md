@@ -52,7 +52,7 @@ The belief that "a hard mattress is good for your back" is especially deep-roote
 - Kovacs FM, et al. "Effect of firmness of mattress on chronic non-specific low-back pain." Lancet. 2003;362(9396):1599-1604.
   https://pubmed.ncbi.nlm.nih.gov/14630439/
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023] (bedroom environment)
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

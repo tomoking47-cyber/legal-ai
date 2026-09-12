@@ -47,7 +47,7 @@ In Japan most people soak in a hot bath (ofuro) every evening, so "should I get 
 ### Sources
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - Ministry of Health, Labour and Welfare, e-Healthnet, *Good sleep and daily habits* [快眠と生活習慣]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-005.html
 - Consumer Affairs Agency, *Beware of bathing accidents among older people, which peak in winter* [冬季に多発する高齢者の入浴中の事故に注意]

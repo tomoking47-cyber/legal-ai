@@ -46,7 +46,7 @@
 ### 출처
 
 - 도쿄도 보건의료국 "곰팡이 발생을 막으려면" [カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - 일본피혁산업연합회(JLIA) [一般社団法人 日本皮革産業連合会] "가죽 제품 손질" [革製品のお手入れ]
   https://www.jlia.or.jp/
 - 국민생활센터 "합성피혁 제품의 열화(가수분해)" [国民生活センター　合成皮革製品の劣化（加水分解）]

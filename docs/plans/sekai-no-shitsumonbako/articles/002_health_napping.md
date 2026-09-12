@@ -44,7 +44,7 @@ VVは、休むことを「サボり」と結びつける考え方から離れた
 - 厚生労働省『健康づくりのための睡眠ガイド2023』（2024年2月策定）
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省「健康づくりのための睡眠指針の改訂に関する検討会」資料1『健康づくりのための睡眠ガイド2023（案）』（令和5年12月21日）
-  https://www.mhlw.go.jp/content/10904750/001181265.pdf
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
 - 厚生労働省『健康づくりのための睡眠指針2014』（睡眠12箇条）
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**

@@ -46,7 +46,7 @@ In Japan you take your shoes off at the door, so they gather in the genkan (entr
 ### Sources
 
 - Tokyo Metropolitan Government Bureau of Public Health, "Preventing mould" [カビの発生を防ぐには]
-  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jyuukankyo/indoor/kabi.html
+  https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
 - Japan Leather and Leather Goods Industries Association (JLIA), "Caring for leather goods" [革製品のお手入れ]
   https://www.jlia.or.jp/
 - National Consumer Affairs Center of Japan, "Deterioration of synthetic leather products (hydrolysis)" [合成皮革製品の劣化（加水分解）]
