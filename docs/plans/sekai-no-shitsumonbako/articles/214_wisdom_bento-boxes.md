@@ -13,7 +13,7 @@ The bento — a packed meal in a compartmented box — has gone global as an aes
 | **Cool everything before closing the lid** | Steam becomes condensation — moisture plus warmth is the bacteria condition |
 | **Pack tightly**, fill gaps with cherry tomatoes or broccoli | Food that moves smears and mixes |
 | **Divide wet from dry** with cups, lettuce or silicone dividers | Sogginess; cross-flavouring |
-| **Rice on one side, dishes on the other** in a ratio near **1:1 by area** | Balance of staple and side dishes (a Ministry of Agriculture guide uses a **3:1:2** volume rule — rice : protein : vegetables) |
+| **Rice on one side, dishes on the other** in a ratio near **1:1 by area** | Balance of staple and side dishes (the widely taught **3:1:2 bento box method** — staple : main dish : vegetable sides, measured **by area** in a box whose capacity in mL matches the meal's kcal — was devised by the NPO Food Ecology Practice Forum and is promoted by MAFF and local governments) |
 | **Fully cook, no raw or half-cooked items** | Hours at room temperature |
 | **Reheat leftovers to steaming** before packing | Kill what grew overnight |
 | Cooling pack or insulated bag in warm months | Keep below the growth range |
@@ -49,8 +49,10 @@ A leaking box ruins a bag. Japanese bento boxes have **gaskets or inner lids** a
 ### Sources
 - Ministry of Health, Labour and Welfare — Six points for preventing food poisoning at home
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
-- Ministry of Agriculture, Forestry and Fisheries — Bento food safety and balance (お弁当の食中毒予防・3:1:2弁当箱法)
-  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/obento.html
+- Ministry of Agriculture, Forestry and Fisheries — Preventing food poisoning in packed lunches (お弁当づくりによる食中毒を予防するために)
+  https://www.maff.go.jp/j/syouan/seisaku/foodpoisoning/lunchbox.html
+- NPO Food Ecology Practice Forum — The 3・1・2 bento box method (3・1・2弁当箱法)
+  https://shokuseitaigaku.com/bentobako
 - Akita Prefecture — Odate magewappa (traditional craft)
   https://www.pref.akita.lg.jp/
 

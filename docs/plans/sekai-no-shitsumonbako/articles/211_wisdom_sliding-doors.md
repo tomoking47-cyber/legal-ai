@@ -16,7 +16,7 @@ Paper-covered sliding doors are the image of a Japanese room. Abroad they read a
 | Maintenance | **Re-paper every few years** (paper sold in rolls; glue is starch-based) | Re-paper less often; patch tears |
 | Weak point | Tears, children's fingers, pets | Humidity warping |
 
-- A swinging door consumes roughly **0.8–1.0 m²** of floor as its arc; a sliding door consumes **none**. In a **6-tatami room (about 9.7 m²)** that difference is significant.
+- A swinging door needs a clear quarter-circle of floor — roughly **0.4–0.5 m²** for a typical 75–80 cm leaf; a sliding door consumes **none**. In a **6-tatami room (about 9.3 m² at Tokyo tatami size, about 11 m² at Kyoto size)** that difference is significant.
 - Traditional Japanese rooms had **no fixed function**: the same room was living room by day and bedroom by night (futon). Removable partitions made that possible.
 - Shoji paper transmits roughly **40–50% of light** while blocking the view — the original privacy glass.
 

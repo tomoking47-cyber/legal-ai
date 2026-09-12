@@ -17,7 +17,7 @@ Every Japanese balcony has a pair of hooks or arms for a laundry pole, and on a 
 | **Laundry cover / net** | Pollen season, privacy, sudden rain |
 | Balcony rules | Do not hang **over the rail** (falling objects); many condominium rules **ban futon over the rail** |
 
-- Electricity in Japan costs around **¥31 per kWh** (Tokyo, 2025); a heat-pump dryer cycle uses **about 1 kWh**, a heater-type **2–3 kWh** — so a family drying daily saves **¥1,000–3,000 a month** by hanging.
+- Electricity in Japan costs around **¥31 per kWh** (the nationwide reference unit price set by the Electric Appliance Fair Trade Council in 2022; Tokyo's 2026 metered bands run ¥29.8–40.5 per kWh); a heat-pump dryer cycle uses **about 1 kWh**, a heater-type **2–3 kWh** — so a family drying daily saves roughly **¥1,000–3,500 a month** by hanging.
 - Drying time: **3–5 hours** on a dry sunny day; humidity in June and September can leave clothes damp all day, hence the **indoor-drying industry** (see that article).
 - **Pollen season (February–April)** and **yellow dust (spring)** make many households dry indoors or cover the laundry.
 
@@ -50,8 +50,10 @@ Wet laundry that dries slowly — a humid day, too tightly packed — develops t
   https://ondankataisaku.env.go.jp/coolchoice/
 - Agency for Natural Resources and Energy — Energy conservation performance catalogue (washer-dryers)
   https://seihinjyoho.go.jp/
-- Ministry of the Environment — Pollen and yellow dust information
+- Ministry of the Environment — Hay Fever Environmental Health Manual 2022 (花粉症環境保健マニュアル)
   https://www.env.go.jp/chemi/anzen/kafun/
+- Ministry of the Environment — Yellow dust measures (黄砂対策)
+  https://www.env.go.jp/air/kousa/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

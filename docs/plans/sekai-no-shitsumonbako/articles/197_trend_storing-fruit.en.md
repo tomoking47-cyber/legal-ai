@@ -39,7 +39,7 @@ Apple ethylene **speeds ripening**, so keep apples away from **fruit that must n
 
 ## Misunderstanding 4｜Cut fruit is fine at room temperature for a few hours
 
-**Bacteria multiply readily on a cut surface.** Under the Ministry of Health, Labour and Welfare's approach to food-poisoning prevention, **cut fruit goes in the fridge and should not sit out for more than 2 hours**. **Eat cut fruit the same day.**
+**Bacteria multiply readily on a cut surface.** Under the Ministry of Health, Labour and Welfare's approach to food-poisoning prevention, **refrigerate fruit as soon as it is cut and do not leave it out at room temperature for long**. **Eat cut fruit the same day.**
 
 ## Misunderstanding 5｜Freezing destroys the nutrients
 
@@ -49,8 +49,8 @@ Apple ethylene **speeds ripening**, so keep apples away from **fruit that must n
 
 ### Sources
 
-- Ministry of Agriculture, Forestry and Fisheries, "How to store fruit well" [果物の上手な保存方法]
-  https://www.maff.go.jp/j/seisan/ryutu/fruits/
+- Ministry of Agriculture, Forestry and Fisheries, "Storage tricks that keep summer vegetables and fruit tasty for longer" [おいしさをもっと長持ちさせる夏野菜＆果物の保存術] (aff)
+  https://www.maff.go.jp/j/pr/aff/2007/spe1_05.html
 - NARO (National Agriculture and Food Research Organization) [農研機構], "Ethylene and fruit ripening" [エチレンと果実の追熟]
   https://www.naro.go.jp/
 - Ministry of Health, Labour and Welfare, "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]

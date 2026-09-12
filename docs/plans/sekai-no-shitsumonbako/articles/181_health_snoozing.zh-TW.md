@@ -47,10 +47,10 @@
 
 - 厚生勞動省《健康促進睡眠指南 2023》[健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
-- 厚生勞動省 e-健康網（e-ヘルスネット）「睡眠與生活習慣」[睡眠と生活習慣]
-  https://kennet.mhlw.go.jp/information/information/heart/k-01-001.html
-- 厚生勞動省《2023年 國民健康・營養調查結果概要》[令和5年 国民健康・栄養調査結果の概要]（睡眠）
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- 厚生勞動省 e-健康網（e-ヘルスネット）「良好睡眠與生活習慣」[快眠と生活習慣]
+  https://kennet.mhlw.go.jp/information/information/heart/k-01-004.html
+- 厚生勞動省《2024年 國民健康・營養調查結果概要》[令和6年 国民健康・栄養調査結果の概要]（睡眠）
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/r5-houkoku_00002.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

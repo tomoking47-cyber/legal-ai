@@ -12,7 +12,7 @@ Hood cords catching on playground equipment have caused accidents in many countr
 |---|---|
 | **Head and neck** | **No cords** (**under 7**). Ages 7 to under 13: **limits on the length of hanging cords and on drawstrings** |
 | Waist and hem | Hanging cord **14 cm or less**; no cord may hang below the hem (must not extend past the bottom edge of the garment) |
-| Cuffs | Hanging cord **7 cm or less** |
+| Cuffs | Cord protruding from the cuff: **75 mm (7.5 cm) or less for under-7s**, **140 mm (14 cm) or less for ages 7 to under 13** |
 | Back | **No cords** |
 
 - Background to the standard: **a Tokyo Metropolitan Government survey (2006) found that about 80% of parents had experienced an accident or near-miss involving cords on children's clothing**, followed by **requests from the Consumer Affairs Agency and Tokyo from 2013 onward**.

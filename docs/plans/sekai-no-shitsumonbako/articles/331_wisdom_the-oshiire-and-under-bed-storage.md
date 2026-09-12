@@ -11,8 +11,8 @@ The oshiire — a deep built-in closet with a single shelf across the middle —
 | Item | Standard | Use |
 |---|---|---|
 | **Oshiire depth** | **about 75–90 cm** (a folded futon is ~70 cm) | Deep enough for two rows of boxes |
-| **Middle shelf (nakadana)** | At about **80–90 cm** height | Futon above; drawers below |
-| **Top cupboard (tenbukuro)** | Above the doors, **30–40 cm** high | Seasonal items, suitcases, emergency stock |
+| **Middle shelf (nakadana)** | At about **70–80 cm** height (lower bay 70–80 cm, upper bay 90–100 cm) | Futon above; drawers below |
+| **Top cupboard (tenbukuro)** | Above the doors, **about 40–50 cm** high | Seasonal items, suitcases, emergency stock |
 | **Drawer units** | Sold in widths **39 / 44 / 54 cm** and depths **50–74 cm** to fit half or a third of a bay | Clothes by category, standing (see the vertical-storage article) |
 | **Rolling cases** | With wheels, so the back row can be pulled forward | Seasonal clothes, bedding |
 | Under-bed | Clearance **15–30 cm**; **flat rolling cases** or fitted drawers | Off-season bedding, shoes, suitcases |

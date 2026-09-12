@@ -14,7 +14,7 @@ Home hair colour is convenient, but every year in Japan people report rashes fro
 | Symptoms | **A few hours to 48 hours** after use: **redness, itching and swelling** of the scalp, face and neck. **Swollen eyelids** are characteristic |
 | Regulation | Oxidative hair dyes are **quasi-drugs** (a Japanese category between cosmetics and medicines). **A patch test 48 hours before use** is stated in the product's precautions |
 | Consumer Safety Investigation Commission | **October 2015** report on "skin disorders caused by hair dye". Strongly recommended that **anyone who has once reacted should stop using it** |
-| Number of enquiries | **Around 200 a year** to the National Consumer Affairs Center of Japan (2010s) |
+| Accident reports | **Around 200 skin-injury cases from hair dye are registered each fiscal year** in the Consumer Affairs Agency's Accident Information Database (as of the 2015 report) |
 
 ### Patch test procedure (example from product labels)
 
@@ -35,7 +35,7 @@ Home hair colour is convenient, but every year in Japan people report rashes fro
 
 ## Misunderstanding 3｜Hair manicure and colour conditioners are the same thing
 
-**Acid hair colours ("hair manicure", ヘアマニキュア) and colour conditioners mostly contain no diamines and are classed as cosmetics.** They are an option for people with a diamine allergy, but **they colour differently, and some people react to other ingredients in them.**
+**Acid hair colours ("hair manicure", ヘアマニキュア) and colour conditioners mostly contain no diamines and are classed as cosmetics.** However, **some products marketed as "botanical" or "henna" do contain oxidative (diamine-type) dyes**: in **May 2026** the National Consumer Affairs Center of Japan reported **anaphylaxis** caused by henna products for wigs that contained oxidative dye. **Always check the listed ingredients** — and note that **they colour differently, and some people react to other ingredients in them.**
 
 ## Misunderstanding 4｜It is safe at a salon
 

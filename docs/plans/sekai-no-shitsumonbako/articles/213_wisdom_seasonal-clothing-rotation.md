@@ -17,7 +17,7 @@ Twice a year, Japanese households swap the contents of their wardrobes — winte
 | 5. Store | Breathable boxes or drawer units; **moth repellent on top**; **desiccant at the bottom** | Repellent vapour sinks; moisture sinks |
 | 6. Rotate the closet | Off-season to the top shelf or under the bed; current season at eye level | Space |
 
-- The school convention: **summer uniform from 1 June, winter from 1 October**, with a transition period either side; many companies followed for office wear, and **Cool Biz (May–September)** loosened it.
+- The school convention: **summer uniform from 1 June, winter from 1 October**, with a transition period either side; many companies followed for office wear, and **Cool Biz** loosened it — though since 2021 the government has set **no nationwide Cool Biz period**, leaving each workplace to judge by temperature (the Ministry of the Environment's own offices run **1 May–30 September**).
 - Storage in the **oshiire** (bedding closet) or under-bed boxes is the norm; **vacuum bags** are used for bulky items but damage down and wool if left compressed for long.
 - Repellent types must not be mixed (see the moth-repellent article): **paradichlorobenzene, naphthalene and camphor** can melt together and stain.
 

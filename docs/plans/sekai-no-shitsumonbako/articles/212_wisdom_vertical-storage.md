@@ -17,7 +17,7 @@ Foreign visitors to a Japanese flat notice how much is stored without the room l
 | **Hooks on the inside of doors** | Cupboard doors, the genkan | Lids, brushes, bags, keys |
 | **Stackable drawer units sized to the closet (oshiire)** | The standard closet depth (**about 80–90 cm**) | Clothes, in units that roll out |
 
-- Average floor area per person in Japan is **about 40 m²** (Housing and Land Survey); in Tokyo's 23 wards the average rental flat for one person is **about 25–30 m²**.
+- The 2023 Housing and Land Survey puts the average dwelling at **90.86 m²** of floor area, which works out at roughly **40 m² per person**; in Tokyo's 23 wards the average rental flat for one person is **about 25–30 m²**.
 - The **oshiire** (built-in closet with a middle shelf, sized to bedding) is the origin of Japan's modular storage market: drawer units are sold in **widths of 39, 44 and 54 cm** to fit half or third of a standard closet.
 - The principle common to the popular Japanese organising methods: **store vertically, one category per container, everything visible at once.**
 
@@ -50,7 +50,7 @@ Small homes cost less to heat, clean and furnish, and they force decisions. The 
   https://www.stat.go.jp/data/jyutaku/
 - Ministry of Land, Infrastructure, Transport and Tourism — Basic Plan for Housing (居住面積水準)
   https://www.mlit.go.jp/jutakukentiku/house/
-- Consumer Affairs Agency — Household goods labelling (load ratings on storage products)
+- Ministry of Economy, Trade and Industry / product makers — load ratings are stated by the manufacturer on tension-pole packaging (no statutory labelling scheme covers them)
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

@@ -18,7 +18,7 @@ On a business trip, or in a rushed morning, how to remove creases without an iro
 
 - **Creases form when fibres move under moisture and heat and lock into shape as they dry.** **The same principle reverses them**: add moisture, straighten, dry.
 - **A steamer is not a substitute for an iron**: it is good at **relaxing fabric and plumping it back**; **creating folds and crisp flatness** is the iron's job. The usual division is **iron for shirt collars and front plackets, steamer for jackets and knitwear**.
-- **Scalds from hot water spitting out of steamers** have been reported to NITE (Japan's product-safety agency). The precautions: **do not overfill the tank, do not tilt it too far, never point it at a person**.
+- **Steamers can spit hot steam or hot water and cause scalds.** Manufacturers' instruction manuals list the same precautions: **do not overfill the tank, do not tilt it too far, never point it at a person**.
 
 > **[Verify]** Check the ironing symbols against the Consumer Affairs Agency's "Care labelling" page, and steamer accidents against NITE's product-accident information.
 
@@ -48,8 +48,8 @@ On a business trip, or in a rushed morning, how to remove creases without an iro
 
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)", ironing symbols [消費者庁「洗濯表示（令和6年8月20日以降）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- National Institute of Technology and Evaluation (NITE), "Accidents with garment steamers" [独立行政法人製品評価技術基盤機構「衣類スチーマーの事故」]
-  https://www.nite.go.jp/jiko/chuikanki/
+- National Institute of Technology and Evaluation (NITE), "Product accident and recall information (accident search, NITE-SAFE Lite)" [独立行政法人製品評価技術基盤機構「製品事故情報・リコール情報（事故情報検索 NITE-SAFE Lite）」]
+  https://www.nite.go.jp/jiko/jikojohou/index.html
 - Japan Textile Products Quality and Technology Center (QTEC) [一般財団法人日本繊維製品品質技術センター]
   https://www.qtec.or.jp/
 

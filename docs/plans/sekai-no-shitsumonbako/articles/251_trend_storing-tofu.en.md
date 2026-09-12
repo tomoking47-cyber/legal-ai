@@ -10,7 +10,7 @@ Tofu is an everyday food far beyond Japan now, but it still prompts two question
 
 | Type | What it is | Date while sealed | Once opened |
 |---|---|---|---|
-| **Momen (firm) and kinugoshi (silken) tofu in a water pack** | Sits in water | **Use-by date (消費期限, shōhi kigen), a few days** (3–7 days from manufacture) | **Same day to the next day**. **Change the water in a clean container and refrigerate** |
+| **Momen (firm) and kinugoshi (silken) tofu in a water pack** | Sits in water | **Most carry a best-before date (賞味期限, shōmi kigen) of 3–10 days** (varies by product; some carry a use-by date, 消費期限) | **Same day to the next day**. **Change the water in a clean container and refrigerate** |
 | **Filled tofu (充填豆腐, jūten tōfu)** | Soy milk and coagulant are sealed in the container, then heated. No water | **Best-before date (賞味期限, shōmi kigen), a few weeks to 2 months** (varies by product) | Same day to the next day once opened |
 | Grilled tofu (yaki-dōfu), thick fried tofu (atsuage), thin fried tofu (aburaage) | Processed | Follow the label (a few days) | Use soon. Aburaage can be frozen |
 | Kōya-dōfu (freeze-dried tofu) | Dry good | **Several months to 1 year** | Keep away from moisture |
@@ -35,7 +35,7 @@ Filled tofu is simply **made differently**: **it is heated after sealing, which 
 
 ## Misunderstanding 4｜Past the date is fine if you cook it
 
-**A use-by date (消費期限) is the limit for eating the food safely**, and food past it is **not recommended even if heated.** A best-before date (賞味期限, used on filled tofu) is a quality guideline; **if unopened and stored as instructed**, it is often still fine a little past the date, but check its condition.
+**A use-by date (消費期限) is the limit for eating the food safely**, and food past it is **not recommended even if heated.** **Most tofu, however, carries a best-before date (賞味期限)**, a quality guideline; **if unopened and stored as instructed**, it is often still fine a little past the date, but check its condition. **Check the pack to see which kind of date it carries.**
 
 ## Misunderstanding 5｜Frozen tofu is ruined
 
@@ -47,7 +47,7 @@ Filled tofu is simply **made differently**: **it is heated after sealing, which 
 
 - Consumer Affairs Agency, "Date labelling of foods" [食品の期限表示について]
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/
-- National Federation of Tofu Associations (Zentōren) / Japan Tofu Association, "How to store tofu" [豆腐の保存方法]
+- National Federation of Tofu Associations (Zentōren) [一般財団法人全国豆腐連合会], "About tofu" [豆腐について]
   https://www.zentoren.jp/
 - Ministry of Health, Labour and Welfare, "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント]
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html

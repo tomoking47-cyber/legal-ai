@@ -13,10 +13,10 @@ The claim that "sunscreen leaves you short of vitamin D" is raised in many count
 | Adequate intake (adults) | **9.0 μg/day** (raised from 8.5 to 9.0 in the 2025 edition) | Dietary Reference Intakes for Japanese (2025 edition) |
 | Tolerable upper intake | **100 μg/day** | Same as above |
 | Actual intake (age 20 and over) | **About 6–7 μg** (higher in people who eat fish) | National Health and Nutrition Survey |
-| Sunlight needed | **Clear July day at noon, face and backs of both hands**: **about 3–4 minutes in Tsukuba**, **about 5–6 minutes in Sapporo** for the equivalent of 10 μg. **At noon in December: about 76 minutes in Sapporo, about 8 minutes in Naha** | National Institute for Environmental Studies (2013) |
-| Foods | **Salmon, 1 fillet (80 g) about 26 μg**; **Pacific saury (sanma), 1 fish about 16 μg**; **kikurage wood-ear mushroom (2 g dried) about 1.7 μg**; **dried shiitake (3 pieces) about 0.4 μg**; **1 egg about 1.3 μg** | Food composition tables |
+| Sunlight needed | **Clear July day at noon, face and backs of both hands**: **about 3.5 minutes in Tsukuba**, **about 4.6 minutes in Sapporo**, **about 2.9 minutes in Naha** for the equivalent of **5.5 μg**. **At noon in December: about 76 minutes in Sapporo, about 22 minutes in Tsukuba, about 8 minutes in Naha** | National Institute for Environmental Studies (2013) |
+| Foods | **Salmon, 1 fillet (80 g) about 26 μg**; **Pacific saury (sanma), 1 fish about 16 μg**; **kikurage wood-ear mushroom (2 g dried) about 1.7 μg**; **dried shiitake (3 pieces) about 0.4 μg**; **1 egg (edible portion about 50 g) about 1.9 μg** | Standard Tables of Food Composition in Japan (8th revised edition), 2023 supplement |
 
-- **A 2013 study by the National Institute for Environmental Studies and Tokyo Kasei University** published, **by season and region, the sunlight exposure time needed to produce 10 μg of vitamin D**. The range is wide: **a few minutes in summer, more than an hour in northern Japan in winter**.
+- **A 2013 study by the National Institute for Environmental Studies and Tokyo Kasei University** published, **by season and region, the sunlight exposure time needed to produce 5.5 μg of vitamin D — the adequate intake at the time**. The range is wide: **a few minutes in summer, more than an hour in northern Japan in winter**.
 - **The Ministry of the Environment's UV manual** states that **UV protection and getting enough vitamin D are not in conflict**, and that **everyday exposure plus food** is enough.
 - Groups where **vitamin D shortage** is a concern: **people who spend their days mostly indoors, northern Japan in winter, older people, people who do not eat fish, and infants** (paediatricians advise vitamin D supplementation for breastfed babies).
 
