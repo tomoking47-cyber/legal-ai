@@ -4,7 +4,7 @@
 
 Osechi is the food that stands for the Japanese New Year, and people from abroad ask, "Why eat cold food for three days?" It is sold in tiered lacquered boxes from December in every department store and supermarket, and many foreign residents buy one for their first New Year here. Here we cover its origins as preserved food, how it is bought today, and the food-poisoning and food-waste cautions.
 
-## A. The biggest misunderstanding is "osechi is the most lavish feast of the year." It began as preserved food so that no cooking fire was lit — and the women of the house could rest — over the first three days of the year (sanganichi); that is why so many of the dishes are sweet, salty or vinegared. Today about half of households buy it ready-made, delivered chilled or frozen. Chilled, it keeps 2–3 days; leaving it out at room temperature is a cause of food poisoning.
+## A. The biggest misunderstanding is "osechi is the most lavish feast of the year." It began as preserved food so that no cooking fire was lit — and the women of the house could rest — over the first three days of the year (sanganichi); that is why so many of the dishes are sweet, salty or vinegared. Today many households buy it ready-made — about 20% buy the whole thing, and around 80% once households combining bought items with home cooking are counted — delivered chilled or frozen. Chilled, it keeps 2–3 days; leaving it out at room temperature is a cause of food poisoning.
 
 ## Origins and today
 
@@ -12,7 +12,7 @@ Osechi is the food that stands for the Japanese New Year, and people from abroad
 |---|---|
 | Origins | **Offerings made on seasonal festival days (sechi).** Settled as New Year food in the Edo period. **No cooking fire for the first three days**, so **dishes that keep**: kuromame (sweet black soybeans), kazunoko (herring roe), tazukuri (candied dried sardines), kuri-kinton (chestnut and sweet-potato paste), kobumaki (kelp rolls), kōhaku namasu (red-and-white pickled daikon and carrot), su-renkon (vinegared lotus root), kamaboko (fish cake) |
 | How it keeps | **Sugar (kuri-kinton, kuromame, datemaki sweet rolled omelette), salt (kazunoko, tazukuri), vinegar (namasu, su-renkon), drying (dried shiitake, kelp)** |
-| Buying | **About 40–50% of households buy ready-made osechi** (department stores, supermarkets, online). **Price range ¥10,000–50,000.** **Chilled (use-by 1–2 January) or frozen (through January)** |
+| Buying | **About 20% buy the whole thing ready-made; counting households that buy part of it alongside home cooking, the figure is around 80%** (supermarkets, online, department stores). **For New Year 2026 the average across 110 major suppliers was ¥29,098.** **Chilled (use-by 1–2 January) or frozen (through January)** |
 | Storage guide | **2–3 days chilled** (put the whole jūbako — the tiered box — in the fridge). **Do not leave it out in a heated room.** **Simmered dishes (chikuzen-ni) and namasu: eat early** |
 | Food waste | **Not finishing it** is the problem. **Small-household, single-tier and à la carte versions are growing** |
 | Meanings | Kuromame = work diligently (mame), kazunoko = many descendants, tazukuri = a rich harvest, kuri-kinton = good fortune with money, kelp (kobu) = joy (yorokobu), prawn = long life |
@@ -33,7 +33,7 @@ Osechi is the food that stands for the Japanese New Year, and people from abroad
 
 ## Misunderstanding 3｜Making it all by hand is the tradition
 
-**About half of households buy it**, and many **make only a few items (kuromame, namasu)**. The idea that **"celebration chopsticks (iwai-bashi) and a jūbako are enough"** is spreading.
+**Combining bought items with home cooking is the commonest pattern (about 30% cook part of it themselves, about 20% buy the whole thing)**, and many **make only a few items (kuromame, namasu)**. The idea that **"celebration chopsticks (iwai-bashi) and a jūbako are enough"** is spreading.
 
 ## Misunderstanding 4｜Osechi is the same all over Japan
 

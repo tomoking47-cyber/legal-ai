@@ -11,7 +11,7 @@ Come winter, shins and elbows turn flaky and itchy. Dry skin (kansō-hada) and x
 | Item | Guide | Reason |
 |---|---|---|
 | **When to apply** | **Within 5–10 minutes** after bathing | Lock in the water the stratum corneum (outer skin layer) took in during the bath before it evaporates |
-| **Amount (FTU)** | **1 FTU (about 0.5 g) covers two palms' worth of skin.** About 1 FTU per shin; **about 6–8 FTU** for both arms and both legs | Guide given in the Japanese Dermatological Association's atopic dermatitis guidelines |
+| **Amount (FTU)** | **1 FTU (about 0.5 g) covers two palms' worth of skin.** About 1 FTU per shin; **about 6–8 FTU** for both arms and both legs | Guide given in the Japanese Dermatological Association and Japanese Society of Allergology "Clinical Practice Guidelines for Atopic Dermatitis 2024" |
 | **How often** | **Once or twice a day.** Mornings too in very dry spells | Reapplying keeps water in the stratum corneum |
 | **Bath temperature** | **38–40°C**, **around 10 minutes** | Above 42°C (108°F) or long soaks wash out sebum and moisturising components |
 | **How to wash** | Gently, with hands or a cotton towel. **No scrubbing with a nylon towel** | Do not scrape the stratum corneum |
@@ -48,8 +48,8 @@ Come winter, shins and elbows turn flaky and itchy. Dry skin (kansō-hada) and x
 
 ### Sources
 
-- Japanese Dermatological Association, "Clinical Practice Guidelines for Atopic Dermatitis 2021" [アトピー性皮膚炎診療ガイドライン2021] (skincare; amount of moisturiser, FTU)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2021.pdf
+- Japanese Dermatological Association and Japanese Society of Allergology, "Clinical Practice Guidelines for Atopic Dermatitis 2024" [アトピー性皮膚炎診療ガイドライン2024] (skincare; amount of moisturiser, FTU)
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/ADGL2024.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: Sebum Deficiency (Xerosis)" [皮膚科Q&A：皮脂欠乏症（乾皮症）]
   https://www.dermatol.or.jp/qa/
 - Ministry of Health, Labour and Welfare, "Indoor Environment (Humidity) in Winter and Health" [冬季の室内環境（湿度）と健康] (Building Sanitation Management Standards, 40–70%)

@@ -19,7 +19,7 @@ The donabe (土鍋, earthenware pot) comes into its own in hot-pot (nabe) season
 
 - Most donabe are **not compatible with induction (IH) hobs** (only those **labelled IH-compatible**); check the product label for **microwave and oven use** too.
 - A **crack** can sometimes be stopped for a time with medome, but **if it keeps leaking, stop using it** — the safe side.
-- NITE (National Institute of Technology and Evaluation, Japan's product-safety body) has reported **accidents from donabe heated empty or cracking**.
+- NITE (National Institute of Technology and Evaluation, Japan's product-safety body) has issued alerts about **gas canisters bursting because a pan too large for the cassette-gas stove was used**, among other accidents.
 
 > **[Verify]** The medome method is a general procedure based on guidance from pottery regions and makers. Check accident cases in NITE's product-accident information.
 
@@ -47,12 +47,12 @@ A donabe has cooking advantages — **gentle, even heat and high heat retention*
 
 ### Sources
 
-- National Institute of Technology and Evaluation (NITE) [独立行政法人製品評価技術基盤機構], "Accidents involving donabe and cassette-gas stoves" [土鍋・カセットこんろの事故]
-  https://www.nite.go.jp/jiko/chuikanki/
+- National Institute of Technology and Evaluation (NITE) [独立行政法人製品評価技術基盤機構], "NO MORE canister bursts: three points for preventing cassette-gas stove accidents, about 40% of which come from misuse or carelessness" [“NO MORE ボンベ破裂”〜約4割が誤使用･不注意「カセットこんろの事故」を防ぐ3つのポイント〜] (26 December 2024)
+  https://www.nite.go.jp/jiko/chuikanki/press/2024fy/prs241226.html
 - Consumer Affairs Agency, "Safe use of cassette-gas stoves" [カセットこんろの安全な使い方]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- Mie Prefecture "Yokkaichi Banko ware" / Iga ware and other pottery-region associations, "How to use a donabe" [土鍋の使い方]
-  https://www.banko.or.jp/
+- Banko Ceramics Industrial Cooperative, "BANKO LIFE: Banko donabe" [BANKO LIFE　萬古の土鍋]
+  https://banko.or.jp/earthenpot/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

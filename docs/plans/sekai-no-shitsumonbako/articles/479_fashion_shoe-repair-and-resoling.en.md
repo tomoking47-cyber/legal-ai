@@ -4,7 +4,7 @@
 
 "One heel has worn down on one side." "The sole is getting thin." In Japan, shoe-repair counters are everywhere — inside stations, in shopping centres, often as 10-minute walk-in kiosks — and some jobs really do take 10 minutes. But how a shoe is made (its construction) decides which parts can be replaced, and if you keep wearing it past the limit it becomes unrepairable.
 
-## A. Replace the rubber heel piece (the top lift) once the layer touching the ground has worn through by more than half. It costs ¥1,000–2,000 and takes 10–20 minutes; leave it until the heel block above is worn and the bill multiplies several times over. Replacing the whole sole is possible on Goodyear-welted and Blake (McKay) construction (¥10,000–30,000), but on cemented (glued) construction it is impossible or limited. Trainers are generally described as lasting about 500–800 km before the cushioning collapses, and replacement usually makes more sense than repair.
+## A. Replace the rubber heel piece (the top lift) once the layer touching the ground has worn through by more than half. It costs ¥1,000–2,500 and takes 10–20 minutes; leave it until the heel block above is worn and the bill multiplies several times over. Replacing the whole sole is possible on Goodyear-welted and Blake (McKay) construction (¥10,000–30,000), but on cemented (glued) construction it is impossible or limited. Trainers are generally described as lasting about 500–800 km before the cushioning collapses, and replacement usually makes more sense than repair.
 
 ## Types of repair and guide figures
 
@@ -24,7 +24,7 @@
 - **Heel wear and your gait**: wear **on the outside only** is generally described as pointing to bow legs or a splayed gait, wear **on the inside** to pigeon toes or flat feet. Markedly uneven wear is a sign to look again at the shoe's fit and your walking.
 - **Trainer lifespan**: running shoes are generally described as losing their cushioning (midsole) after **500–800 km**; even when they look fine, the impact on your feet increases. **Worn daily for commuting**, allow 1–2 years.
 - **Basics for long life**: **do not wear the same pair on consecutive days** (rest them a day to let moisture out), use **shoe trees** to keep the shape and manage moisture, and **use a shoe horn** (do not crush the heel counter).
-- Under Japan's **Household Goods Quality Labelling Act**, shoes (classed as miscellaneous industrial goods) must be **labelled with the material of the upper and the sole**, which gives a rough idea of the construction.
+- Under Japan's **Household Goods Quality Labelling Act** (Miscellaneous Industrial Goods Quality Labelling Regulations), shoes that fall within its scope must be **labelled with the material of the upper and the outsole**, among other things. What the label gives you, however, is **the material, not the construction**: it will not tell you whether a shoe is Goodyear-welted, Blake (McKay) or cemented. Ask the shop or the maker about the construction.
 
 > **[Verify]** Costs and times are guide figures based on typical repair-shop price lists and vary by area and shop. The trainer mileage guide is a general explanation from the sporting-goods industry.
 

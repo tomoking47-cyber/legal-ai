@@ -50,10 +50,10 @@
 
 ### 출처
 
-- 일본순환기학회(日本循環器学会) 「부정맥 진단과 웨어러블 기기에 관한 지침」 [不整脈の診断とウェアラブルデバイスに関する指針]
-  https://www.j-circ.or.jp/
-- 후생노동성(厚生労働省) e-Health Net 「심박수와 운동 강도」 [心拍数と運動強度]
-  https://kennet.mhlw.go.jp/information/information/exercise/
+- 일본순환기학회(日本循環器学会) 가이드라인 시리즈 [ガイドラインシリーズ] (웨어러블 기기에 의한 심방세동 검출은 부정맥 관련 가이드라인에서 다루고 있습니다. 해당 가이드라인의 정식 명칭과 URL을 확인해 기재할 것)
+  https://www.j-circ.or.jp/guideline/guideline-series/
+- 후생노동성(厚生労働省) 건강만들기 서포트넷(구 e-Health Net) 「신체활동・운동」 [身体活動・運動] (심박수・운동 강도를 다루는 해당 기사의 URL을 확인해 기재할 것)
+  https://kennet.mhlw.go.jp/information/information/exercise.html
 - 일본부정맥심전학회(日本不整脈心電学会) 「심방세동과 일반인 대상 정보」 [心房細動と一般向け情報]
   https://new.jhrs.or.jp/
 

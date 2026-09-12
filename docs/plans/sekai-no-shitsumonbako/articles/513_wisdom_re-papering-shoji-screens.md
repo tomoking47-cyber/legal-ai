@@ -23,7 +23,7 @@ Shōji — the wooden lattice screens covered in translucent paper — still div
 - **Small tears**: **patch stickers** shaped like blossoms or leaves (¥100 for a sheet) are the accepted fix and part of the aesthetic.
 - **Frequency**: **every 2–5 years**, traditionally in December (**osōji** season) so the new year has clean, bright screens. Yellowing comes from UV; sagging from humidity cycles.
 - **Fusuma** (opaque sliding doors) are a different job — thicker paper, often professionally done (**¥3,000–8,000 per side**) because the surface must be perfectly flat.
-- **Renters**: **replacing shōji paper is normally the tenant's routine maintenance**, and torn paper at move-out may be deducted; re-papering before inspection is cheap insurance.
+- **Renters**: the MLIT restoration guideline treats shōji paper as a consumable — **if you tear, stain or otherwise damage it, the replacement cost is yours, with no depreciation allowance** — but yellowing and sagging from ordinary use and age are not: the revised Civil Code (Art. 621, in force since 1 April 2020) says tenants are not liable for normal wear and ageing, unless the lease has a valid special clause. Re-papering before inspection is still cheap insurance.
 - **Cats**: reinforced or laminated paper on the bottom half, washi above, is the household compromise.
 
 > **[Verify]** Paper prices and roll dimensions with current home-centre catalogues; tenant-responsibility for shōji paper with the MLIT restoration guideline.

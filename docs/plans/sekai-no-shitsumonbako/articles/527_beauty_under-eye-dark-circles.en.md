@@ -50,8 +50,7 @@
 
 - Japanese Dermatological Association, "Dermatology Q&A: dark spots and pigmentation" [皮膚科Q&A：しみ・色素沈着]
   https://www.dermatol.or.jp/qa/
-- Ministry of Health, Labour and Welfare, "Scope of efficacy claims for quasi-drugs" [医薬部外品の効能又は効果の範囲] (brightening active ingredients: suppress melanin production and prevent dark spots and freckles)
-  https://www.mhlw.go.jp/
+- Ministry of Health, Labour and Welfare, "Scope of efficacy claims for quasi-drugs" [医薬部外品の効能又は効果の範囲] (brightening in medicated cosmetics: suppress melanin production and prevent dark spots and freckles)
 - Japan Cosmetic Industry Association, "Using cosmetics correctly: make-up and cleansing" [化粧品の正しい使い方：メイクアップ・クレンジング]
   https://www.jcia.org/user/public/knowledge/usage
 

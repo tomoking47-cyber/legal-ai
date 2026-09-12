@@ -11,7 +11,7 @@ Every Japanese kitchen sink has a removable strainer basket in the drain and a s
 | Part | What it is | Routine |
 |---|---|---|
 | **Drain lid (haisuikō futa)** | Plastic or stainless cover over the drain | **Daily wipe**; remove it entirely — many households leave it off so the basket dries and slime doesn't grow underneath |
-| **Strainer basket (gomiuke)** | Perforated cup, 8–13 cm diameter (**check size when buying nets or a replacement**) | **Line with a net**; **empty daily**; **scrub weekly** with a brush |
+| **Strainer basket (gomiuke)** | Perforated cup, most commonly **13.5 cm (135 mm) across, with 11.5 and 14.5 cm also sold** (**check size when buying nets or a replacement**) | **Line with a net**; **empty daily**; **scrub weekly** with a brush |
 | **Drain net (suikōnet / mizukiri-net)** | Stretch mesh or fine nylon net; **packs of 30–100 for ¥100–300** | **Change daily** (or when full). **Fine mesh** catches rice and coffee grounds; **stretch mesh** for larger scraps |
 | **Trap cup (wan-trap)** | The cup under the basket that holds water to block sewer gas | **Weekly**: lift out, scrub inside and the pipe wall — this is where the black slime lives |
 | **Pipe below** | — | **Monthly**: pipe cleaner or **oxygen bleach solution (60°C water)**; **never mix chlorine and acid products** |
@@ -23,7 +23,7 @@ Every Japanese kitchen sink has a removable strainer basket in the drain and a s
 - **The smell fix**: **take out every part, scrub, and check the trap has water in it**. A dry trap (after a holiday away) lets sewer gas in — run the tap. **Baking soda then citric acid** fizzing down the drain is a popular home method; it helps a little and is safe, but the brush does the work.
 - **Stainless vs. copper baskets**: **copper (dō) baskets** are sold because copper ions slow slime; they work modestly and cost ¥1,000–2,000.
 - **Bathroom drains** have the same structure (hair catcher + trap); the routine is the same — see the bathroom articles.
-- **Renters**: the basket, lid and trap are **fittings**; if lost or broken, the landlord may charge at move-out. Replacements are ¥300–1,000 at a home centre — **measure the drain diameter (commonly 135 mm or 180 mm)**.
+- **Renters**: the basket, lid and trap are **fittings**; if lost or broken, the landlord may charge at move-out. Replacements are ¥300–1,000 at a home centre — **measure before you buy — the drain opening itself is commonly 180 mm (115 mm and 185–186 mm also exist), while the basket that drops into it is commonly 135 mm**.
 
 > **[Verify]** Common drain diameters (135/180 mm) with home-centre replacement listings; bacterial growth timing is a general food-hygiene estimate.
 

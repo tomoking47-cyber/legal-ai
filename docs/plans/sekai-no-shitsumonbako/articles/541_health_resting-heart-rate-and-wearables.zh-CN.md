@@ -50,10 +50,10 @@
 
 ### 出处
 
-- 日本循环器学会（日本循環器学会）「关于心律失常诊断与可穿戴设备的指针」[不整脈の診断とウェアラブルデバイスに関する指針]
-  https://www.j-circ.or.jp/
-- 厚生劳动省（厚生労働省）e-Health Net「心率与运动强度」[心拍数と運動強度]
-  https://kennet.mhlw.go.jp/information/information/exercise/
+- 日本循环器学会（日本循環器学会）指南系列 [ガイドラインシリーズ]（可穿戴设备检测心房颤动的内容收录于心律失常相关指南。请确定相应指南的正式名称与URL后记载）
+  https://www.j-circ.or.jp/guideline/guideline-series/
+- 厚生劳动省（厚生労働省）健康促进支援网（原 e-Health Net）「身体活动・运动」[身体活動・運動]（请确定涉及心率与运动强度的具体文章URL后记载）
+  https://kennet.mhlw.go.jp/information/information/exercise.html
 - 日本不整脉心电学会（日本不整脈心電学会）「心房颤动与面向公众的信息」[心房細動と一般向け情報]
   https://new.jhrs.or.jp/
 

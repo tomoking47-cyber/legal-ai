@@ -50,10 +50,10 @@ Smartwatches and fitness trackers are everywhere in Japan too, and many people n
 
 ### Sources
 
-- Japanese Circulation Society, "Guidance on the diagnosis of arrhythmia and wearable devices" [不整脈の診断とウェアラブルデバイスに関する指針]
-  https://www.j-circ.or.jp/
-- Ministry of Health, Labour and Welfare (MHLW) e-Health Net, "Heart rate and exercise intensity" [心拍数と運動強度]
-  https://kennet.mhlw.go.jp/information/information/exercise/
+- Japanese Circulation Society, Guideline Series [ガイドラインシリーズ] (detection of atrial fibrillation by wearable devices is covered in the arrhythmia-related guidelines; identify the exact guideline title and its URL before publication)
+  https://www.j-circ.or.jp/guideline/guideline-series/
+- Ministry of Health, Labour and Welfare (MHLW) Kenko-zukuri Support Net (formerly e-Health Net), "Physical activity and exercise" [身体活動・運動] (identify the URL of the specific article covering heart rate and exercise intensity)
+  https://kennet.mhlw.go.jp/information/information/exercise.html
 - Japanese Heart Rhythm Society, "Atrial fibrillation: information for the public" [心房細動と一般向け情報]
   https://new.jhrs.or.jp/
 

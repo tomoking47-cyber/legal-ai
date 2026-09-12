@@ -50,10 +50,10 @@
 
 ### 出典
 
-- 日本循環器学会「不整脈の診断とウェアラブルデバイスに関する指針」
-  https://www.j-circ.or.jp/
-- 厚生労働省 e-ヘルスネット「心拍数と運動強度」
-  https://kennet.mhlw.go.jp/information/information/exercise/
+- 日本循環器学会 ガイドラインシリーズ（ウェアラブル機器による心房細動の検出は不整脈関連のガイドラインで扱われています。該当ガイドラインの正式名称とURLを特定して記載すること）
+  https://www.j-circ.or.jp/guideline/guideline-series/
+- 厚生労働省 健康づくりサポートネット（旧 e-ヘルスネット）「身体活動・運動」（心拍数・運動強度を扱う該当記事のURLを特定して記載すること）
+  https://kennet.mhlw.go.jp/information/information/exercise.html
 - 日本不整脈心電学会「心房細動と一般向け情報」
   https://new.jhrs.or.jp/
 

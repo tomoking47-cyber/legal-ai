@@ -16,7 +16,7 @@ Most home ovens in Japan are combination microwave-ovens (ōbun renji, オーブ
 | Door | **Each opening drops the cavity temperature by tens of degrees.** **Check as little as possible, and quickly** |
 | Fan (convection) mode | Set **10–20°C below the recipe** as a guide (the heat hits harder) |
 | Combination microwave-oven | **After oven use the cavity is hot and the microwave function is unavailable for a while.** **Small cavity, one tray** |
-| Safety | **The door glass is above 200°C during and just after oven use.** **Child burns** (Consumer Affairs Agency); **containers that are not heat-resistant (ordinary glass, plastic) must not go in** |
+| Safety | **The door glass is hot during and just after use** (in National Consumer Affairs Center tests, the centre of a hob grill door window reached **about 150°C at most**, and stayed **above 50°C for about 15 minutes after use**). **Beware of child burns** (National Consumer Affairs Center); **containers that are not heat-resistant (ordinary glass, plastic) must not go in** |
 
 - Japanese **combination microwave-ovens** mostly have **20–30 L cavities** — **smaller, with wider temperature swings**, than the **60–70 L built-in ovens** common abroad.
 - **Baking paper (kukkingu shīto, クッキングシート; rated to about 250°C)** **burns above its rated temperature**, so **do not use it for recipes at 250°C or above**, and **do not let it touch the heating element**.
@@ -50,8 +50,10 @@ Most home ovens in Japan are combination microwave-ovens (ōbun renji, オーブ
 
 - Association for Electric Home Appliances (家電製品協会), "Using your microwave and combination microwave-oven well" [電子レンジ・オーブンレンジの上手な使い方]
   https://www.aeha.or.jp/
-- Consumer Affairs Agency, "Beware of child burns from ovens and microwaves" [オーブン・電子レンジによる子どものやけどに注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/child/
+- National Consumer Affairs Center of Japan, "Beware of child burns on hob grills — the grill window stays hot after use" [こんろのグリルでの子どものやけどに注意－使用後でもグリル窓は高温です－] (21 September 2017)
+  https://www.kokusen.go.jp/news/data/n-20170921_1.html
+- National Consumer Affairs Center of Japan, "Prevent microwave accidents! Why not re-check how you use yours?" [電子レンジによる事故を防止！使い方を再チェックしませんか？] (25 March 2026)
+  https://www.kokusen.go.jp/news/data/n-20260325_1.html
 - National Institute of Technology and Evaluation (NITE), "Microwave and oven accidents" [電子レンジ・オーブンの事故]
   https://www.nite.go.jp/jiko/chuikanki/
 

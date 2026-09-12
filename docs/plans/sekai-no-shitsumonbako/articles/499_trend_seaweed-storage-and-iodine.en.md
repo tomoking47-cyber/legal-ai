@@ -21,7 +21,7 @@ Seaweed is an everyday part of eating in Japan, with a strong healthy image. But
 
 | Item | Details |
 |---|---|
-| **Recommended iodine intake** | Adults **130 μg a day**, **tolerable upper limit 3,000 μg a day** (Dietary Reference Intakes for Japanese, 2025 edition). For pregnant and breastfeeding women the upper limit is **2,000 μg** |
+| **Recommended iodine intake** | Adults **140 μg a day**, **tolerable upper limit 3,000 μg a day** (Dietary Reference Intakes for Japanese, 2025 edition). For pregnant and breastfeeding women the upper limit is **2,000 μg** |
 | **Iodine in kombu** | Dried kombu: **about 200,000 μg per 100 g**. **One tablespoon of kombu tsukudani (about 15 g) can contain several thousand μg.** **Even one cup (200 ml) of kombu stock: several hundred to around 1,000 μg** |
 | **Wakame, nori, hijiki** | **One to two orders of magnitude less** than kombu. Dried wakame: about 10,000 μg per 100 g; one sheet of toasted nori (3 g): about 60 μg |
 | **Effects of too much** | Prolonged excess iodine can cause **underactive thyroid or goitre**. **Japanese intakes are high to begin with** (estimated average 1,000–3,000 μg a day), though populations used to seaweed are also reported to be less affected |

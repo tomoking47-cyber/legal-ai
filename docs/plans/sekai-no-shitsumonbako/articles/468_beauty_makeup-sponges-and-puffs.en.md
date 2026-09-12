@@ -16,7 +16,7 @@ Many people wash their brushes but only deal with puffs and sponges "when they l
 | **Cushion foundation puff** | **Once a week** | **About 1 month** (many makers recommend this) | Sealed in the case with liquid soaked in, so it soils quickly |
 | **Brushes** | Once every 2–4 weeks | When bristles shed or splay | See separate article |
 
-- **Why they get dirty**: **sebum, the oils in foundation and dead skin cells** build up in layers on a puff. A British university study (2019) reported that **bacteria were found on about 80–90% of the make-up tools examined**, and that **more than 90% of sponges used damp** were contaminated.
+- **Why they get dirty**: **sebum, the oils in foundation and dead skin cells** build up in layers on a puff. A study at Aston University in the UK (published 2020) reported that **bacteria were found on about 79–90% of the used cosmetics examined**, and that **sponges used damp (beauty blenders) carried the heaviest bacterial load** — on average more than a million organisms per millilitre. The same study found that **93% had never been cleaned and 64% had been dropped on the floor and kept in use**.
 - **How to wash**: (1) wet lightly in lukewarm water; (2) apply neutral detergent (中性洗剤, chūsei senzai — washing-up liquid is fine) or a dedicated cleaner and **press-wash** (no rubbing or kneading); (3) **rinse** thoroughly so no detergent remains; (4) **press** out the water with a towel; (5) dry completely **out of direct sun** (half a day to a day).
 - **Where to dry**: not left in a damp bathroom but somewhere with good airflow. Put it back in the case **only when completely dry**.
 - **If you are prone to skin problems** (acne, sensitive skin), options include **disposable puffs**, or keeping several and rotating them.

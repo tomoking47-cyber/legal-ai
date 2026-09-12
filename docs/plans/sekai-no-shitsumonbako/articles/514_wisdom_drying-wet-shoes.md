@@ -30,7 +30,7 @@ Japan's rainy season, typhoons and snowy winters mean wet shoes for months, and 
 6. **Leather**: once damp rather than wet, insert **shoe trees (cedar)** and apply **conditioner** when fully dry — water strips oils; salt stains from snow come off with a **1:1 water–vinegar wipe**.
 7. **Smell**: **baking soda** in a sock overnight once dry; **do not spray deodoriser into a wet shoe** — it seals moisture and smell.
 
-- **Rain days**: many households keep **two pairs in rotation** and a **second pair at the office**. **Waterproof spray** (fluorine-free options now) applied monthly keeps water out in the first place.
+- **Rain days**: many households keep **two pairs in rotation** and a **second pair at the office**. **Waterproof spray** (fluorine-free options now) applied monthly keeps water out in the first place — **always spray outdoors or on a balcony, never in a bathroom, entrance hall or other closed room**: inhaling the mist causes breathing trouble and has sent people to hospital, which is why NITE and the Consumer Affairs Agency reissue a warning about it every year.
 - **Snow**: **grit and salt** — rinse the outside before drying.
 - **Suede**: **newspaper and air only**; brush when dry with a suede brush to lift the nap.
 - **Children's shoes**: a **wall-mounted shoe-drying rack** in the bathroom's drying mode (see the bathroom-fan article) is the Japanese apartment solution.

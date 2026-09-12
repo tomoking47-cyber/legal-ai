@@ -11,7 +11,7 @@ You look at your ends and they are split in two; short broken hairs stick out mi
 | Cause | What happens | What to do |
 |---|---|---|
 | **Friction on wet hair** | Wet hair has an open cuticle and only **70–80%** of its dry strength. Rubbing with a towel or brushing wet hair peels the cuticle off | **Press out water, do not rub**; **wide-toothed comb on wet hair, from the ends**; **dry promptly** |
-| **Heat** | Hair protein **starts to denature at around 130°C**; moisture escapes rapidly and leaves hollows | Hairdryer **20 cm away, never more than 3 seconds on one spot**; irons **160°C or below, 2–3 seconds per section, not every day** |
+| **Heat** | Hair protein **starts to denature from around 130–150°C on dry hair, and the change advances above 150°C** (**from 60–70°C on wet hair**); moisture escapes rapidly and leaves hollows | Hairdryer **20 cm away, never more than 3 seconds on one spot**; irons **on dry hair only, up to 150–160°C, 2–3 seconds per section, not every day**; **do not use them on wet hair** |
 | **Chemical processing** | Colour, bleach and perms break the cuticle and the bonds inside. **A single bleach damages most of the cuticle** | Do it less often (full colour once every 2–3 months), mostly root touch-ups, avoid heat and UV for a week afterwards |
 | **UV light** | Breaks down protein and pigment | Hat, parasol, UV spray for hair |
 | **Brushing** | Dragging a hard brush through dry hair from the roots in one go rips through tangles | **Ends → middle → roots**, **natural-bristle or cushion brush**, not many times a day |

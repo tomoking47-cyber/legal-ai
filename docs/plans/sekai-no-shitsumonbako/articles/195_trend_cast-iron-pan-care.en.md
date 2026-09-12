@@ -47,7 +47,7 @@ The main cause is **not enough heat**. **Heat the pan properly, then swirl the o
 
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Quality labelling rules for miscellaneous industrial goods (pots and frying pans)" [家庭用品品質表示法　雑貨工業品品質表示規程（なべ・フライパン）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
-- Japan Metal Houseware Industry Association [一般社団法人日本金属ハウスウェア工業組合], "Caring for cookware" [調理器具のお手入れ]
+- Japan Metal Houseware Industry Association [日本金属ハウスウェア工業組合], "Metal Houseware Guidebook" [金属ハウスウェアガイドブック]
   https://houseware.jp/
 - Ministry of Health, Labour and Welfare, "Dietary Reference Intakes for Japanese (2025 edition)" [日本人の食事摂取基準（2025年版）] (recommended iron intake)
   https://www.mhlw.go.jp/stf/newpage_44138.html

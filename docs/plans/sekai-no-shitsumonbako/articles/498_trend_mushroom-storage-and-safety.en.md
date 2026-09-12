@@ -26,7 +26,7 @@ Shiitake, shimeji, enoki, maitake: mushrooms are essential to the Japanese table
 
 ## Wild mushrooms: never rely on your own judgement
 
-- According to Ministry of Health, Labour and Welfare (MHLW) statistics, **poisonous mushrooms cause around 20–60 food-poisoning incidents a year**, **concentrated in autumn (September–October)**. The top culprits are **tsukiyotake (mistaken for shiitake or hiratake), kusaura-benitake (mistaken for shimeji types) and the Amanita group (tengutake)**. **There have been deaths.**
+- According to Ministry of Health, Labour and Welfare (MHLW) statistics, **poisonous mushrooms cause around 20–30 food-poisoning incidents a year** (24 incidents with 60 patients in 2023, and 19 incidents with 48 patients in 2024), **concentrated in autumn (September–October)**. The top culprits are **tsukiyotake (mistaken for shiitake or hiratake), kusaura-benitake (mistaken for shimeji types) and the Amanita group (tengutake)**. **There have been deaths.**
 - **Folk rules that are all wrong**: "**If it splits lengthways it is edible**"; "**if insects have eaten it, it is safe**"; "**bright colours mean poison, dull ones mean safe**"; "**salting or drying removes the poison**"; "**it is fine if you cook it with aubergine**".
 - **The principle**: **if you cannot be certain a mushroom is edible, do not pick it, do not eat it, do not give it to anyone**. **The same applies to mushrooms you are given.**
 - **If you feel ill after eating**: **nausea, vomiting, stomach pain, diarrhoea, hallucinations, numbness**. **Take the leftover mushrooms and any vomit with you** and see a doctor at once. Identifying the species decides the medical response.
