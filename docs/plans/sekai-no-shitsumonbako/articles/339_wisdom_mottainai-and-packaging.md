@@ -13,7 +13,7 @@ Japan is known abroad for two contradictory things: a word, mottainai, that mean
 | Plastic waste per person | **about 32 kg a year** — second highest in the world after the US | UNEP (2018) |
 | Plastic bag charge | **From 1 July 2020**; bag refusal rate rose from ~30% to **over 70%** | Ministry of the Environment |
 | Plastics Resource Circulation Act | **April 2022**: 12 single-use items (cutlery, straws, hotel amenities, hangers) to be reduced by large providers | same |
-| Food loss | **4.64 million tonnes (FY2023)**, about **38 kg per person** | MAFF / MoE |
+| Food loss | **4.61 million tonnes (FY2024)**, about **37 kg per person** | MAFF / MoE |
 | PET bottle collection rate | **about 95%**; **recycling rate about 86%** | Council for PET Bottle Recycling |
 | "Mottainai" | Popularised internationally by **Wangari Maathai (2005)** after visiting Japan | — |
 

@@ -4,24 +4,24 @@
 
 Food waste (食品ロス, shokuhin rosu — the Japanese term for food thrown away that could still have been eaten) is usually discussed as a problem for businesses. Japan's national estimate says otherwise: half of it comes from homes. If you live here, that half includes your kitchen.
 
-## A. The biggest misunderstanding is "it's a problem for businesses only". Of the roughly 4.64 million tonnes of food waste in fiscal 2023, households accounted for about 2.33 million tonnes — more than the business sector (about 2.31 million tonnes).
+## A. The biggest misunderstanding is "it's a problem for businesses only". Of the roughly 4.61 million tonnes of food waste in fiscal 2024, households accounted for about 2.24 million tonnes — almost as much as the business sector (about 2.37 million tonnes).
 
 ## The national estimate
 
-Estimate by the Ministry of the Environment and the Ministry of Agriculture, Forestry and Fisheries (published 27 June 2025):
+Estimate by the Ministry of the Environment and the Ministry of Agriculture, Forestry and Fisheries (published 30 June 2026):
 
 | Fiscal year | Total | Household | Business |
 |---|---|---|---|
-| FY2022 (Reiwa 4) | approx. 4.72 million tonnes | — | — |
-| **FY2023 (Reiwa 5)** | **approx. 4.64 million tonnes** | **approx. 2.33 million tonnes** | **approx. 2.31 million tonnes** |
+| FY2023 (Reiwa 5) | approx. 4.64 million tonnes | approx. 2.33 million tonnes | approx. 2.31 million tonnes |
+| **FY2024 (Reiwa 6)** | **approx. 4.61 million tonnes** | **approx. 2.24 million tonnes** | **approx. 2.37 million tonnes** |
 
-The total fell by 80,000 tonnes from the previous year, but **household waste slightly exceeds business waste.** The reduction target for fiscal 2030 has not yet been reached.
+The total fell by 30,000 tonnes from the previous year (business waste rose, household waste fell). **Household and business waste are close to an even split, with business slightly ahead in fiscal 2024.** The reduction target for fiscal 2030 has not yet been reached.
 
-> **[Verify]** Figures are from the Ministry of the Environment press release. **Update to the latest fiscal year at the time of publication.**
+> **[Verify]** Figures are from the Consumer Affairs Agency and MAFF releases. **Update to the latest fiscal year at the time of publication.**
 
 ## Misunderstanding 1｜Not much comes from homes
 
-**More than half comes from homes.** See the table above.
+**About half comes from homes.** See the table above.
 
 ## Misunderstanding 2｜It is all leftovers
 
@@ -43,10 +43,10 @@ For food you will eat soon, shoppers are encouraged to **take from the front of 
 
 ### Sources
 
-- Ministry of the Environment, press release "Publication of the estimated volume of food loss in Japan (FY2023)" [我が国の食品ロスの発生量の推計値（令和５年度）の公表について] (27 June 2025)
-  https://www.env.go.jp/press/press_00002.html
-- Ministry of Agriculture, Forestry and Fisheries, "Business-sector food loss (2023 estimate) published" [事業系食品ロス量（2023年推計値）を公表]
-  https://www.maff.go.jp/j/press/shokuhin/recycle/250627.html
+- Consumer Affairs Agency, "Publication of estimated food loss for FY2024 (Reiwa 6)" [2024(令和6)年度食品ロス量推計値の公表について] (30 June 2026)
+  https://www.caa.go.jp/notice/entry/046549/
+- Ministry of Agriculture, Forestry and Fisheries, "Business-sector food loss (FY2024 estimate)" [事業系食品ロス量（2024年度推計値）]
+  https://www.maff.go.jp/j/press/shokuhin/recycle/260630.html
 - Consumer Affairs Agency, "Reference materials on food loss reduction" [食品ロス削減関係参考資料] (27 June 2025 edition)
   https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/efforts/assets/consumer_education_cms201_250627_04.pdf
 

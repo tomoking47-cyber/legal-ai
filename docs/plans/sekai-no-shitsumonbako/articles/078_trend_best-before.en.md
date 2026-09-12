@@ -34,9 +34,9 @@ How much margin there is depends on the food and how it has been stored. **Check
 
 ## In numbers
 
-According to estimates by the Ministry of the Environment and the Ministry of Agriculture, Forestry and Fisheries (published 27 June 2025), **food loss in FY2023 was about 4.64 million tonnes**. Of that, **households accounted for about 2.33 million tonnes and businesses for about 2.31 million tonnes**, so **almost half comes from homes**. This was 80,000 tonnes less than the roughly 4.72 million tonnes of the previous year (FY2022), but still short of the reduction target for FY2030.
+According to estimates by the Ministry of the Environment and the Ministry of Agriculture, Forestry and Fisheries (published 30 June 2026), **food loss in FY2024 was about 4.61 million tonnes**. Of that, **businesses accounted for about 2.37 million tonnes and households for about 2.24 million tonnes** — close to an even split, with business slightly ahead in FY2024 — so **almost half comes from homes**. This was 30,000 tonnes less than the roughly 4.64 million tonnes of the previous year (FY2023), but still short of the reduction target for FY2030.
 
-> **[Verify]** Figures are based on the Ministry of the Environment press release (FY2023 estimates). **Check for the latest year at the time of publication.**
+> **[Verify]** Figures are based on the Consumer Affairs Agency and MAFF releases (FY2024 estimates). **Check for the latest year at the time of publication.**
 
 For any actual product, always follow the label and the storage method printed on it. If anything seems wrong, do not eat it, even within the date. The rules may be revised.
 
@@ -50,8 +50,8 @@ For any actual product, always follow the label and the storage method printed o
   https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/expiration_date/
 - Consumer Affairs Agency, Food Labelling Division, *History of the food date-labelling system* [食品の期限表示制度の変遷等] (Document 4, May 2024)
   https://www.caa.go.jp/policies/policy/food_labeling/meeting_materials/assets/food_labeling_cms201_240527_05.pdf
-- Ministry of the Environment, press release, "Publication of estimated food loss in Japan (FY2023)" [我が国の食品ロスの発生量の推計値（令和５年度）の公表について]
-  https://www.env.go.jp/press/press_00002.html
+- Consumer Affairs Agency, "Publication of estimated food loss for FY2024 (Reiwa 6)" [2024(令和6)年度食品ロス量推計値の公表について] (30 June 2026)
+  https://www.caa.go.jp/notice/entry/046549/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -8,7 +8,7 @@ Mending is often presented abroad as a philosophy about imperfection. In daily l
 
 ## The context in numbers
 
-Japan generated about **4.64 million tonnes of food loss in fiscal 2023** — half of it from households. The Ministry of the Environment tracks this alongside broader circular-economy targets. Repair sits in the same policy space: **keeping objects in use is treated as waste prevention, not nostalgia.**
+Japan generated about **4.61 million tonnes of food loss in fiscal 2024** — about half of it from households. The Ministry of the Environment tracks this alongside broader circular-economy targets. Repair sits in the same policy space: **keeping objects in use is treated as waste prevention, not nostalgia.**
 
 Shoe-repair counters in stations, knife-sharpening services and clothing-alteration shops remain common because **the infrastructure for repair never went away.**
 
@@ -37,8 +37,8 @@ Repair counters remain common in stations and shopping centres. **It has not gon
 ---
 
 ### Sources
-- Ministry of the Environment — food loss estimates (fiscal 2023)
-  https://www.env.go.jp/press/press_00002.html
+- Consumer Affairs Agency — food loss estimates (fiscal 2024)
+  https://www.caa.go.jp/notice/entry/046549/
 - Ministry of the Environment — circular economy and waste reduction
   https://www.env.go.jp/recycle/
 - Ministry of Economy, Trade and Industry — traditional crafts

@@ -10,7 +10,7 @@
 
 | Item | Figure | Source |
 |---|---|---|
-| Household food waste | **About 2.33 million tonnes a year** (FY2023 estimate), **about 50 g per person per day (half a bowl of rice)** | Ministry of Agriculture, Forestry and Fisheries (MAFF) / Ministry of the Environment |
+| Household food waste | **About 2.24 million tonnes a year** (FY2024 estimate), **about 50 g per person per day (half a bowl of rice)** | Ministry of Agriculture, Forestry and Fisheries (MAFF) / Ministry of the Environment |
 | Breakdown of household waste | **Leftovers about 40%, direct disposal (expired etc.) about 40%, over-trimming about 20%** | Consumer Affairs Agency |
 | Shopping frequency | **2–3 times a week** is the most common answer (various surveys). **Daily or almost daily: about 20%** | Private surveys |
 | Cause of over-buying | **Not knowing what is in the fridge** ("forgot I had already bought it" ranks high in a Consumer Affairs Agency survey) | Consumer Affairs Agency |
@@ -45,13 +45,13 @@
 
 ## Misunderstanding 5｜Food waste is a problem for shops and restaurants
 
-**Household waste is about half of the total (2.33 of 4.64 million tonnes).** **"Forgot I had already bought it" is the main cause,** so knowing what is in your fridge is the most effective measure.
+**Household waste is about half of the total (2.24 of 4.61 million tonnes).** **"Forgot I had already bought it" is the main cause,** so knowing what is in your fridge is the most effective measure.
 
 ---
 
 ### Sources
 
-- Ministry of Agriculture, Forestry and Fisheries (MAFF), "Food loss volume (FY2023 estimate)" [食品ロス量（令和5年度推計値）]
+- Ministry of Agriculture, Forestry and Fisheries (MAFF), "Food loss volume (FY2024 estimate)" [食品ロス量（令和6年度推計値）]
   https://www.maff.go.jp/j/shokusan/recycle/syoku_loss/
 - Consumer Affairs Agency, "Reference materials on food loss reduction" [食品ロス削減関係参考資料] (breakdown of household food waste; awareness survey)
   https://www.caa.go.jp/policies/policy/consumer_policy/information/food_loss/
