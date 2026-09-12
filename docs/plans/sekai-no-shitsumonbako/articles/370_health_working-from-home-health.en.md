@@ -15,11 +15,11 @@ Working from home became established in Japan from 2020. Alongside "no commute, 
 | **Screen** | **Top edge below eye level**, **viewing distance 40 cm or more**, **laptop on a stand with an external keyboard** to raise your line of sight |
 | **Lighting** | **300 lux or more on the work surface**; avoid reflections on the screen (do not sit with your back to a window) |
 | **Breaks** | **No more than 1 hour of continuous work, then a 10–15-minute pause.** **Break up sitting every 30 minutes to 1 hour** |
-| **Temperature and humidity** | **Room temperature 17–28°C (63–82°F), humidity 40–70%** (the office hygiene standards as a guide) |
+| **Temperature and humidity** | **Room temperature 18–28°C (64–82°F), humidity 40–70%** (the office hygiene standards as a guide) |
 | **Movement** | **The commute walk (several thousand steps) is gone** → **deliberately go for a walk, take the stairs** (Physical Activity Guide 2023) |
 | **Working practices** | **A clear start and finish to the day, reporting your breaks**, **preventing long hours** (Telework Guideline) |
 
-- The MHLW's *Guideline for the Appropriate Introduction and Implementation of Telework* (revised 2021) says **setting up the work environment is the responsibility of both employer and worker**, and provides **a checklist for the home environment**.
+- The MHLW's *Guideline for the Appropriate Introduction and Implementation of Telework* (2021, **revised July 2025**) says **setting up the work environment is the responsibility of both employer and worker**, and provides **a checklist for the home environment**.
 - **Using a laptop as it is** is **the biggest cause of neck and shoulder strain** (see our article on "smartphone neck"). **An external keyboard plus the screen on a stand** makes a big difference on its own.
 - **Isolation and mental health**: the guideline calls for **opportunities for communication to be maintained** and points to **contact points (the occupational physician, the Kokoro no Mimi mental-health portal)**.
 
@@ -49,12 +49,12 @@ Working from home became established in Japan from 2020. Alongside "no commute, 
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, *Guideline for the Appropriate Introduction and Implementation of Telework* [テレワークの適切な導入及び実施の推進のためのガイドライン] (revised March 2021)
+- Ministry of Health, Labour and Welfare, *Guideline for the Appropriate Introduction and Implementation of Telework* [テレワークの適切な導入及び実施の推進のためのガイドライン] (revised July 2025)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/shigoto/guideline.html
-- Ministry of Health, Labour and Welfare, *Guideline on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (2019)
-  https://www.mhlw.go.jp/content/000539604.pdf
+- Ministry of Health, Labour and Welfare, *Guideline on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (issued July 2019; partially revised 1 December 2021)
+  https://www.mhlw.go.jp/content/000580827.pdf
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023]
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

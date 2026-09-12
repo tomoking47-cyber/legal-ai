@@ -10,7 +10,7 @@ Convenience-store onigiri now come in "mochi-mugi" (barley) and "zakkoku" (mixed
 
 | Item | White rice | Brown rice | Mixed with mochi-mugi (pressed barley) | Mixed with zakkoku |
 |---|---|---|---|---|
-| **Dietary fibre** | **about 0.3 g** | **about 1.4 g** | at 20% barley, **about 1.5–2 g** | at 10% grains, **about 0.8–1 g** |
+| **Dietary fibre** | **about 1.5 g** (the AOAC 2011.25 value in the 8th revised tables; about 0.3 g by the older Prosky method) | **about 1.4 g** (Prosky method) | at 20% barley, **about 1.5–2 g** | at 10% grains, **about 0.8–1 g** |
 | **Vitamin B1** | about 0.02 mg | **about 0.16 mg** | — | — |
 | **Magnesium** | about 7 mg | **about 49 mg** | — | — |
 | **Energy** | about 156 kcal | about 152 kcal | roughly the same | roughly the same |

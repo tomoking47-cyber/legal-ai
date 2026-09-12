@@ -48,12 +48,12 @@ Miso soup is the foundation of the Japanese table, but two common mistakes — b
 
 ### Sources
 
-- Japan Federation of Miso Manufacturers Cooperatives (全国味噌工業協同組合連合会), "How to make miso soup" [みそ汁の作り方]
-  https://www.miso.or.jp/
+- Miso Health Promotion Committee (みそ健康づくり委員会), run by the Japan Federation of Miso Manufacturers Cooperatives (全国味噌工業協同組合連合会), "How to make miso soup" [みそ汁の作り方]
+  https://miso.or.jp/
 - Ministry of Education, Culture, Sports, Science and Technology (MEXT), "Standard Tables of Food Composition in Japan (8th revised edition), 2023 supplement" [日本食品標準成分表（八訂）増補2023年] (salt equivalent of miso)
   https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
-- Ministry of Health, Labour and Welfare (MHLW), "2023 National Health and Nutrition Survey: summary of results" [令和5年 国民健康・栄養調査結果の概要] (sources of salt intake)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- Ministry of Health, Labour and Welfare (MHLW), "2024 National Health and Nutrition Survey: summary of results" [令和6年 国民健康・栄養調査結果の概要] (salt intake)
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

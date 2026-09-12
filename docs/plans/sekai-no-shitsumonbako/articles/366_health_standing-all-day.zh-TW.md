@@ -52,7 +52,7 @@
 - 厚生勞動省《職場腰痛預防對策指針》[職場における腰痛予防対策指針]（站立作業）
   https://www.mhlw.go.jp/stf/houdou/2r98520000034et4.html
 - 厚生勞動省《健康促進身體活動・運動指南 2023》[健康づくりのための身体活動・運動ガイド2023]（久坐行為與姿勢）
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 日本靜脈學會「下肢靜脈曲張」[下肢静脈瘤]
   https://js-phlebology.jp/
 

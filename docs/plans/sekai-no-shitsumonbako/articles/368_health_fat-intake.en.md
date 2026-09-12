@@ -14,7 +14,7 @@
 | Saturated fatty acids | **7% or less** (about 15 g or less) | As above |
 | n-6 (linoleic acid) | Adequate intake: men **about 8–11 g**, women **about 7–8 g** | As above |
 | n-3 (α-linolenic acid, EPA, DHA) | Adequate intake: men **about 2.0–2.2 g**, women **about 1.6–2.0 g** | As above |
-| Actual fat intake in Japan | **About 28–29% of total energy** (age 20 and over). **The share of younger people above 30% is rising** | National Health and Nutrition Survey (2023) |
+| Actual fat intake in Japan | **About 28–29% of total energy** (age 20 and over). **The share of younger people above 30% is rising** | National Health and Nutrition Survey (2024) |
 | Trans fatty acids | **WHO says under 1%.** The Japanese average is **about 0.3%** (Food Safety Commission), within the guide | Food Safety Commission of Japan |
 
 | Food | Fat |
@@ -55,8 +55,8 @@
 
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (fats)
   https://www.mhlw.go.jp/stf/newpage_44138.html
-- Ministry of Health, Labour and Welfare, *Summary of results of the 2023 National Health and Nutrition Survey* [令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- Ministry of Health, Labour and Welfare, *Summary of results of the 2024 National Health and Nutrition Survey* [令和6年 国民健康・栄養調査結果の概要]
+  https://www.mhlw.go.jp/stf/newpage_66279.html
 - Food Safety Commission of Japan, *Assessment of trans fatty acids in food* [食品に含まれるトランス脂肪酸の評価]
   https://www.fsc.go.jp/osirase/trans_fat.html
 

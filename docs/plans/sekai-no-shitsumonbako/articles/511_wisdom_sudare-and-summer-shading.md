@@ -4,7 +4,7 @@
 
 Before air conditioning, Japanese houses kept cool with a hanging reed screen — the sudare — and its stand-up cousin, the yoshizu. They still sell in every home centre each June for a few hundred yen, and studies by Japanese utilities and universities keep finding the same thing: a shade outside the glass beats any curtain inside it.
 
-## A. The common misunderstanding is that a sudare is decoration, or a curtain substitute. It is an external shading device: hung outside the window, 10–20 cm from the glass, it blocks 50–80% of solar heat before it enters, whereas an internal curtain only stops light after the heat is already inside the room. Field measurements report room-surface temperatures several degrees lower and air-conditioning electricity 10–20% lower behind a sudare or green curtain. Hang it outside, leave a gap for air, wet it on the hottest afternoons, and take it in before typhoons.
+## A. The common misunderstanding is that a sudare is decoration, or a curtain substitute. It is an external shading device: hung outside the window, 10–20 cm from the glass, it blocks 60–80% of solar heat before it enters, whereas an internal curtain only stops light after the heat is already inside the room. Field measurements report room-surface temperatures several degrees lower and air-conditioning electricity 10–20% lower behind a sudare or green curtain. Hang it outside, leave a gap for air, wet it on the hottest afternoons, and take it in before typhoons.
 
 ## Sudare, yoshizu and the numbers
 
@@ -13,7 +13,7 @@ Before air conditioning, Japanese houses kept cool with a hanging reed screen �
 | **Sudare** | Hanging blind of **split bamboo or reed** (now often plastic), rolled up and down; **88 × 180 cm ≈ ¥500–1,500** at home centres. Hooks clip to the window frame or balcony rail |
 | **Yoshizu** | **Free-standing reed screen** (2–3 m tall) leaned against the eaves or veranda at an angle; shades a whole wall and doorway. ¥2,000–5,000 |
 | **Where** | **Outside the glass**, with a **10–20 cm air gap**. Inside, it still cuts glare but most of the heat has already come through |
-| **Effect (reported)** | **50–80% of solar radiation blocked**; interior glass surface **5–10°C cooler**; room air **1–3°C cooler** on sunny afternoons; **air-conditioning use down 10–20%** in utility and university trials |
+| **Effect (reported)** | **60–80% of solar radiation blocked**; interior glass surface **5–10°C cooler**; room air **1–3°C cooler** on sunny afternoons; **air-conditioning use down 10–20%** in utility and university trials |
 | **Comparison** | Interior curtain: ~30–40% heat reduction. **Exterior shade (sudare, awning, green curtain): 60–80%**. Reflective film: 30–60% but permanent |
 | **Uchimizu** | **Wetting the sudare** (or the ground) in the late afternoon adds evaporative cooling: the air passing through drops **1–2°C** |
 | **Care** | Roll up in rain if possible; **bring in before typhoons** (they become sails); brush dust; natural reed lasts **2–4 seasons**, greys with UV |
@@ -30,7 +30,7 @@ Before air conditioning, Japanese houses kept cool with a hanging reed screen �
 ---
 
 ### Sources
-- Ministry of the Environment — "Cool Choice" summer measures: exterior shading (sudare, green curtains) and energy saving
+- Ministry of the Environment — "Deco-katsu" (デコ活, the national climate-action campaign that took over from COOL CHOICE in 2023) — summer measures: exterior shading (sudare, green curtains) and energy saving
   https://ondankataisaku.env.go.jp/coolchoice/
 - Agency for Natural Resources and Energy — Household energy-saving guidance (window shading, air-conditioning)
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/

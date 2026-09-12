@@ -48,10 +48,12 @@ Gel nails (jeru neiru) are hugely popular in Japan: they last 3–4 weeks and th
 
 ### Sources
 
-- National Consumer Affairs Center of Japan, information on harm from gel nails (contact dermatitis and nail discolouration) [ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報]
+- National Consumer Affairs Center of Japan, "Harm from Artificial Nails — Rashes, Burns and Even Mould" [つけ爪による危害―かぶれ、やけど、カビが生えることも―] (published 16 October 2008)
   https://www.kokusen.go.jp/
+- National Consumer Affairs Center of Japan, "Beware of Burns from Instant Adhesives — They Are Also Used as Artificial-Nail Glue" [瞬間接着剤の使用によるやけどに注意−つけ爪用接着剤にも使用されています−] (published 19 June 2024)
+  https://www.kokusen.go.jp/news/data/n-20240619_1.html
 - Japanese Dermatological Association, "Clinical Practice Guidelines for Contact Dermatitis 2020" [接触皮膚炎診療ガイドライン 2020] (contact dermatitis from acrylates)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/130_523contact_dermatitis2020.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: Nail Disorders" [皮膚科Q&A：爪の病気]
   https://www.dermatol.or.jp/qa/
 

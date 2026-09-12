@@ -4,7 +4,7 @@
 
 The cutting board is one of the kitchen tools where bacteria linger most, and "wood or plastic?" is an argument that never ends in any country. In Japan, the Ministry of Health, Labour and Welfare's approach to preventing food poisoning at home is the foundation for the answer.
 
-## A. The biggest misunderstanding is "if it looks clean, it is clean." Bacteria stay in the scratches of a board, and after cutting raw meat or fish, washing with detergent alone may not be enough. The basics are: keep separate boards for meat/fish and vegetables (or follow the right order); wash straight after use; disinfect once a week with boiling water or bleach; dry completely.
+## A. The biggest misunderstanding is "if it looks clean, it is clean." Bacteria stay in the scratches of a board, and after cutting raw meat or fish, washing with detergent alone may not be enough. The basics are: keep separate boards for meat/fish and vegetables (or follow the right order); wash straight after use; disinfect with boiling water or chlorine bleach after cutting raw meat or fish; dry completely.
 
 ## What to go on
 
@@ -12,12 +12,12 @@ The cutting board is one of the kitchen tools where bacteria linger most, and "w
 |---|---|---|
 | Separate boards | **One board for raw meat and fish, another for vegetables and cooked food.** With one board, cut **vegetables first, then meat and fish** | MHLW "Six points for preventing food poisoning at home" (don't contaminate) |
 | Washing | **Straight after use**, with detergent and a sponge. **After meat or fish, pour boiling water over it** | Same |
-| Disinfecting | **About once a week**: **chlorine bleach (a few minutes at the concentration on the label) → rinse thoroughly**, or **boiling water** | Same |
+| Disinfecting | **After cutting raw meat or fish, wash the board and then pour boiling water over it.** **Use chlorine bleach at the concentration and for the time given on the product label → rinse thoroughly** | MHLW "Six points" (kill the germs) / the bleach product label |
 | Drying | **Stand it up in a well-ventilated place until completely dry** | Left damp, bacteria and mould grow |
 | Wooden boards | **Boiling water is fine; some bleaches damage the wood.** After washing, **wipe at once and stand up**. If it **warps or blackens**, have it planed | — |
 | Replacing | **Deep scratches, black staining or warping** are the signs | — |
 
-- In the 2023 (Reiwa 5) food-poisoning statistics, **Campylobacter (chicken) and Anisakis (fish)** were at the top of the count by causative agent. **Cutting vegetables on a board used for raw chicken** is one of the typical causes at home.
+- In the 2025 (Reiwa 7) food-poisoning statistics, the top causative agents by number of incidents were **norovirus (462), Anisakis (280, fish) and Campylobacter (220, chicken)**. **Cutting vegetables on a board used for raw chicken** is one of the typical causes at home.
 - **Cutting meat and fish last**, or **opening out a milk carton to use as a disposable board**, are tricks widely shared among people living in Japan.
 
 > **[Verify]** Check the wording of the six points and the ranking of causative agents in the food-poisoning statistics with the Ministry of Health, Labour and Welfare.

@@ -20,7 +20,7 @@ Vacuum storage bags (圧縮袋, asshuku-bukuro), which you flatten with a vacuum
 | **Anything damp or unwashed** | **No** | **Seals in mould and smells and lets them grow** |
 
 - **How far to compress**: down to **about one third of the volume.** Sucking it "flat as a pancake" causes severe fibre breakage and creasing. Fill the bag **no more than 80%**; overfilling is the main cause of splits.
-- **Before it goes in**: **wash, then dry completely.** Leftover skin oil and moisture breed mould and insects. **If you put a moth repellent in a vacuum bag**, use one **labelled for vacuum bags (圧縮袋対応)**. Most repellents work by evaporating; in a sealed bag they may not work as designed, or the active ingredient may build up on the fabric.
+- **Before it goes in**: **wash, then dry completely.** Leftover skin oil and moisture breed mould and insects. **As a rule, do not put a moth repellent in a vacuum bag.** Most repellents work by evaporating, so in a sealed bag they do not work as designed, and makers themselves warn of **transferred odour, staining and discolouration.** A vacuum bag is sealed and hard for insects to enter, so clothes that have been washed and dried completely need no repellent.
 - **Duration**: **take things out and air them once every six months.** Most vacuum bags are **not a perfect seal and let in some air within a few months.** Leaving items for over a year is the main cause of creases, mould and smells.
 - **After taking out**: **half a day to a day in the sun or in the shade** to let the air back in. Polyester fibre recovers with a light beating. Down does not recover easily.
 - **Alternatives**: put down, feathers and knits in **non-woven cases** or **breathable storage bags**, filled **no more than 80%.** Some people say the real way to save space is not compression but owning less.
@@ -37,7 +37,7 @@ Vacuum storage bags (圧縮袋, asshuku-bukuro), which you flatten with a vacuum
 
 ## Misunderstanding 3｜A moth repellent in the bag makes it safe
 
-**Most repellents do not work as designed in a sealed space.** Use a product labelled for vacuum bags and follow its instructions.
+**Most repellents do not work as designed in a sealed space.** As a rule, put no repellent in a vacuum bag and pack only clothes that have been washed and dried completely.
 
 ## Misunderstanding 4｜The more air you remove, the more efficient the storage
 
@@ -55,8 +55,8 @@ Vacuum storage bags (圧縮袋, asshuku-bukuro), which you flatten with a vacuum
   https://www.nichiukyo.org/
 - National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Product test of vacuum storage bags for clothing"
   https://www.kokusen.go.jp/
-- Japan Household Insecticide Industry Association / Japan Moth Repellent Council (日本家庭用殺虫剤工業会／日本防虫剤協議会), "Correct use of moth repellents"
-  https://www.jsia.or.jp/
+- Japan Textile Moth Repellent Industry Association (日本繊維製品防虫剤工業会), "Correct use of moth repellents for clothing"
+  https://bouchuko.org/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

@@ -11,7 +11,7 @@ Single-person households are about 38% of all households in Japan (2020 Census) 
 | Item | Detail | Source |
 |---|---|---|
 | Single-person households | **About 21.15 million, 38.1% of all households** (2020) | Population Census |
-| Food spending, single households | **About ¥40,000 a month** (about 40% of it on eating out and ready-made food) | Family Income and Expenditure Survey (2023) |
+| Food spending, single households | **About ¥45,000 a month** (¥44,659; about 20% of it on eating out, about 40% once ready-made food is included) | Family Income and Expenditure Survey (2025 average) |
 | Nutrition issues for people living alone | **Too few vegetables (about 250 g a day on average; target 350 g), skipping breakfast, too much salt (ready-made and restaurant food)** | National Health and Nutrition Survey |
 | Shape of one meal | **Staple (shushoku, rice or bread), main dish (shusai), side dish (fukusai)** together (**a soup with vegetables in it counts as a side dish**) | Japanese Food Guide Spinning Top (食事バランスガイド) |
 

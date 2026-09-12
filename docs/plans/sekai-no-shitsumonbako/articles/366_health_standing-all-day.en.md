@@ -52,7 +52,7 @@ Many jobs in Japan are done on your feet: retail, kitchens, healthcare, factory 
 - Ministry of Health, Labour and Welfare, *Guidelines for Preventing Lower-Back Pain in the Workplace* [職場における腰痛予防対策指針] (standing work)
   https://www.mhlw.go.jp/stf/houdou/2r98520000034et4.html
 - Ministry of Health, Labour and Welfare, *Physical Activity and Exercise Guide for Health Promotion 2023* [健康づくりのための身体活動・運動ガイド2023] (sedentary behaviour and posture)
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - Japanese Society of Phlebology, *Varicose veins of the legs* [下肢静脈瘤]
   https://js-phlebology.jp/
 

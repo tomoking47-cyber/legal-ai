@@ -15,7 +15,7 @@ Buying mackerel or horse mackerel at the supermarket and filleting it at home fo
 | **Where it lives** | **Mainly in the guts**. After the fish dies it **moves from the guts into the flesh (muscle)**. **The longer the time, the more likely it has moved into the flesh** |
 | **Symptoms** | **Severe stomach pain, nausea and vomiting 2–8 hours after eating (stomach)**, or **lower abdominal pain ten-odd hours to several days later (intestine)**. Also **allergic reactions (hives; rarely anaphylaxis)** |
 | **Medical response** | **In gastric anisakiasis, removing the worm by endoscope** brings rapid relief. In the intestinal form, symptoms are managed as they arise |
-| **Reported cases** | **432 in 2023** (food-poisoning statistics; **the highest of any causative agent, bacteria and viruses included**). Research estimates, however, put actual cases at **more than 7,000 a year** |
+| **Reported cases** | **330 in 2024 (Reiwa 6)** (food-poisoning statistics; **the highest number of incidents of any causative agent, bacteria and viruses included**; 432 in 2023). Research estimates, however, put actual cases at **more than 7,000 a year** |
 
 ## What works and what does not
 
@@ -66,7 +66,7 @@ Buying mackerel or horse mackerel at the supermarket and filleting it at home fo
 
 - Ministry of Health, Labour and Welfare, "Let's prevent food poisoning from Anisakis" [アニサキスによる食中毒を予防しましょう]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000042953.html
-- Ministry of Health, Labour and Welfare, "Food poisoning statistics" [食中毒統計資料] (incidence by causative agent, 2023)
+- Ministry of Health, Labour and Welfare, "Food poisoning statistics" [食中毒統計資料] (incidence by causative agent, 2024 / Reiwa 6)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/syokuchu/04.html
 - National Institute of Infectious Diseases, IASR, "Trends in anisakiasis" [アニサキス症の発生動向]
   https://www.niid.go.jp/niid/ja/iasr.html

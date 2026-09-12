@@ -52,7 +52,7 @@
 - 후생노동성 『직장에서의 요통 예방 대책 지침』 [職場における腰痛予防対策指針] (서서 하는 작업)
   https://www.mhlw.go.jp/stf/houdou/2r98520000034et4.html
 - 후생노동성 『건강 증진을 위한 신체활동・운동 가이드 2023』 [健康づくりのための身体活動・運動ガイド2023] (좌식 행동과 자세)
-  https://www.mhlw.go.jp/content/10904750/001171393.pdf
+  https://www.mhlw.go.jp/content/001194020.pdf
 - 일본정맥학회 「하지정맥류」 [下肢静脈瘤]
   https://js-phlebology.jp/
 

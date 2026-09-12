@@ -20,7 +20,7 @@ The sink drain is the most disliked cleaning job in any kitchen, and slime, smel
 |---|---|
 | **"Do not mix — danger" (まぜるな危険)** | **Never use chlorine products (mould, slime) and acidic products (citric acid, vinegar, some pipe cleaners) at the same time.** **They give off toxic chlorine gas.** **Use them on different days, after rinsing well** |
 | **Ventilation** | Open a window and wear rubber gloves when using chlorine products |
-| **Hot water** | **Above 90°C damages PVC pipes and seals.** **50–60°C at most** |
+| **Hot water** | **Ordinary PVC drain pipe (VP) is rated to about 60°C.** **Water above 60°C can deform the pipe and degrade the joints** (even heat-resistant HT PVC tops out at 90°C). **If you do pour, 50–60°C at most** |
 | **Oil** | **Never pour it down the drain** (wipe it up or solidify it). **It blocks pipes and burdens the sewage system** (see the article on used frying oil) |
 
 - **Slime is a bacterial biofilm** that needs **food waste and moisture.** **Emptying and drying every day** is the best prevention.
@@ -39,7 +39,7 @@ The sink drain is the most disliked cleaning job in any kitchen, and slime, smel
 
 ## Misunderstanding 3｜Boiling water flushes away oil and bacteria in one go
 
-**Above 90°C it damages the pipes and seals.** **50–60°C.** **Not pouring oil down in the first place** is the rule.
+**Ordinary PVC pipe (VP) is rated to about 60°C, and water above 60°C damages the pipes and seals.** **If you do pour, 50–60°C.** **Not pouring oil down in the first place** is the rule.
 
 ## Misunderstanding 4｜Fizzing baking soda and citric acid cleans completely
 

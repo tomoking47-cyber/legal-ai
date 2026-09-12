@@ -48,10 +48,12 @@
 
 ### 출처
 
-- 일본 국민생활센터 [独立行政法人 国民生活センター] 젤네일로 인한 위해(접촉피부염·손톱 변색) 정보 [ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報]
+- 일본 국민생활센터 [独立行政法人 国民生活センター] 「붙이는 손톱으로 인한 위해 — 발진, 화상, 곰팡이가 생기기도」[つけ爪による危害―かぶれ、やけど、カビが生えることも―] (2008년 10월 16일 공표)
   https://www.kokusen.go.jp/
+- 일본 국민생활센터 [独立行政法人 国民生活センター] 「순간접착제 사용으로 인한 화상에 주의 — 붙이는 손톱용 접착제에도 사용됩니다」[瞬間接着剤の使用によるやけどに注意−つけ爪用接着剤にも使用されています−] (2024년 6월 19일 공표)
+  https://www.kokusen.go.jp/news/data/n-20240619_1.html
 - 일본피부과학회 「접촉피부염 진료 가이드라인 2020」[接触皮膚炎診療ガイドライン 2020] (아크릴레이트에 의한 접촉피부염)
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/130_523contact_dermatitis2020.pdf
 - 일본피부과학회 「피부과 Q&A: 손톱 질환」[皮膚科Q&A：爪の病気]
   https://www.dermatol.or.jp/qa/
 

@@ -11,7 +11,7 @@
 | Item | Details |
 |---|---|
 | Japan's fermented foods | **Miso, soy sauce, nattō (fermented soybeans), pickles (nukazuke rice-bran pickles, etc.), vinegar, mirin, sake, katsuobushi (dried bonito), yoghurt, cheese** |
-| Position in the Dietary Reference Intakes | **There is no target intake specific to "fermented foods".** **Dietary fibre (at least 21 g for men, 18 g for women)** is what is emphasised as food for gut bacteria |
+| Position in the Dietary Reference Intakes | **There is no target intake specific to "fermented foods".** **Dietary fibre (raised in the 2025 edition: at least 22 g for men and at least 20 g for women aged 30–64)** is what is emphasised as food for gut bacteria |
 | Labelling rules | **Ordinary foods**: no health claims ／ **FOSHU (トクホ, Foods for Specified Health Uses)**: approved claims such as "helps keep your stomach in good condition" ／ **Foods with Function Claims (機能性表示食品)**: within the scope of the notification. **"Chōkatsu" (腸活, "gut activity") is not a legal term** |
 | State of the research | **Some specific strains show effects under specific conditions**, but **the generalisation "fermented foods in general improve health" cannot be made**. **Individual variation is large** |
 | Salt | **Miso, soy sauce and pickles are high in salt.** Keep them within the daily target — 7 g under Health Japan 21 (third term), or under 7.5 g for men and under 6.5 g for women under the Dietary Reference Intakes 2025 edition (see our article on salt) |
@@ -47,7 +47,9 @@
 
 ### Sources
 
-- Consumer Affairs Agency, *About Foods for Specified Health Uses* and *About Foods with Function Claims* [特定保健用食品について／機能性表示食品について]
+- Consumer Affairs Agency, *About Foods for Specified Health Uses* [特定保健用食品について]
+  https://www.caa.go.jp/policies/policy/food_labeling/foods_for_specified_health_uses/
+- Consumer Affairs Agency, *About Foods with Function Claims* [機能性表示食品について]
   https://www.caa.go.jp/policies/policy/food_labeling/foods_with_function_claims/
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）] (dietary fibre; salt targets)
   https://www.mhlw.go.jp/stf/newpage_44138.html

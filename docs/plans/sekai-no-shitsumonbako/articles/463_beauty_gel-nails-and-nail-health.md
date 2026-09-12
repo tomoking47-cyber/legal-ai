@@ -48,10 +48,12 @@
 
 ### 出典
 
-- 独立行政法人国民生活センター「ジェルネイルによる危害（接触皮膚炎・爪の変色）に関する情報」
+- 独立行政法人国民生活センター「つけ爪による危害―かぶれ、やけど、カビが生えることも―」（2008年10月16日公表）
   https://www.kokusen.go.jp/
+- 独立行政法人国民生活センター「瞬間接着剤の使用によるやけどに注意−つけ爪用接着剤にも使用されています−」（2024年6月19日公表）
+  https://www.kokusen.go.jp/news/data/n-20240619_1.html
 - 日本皮膚科学会「接触皮膚炎診療ガイドライン 2020」（アクリレート類による接触皮膚炎）
-  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/contact_dermatitis_GL2020.pdf
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/130_523contact_dermatitis2020.pdf
 - 日本皮膚科学会「皮膚科Q&A：爪の病気」
   https://www.dermatol.or.jp/qa/
 

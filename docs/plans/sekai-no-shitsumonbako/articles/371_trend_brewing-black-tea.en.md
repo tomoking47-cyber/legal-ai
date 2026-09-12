@@ -4,7 +4,7 @@
 
 Japan is a green-tea country, but black tea (kōcha, 紅茶) is firmly part of daily life too, and we get many questions — from how to use a tea bag to the so-called "golden rules". Japanese tap water is soft, which happens to suit black tea. Here are the basics, with that point included.
 
-## A. The biggest misunderstanding is "black tea is ready to drink as soon as you pour the water." Black tea needs water just off the boil (95–100°C / 203–212°F): 3–4 minutes for loose leaf, and 1–2 minutes even for a tea bag, before the aroma and astringency come out. Japanese tap water is soft, so the colour and aroma come out easily; the key point is to boil freshly drawn water. Milk first or milk after is a matter of taste — there is no official right answer.
+## A. The biggest misunderstanding is "black tea is ready to drink as soon as you pour the water." Black tea needs water just off the boil (95–100°C / 203–212°F): 2½–4 minutes for loose leaf, and about 3 minutes even for a tea bag, before the aroma and astringency come out. Japanese tap water is soft, so the colour and aroma come out easily; the key point is to boil freshly drawn water. Milk first or milk after is a matter of taste — there is no official right answer.
 
 ## The basics (general guidance from the UK Tea & Infusions Association and the Japan Tea Association)
 
@@ -13,7 +13,7 @@ Japan is a green-tea country, but black tea (kōcha, 紅茶) is firmly part of d
 | Water | **Freshly drawn tap water (soft)**, used **just after it boils** | Water that still holds air moves the leaves. **Avoid re-boiling** |
 | Water temperature | **95–100°C** | Black tea releases its aroma and compounds at high temperature (the opposite of green tea) |
 | Amount of leaf | **One teaspoon (2.5–3 g) per cup (150 mL)** | — |
-| Steeping time | **Small (broken) leaf 2–3 minutes, large (whole) leaf 3–4 minutes**. **Tea bag 1–2 minutes** | Too short is weak, too long is astringent |
+| Steeping time | **Small (broken) leaf 2½–3 minutes, large (whole) leaf 3–4 minutes**. **Tea bag about 3 minutes** (about 5 minutes for milk tea) | Too short is weak, too long is astringent |
 | Pot | **Warm it first** (fill with hot water, then pour it away) | Stops the temperature dropping |
 | Milk | **Milk at room temperature**. **First or after is a matter of taste** (the Royal Society of Chemistry once published a light-hearted paper recommending "milk first", but it is not an official standard) | — |
 | Storage | **Once opened: airtight, dark, room temperature**; use up **within a few months** | Moisture and light carry the aroma away |
@@ -26,7 +26,7 @@ Japan is a green-tea country, but black tea (kōcha, 紅茶) is firmly part of d
 
 ## Misunderstanding 1｜Pour the water and drink straight away
 
-**Steeping for 1–4 minutes is what brings out the aroma and the compounds.** Even a tea bag needs **1–2 minutes**. **Watching the clock** is the only real trick.
+**Steeping for 2½–4 minutes is what brings out the aroma and the compounds.** Even a tea bag needs **about 3 minutes**. **Watching the clock** is the only real trick.
 
 ## Misunderstanding 2｜Black tea takes the same water temperature as green tea
 
