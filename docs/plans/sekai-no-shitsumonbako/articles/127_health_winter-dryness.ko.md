@@ -47,8 +47,8 @@
   https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei10/
 - 기상청 「과거 기상 데이터 검색」 도쿄 평년값 [過去の気象データ検索]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- 소비자청 「가습기 손질을 게을리하면 곰팡이와 세균이 번식합니다」（안전 주의보）[加湿器の手入れを怠るとカビや細菌が繁殖]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- 후생노동성・국민생활센터 가습기 위생 관리에 관한 주의 환기（레지오넬라균 등의 번식 방지）[加湿器の衛生管理に関する注意喚起]
+  【확인 필요】해당 자료의 URL은 공개 전에 특정해 주십시오
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

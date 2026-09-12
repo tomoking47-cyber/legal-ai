@@ -15,7 +15,7 @@ Evening routines tend to gain extra steps, and that is where most of the argumen
 | 3 | The water-rich product (lotion, 化粧水) | Gives water to the stratum corneum (the outermost layer of the skin) |
 | 4 | The oil-rich product (emulsion, 乳液) | Forms a film on the skin surface and **limits transepidermal water loss** (water evaporating out through the skin) |
 
-This sequence is presented as Japanese Dermatological Association information on several medical-clinic websites.
+The sequence itself is not set out by the Japanese Dermatological Association in a primary document; it is presented as a common routine on medical-clinic and cosmetics-company websites.
 
 > **[Verify]** Confirm the source of the sequence and the "twice a day" recommendation **in the Japanese Dermatological Association's primary documents.**
 
@@ -39,7 +39,9 @@ More steps at night, fewer in the morning — **or the other way round: there is
 
 ### Sources
 
-- Japanese Dermatological Association (公益社団法人 日本皮膚科学会), "Dermatology Q&A" [皮膚科Q&A] / Guideline for the management of acne vulgaris [尋常性痤瘡治療ガイドライン]
+- Japanese Dermatological Association (公益社団法人 日本皮膚科学会), Guidelines for the management of acne vulgaris and rosacea 2023 [尋常性痤瘡・酒皶治療ガイドライン2023] (Japanese Journal of Dermatology, vol. 133, no. 3)
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
+- Japanese Dermatological Association (公益社団法人 日本皮膚科学会), "Dermatology Q&A" [皮膚科Q&A]
   https://www.dermatol.or.jp/qa/
 - Ministry of Health, Labour and Welfare, "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Notice Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf

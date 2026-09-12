@@ -2,7 +2,7 @@
 
 - Shelf: `trend` ／ URL: `/en/trend/food-waste` ／ Status: **Draft — English edition, sources unverified**
 
-Food waste (食品ロス, shokuhin rosu — the Japanese term for food thrown away that could still have been eaten) is usually discussed as a problem for businesses. Japan's national estimate says otherwise: half of it comes from homes. If you live here, that half includes your kitchen.
+Food waste (食品ロス, shokuhin rosu — the Japanese term for food thrown away that could still have been eaten) is usually discussed as a problem for businesses. Japan's national estimate says otherwise: households and businesses account for roughly half each. If you live here, the household half includes your kitchen.
 
 ## A. The biggest misunderstanding is "it's a problem for businesses only". Of the roughly 4.61 million tonnes of food waste in fiscal 2024, households accounted for about 2.24 million tonnes — almost as much as the business sector (about 2.37 million tonnes).
 

@@ -53,8 +53,8 @@
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - 日本化妆品工业联合会「化妆品等适当广告指南」[化粧品等の適正広告ガイドライン]
   https://www.jcia.org/user/business/advertising
-- 日本皮肤科学会「皮肤科Q&A　头发的疾病」[皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 日本皮肤科学会「皮肤科Q&A　脱发症」[皮膚科Q&A　脱毛症]
+  https://www.dermatol.or.jp/qa/qa11/index.html
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

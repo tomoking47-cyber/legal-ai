@@ -16,7 +16,7 @@ There are **five** basic symbols (washing, bleaching, drying, ironing, professio
 
 ## Misunderstanding 1｜All knitwear goes to the dry cleaner
 
-Some labels allow washing at home. **A tub with a hand in it means hand-wash; a tub with a number means machine-washable (up to that temperature).**
+Some labels allow washing at home. **A tub with a number alone means machine-washable (up to that temperature); a tub with a hand in it means hand-wash.** Note that the August 2024 revision added symbols that show a hand and a number together, such as "hand-wash at 30°C", so do not judge by the presence of a number alone.
 
 ## Misunderstanding 2｜Only hot water makes it shrink
 

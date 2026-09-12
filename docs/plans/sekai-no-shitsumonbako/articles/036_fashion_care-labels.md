@@ -42,8 +42,8 @@
 
 ### 出典
 
-- 消費者庁「新しい洗濯表示」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
+- 消費者庁「洗濯表示（平成28年12月1日から令和6年8月19日まで）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_01.html
 - 消費者庁「洗濯表示（令和6年8月20日以降）」
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 政府広報オンライン「衣替えの季節です。あなたは正しく洗濯していますか？」

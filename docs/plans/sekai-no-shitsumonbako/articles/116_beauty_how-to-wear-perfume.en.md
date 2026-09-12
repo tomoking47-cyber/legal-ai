@@ -4,7 +4,7 @@
 
 Where to apply perfume, and how much, is a frequent question in communities everywhere. In Japan there is a cultural leaning towards "keep fragrance subtle", and the effect of scent on the people around you is the subject of official awareness campaigns. This article covers the basics and the local etiquette a newcomer should know.
 
-## A. The biggest misunderstanding is "the more you put on, the longer it lasts". How long a scent lasts is decided by its concentration (the fragrance-oil percentage); adding more only increases the effect on the people around you. In 2021, five Japanese ministries and agencies jointly called for consideration over "fragrance".
+## A. The biggest misunderstanding is "the more you put on, the longer it lasts". How long a scent lasts is decided by its concentration (the fragrance-oil percentage); adding more only increases the effect on the people around you. Japanese ministries and agencies have been calling for consideration over "fragrance" since 2021; the poster was revised in July 2023, and in May 2026 the Children and Families Agency and the Ministry of Land, Infrastructure, Transport and Tourism joined, making it seven bodies.
 
 ## Concentration categories (a general guide)
 
@@ -33,7 +33,7 @@ Warm areas project scent well, but **it reaches anyone talking to you at close r
 
 ## Misunderstanding 4｜How much you wear is a matter of taste
 
-It is officially recognised that **some people become unwell from fragrance**; in 2021 five bodies — the Consumer Affairs Agency, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Health, Labour and Welfare, the Ministry of Economy, Trade and Industry and the Ministry of the Environment — issued a joint poster. Be **especially restrained in shared spaces** such as workplaces, schools, medical facilities and trains.
+It is officially recognised that **some people become unwell from fragrance**; in 2021 five bodies — the Consumer Affairs Agency, the Ministry of Education, Culture, Sports, Science and Technology, the Ministry of Health, Labour and Welfare, the Ministry of Economy, Trade and Industry and the Ministry of the Environment — produced a joint poster, "That scent — some people are struggling with it" [その香り　困っている人もいます] (revised July 2023; in May 2026 the Children and Families Agency and the Ministry of Land, Infrastructure, Transport and Tourism joined, making it seven bodies). Be **especially restrained in shared spaces** such as workplaces, schools, medical facilities and trains.
 
 ## Misunderstanding 5｜Perfume is fine in sunlight
 

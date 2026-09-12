@@ -44,8 +44,8 @@
 
 - 日本皮膚科學會「皮膚科 Q&A：口罩引起的皮膚問題」[皮膚科Q&A　マスクによる肌トラブル]
   https://www.dermatol.or.jp/qa/
-- 厚生勞動省「關於口罩的配戴」[マスクの着用について]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
+- 厚生勞動省「關於口罩配戴方針的調整」[マスク着用の考え方の見直し等について]（2023 年 3 月 13 日起，配戴與否原則上由個人判斷）
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansentaisaku_00001.html
 - 厚生勞動省「關於化妝品功效範圍的修訂」[化粧品の効能の範囲の改正について]（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

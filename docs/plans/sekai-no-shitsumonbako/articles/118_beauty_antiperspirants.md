@@ -45,8 +45,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 厚生労働省「化粧品の効能の範囲の改正について」（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 消費者庁「冷却スプレー・制汗スプレーによる凍傷に注意」
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- 消費者庁「8月に多いスプレー缶によるやけどや皮膚障害に注意！－使用時に吸い込んで呼吸困難になる事故や、廃棄処理時に引火する事故が発生－」
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_036/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

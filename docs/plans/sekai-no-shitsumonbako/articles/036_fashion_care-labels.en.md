@@ -42,8 +42,8 @@ The label is a guide. **Results vary with trims, colours and how the item has be
 
 ### Sources
 
-- Consumer Affairs Agency (消費者庁), "The new care labels" [新しい洗濯表示]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
+- Consumer Affairs Agency (消費者庁), "Care labelling (1 December 2016 to 19 August 2024)" [洗濯表示（平成28年12月1日から令和6年8月19日まで）]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_01.html
 - Consumer Affairs Agency, "Care labels (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Government Public Relations Online (政府広報オンライン), "It's the season to change wardrobes. Are you washing correctly?" [衣替えの季節です。あなたは正しく洗濯していますか？]

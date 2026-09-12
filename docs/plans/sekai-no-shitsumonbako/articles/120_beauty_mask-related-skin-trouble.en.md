@@ -44,8 +44,8 @@ If **redness, itching or bumps last 1–2 weeks or more**, contact dermatitis or
 
 - Japanese Dermatological Association, "Dermatology Q&A: Skin trouble from masks" [皮膚科Q&A　マスクによる肌トラブル]
   https://www.dermatol.or.jp/qa/
-- Ministry of Health, Labour and Welfare (MHLW), "On wearing masks" [マスクの着用について]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
+- Ministry of Health, Labour and Welfare (MHLW), "Review of the approach to mask wearing" [マスク着用の考え方の見直し等について] (since 13 March 2023, wearing is in principle a personal choice)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansentaisaku_00001.html
 - MHLW, "Revision of the scope of cosmetic efficacy claims" (Yakushoku-hatsu 0721 No. 1) [化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

@@ -15,7 +15,7 @@
 | Synthetic leather | Surface only | Wipe with a damp cloth | Long soaking makes it peel |
 | Real leather / suede | No | Dedicated cleaner | Water makes it stiffen and discolour |
 
-Shoes for household use are not required to carry care labels the way clothing is. **If the maker has provided care instructions, they are the only official basis.** Otherwise, decide from the material.
+Shoes are not required to carry the care symbols (JIS L0001) that clothing does. They are, however, **a listed item under the Miscellaneous Industrial Goods Quality Labelling Regulations of the Household Goods Quality Labelling Act, which require the materials of the upper and the outsole, and the name of the labeller, to be shown.** For how to care for them, **the maker’s own instructions** are the surest basis; where there are none, decide from the materials shown on the label.
 
 > **[Verify]** Statistics such as the number of coin laundries with shoe-washing machines need checking against industry-association material. No figures are given in the text.
 
@@ -37,7 +37,7 @@ UV light **speeds up yellowing and fading**. If hygiene is the aim, **washing pr
 
 ## Misunderstanding 5｜Once washed, nothing more is needed
 
-A **waterproofing spray** (防水スプレー, bōsui supurē) applied after drying helps dirt stay off, but **it must be used outdoors, without breathing it in**. The National Consumer Affairs Center of Japan has issued warnings about health harm from inhaling fluorine-based waterproofing sprays.
+A **waterproofing spray** (防水スプレー, bōsui supurē) applied after drying helps dirt stay off, but **it must be used outdoors, without breathing it in**. The Consumer Affairs Agency and the Japan Poison Information Center have issued warnings about health harm from inhaling fluorine-based waterproofing sprays.
 
 ---
 
@@ -45,8 +45,10 @@ A **waterproofing spray** (防水スプレー, bōsui supurē) applied after dry
 
 - Consumer Affairs Agency, "Care labelling" (how the clothing symbols work) [消費者庁「洗濯表示」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols.html
-- National Consumer Affairs Center of Japan, "Accidents from the use of waterproofing sprays" [国民生活センター「防水スプレーの使用による事故」]
-  https://www.kokusen.go.jp/news/data/n-20180125_1.html
+- Consumer Affairs Agency, "Column Vol.13: beware of accidents from inhaling waterproofing sprays" (25 December 2024) [消費者庁「コラムVol.13　防水スプレーの吸込み事故に注意!」（2024年12月25日）]
+  https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20241225/
+- Japan Poison Information Center, "Accidents while using waterproofing sprays" [公益財団法人日本中毒情報センター「防水スプレーを使用中の事故」]
+  https://www.j-poison-ic.jp/general-public/accidents/waterproof-spray/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act" [消費者庁「家庭用品品質表示法」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/
 

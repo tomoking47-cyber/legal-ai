@@ -44,8 +44,8 @@
 
 - 일본피부과학회 「피부과 Q&A: 마스크로 인한 피부 트러블」 [皮膚科Q&A　マスクによる肌トラブル]
   https://www.dermatol.or.jp/qa/
-- 후생노동성 「마스크 착용에 대하여」 [マスクの着用について]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
+- 후생노동성 「마스크 착용에 관한 방침 재검토 등에 대하여」 [マスク着用の考え方の見直し等について]（2023년 3월 13일 이후 착용은 개인의 판단이 기본）
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansentaisaku_00001.html
 - 후생노동성 「화장품 효능 범위의 개정에 대하여」 [化粧品の効能の範囲の改正について] (薬食発0721第1号)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

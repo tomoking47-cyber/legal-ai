@@ -45,8 +45,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - 厚生勞動省「關於化妝品功效範圍的修訂」[化粧品の効能の範囲の改正について]（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- 消費者廳「注意冷卻噴霧、止汗噴霧造成的凍傷」[冷却スプレー・制汗スプレーによる凍傷に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- 消費者廳「注意 8 月常見的噴霧罐燙傷與皮膚傷害！」[8月に多いスプレー缶によるやけどや皮膚障害に注意！]
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_036/
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

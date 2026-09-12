@@ -8,7 +8,7 @@ People all over the world complain that trying to hold "correct posture" leaves 
 
 ## The numbers in the guideline
 
-The Ministry of Health, Labour and Welfare (MHLW) guideline *Guidelines for Occupational Health Management in Work with Information Devices* (情報機器作業における労働衛生管理のためのガイドライン; 12 July 2019, Notice Kihatsu 0712 No. 3) sets out the following for work using PCs, tablets and smartphones.
+The Ministry of Health, Labour and Welfare (MHLW) guideline *Guidelines for Occupational Health Management in Work with Information Devices* (情報機器作業における労働衛生管理のためのガイドライン; 12 July 2019, Notice Kihatsu 0712 No. 3; partially revised 1 December 2021 by Kihatsu 1201 No. 7) sets out the following for work using PCs, tablets and smartphones.
 
 | Item | Content |
 |---|---|
@@ -44,7 +44,7 @@ Shoulder and neck complaints have many causes. **If they persist, do not try to 
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), *Guidelines for Occupational Health Management in Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (12 July 2019, Kihatsu 0712 No. 3), text and commentary
+- Ministry of Health, Labour and Welfare (MHLW), *Guidelines for Occupational Health Management in Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (12 July 2019, Kihatsu 0712 No. 3; partially revised 1 December 2021 by Kihatsu 1201 No. 7), text and commentary
   https://www.mhlw.go.jp/content/000539603.pdf
 - MHLW, leaflet for the same guideline
   https://www.mhlw.go.jp/content/000580827.pdf

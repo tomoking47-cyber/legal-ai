@@ -8,7 +8,7 @@ Hay fever exists all over the world, but Japanese cedar (sugi) pollen is unusual
 
 ## Numbers and policy
 
-- A Ministry of the Environment survey puts the **prevalence of cedar pollen allergy at about 40%** (38.8% in the 2019 nationwide survey for the Japanese Guidelines for Allergic Rhinitis).
+- The **prevalence of cedar pollen allergy is about 40%** (38.8% in a 2019 nationwide epidemiological survey, carried in the Japanese Society of Otorhinolaryngological Immunology, Allergy and Infection's "Practical Guideline for the Management of Allergic Rhinitis in Japan, 2024 edition (10th revision)") [鼻アレルギー診療ガイドライン2024年版].
 - **In May 2023 the government adopted the "Overall Picture of Pollen Allergy Countermeasures"** (花粉症対策の全体像). Its three pillars are **faster felling and replanting of planted cedar forests (a 20% cut in pollen sources within 10 years)**, **more accurate pollen forecasts**, and **wider uptake of therapies**.
 - Cedar pollen in the Kanto region (Tokyo area) flies from **early February to April**; cypress (hinoki) from **March to May**.
 
@@ -45,8 +45,8 @@ Therapies that address the underlying allergy, such as **sublingual immunotherap
 
 ### Sources
 
-- Ministry of the Environment, "Pollen Allergy Environmental Health Manual" [花粉症環境保健マニュアル]
-  https://www.env.go.jp/chemi/anzen/kafun/manual.html
+- Ministry of the Environment, "Pollen Allergy Environmental Health Manual 2022" (revised March 2022) [花粉症環境保健マニュアル2022]
+  https://www.env.go.jp/chemi/anzen/kafun/2022_full.pdf
 - Prime Minister's Office, "Ministerial Meeting on Pollen Allergy": Overall Picture of Pollen Allergy Countermeasures (30 May 2023) [花粉症対策の全体像]
   https://www.kantei.go.jp/jp/singi/kafun/index.html
 - Ministry of the Environment, pollen observation system "Hanako-san" (discontinued) / Japan Weather Association pollen information

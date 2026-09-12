@@ -44,8 +44,8 @@
 
 - 公益社団法人日本皮膚科学会「皮膚科Q&A　マスクによる肌トラブル」
   https://www.dermatol.or.jp/qa/
-- 厚生労働省「マスクの着用について」
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansenshou/mask.html
+- 厚生労働省「マスク着用の考え方の見直し等について」（令和5年3月13日以降、着用は個人の判断が基本）
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kansentaisaku_00001.html
 - 厚生労働省「化粧品の効能の範囲の改正について」（薬食発0721第1号）
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 

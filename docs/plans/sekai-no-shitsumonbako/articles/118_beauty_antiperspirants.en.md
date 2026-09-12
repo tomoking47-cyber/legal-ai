@@ -45,8 +45,8 @@ Antiperspirant agents **act on the sweat glands when you are sweating little**. 
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
 - MHLW, "Revision of the scope of cosmetic efficacy claims" (Yakushoku-hatsu 0721 No. 1) [化粧品の効能の範囲の改正について]
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
-- Consumer Affairs Agency, "Beware of frostbite from cooling sprays and antiperspirant sprays" [冷却スプレー・制汗スプレーによる凍傷に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- Consumer Affairs Agency, "Beware of burns and skin injuries from aerosol cans, common in August" [8月に多いスプレー缶によるやけどや皮膚障害に注意！]
+  https://www.caa.go.jp/policies/policy/consumer_safety/caution/caution_036/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

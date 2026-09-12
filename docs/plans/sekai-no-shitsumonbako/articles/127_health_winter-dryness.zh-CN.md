@@ -47,8 +47,8 @@
   https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei10/
 - 气象厅「过去的气象数据检索」东京平年值 [過去の気象データ検索]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- 消费者厅「疏于保养加湿器会滋生霉菌和细菌」（安全提醒）[加湿器の手入れを怠るとカビや細菌が繁殖]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- 厚生劳动省・国民生活中心 关于加湿器卫生管理的提醒（防止军团菌等细菌滋生）[加湿器の衛生管理に関する注意喚起]
+  【待确认】具体资料的 URL 请在公开前确定
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

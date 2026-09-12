@@ -47,8 +47,8 @@
   https://www.mhlw.go.jp/bunya/kenkou/seikatsu-eisei10/
 - 気象庁「過去の気象データ検索」東京・平年値
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- 消費者庁「加湿器の手入れを怠るとカビや細菌が繁殖」（注意喚起）
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
+- 厚生労働省・国民生活センター 加湿器の衛生管理に関する注意喚起（レジオネラ属菌等の繁殖防止）
+  【要確認】該当資料のURLは公開前に特定してください
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

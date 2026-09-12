@@ -53,8 +53,8 @@ Hair is made of **dead cells**, and damaged parts do not recover. Oil **coats th
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Japan Cosmetic Industry Association, "Guidelines for Appropriate Advertising of Cosmetics" [化粧品等の適正広告ガイドライン]
   https://www.jcia.org/user/business/advertising
-- Japanese Dermatological Association, "Dermatology Q&A — Hair disorders" [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- Japanese Dermatological Association, "Dermatology Q&A — Hair loss (alopecia)" [皮膚科Q&A　脱毛症]
+  https://www.dermatol.or.jp/qa/qa11/index.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 
