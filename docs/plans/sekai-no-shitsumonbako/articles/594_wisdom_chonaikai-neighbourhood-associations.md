@@ -12,7 +12,7 @@ Within weeks of moving into a Japanese neighbourhood — a house or a low-rise b
 |---|---|
 | **Names** | **Chōnaikai (町内会)** in towns and cities, **jichikai (自治会)** in newer suburbs and housing estates; about **300,000 associations** nationwide |
 | **Membership** | **Voluntary** (Supreme Court, 2005: a resident may withdraw at will). **Participation rates: ~70% nationally, under 50% in central Tokyo and Osaka, 90%+ in rural areas** |
-| **Fee** | **¥200–1,000/month** (¥2,000–12,000/year), sometimes collected yearly or with condo management fees. **Some associations also collect Red Cross and community-chest donations — those are separately optional** |
+| **Fee** | **¥200–1,000/month** (¥2,400–12,000/year), sometimes collected yearly or with condo management fees. **Some associations also collect Red Cross and community-chest donations — those are separately optional** |
 | **What the money does** | **Streetlights** (in many municipalities the association pays the electricity), **rubbish-station nets and cleaning**, **festival (matsuri) and shrine contributions**, **disaster stockpile (water, tents, generators)**, **notice board, kairanban, children's and seniors' events**, **crime-prevention patrols** |
 | **Roles** | **Han-chō (block leader) rotates yearly** among households — passing the kairanban, collecting fees, attending a monthly meeting; **officers (kaichō etc.)** are usually retirees. **Renters are often exempted from rotation**, sometimes not |
 | **Duties expected** | **Rubbish-station cleaning rota** (once every few months), **the autumn festival**, **the September disaster drill**, **New Year decorations**, **occasional street cleaning** |
@@ -30,7 +30,7 @@ Within weeks of moving into a Japanese neighbourhood — a house or a low-rise b
 
 | Join | Don't join |
 |---|---|
-| Disaster network, information, festival access, the neighbours who watch your house | Save ¥2,000–12,000/year and some Sundays |
+| Disaster network, information, festival access, the neighbours who watch your house | Save ¥2,400–12,000/year and some Sundays |
 | Occasional duties (a few hours a year for most members; a heavier year when block leader) | Possible friction over the rubbish station; being the household nobody knows |
 
 > **[Verify]** Participation percentages with the latest MIC survey; the 2005 Supreme Court case reference; typical fee ranges with municipal guidance pages.

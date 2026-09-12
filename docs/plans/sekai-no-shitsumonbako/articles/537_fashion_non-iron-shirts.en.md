@@ -4,7 +4,7 @@
 
 "Non-iron", "shape-retaining" (形態安定, keitai antei) and "easy care": in Japanese shirt departments these labels are now on most of the stock. Do they truly mean no ironing, why do they resist creasing, and does the way you wash them matter? Here is what we know.
 
-## A. A shape-retaining shirt is cotton whose fibres have been fixed with a resin finish (often a liquid-ammonia or resin cross-linking process without formalin) so that creases do not return after washing. To get close to "no ironing", the washing matters: spin for under 1 minute, pull the collar, front placket and cuffs straight by hand as soon as the cycle ends, and hang-dry on a broad hanger. No tumble-drying — it damages the finish. Follow this and most shirts can be worn without ironing, though a light press on the collar and placket makes them look sharper. The finish weakens over a few dozen washes; expect 2–3 years. Polyester-blend shirts resist creases better but breathe and absorb less than cotton.
+## A. A shape-retaining shirt is cotton whose fibres have been fixed by cross-linking them with resin (combined with a liquid-ammonia process, or a VP finish - the method differs by maker) so that creases do not return after washing. To get close to "no ironing", the washing matters: spin for under 1 minute, pull the collar, front placket and cuffs straight by hand as soon as the cycle ends, and hang-dry on a broad hanger. No tumble-drying — it damages the finish. Follow this and most shirts can be worn without ironing, though a light press on the collar and placket makes them look sharper. The finish weakens over a few dozen washes; expect 2–3 years. Polyester-blend shirts resist creases better but breathe and absorb less than cotton.
 
 ## Types of crease-resistant finish
 
@@ -59,7 +59,7 @@
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits (textiles)" [家庭用品規制法：ホルムアルデヒドの規制基準（繊維製品）]
+- Consumer Affairs Agency, "Act on Control of Household Products Containing Harmful Substances: formaldehyde limits (textiles)" [有害物質を含有する家庭用品の規制に関する法律：ホルムアルデヒドの基準（繊維製品）]
   https://www.caa.go.jp/policies/policy/consumer_safety/
 - Japanese Industrial Standards Committee, "JIS L1905: Test method for appearance retention of textiles after washing" [JIS L1905：繊維製品の洗濯後の外観保持性試験方法]
   https://www.jisc.go.jp/
