@@ -42,7 +42,7 @@
 ---
 
 ### 出处
-- 日本工业标准 JIS A 5901（榻榻米）
+- 日本工业标准 JIS A 5902（榻榻米）。JIS A 5901 是稻草榻榻米床（芯材层）的标准，并非成品榻榻米的标准
 - 国土交通省（Ministry of Land, Infrastructure, Transport and Tourism）— 住宅信息
   https://www.mlit.go.jp/jutakukentiku/
 - 榻榻米行业尺寸资料（例：Tatamizuki 地区尺寸表）

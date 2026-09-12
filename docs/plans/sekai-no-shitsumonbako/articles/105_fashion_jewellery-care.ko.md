@@ -44,12 +44,14 @@
 
 ### 출처
 
-- 조폐국 「귀금속 제품의 품위 증명(홀마크)」 [独立行政法人造幣局「貴金属製品の品位証明（ホールマーク）」]
-  https://www.mint.go.jp/operations/hallmark
+- 조폐국 「귀금속 제품의 품위 증명」 [独立行政法人造幣局「貴金属製品の品位証明」]
+  https://www.mint.go.jp/operations/exam/operations_certification-01.html
+- 조폐국 「귀금속 제품의 품위 구분과 증명 기호」 [独立行政法人造幣局「貴金属製品の品位区分と証明記号」]
+  https://www.mint.go.jp/no-list/operations_certification-02.html
 - 국민생활센터 「액세서리로 인한 피부 장애」 [国民生活センター「アクセサリーによる皮膚障害」]
   https://www.kokusen.go.jp/
-- 소비자청 「가정용품 품질표시법」 [消費者庁「家庭用品品質表示法」]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+- 일반사단법인 일본주얼리협회 「주얼리 및 귀금속 제품의 소재 등 표시 규정(2023년도 개정판)」 [一般社団法人日本ジュエリー協会「ジュエリーおよび貴金属製品の素材等の表示規定（2023年度改訂版）」]
+  https://jja.ne.jp/books/pdf/kikinzoku2023.pdf
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

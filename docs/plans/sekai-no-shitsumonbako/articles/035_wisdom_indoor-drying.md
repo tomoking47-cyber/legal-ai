@@ -8,7 +8,7 @@ Many homes here dry laundry indoors as a matter of course. The smell people worr
 
 ## The five-hour clock
 
-In 2011, research by Kao Corporation identified the cause of the characteristic "indoor-dried" smell as **metabolites of Moraxella bacteria** — common skin bacteria that thrive in damp fabric and feed on sebum and moisture. **They begin multiplying in earnest after roughly five hours** of the fabric staying wet.
+In 2011, joint research by Kao Corporation and Professor Yoshiaki Kawamura of Aichi Gakuin University identified the cause of the characteristic "indoor-dried" smell as **metabolites of Moraxella bacteria** — common skin bacteria that thrive in damp fabric and feed on the protein and sebum left behind after washing. **They are widely said to multiply sharply once the fabric has stayed damp for about five hours** — a rule of thumb repeated in Japanese consumer reporting, not a figure stated in that 2011 research.
 
 So the target is simple: **dry within five hours.** Everything below follows from that.
 

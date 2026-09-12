@@ -48,10 +48,12 @@
 
 - 気象庁「過去の気象データ検索」東京・月平均相対湿度
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- 東京都保健医療局「カビの発生を防ぐには」
+- 東京都保健医療局「健康・快適居住環境の指針」（室内環境保健対策）
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
-- 国民生活センター「合成皮革製品の劣化（加水分解）に関する相談」
-  https://www.kokusen.go.jp/
+- 一般財団法人カケンテストセンター「ポリウレタンの劣化」
+  https://www.kaken.or.jp/test/search/detail/81
+- 全国クリーニング生活衛生同業組合連合会「衣料管理情報（クリーニング注意情報）ポリウレタン製合成皮革の劣化」
+  https://www.zenkuren.or.jp/news/5621
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

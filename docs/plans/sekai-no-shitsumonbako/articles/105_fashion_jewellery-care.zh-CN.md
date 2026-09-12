@@ -44,12 +44,14 @@
 
 ### 出处
 
-- 造币局《贵金属制品的品位证明（霍尔马克）》[独立行政法人造幣局「貴金属製品の品位証明（ホールマーク）」]
-  https://www.mint.go.jp/operations/hallmark
+- 造币局《贵金属制品的品位证明》[独立行政法人造幣局「貴金属製品の品位証明」]
+  https://www.mint.go.jp/operations/exam/operations_certification-01.html
+- 造币局《贵金属制品的品位区分与证明记号》[独立行政法人造幣局「貴金属製品の品位区分と証明記号」]
+  https://www.mint.go.jp/no-list/operations_certification-02.html
 - 国民生活中心《首饰配件引起的皮肤障碍》[国民生活センター「アクセサリーによる皮膚障害」]
   https://www.kokusen.go.jp/
-- 消费者厅《家庭用品品质标示法》[消費者庁「家庭用品品質表示法」]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+- 一般社团法人日本珠宝协会《珠宝及贵金属制品的材质等标示规定（2023年度修订版）》[一般社団法人日本ジュエリー協会「ジュエリーおよび貴金属製品の素材等の表示規定（2023年度改訂版）」]
+  https://jja.ne.jp/books/pdf/kikinzoku2023.pdf
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

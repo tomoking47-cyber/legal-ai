@@ -8,7 +8,7 @@
 
 ## 내역
 
-후생노동성의 「건강을 위해 물을 마시자」 추진 운동(「健康のため水を飲もう」推進運動) 자료에 따르면, 성인 남성이 하루에 섭취하는 물은 **합계 약 2.5리터**입니다. 내역은 다음과 같습니다.
+「건강을 위해 물을 마시자」 추진 운동(「健康のため水を飲もう」推進運動. 추진위원회가 주관하며, 상수도 행정 이관에 따라 현재 관계 부처는 국토교통성·환경성) 자료에 따르면, 성인 남성이 하루에 섭취하는 물은 **합계 약 2.5리터**입니다. 내역은 다음과 같습니다.
 
 | 경로 | 양 |
 |---|---|
@@ -44,8 +44,10 @@
 
 ### 출처
 
-- 후생노동성 「건강을 위해 물을 마시자」 추진 운동 [「健康のため水を飲もう」推進運動] (PDF)
-  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000087038.pdf
+- 「건강을 위해 물을 마시자」 추진 운동 [「健康のため水を飲もう」推進運動] (환경성 페이지)
+  https://www.env.go.jp/water/water_supply/nomou/index.html
+- 「건강을 위해 물을 마시자」 추진 운동 [「健康のため水を飲もう」推進運動] (국토교통성 페이지)
+  https://www.mlit.go.jp/mizukokudo/watersupply/stf_seisakunitsuite_bunya_topics_bukyoku_kenkou_suido_nomou_index.html
 - 후생노동성 『일본인의 식사 섭취 기준』 [日本人の食事摂取基準]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
 - 환경성 열사병 예방 정보 사이트 [熱中症予防情報サイト]

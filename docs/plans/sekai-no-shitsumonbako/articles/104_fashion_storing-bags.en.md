@@ -48,10 +48,12 @@ Some clothing moth repellents (pyrethroid types, for example) can **discolour sy
 
 - Japan Meteorological Agency, "Historical weather data search" — Tokyo, monthly mean relative humidity [気象庁「過去の気象データ検索」東京・月平均相対湿度]
   https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=44&block_no=47662
-- Tokyo Metropolitan Bureau of Public Health, "Preventing mould" [東京都保健医療局「カビの発生を防ぐには」]
+- Tokyo Metropolitan Bureau of Public Health, "Guidelines for a healthy and comfortable living environment" (indoor environmental health measures) [東京都保健医療局「健康・快適居住環境の指針」（室内環境保健対策）]
   https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin
-- National Consumer Affairs Center of Japan, "Enquiries about deterioration (hydrolysis) of synthetic leather products" [国民生活センター「合成皮革製品の劣化（加水分解）に関する相談」]
-  https://www.kokusen.go.jp/
+- Kaken Test Center, "Deterioration of polyurethane" [一般財団法人カケンテストセンター「ポリウレタンの劣化」]
+  https://www.kaken.or.jp/test/search/detail/81
+- All Japan Cleaners Association, garment care information (cleaning advisory), "Deterioration of polyurethane synthetic leather" [全国クリーニング生活衛生同業組合連合会「衣料管理情報（クリーニング注意情報）ポリウレタン製合成皮革の劣化」]
+  https://www.zenkuren.or.jp/news/5621
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

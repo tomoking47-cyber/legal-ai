@@ -8,7 +8,7 @@
 
 ## 拆分
 
-根据厚生劳动省「为了健康来喝水」推进运动（「健康のため水を飲もう」推進運動）的资料，成年男性一天摄入的水**合计约 2.5 升**。拆分如下。
+根据「为了健康来喝水」推进运动（「健康のため水を飲もう」推進運動；由推进委员会主办，随着自来水行政的移交，现由国土交通省与环境省主管）的资料，成年男性一天摄入的水**合计约 2.5 升**。拆分如下。
 
 | 途径 | 量 |
 |---|---|
@@ -44,8 +44,10 @@
 
 ### 出处
 
-- 厚生劳动省「为了健康来喝水」推进运动 [「健康のため水を飲もう」推進運動]（PDF）
-  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000087038.pdf
+- 「为了健康来喝水」推进运动 [「健康のため水を飲もう」推進運動]（环境省页面）
+  https://www.env.go.jp/water/water_supply/nomou/index.html
+- 「为了健康来喝水」推进运动 [「健康のため水を飲もう」推進運動]（国土交通省页面）
+  https://www.mlit.go.jp/mizukokudo/watersupply/stf_seisakunitsuite_bunya_topics_bukyoku_kenkou_suido_nomou_index.html
 - 厚生劳动省《日本人的食事摄取基准》[日本人の食事摂取基準]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
 - 环境省 中暑预防信息网站 [熱中症予防情報サイト]

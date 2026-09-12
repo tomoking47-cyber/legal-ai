@@ -9,7 +9,7 @@
 
 ## 内訳
 
-厚生労働省の「健康のため水を飲もう」推進運動の資料によると、成人男性が1日に得る水分は**合計約2.5リットル**。その内訳は——
+「健康のため水を飲もう」推進運動（推進委員会。水道行政の移管に伴い、現在の関係省庁は国土交通省・環境省）の資料によると、成人男性が1日に得る水分は**合計約2.5リットル**。その内訳は——
 
 | 経路 | 量 |
 |---|---|
@@ -45,8 +45,10 @@
 
 ### 出典
 
-- 厚生労働省「健康のため水を飲もう」推進運動（資料PDF）
-  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000087038.pdf
+- 「健康のため水を飲もう」推進運動（環境省ページ）
+  https://www.env.go.jp/water/water_supply/nomou/index.html
+- 「健康のため水を飲もう」推進運動（国土交通省ページ）
+  https://www.mlit.go.jp/mizukokudo/watersupply/stf_seisakunitsuite_bunya_topics_bukyoku_kenkou_suido_nomou_index.html
 - 厚生労働省『日本人の食事摂取基準』
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
 - 環境省 熱中症予防情報サイト

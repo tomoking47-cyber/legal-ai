@@ -12,8 +12,8 @@
 |---|---|---|
 | Benchmark for adults | **60 minutes or more of physical activity a day (about 8,000 steps or more)** | Physical Activity and Exercise Guide for Health Promotion 2023 |
 | Benchmark for older people | **40 minutes or more a day (about 6,000 steps or more)** | Same |
-| Average steps in Japan (men aged 20–64) | **About 6,600** | National Health and Nutrition Survey (2023) |
-| Average steps in Japan (women aged 20–64) | **About 5,700** | Same |
+| Average steps in Japan (men aged 20–64) | **About 8,600** | National Health and Nutrition Survey (2024) |
+| Average steps in Japan (women aged 20–64) | **About 7,300** | Same |
 | Health Japan 21 (third term) target | **Aged 20–64: 8,000 steps; aged 65 and over: 6,000 steps** | MHLW |
 
 "10,000 steps" is generally traced to **the product name of a pedometer launched in 1965** (the *Manpo-kei*, literally "10,000-step meter"). It was never set as a medical threshold.

@@ -42,7 +42,7 @@ Fewer homes are entirely tatami, but single tatami rooms remain common, and thin
 ---
 
 ### Sources
-- Japanese Industrial Standard JIS A 5901 (tatami)
+- Japanese Industrial Standard JIS A 5902 (tatami). JIS A 5901 covers straw tatami-doko (the base layer), not the finished mat
 - Ministry of Land, Infrastructure, Transport and Tourism — housing information
   https://www.mlit.go.jp/jutakukentiku/
 - Tatami industry size references (e.g. Tatamizuki regional size table)

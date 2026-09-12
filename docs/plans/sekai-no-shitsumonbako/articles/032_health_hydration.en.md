@@ -8,7 +8,7 @@
 
 ## The breakdown
 
-According to material from the MHLW's "Drink Water for Your Health" campaign (「健康のため水を飲もう」推進運動), an adult man takes in **a total of about 2.5 litres** of water a day. The breakdown is as follows.
+According to material from the "Drink Water for Your Health" campaign (「健康のため水を飲もう」推進運動; run by its promotion committee, and since the transfer of water-supply administration overseen by the Ministry of Land, Infrastructure, Transport and Tourism and the Ministry of the Environment), an adult man takes in **a total of about 2.5 litres** of water a day. The breakdown is as follows.
 
 | Route | Amount |
 |---|---|
@@ -44,8 +44,10 @@ Watching the colour of your urine and how you feel is generally described as mor
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Drink Water for Your Health" campaign [「健康のため水を飲もう」推進運動] (PDF)
-  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000087038.pdf
+- "Drink Water for Your Health" campaign [「健康のため水を飲もう」推進運動] (Ministry of the Environment page)
+  https://www.env.go.jp/water/water_supply/nomou/index.html
+- "Drink Water for Your Health" campaign [「健康のため水を飲もう」推進運動] (Ministry of Land, Infrastructure, Transport and Tourism page)
+  https://www.mlit.go.jp/mizukokudo/watersupply/stf_seisakunitsuite_bunya_topics_bukyoku_kenkou_suido_nomou_index.html
 - MHLW, *Dietary Reference Intakes for Japanese* [日本人の食事摂取基準]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
 - Ministry of the Environment, Heat Illness Prevention Information site [熱中症予防情報サイト]

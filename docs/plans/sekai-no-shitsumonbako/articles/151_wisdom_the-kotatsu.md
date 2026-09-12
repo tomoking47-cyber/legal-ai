@@ -8,7 +8,7 @@ The heated low table with a quilt is one of the most photographed objects in Jap
 
 ## Why it exists
 
-- Japan's housing stock is **poorly insulated by rich-country standards**: only about **13% of existing homes** met the 1999 energy-saving insulation standard as of 2018 (Ministry of Land, Infrastructure, Transport and Tourism). New homes have been required to meet insulation standards only since **April 2025**.
+- Japan's housing stock is **poorly insulated by rich-country standards**: only about **13% of the roughly 50 million existing homes** met the current energy-saving standard as of FY2019, and about **29% have no insulation at all** (Ministry of Land, Infrastructure, Transport and Tourism). New homes have been required to meet insulation standards only since **April 2025**.
 - Heating the whole house was therefore expensive and leaky. The kotatsu — a **300–600 W** heater under a table, with a quilt to trap the warmth — heats **the people**, allowing the room to stay around **18–20°C**.
 - The Ministry of the Environment's winter guidance ("Warm Biz") recommends a room temperature of **20°C** as a reference.
 
@@ -30,7 +30,7 @@ It is the **main cause of kotatsu-related harm**: dehydration, low-temperature b
 
 ## Misunderstanding 3｜Any table with a heater is a kotatsu
 
-The modern electric type has a **flat heater unit with a guard**; old charcoal or "hori-gotatsu" (sunken pit) types still exist in rural houses and have carbon monoxide risk. Do not improvise one.
+The modern electric type has a **flat heater unit with a guard**. Today's **hori-gotatsu** (sunken pit) are almost always electric too; the carbon monoxide risk belongs to the old **charcoal or briquette** types, not to the sunken format. Do not improvise one.
 
 ## Misunderstanding 4｜The quilt can be any blanket
 

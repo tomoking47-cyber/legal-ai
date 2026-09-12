@@ -42,7 +42,7 @@
 ---
 
 ### 출처
-- 일본 공업 규격 JIS A 5901(다다미)
+- 일본 공업 규격 JIS A 5902(다다미). JIS A 5901은 볏짚 다다미도코(바닥 심재)에 관한 규격이며, 완성된 다다미 자체의 규격은 아닙니다
 - 국토교통성(Ministry of Land, Infrastructure, Transport and Tourism) — 주택 정보
   https://www.mlit.go.jp/jutakukentiku/
 - 다다미 업계 규격 자료(예: Tatamizuki 지역별 규격표)

@@ -44,12 +44,14 @@ Ultrasonic cleaning is **not suitable for pearls, emeralds, opals or glued-in st
 
 ### Sources
 
-- Japan Mint, "Hallmarking of precious-metal products" [独立行政法人造幣局「貴金属製品の品位証明（ホールマーク）」]
-  https://www.mint.go.jp/operations/hallmark
+- Japan Mint, "Hallmarking of precious-metal products" [独立行政法人造幣局「貴金属製品の品位証明」]
+  https://www.mint.go.jp/operations/exam/operations_certification-01.html
+- Japan Mint, "Fineness classes and hallmark symbols for precious-metal products" [独立行政法人造幣局「貴金属製品の品位区分と証明記号」]
+  https://www.mint.go.jp/no-list/operations_certification-02.html
 - National Consumer Affairs Center of Japan, "Skin problems caused by jewellery and accessories" [国民生活センター「アクセサリーによる皮膚障害」]
   https://www.kokusen.go.jp/
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act" [消費者庁「家庭用品品質表示法」]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/
+- Japan Jewellery Association, "Rules on the labelling of materials for jewellery and precious-metal products" (2023 revision) [一般社団法人日本ジュエリー協会「ジュエリーおよび貴金属製品の素材等の表示規定（2023年度改訂版）」]
+  https://jja.ne.jp/books/pdf/kikinzoku2023.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

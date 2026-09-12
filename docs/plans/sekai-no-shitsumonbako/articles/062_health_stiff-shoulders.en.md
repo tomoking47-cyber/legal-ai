@@ -2,19 +2,19 @@
 
 - Shelf: `health` ／ URL: `/en/health/stiff-shoulders` ／ Status: **Draft — English edition, sources unverified**
 
-"Katakori" (肩こり) — stiffness and aching across the shoulders and neck — is a word you will hear constantly in Japan, and many languages have no single equivalent for it. It is not just a figure of speech: the national health survey records it every time as the second most common self-reported symptom in the country.
+"Katakori" (肩こり) — stiffness and aching across the shoulders and neck — is a word you will hear constantly in Japan, and many languages have no single equivalent for it. It is not just a figure of speech: the national health survey records it again and again among the most common self-reported symptoms in the country.
 
-## A. The biggest misunderstanding is "a massage will get rid of it". Katakori ranks second only to low back pain among the symptoms Japanese people report, and it does not have a single cause.
+## A. The biggest misunderstanding is "a massage will get rid of it". Katakori stays among the symptoms Japanese people report most often (in the 2025 survey, 2nd for women and 3rd for men), and it does not have a single cause.
 
 ## "Katakori" in the national statistics
 
-In the Ministry of Health, Labour and Welfare's "2022 Comprehensive Survey of Living Conditions" [国民生活基礎調査], the proportion of people reporting at least one symptom (the "symptom rate") was **276.5 per 1,000 population**. For both men and women, **No. 1 is low back pain and No. 2 is katakori**.
+In the Ministry of Health, Labour and Welfare's "2025 Comprehensive Survey of Living Conditions" [国民生活基礎調査], the proportion of people reporting at least one symptom (the "symptom rate") was **255.7 per 1,000 population** (men 233.2, women 276.7). For both men and women, **No. 1 is low back pain**; **for women katakori is No. 2, while for men No. 2 is frequent urination and katakori is No. 3**.
 
 | | Men | Women |
 |---|---|---|
-| No. 1 Low back pain | **120.0** per 1,000 | **113.8** per 1,000 |
-| No. 2 Stiff shoulders (katakori) | (2nd) | (2nd) |
-| Symptom rate, all symptoms | 246.7 | 304.2 |
+| No. 1 Low back pain | **85.9** per 1,000 | **100.8** per 1,000 |
+| Stiff shoulders (katakori) | **48.3** per 1,000 (3rd) | **89.2** per 1,000 (2nd) |
+| Symptom rate, all symptoms | 233.2 | 276.7 |
 
 A symptom this widespread is unlikely to have a single cause or a single solution — that is what the statistics point to.
 
@@ -44,8 +44,8 @@ The right response differs with the condition. **Do not judge every case the sam
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Summary of the 2022 Comprehensive Survey of Living Conditions" [2022（令和4）年 国民生活基礎調査の概況]
-  https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa22/index.html
+- Ministry of Health, Labour and Welfare, "Summary of the 2025 Comprehensive Survey of Living Conditions" [2025（令和7）年 国民生活基礎調査の概況]
+  https://www.mhlw.go.jp/toukei/saikin/hw/k-tyosa/k-tyosa25/index.html
 - e-Stat, Comprehensive Survey of Living Conditions, Table 98 "Rate of persons with subjective symptoms (per 1,000 population), by age, symptom and sex" [有訴者率（人口千対），年齢・症状・性別]
   https://www.e-stat.go.jp/dbview?sid=0002041040
 - Ministry of Health, Labour and Welfare, "Guidelines for occupational health management in work using information devices" [情報機器作業における労働衛生管理のためのガイドライン]

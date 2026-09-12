@@ -12,7 +12,7 @@ The order in which you take off makeup is one of the steps that decides how much
 2. Take off the **whole face**
 3. Use a **face wash** (if the product says "W洗顔不要", no double cleansing needed, follow that label)
 
-The Japanese Dermatological Association guideline gives twice a day as the guide for face washing and describes over-washing as a strain on the skin. **The take-off step counts as the evening one of those two washes.**
+The Japanese Dermatological Association's Guidelines for the management of acne vulgaris and rosacea 2023 recommend washing the face twice a day for people with acne (the strength of the recommendation is not high). It is not a standard that applies to everyone, but over-washing is consistently described as a strain on the skin. **The take-off step counts as the evening wash.**
 
 ## Why split it up
 
@@ -44,8 +44,9 @@ Wiping is a movement that involves friction. **Whether to use them every day is 
 
 ### Sources
 
-- Japanese Dermatological Association (公益社団法人 日本皮膚科学会), "Dermatology Q&A" [皮膚科Q&A] / Guideline for the management of acne vulgaris [尋常性痤瘡治療ガイドライン]
-  https://www.dermatol.or.jp/qa/
+- Japanese Dermatological Association (公益社団法人 日本皮膚科学会), "For the general public" [一般市民の皆様] / Guidelines for the management of acne vulgaris and rosacea 2023 [尋常性痤瘡・酒皶治療ガイドライン2023]
+  https://www.dermatol.or.jp/public/
+  https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
 - Ministry of Health, Labour and Welfare, "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Notice Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - National Consumer Affairs Center of Japan (独立行政法人 国民生活センター)
