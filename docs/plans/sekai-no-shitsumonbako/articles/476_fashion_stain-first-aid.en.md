@@ -12,7 +12,7 @@ Soy sauce splashed at a restaurant, dressing on a sleeve, a nosebleed on a shirt
 |---|---|---|---|---|
 | **Water-based** | Soy sauce, coffee, tea, juice, wine | Blot with dry paper, then **dab with a handkerchief dampened with water** (hold a tissue against the back) | Apply laundry detergent directly, wait a few minutes, wash | Rubbing, hot water |
 | **Oil-based** | Dressing, chilli oil, meat sauce, lipstick, foundation | **Blot the oil with dry paper.** No water (it spreads) | Work in neat **washing-up liquid (neutral)**, rinse in water at **about 40°C (104°F)**, then wash | Dabbing with water (spreads it) |
-| **Protein** | Blood, egg, milk, sweat | Dampen with **cold water** and dab | Wash in **cold water with detergent.** For dried blood, soak in **oxygen bleach (酸素系漂白剤, sanso-kei hyōhakuzai) in cold water** | **Hot water** (sets the protein) |
+| **Protein** | Blood, egg, milk, sweat | Dampen with **cold water** and dab | Wash in **cold water with detergent.** For dried blood, rub it out in cold water first, then soak in **oxygen bleach (酸素系漂白剤, sanso-kei hyōhakuzai) in water at 40–45°C** | **Hot water** (sets the protein) |
 | **Mixed** | Curry, meat sauce, cosmetics | Blot the oil, then dab with water | Neutral detergent, then oxygen bleach (safe for colours), then wash. The yellow of curry (turmeric) **fades in sunlight** | Chlorine bleach (on colours or prints) |
 | **Mud** | Splashes | **Let it dry** (do not rub while wet) | Once dry, brush off and spot-wash with a bar of soap | Rubbing while wet |
 | **Ink** | Ballpoint pen | Do not touch | Hold rubbing alcohol (消毒用エタノール, sold at drugstores) against the back and dab (test for colour loss first) | Water (it bleeds) |

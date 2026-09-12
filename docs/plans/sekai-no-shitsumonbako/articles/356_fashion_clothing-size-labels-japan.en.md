@@ -11,14 +11,14 @@
 | Label | What it means | Basis |
 |---|---|---|
 | **S / M / L / LL** | **Body-measurement ranges set by JIS L4004 and L4005** (e.g. women's M = bust 79–87 cm, height 154–162 cm) | JIS (a voluntary standard) |
-| **7号 / 9号 / 11号 / 13号** (women) | JIS numbered sizes. **9号 = bust 83 cm, waist 64 cm, hips 91 cm**, the reference figure (**A body type, height 158 cm**) | JIS L4005 |
-| **A / Y / AB / B body** (men's suits) | Body type by **the difference between chest and waist**. **A = 12 cm difference (standard), Y = 16 cm (slim), AB = 10 cm, B = 6 cm** | JIS L4004 |
+| **7号 / 9号 / 11号 / 13号** (women) | JIS single-number sizes. **9号 = bust 83 cm, hips 91 cm**, **R = height 158 cm** (written for example "9R"). **The March 2023 revision of JIS L4005 abolished the A / AB / B / Y body-type divisions** | JIS L4005:2023 |
+| **A / Y / AB / B body** (men's suits) | Body type by **the difference between chest and waist**. **A = 12 cm difference (standard), Y = 16 cm (slim), AB = 10 cm, B = 8 cm, BB = 6 cm**. **The March 2023 revision of JIS L4004 removed the body-type labels altogether**, so they survive only as industry practice | Former JIS L4004:2001 (current: JIS L4004:2023) |
 | **36 / 38 / 40** (womenswear) | Brand labelling **borrowed from the French system**. **Not JIS** |
 | **Actual measurements** (length, chest width, shoulder width, sleeve length) | **The garment measured flat**. **The most reliable guide** | Each maker's own label |
 | **Legal duty** | Under the Household Goods Quality Labelling Act (Japan's labelling law), **size is not compulsory** (fibre composition, care label and the labeller's name are) | Consumer Affairs Agency |
 
 - **JIS classifies body sizes**; **the garment's actual measurements (ease) are each brand's design**. It is normal for **a relaxed brand's S and a slim brand's M** to measure the same.
-- For **returns on online purchases**, Japan's **cooling-off rules do not apply to mail order; return conditions are set by each seller's terms**. **Buying by actual measurements** saves the trouble of returns.
+- For **returns on online purchases**, Japan's **cooling-off rules do not apply to mail order; return conditions are set by each seller's return policy (返品特約)**. **Only where no return policy is shown can you return the item as of right, within 8 days counting from the day it arrives** (you pay the return postage). **Buying by actual measurements** saves the trouble of returns.
 - Conversion charts for visitors are **a rough guide only** (see the English-language sizing article).
 
 > **[Verify]** Check the JIS range values in JIS L4004/L4005 from the Japanese Standards Association. The point about return terms is based on the Consumer Affairs Agency's mail-order material.
@@ -37,7 +37,7 @@ It is brand labelling **borrowed from the French system**, and **not a JIS stand
 
 ## Misunderstanding 4｜Online purchases can be returned if they do not fit
 
-**There is no cooling-off for mail order; returns depend on each seller's terms**. Many shops refuse items that have been **tried on or had the tags removed**. **Check actual measurements and return conditions before buying**.
+**There is no cooling-off for mail order; returns depend on each seller's terms (the return policy, 返品特約)**. However, **if no return policy is shown in the advertisement or on the final order screen, you can return the item within 8 days counting from the day you received it** (you pay the return postage). Many shops refuse items that have been **tried on or had the tags removed**. **Check actual measurements and return conditions before buying**.
 
 ## Misunderstanding 5｜Size labels are required by law
 

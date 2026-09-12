@@ -16,7 +16,7 @@ Japan reports blood glucose in mg/dL (140 mg/dL is about 7.8 mmol/L).
 | **Borderline (impaired glucose tolerance)** | 2-hour value in the 75 g oral glucose tolerance test of **140–199 mg/dL** |
 | **Diabetic range** | 2-hour value **200 mg/dL or above**, or fasting **126 mg/dL or above**, or HbA1c **6.5% or above** |
 | **HbA1c (a marker of average glucose over the past 1–2 months)** | **5.6% or above** qualifies for health guidance under the Specific Health Checkup (特定健診, the metabolic-syndrome check for ages 40–74); **6.0–6.4%** means diabetes cannot be ruled out |
-| **Diabetes in Japan** | **About 10 million** people "strongly suspected of having diabetes" and **about 10 million** "who cannot be ruled out" (National Health and Nutrition Survey 2016) |
+| **Diabetes in Japan** | **About 11 million** people "strongly suspected of having diabetes" and **about 7 million** "who cannot be ruled out" (National Health and Nutrition Survey, FY2024/Reiwa 6, published December 2025) |
 | **The health-check blind spot** | Specific Health Checkups usually measure **only fasting glucose and HbA1c**, so people with post-meal hyperglycaemia alone **can be missed** |
 
 ## Ways to soften the post-meal rise (those with evidence)

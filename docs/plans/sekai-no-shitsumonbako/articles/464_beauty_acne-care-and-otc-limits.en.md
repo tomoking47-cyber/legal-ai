@@ -11,7 +11,7 @@ Acne is a common skin problem: more than 90% of Japanese people are generally de
 | Category | What it can do (legal position) | Suited to |
 |---|---|---|
 | **Cosmetics** | Cleanse the skin and moisturise it | Prevention and daily care |
-| **Quasi-drugs ("medicated", 薬用 yakuyō)** | Claims are limited to "helps prevent acne" and "helps prevent rough skin" (in line with the Ministry of Health, Labour and Welfare's list of 56 permitted claims) | Prevention; daily care for people who get repeated spots |
+| **Quasi-drugs ("medicated", 薬用 yakuyō)** | Claims such as "helps prevent acne" and "helps prevent rough skin" (within the scope of efficacy approved for each individual product; the often-quoted "56 permitted claims" is the scope of efficacy for **cosmetics**, not for quasi-drugs) | Prevention; daily care for people who get repeated spots |
 | **OTC medicines** | Topical products containing ibuprofen piconol, sulphur, resorcinol and similar. Short-term care for mild spots | A few mild red spots |
 | **Dermatology clinic** | Prescriptions such as adapalene, benzoyl peroxide and topical antibiotics. Highly recommended options in the guidelines | Many red spots, marks remaining, lasting more than 3 months |
 
@@ -49,8 +49,8 @@ Acne is a common skin problem: more than 90% of Japanese people are generally de
 
 - Japanese Dermatological Association, "Guidelines for the Management of Acne Vulgaris and Rosacea 2023" [尋常性痤瘡・酒皶治療ガイドライン2023]
   https://www.dermatol.or.jp/dermatol/wp-content/uploads/xoops/files/guideline/zasou2023.pdf
-- Ministry of Health, Labour and Welfare, "Scope of Efficacy or Effects of Quasi-drugs" [医薬部外品の効能又は効果の範囲] (Notice Yakushoku-hatsu 0721 No. 1, 2011)
-  https://www.mhlw.go.jp/
+- Ministry of Health, Labour and Welfare, "Revision of the Scope of Efficacy of Cosmetics" [化粧品の効能の範囲の改正について] (Notice Yakushoku-hatsu 0721 No. 1, 21 July 2011)
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Japanese Dermatological Association, "Dermatology Q&A: Acne" [皮膚科Q&A：にきび]
   https://www.dermatol.or.jp/qa/qa9/
 

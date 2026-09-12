@@ -11,7 +11,7 @@ Japanese homes decorate for the seasons — New Year pine, Girls' Day dolls, Boy
 | Decoration | Display | Take down | Storage notes |
 |---|---|---|---|
 | **New Year: kadomatsu (pine), shimekazari (rope), kagami-mochi** | **From about 26–28 December** (not the 29th — "double suffering" — nor the 31st, "one-night decoration") | **7 January** (Kanto) or 15 January (Kansai); **burned at the shrine's Dondo-yaki bonfire** in mid-January | Not stored; new each year |
-| **Hina dolls (Girls' Day, 3 March)** | **Early February to 3 March** | **Promptly after 3 March** — folklore says late removal delays the daughter's marriage; **on a dry day** | **Air the dolls, wipe with a soft brush, wrap faces in tissue, camphor (not mixed with other repellents), silica gel; paulownia (kiri) boxes**; store **high and dry, not the floor or near a bathroom**; **check once a year in autumn** |
+| **Hina dolls (Girls' Day, 3 March)** | **Early February to 3 March** | **Promptly after 3 March** — folklore says late removal delays the daughter's marriage; **on a dry day** | **Air the dolls, wipe with a soft brush, wrap faces in tissue, a single doll-specific repellent placed near the top of the box and never touching the dolls (camphor or an odourless 人形用 product — never two kinds together), silica gel; paulownia (kiri) boxes**; store **high and dry, not the floor or near a bathroom**; **check once a year in autumn** |
 | **Koinobori (carp streamers) and kabuto (helmet), Boys' Day 5 May** | Mid-April to 5 May | After 5 May | Streamers washed and dried completely; helmet dusted, silica gel |
 | **Tanabata (7 July)** | Bamboo with paper wishes | Same day or next | Bamboo disposed; papers kept or burned |
 | **Summer: wind chimes (fūrin), sudare blinds** | June to September | September | Blinds dried before storage |
@@ -38,7 +38,7 @@ Japanese homes decorate for the seasons — New Year pine, Girls' Day dolls, Boy
 
 ## Misunderstanding 4｜Any moth repellent works for dolls
 
-**Camphor only, not mixed.** Mixed repellents liquefy and stain silk permanently.
+**One doll repellent only, never two types together.** Camphor is the traditional choice; doll makers and the Japan Doll Association now point to odourless doll-specific repellents (人形用). Place it near the top of the box, not touching the dolls — too much, or two kinds mixed, discolours faces and silk.
 
 ## Misunderstanding 5｜A small flat cannot keep a hina set
 

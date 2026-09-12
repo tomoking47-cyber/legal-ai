@@ -15,7 +15,7 @@ The small carved seal pressed in red ink is where Japan signs. Foreigners find i
 | **Everyday seal** | **認印 mitome-in** | **Acknowledging deliveries, internal approvals, minor forms** | None; **ready-made stamps (¥100–500)** with common surnames sold at 100-yen shops | ¥100–1,000 |
 | **Shachihata** | シャチハタ (self-inking) | Same as mitome-in **but not accepted where a proper impression is required** (banks, registration) | — | ¥500–1,500 |
 
-- **The 2020–21 reforms** (Digital Agency / Cabinet Office): seal requirements were removed from **about 14,700 of 14,900 administrative procedures**; the remaining ones are mostly **real-estate and vehicle registration** where the jitsuin and certificate serve as strong identity proof.
+- **The 2020 review** (Cabinet Office regulatory-reform team; the Digital Agency was only created in September 2021): seal requirements were abolished, or set for abolition, in **14,909 of 14,992 administrative procedures — 99.2%, with only 83 kept**; the remaining ones are mostly **real-estate and vehicle registration** where the jitsuin and certificate serve as strong identity proof.
 - **Foreign residents** can register a jitsuin in **katakana, alphabet or kanji** matching the residence card; many municipalities accept alphabet seals. A **signature** is legally valid for most contracts, but **banks and landlords may still ask for a seal** — a mitome-in in katakana (**¥1,000–3,000, made in a day**) removes friction.
 - **Delivery acknowledgement**: since 2020 most couriers accept **a signature or contactless delivery**; the mitome-in by the door is fading.
 - **Security**: the jitsuin and its certificate together can transfer property — **store the jitsuin separately from the certificate card**, and never lend it.
@@ -45,8 +45,8 @@ A registered seal plus municipal certificate is a **two-factor identity check** 
 ---
 
 ### Sources
-- Cabinet Office / Digital Agency — Review of seal requirements in administrative procedures (押印見直し, 2020–21)
-  https://www.digital.go.jp/
+- Cabinet Office, Office for Promotion of Regulatory Reform — Review of seal requirements in administrative procedures (押印見直し, 2020)
+  https://www8.cao.go.jp/kisei-kaikaku/kisei/imprint/
 - Ministry of Internal Affairs and Communications — Seal registration (印鑑登録) guidance for municipalities
   https://www.soumu.go.jp/
 - Ministry of Justice — Real-estate registration and seal certificates (登記・印鑑証明)

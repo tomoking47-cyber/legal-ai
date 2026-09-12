@@ -13,10 +13,10 @@ A jug of cold tea in the fridge is part of every Japanese summer. Barley tea (mu
 | Mugicha (cold-brewed or boiled) | **1–2 days** | Contains **starch and sugars** that feed bacteria |
 | Green tea (cold-brewed) | **1 day** | Catechins are antibacterial, but it must not be left at room temperature |
 | Black tea, rooibos (cold-brewed) | **1–2 days** | As above |
-| Tap water (stored) | **2–3 days refrigerated** (deteriorates once the chlorine is gone) | Tokyo Metropolitan Waterworks Bureau guidance |
+| Tap water (stored) | **About 3 days at room temperature / about 10 days refrigerated** (how long the chlorine keeps its disinfecting effect) | Tokyo Metropolitan Waterworks Bureau guidance |
 
-- A **Tokyo Metropolitan Government study** reported that mugicha **left at room temperature** showed **a large increase in bacterial counts within a few hours**.
-- The Tokyo Metropolitan Waterworks Bureau gives **2–3 days refrigerated** for stored tap water, and **the same day** at room temperature (the chlorine dissipates and the disinfecting effect is lost).
+- A **Tokyo Metropolitan Government study** compared cold-brewed and boiled tea held at different storage temperatures (10°C, 20°C, 37°C): after **48 hours at 37°C the bacterial count was about 1.6 million times** the count just after brewing, while **48 hours at 10°C produced almost no increase**. What matters is **the cleanliness of the container and the storage temperature**, rather than cold-brewing versus boiling.
+- The Tokyo Metropolitan Waterworks Bureau says the chlorine keeps its disinfecting effect for **about 3 days at room temperature out of direct sunlight, and about 10 days in the refrigerator** (store it filled to the brim in a clean lidded container, without passing it through a water purifier or boiling it, and do not drink straight from the container).
 - The **spout and gasket (パッキン, pakkin)** of a bottle or jug are where grime lingers most.
 
 > **[Verify]** Check the figures from the Tokyo mugicha study in the published material of the Tokyo Metropolitan Institute of Public Health, and the stored-water guide in the Tokyo Metropolitan Waterworks Bureau Q&A.
@@ -45,10 +45,10 @@ Just after boiling the bacterial count is low, but **bacteria get in as it cools
 
 ### Sources
 
-- Tokyo Metropolitan Institute of Public Health, "Study on bacterial growth in barley tea" [麦茶の細菌増殖に関する調査]
-  https://www.tmiph.metro.tokyo.lg.jp/
-- Tokyo Metropolitan Waterworks Bureau, "Precautions when storing tap water" [水道水をくみ置きする場合の注意]
-  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shitsu/
+- Tokyo Metropolitan Bureau of Public Health, "Food Safety FAQ: hygiene of cold-brewed tea-bag mugicha" [食品安全FAQ（水出しのティーバッグの麦茶の衛生について）]
+  https://www.hokeniryo.metro.tokyo.lg.jp/anzen/anzen/food_faq/sonota/sonota12
+- Tokyo Metropolitan Waterworks Bureau, "Points to note when storing water" [くみ置く際の留意事項]
+  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shinsai/sonae/kumioki
 - Ministry of Health, Labour and Welfare (MHLW), "Six Points for Preventing Food Poisoning at Home" [家庭でできる食中毒予防の6つのポイント]
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 

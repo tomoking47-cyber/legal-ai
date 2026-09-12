@@ -15,7 +15,7 @@ The bathroom scale is the most familiar health device we own, yet "when should I
 | Frequency | **Every day** is generally described as the best way to notice change in weight management. **Ignore daily ups and downs; look at the weekly average** |
 | Home body-fat % (bioimpedance method) | **Shifts by several % with body water**. Avoid after a bath, exercise or a meal. **Only compare readings taken under the same conditions** |
 | BMI | **Weight (kg) ÷ height (m)²**. Japanese cut-offs: **under 18.5 underweight, 18.5 to under 25 normal, 25 and over obese** |
-| Target | Health Japan 21 (third term) targets **the share of people with a BMI of 18.5–24.9**. **Underweight (especially young women and older people) is also a concern** |
+| Target | Health Japan 21 (third term) targets **the share of people with a BMI of 18.5 or over and under 25 (for those aged 65 and over, over 20 and under 25)**, age-adjusted. **Underweight (especially young women and older people) is also a concern** |
 
 - Home body-composition scales are covered by **JIS standards and the Measurement Act as weighing scales**; body fat and other readings are **estimates** and the devices are not medical devices.
 - The **National Health and Nutrition Survey** shows **about 20% of women in their 20s are underweight (BMI under 18.5)**, a figure the government lists as a national concern. **Undernutrition among older people** is another.
@@ -48,8 +48,8 @@ Home readings are **estimates**. **They shift by several % with hydration**, so 
 
 - Ministry of Health, Labour and Welfare, *Health Japan 21 (third term)* [健康日本21（第三次）] (increase in people maintaining a healthy weight)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kenkounippon21_00006.html
-- Ministry of Health, Labour and Welfare, *Summary of the 2023 National Health and Nutrition Survey* [令和5年 国民健康・栄養調査結果の概要] (BMI distribution)
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- Ministry of Health, Labour and Welfare, *Summary of the 2024 National Health and Nutrition Survey* [令和6年 国民健康・栄養調査結果の概要] (BMI distribution; published 2 December 2025)
+  https://www.mhlw.go.jp/content/10900000/001603146.pdf
 - Ministry of Health, Labour and Welfare, e-Health Net, "BMI"
   https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/ym-002.html
 

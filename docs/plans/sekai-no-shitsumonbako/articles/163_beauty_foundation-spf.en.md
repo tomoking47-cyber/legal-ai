@@ -34,7 +34,7 @@ People in Japan share ways of reapplying over make-up: **a powder foundation or 
 
 ## Misunderstanding 4｜No SPF needed on cloudy days
 
-**On an overcast day about 50–80% of the UV of a clear day still reaches the ground**, according to the Japan Meteorological Agency. UVA also passes through window glass.
+**Taking a clear sky as the baseline, thin cloud still lets through about 80–90% of the UV, overcast cloud about 60%, and rain about 30%**, according to the Japan Meteorological Agency. UVA also passes through window glass.
 
 ## Misunderstanding 5｜Higher SPF is worse for the skin
 
@@ -44,8 +44,10 @@ There is **no direct link** between the SPF value and how irritating a product i
 
 ### Sources
 
-- Japan Cosmetic Industry Association, "SPF Test Method Standard" and "Voluntary Standard on PA Labelling" [SPF測定法基準／PA表示に関する自主基準]
-  https://www.jcia.org/user/business/spf
+- Japan Cosmetic Industry Association, "SPF Test Method Standard" [SPF測定法基準]
+  https://www.jcia.org/user/business/guideline/spf
+- Japan Cosmetic Industry Association, "UV Protection (voluntary standard on SPF and PA labelling)" [紫外線防止／PA表示に関する自主基準]
+  https://www.jcia.org/user/business/guideline/uvprotection
 - Japan Meteorological Agency, "Basic knowledge about UV (UV on cloudy days)" [紫外線に関する基礎知識]
   https://www.data.jma.go.jp/gmd/env/uvhp/3-40uvb.html
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]

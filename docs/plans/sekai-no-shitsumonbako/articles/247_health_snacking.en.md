@@ -11,8 +11,8 @@ Whether snacking is a bad habit divides opinion in every country. In Japan the g
 | Item | Details | Source |
 |---|---|---|
 | Guide for sweets and sweetened drinks | **About 200 kcal a day** | Food Balance Guide (MHLW and Ministry of Agriculture, Forestry and Fisheries) |
-| What 200 kcal looks like | **Half a bar of chocolate (about 25 g)**, **one dorayaki (red-bean pancake)**, **a third of a bag of crisps (about 35 g)**, **two cans of sweetened coffee**, **3–4 senbei (rice crackers)** | Standard Tables of Food Composition in Japan |
-| People who snack every day | **About 60% of adults** (various surveys) | — |
+| What 200 kcal looks like | **About 35 g of chocolate (roughly two-thirds of a 50 g bar)**, **one dorayaki (red-bean pancake)**, **about 35 g of crisps (a little over half a 60 g bag)**, **about three cans of sweetened coffee**, **3 senbei (rice crackers)** | Standard Tables of Food Composition in Japan |
+| People who snack | **About 70% of adults** (men about 60%, women about 80%); **about 20% snack every day** (private survey) | MyVoice, "Survey on snacking" [間食に関するアンケート調査] |
 | Sugar guide | WHO: **free sugars below 10% of total energy (ideally below 5%)** | WHO |
 
 | Smarter choices | Examples |

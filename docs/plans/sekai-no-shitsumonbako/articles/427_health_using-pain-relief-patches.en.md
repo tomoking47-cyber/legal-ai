@@ -12,7 +12,7 @@ Medicated patches (湿布, shippu) are Japan's most familiar painkiller. Every h
 |---|---|
 | **Cooling vs warming** | **A difference in sensation** (menthol = cooling; capsaicin or nonivamide = warming). **Skin temperature barely changes.** The usual split is **cooling for acute pain (right after a knock or sprain), warming for chronic stiffness** (a matter of preference) |
 | **Anti-inflammatory painkillers (first generation)** | **Methyl salicylate, glycol salicylate**: mild pain. Mostly **Class 3 OTC medicines** (Japan's lowest-risk over-the-counter category) |
-| **Anti-inflammatory painkillers (second generation)** | **Diclofenac, loxoprofen, felbinac, indometacin, ketoprofen**: stronger. **Class 2 OTC medicines.** **Daily limit on the number of patches** (e.g. loxoprofen: once a day, up to 2 patches) |
+| **Anti-inflammatory painkillers (second generation)** | **Diclofenac, loxoprofen, felbinac, indometacin, ketoprofen**: stronger. **Class 2 OTC medicines.** **The daily limit on patches differs by product and size** (e.g. loxoprofen tape: once a day, up to 4 standard-size, 2 L-size or 8 mini-size patches. **Avoid using them continuously for 2 weeks or more**) |
 | **Photosensitivity** | **Ketoprofen** (and some felbinac products etc.) can cause **a rash or dermatitis if the patched area is exposed to sunlight** (**take care for about 4 weeks after removal too**). **Follow the label and cover the area outdoors** |
 | **How long to wear** | Per the product label (**8–12 hours, or once a day**). **Leaving a patch on too long causes dermatitis** |
 | **Who and where not to use** | **Late pregnancy (NSAID-containing products), a history of asthma, skin with wounds or eczema, under 15 (some products)** — check the label |

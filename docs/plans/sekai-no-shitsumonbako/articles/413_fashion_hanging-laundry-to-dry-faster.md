@@ -59,8 +59,8 @@
 
 - 日本石鹸洗剤工業会「洗濯のQ&A（干し方・部屋干し）」
   https://jsda.org/w/index.html
-- 一般財団法人家電製品協会「洗濯・乾燥のコツ」
-  https://www.aeha.or.jp/
+- 一般財団法人家電製品協会「家電製品を正しく使っていますか？」（洗濯機・衣類乾燥機）
+  https://www.aeha.or.jp/safety/use/
 - 消費者庁「洗濯表示（令和6年8月20日以降）」（乾燥の記号）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 

@@ -4,13 +4,13 @@
 
 "Should I wash vegetables with detergent?", "Does washing remove pesticide residues?" and "Do pre-cut vegetables need washing?" are asked in every country. Japan even sells dedicated "vegetable wash" products, and many Japanese dish detergents list "vegetables and fruit" among their uses. Here we explain how Japan's food-safety and pesticide-residue systems work.
 
-## A. The biggest misunderstanding is "pesticide residues are frightening, so vegetables must be washed with detergent or a special product." Produce sold in Japan falls under the pesticide-residue limits of the Positive List system, and the guidance from the Ministry of Health, Labour and Welfare (MHLW) and the Ministry of Agriculture, Forestry and Fisheries (MAFF) is to wash carefully under running water. The purpose of washing is to remove soil, insects and micro-organisms (food-poisoning bacteria); detergent is not needed. Pre-cut vegetables are already washed, though many people give them a quick rinse before eating them raw. Follow the label.
+## A. The biggest misunderstanding is "pesticide residues are frightening, so vegetables must be washed with detergent or a special product." Produce sold in Japan falls under the pesticide-residue limits of the Positive List system, and the guidance from the Consumer Affairs Agency (CAA), the Ministry of Agriculture, Forestry and Fisheries (MAFF) and others is to wash carefully under running water. The purpose of washing is to remove soil, insects and micro-organisms (food-poisoning bacteria); detergent is not needed. Pre-cut vegetables are already washed, though many people give them a quick rinse before eating them raw. Follow the label.
 
 ## What to base your judgement on
 
 | Item | Detail | Source |
 |---|---|---|
-| The residue system | **Positive List system (since 2006)**: **food carrying pesticide residues above the limit may not be sold.** **Limits are based on the amount that can be eaten every day for life without effect (ADI)** | MHLW; Food Safety Commission |
+| The residue system | **Positive List system (since May 2006)**: **food carrying pesticide residues above the limit may not be sold.** **Limits are set within the range of the Food Safety Commission's assessment (acceptable daily intake, ADI, and acute reference dose, ARfD)** | Consumer Affairs Agency; Food Safety Commission |
 | Why we wash | **To remove soil, dust, insects and micro-organisms (O157, Salmonella, etc.).** **Pesticide residues are within the limits, so running water is enough** | MHLW; MAFF |
 | Detergent | **Not needed.** **Food-grade detergent (labelled for vegetables and fruit) can be used, but rinse residue is a concern.** **Most Japanese dish detergents list "vegetables and fruit" as a use**, but MAFF's guidance is running water | Same |
 | How to wash | **About 30 seconds under running water, rubbing.** **Leafy greens one leaf at a time; remove soil from the root end.** **Swish in a bowl of water, then rinse under the tap** | Same |
@@ -49,8 +49,8 @@
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Pesticide residues in food (Positive List system)" [食品中の残留農薬（ポジティブリスト制度）]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/zanryu/index.html
+- Consumer Affairs Agency, "Pesticide residues and the like in food" [食品中の残留農薬等] (transferred from MHLW in April 2024)
+  https://www.caa.go.jp/policies/policy/standards_evaluation/pesticide_residues
 - Ministry of Agriculture, Forestry and Fisheries, "Washing vegetables and pesticide residues (Consumer Room Q&A)" [野菜の洗い方と残留農薬（消費者の部屋Q&A）]
   https://www.maff.go.jp/j/heya/
 - Food Safety Commission of Japan, "Safety assessment of pesticide residues (ADI)" [残留農薬の安全性評価（ADI）]

@@ -14,11 +14,11 @@ In Japan, ear cleaning is an established habit, and the bamboo ear pick (耳か�
 | Natural clearance | **Jaw movement (talking, eating) moves the skin of the ear canal outwards, carrying the wax with it** | Same |
 | How often to clean | **Basically unnecessary.** If you do: **once or twice a month, no deeper than about 1 cm from the opening, gently with a soft cotton bud after a bath** | Same |
 | Types of earwax | **Dry (about 70–80% of Japanese people)** and **wet** (genetic). Wet wax builds up more easily and is better removed at an ENT clinic | Same |
-| Problems | **Cotton bud pushes wax deeper → impacted earwax (blockage)**; **ear pick scratches the canal → outer-ear infection (otitis externa)**; **child moves → perforated eardrum** | Same; Consumer Affairs Agency |
+| Problems | **Cotton bud pushes wax deeper → impacted earwax (blockage)**; **ear pick scratches the canal → outer-ear infection (otitis externa)**; **child moves → perforated eardrum** | Same; National Consumer Affairs Center of Japan |
 | Removal at an ENT clinic | **Covered by health insurance** (earwax removal). **A few minutes, painless** | — |
 | When to see a doctor | **Muffled hearing, a blocked feeling, pain, itching that continues, discharge** | — |
 
-- **The Consumer Affairs Agency** warns that **children's eardrums are being perforated during ear cleaning (the child moved, was bumped, or a sibling poked)**. **Children move, so take them to an ENT clinic (耳鼻科, jibika).**
+- **The National Consumer Affairs Center of Japan** warns that **children's eardrums are being perforated during ear cleaning (the child moved, was bumped, or a sibling poked)**. **Children move, so take them to an ENT clinic (耳鼻科, jibika).**
 - **Ear-pick culture**: the bamboo mimikaki with its fluffy bonten tuft is a Japanese household item, but **ENT doctors advise "do not touch a place you cannot see with a hard tool."** **The skin of the ear canal is thin, and infection through a scratch (otitis externa)** is common.
 - **People who wear earphones or hearing aids for long hours** are **more likely to push wax in, and humidity can lead to otitis externa**. **Keep them clean and take them out now and then.**
 
@@ -48,12 +48,12 @@ In Japan, ear cleaning is an established habit, and the bamboo ear pick (耳か�
 
 ### Sources
 
-- Oto-Rhino-Laryngological Society of Japan, *Earwax and ear cleaning* [耳あか（耳垢）と耳掃除]
-  https://www.jibika.or.jp/owned/hp/
-- Consumer Affairs Agency, *Beware of accidents during ear cleaning (perforated eardrums in children)* [耳掃除中の事故に注意（子どもの鼓膜損傷）]
-  https://www.caa.go.jp/policies/policy/consumer_safety/child/
-- Ministry of Health, Labour and Welfare, e-Health Net, *Ear health* [耳の健康]
-  https://kennet.mhlw.go.jp/information/information/index.html
+- Oto-Rhino-Laryngological Society of Japan, *Earwax* (childhood conditions) [耳垢（こどもの病気）]
+  https://www.jibika.or.jp/modules/disease_kids/index.php?content_id=2
+- National Consumer Affairs Center of Japan, *Don't let your guard down! Ear cleaning — it can lead to unexpected accidents* [油断しないで！耳掃除−思わぬ事故につながることも−] (25 February 2016)
+  https://www.kokusen.go.jp/news/data/n-20160225_2.html
+- Ministry of Health, Labour and Welfare, e-Health Net, *Sensory organs and related topics* [感覚器など]
+  https://kennet.mhlw.go.jp/information/information/sensory-organ.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

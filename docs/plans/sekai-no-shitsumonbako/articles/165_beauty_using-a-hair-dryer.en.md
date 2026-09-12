@@ -49,8 +49,8 @@ A final blast of cool air **settles the opened surface, adding shine and hold.**
   https://www.nite.go.jp/jiko/chuikanki/
 - Ministry of Economy, Trade and Industry, "Electrical Appliance and Material Safety Act (PSE)" [電気用品安全法]
   https://www.meti.go.jp/policy/consumer/seian/denan/
-- Japanese Dermatological Association, "Dermatology Q&A — Hair disorders" [皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- Japanese Dermatological Association, "Dermatology Q&A" [皮膚科Q&A]
+  https://www.dermatol.or.jp/qa/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

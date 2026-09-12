@@ -11,7 +11,7 @@ Carrying a heavy bag on one shoulder every day is discussed worldwide as a cause
 | Item | Detail | Source |
 |---|---|---|
 | Guide weight for a bag | **10–15% of body weight or less** (for children **10% or less** is given as an international guideline) | American Academy of Pediatrics; orthopaedic guidance in various countries |
-| Randoseru | Average **about 4–6 kg** (textbooks and tablet included). Can exceed **20% of a first-year pupil's body weight**; in 2018 the Ministry of Education (MEXT) issued a notice allowing **"oki-ben" (置き勉, leaving textbooks at school)** | MEXT (the notice); the weights come from private surveys |
+| Randoseru | A private survey puts the average at **about 3.9 kg** with the contents in (2025 survey: down for the second year running and under 4 kg for the first time; 2024 was about 4.13 kg). Even so it can come to **around 20% of a first-year pupil's body weight**; in 2018 the Ministry of Education (MEXT) issued a notice allowing **"oki-ben" (置き勉, leaving textbooks at school)** | MEXT (the notice); the weight is from the Footmark survey (2025) |
 | Commuter bag | Often **3–5 kg** with laptop, water bottle and papers | — |
 | Effect of one-shoulder carrying | **The shoulder rises, the neck and shoulder muscles tense**, **the trunk tilts**. One factor in **stiff shoulders and headaches** | Standard orthopaedic explanation |
 | Fixes | **Alternate sides**, **backpack (both shoulders)**, **cross-body strap held close to the body**, **shorten the strap (bag above the hips)** | As above |
@@ -47,7 +47,7 @@ Carrying a heavy bag on one shoulder every day is discussed worldwide as a cause
 ### Sources
 
 - Ministry of Education, Culture, Sports, Science and Technology (MEXT), "On consideration for items carried by pupils and students" (administrative notice, 6 September 2018) [文部科学省「児童生徒の携行品に係る配慮について」（平成30年9月6日 事務連絡）]
-  https://www.mext.go.jp/a_menu/shotou/new-cs/
+  https://www.mext.go.jp/a_menu/shotou/keikohin/__icsFiles/afieldfile/2018/09/06/1408967_001_1.pdf
 - Japanese Orthopaedic Association, "Stiff shoulders and posture" [公益社団法人日本整形外科学会「肩こり・姿勢」]
   https://www.joa.or.jp/public/sick/
 - Consumer Affairs Agency, "Safety of children's school bags (randoseru)" [消費者庁「子どもの通学用かばん（ランドセル）の安全」]

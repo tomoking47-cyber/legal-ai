@@ -14,11 +14,11 @@ In Japan, top-loading machines (縦型, tategata) are the norm and front-loading
 | Cleaning | **Strong on mud, sebum and ground-in soil** | Generally described as **strong on sebum, but slightly weaker on mud and solid dirt** |
 | Wear on clothes | **More friction** (pilling, colour loss → see the laundry-net article) | **Less friction** |
 | Water use | **About 100–150 L per cycle** | **About 60–90 L per cycle** (without drying) |
-| Drying | **Mostly heater type, high electricity cost** (about ¥30–50 per cycle), creases easily | **Mostly heat-pump type, low electricity cost** (about ¥15–30 per cycle); **if you will use the dryer every day, choose a drum** |
+| Drying | **Mostly heater type, high electricity cost** (about ¥60–70 per cycle), creases easily | **Mostly heat-pump type, low electricity cost** (about ¥20–30 per cycle); **if you will use the dryer every day, choose a drum** |
 | Price of the machine | **Cheaper** (¥50,000–150,000) | **Dearer** (¥150,000–300,000) |
 | Installation | **Shallow, about 60 cm wide**. **Loaded from the top** | **Deeper and wider**; check the **space for the door to swing** and the **size of the drip tray (防水パン, bōsui pan — the plastic tray under the machine in most Japanese homes)**. **Loaded from the front (easier on the back)** |
 | Cleaning the machine | Tub-clean cycle (see the article on the washing tub) | **Mould behind the rubber door seal**, filters |
-| Share in Japan | **About 70%** (2020s) | **About 30% and rising** |
+| Share in Japan | **About 75%** (FY2024) | **About 25% and rising** (drum-type washer-dryer shipments hit a record high for the fifth year running) |
 
 - The **Agency for Natural Resources and Energy's "Energy-saving performance catalogue"** lets you **compare annual electricity and water use model by model**. **Whether you use the dryer** makes the biggest difference to electricity costs.
 - **Heat-pump drying (drum)** works at a **low temperature of about 60°C** and is gentle on clothes; **heater drying (common in top-loaders)** runs hot and shrinks clothes more easily (see the dryer article).
@@ -50,8 +50,8 @@ Measure beforehand: **the drip tray, the tap height, the delivery route (stairs,
 
 ### Sources
 
-- Association for Electric Home Appliances (AEHA), "How to choose a washing machine (top-loader / drum)" [洗濯機の選び方（縦型・ドラム式）]
-  https://www.aeha.or.jp/
+- Association for Electric Home Appliances (AEHA), "Are you using your home appliances correctly?" (washing machines) [家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 - Agency for Natural Resources and Energy, "Energy-saving performance catalogue (washing machines and washer-dryers)" [省エネ性能カタログ（洗濯機・洗濯乾燥機）]
   https://seihinjyoho.go.jp/
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）]

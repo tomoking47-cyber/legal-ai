@@ -25,7 +25,7 @@ Potatoes and onions are staples of the Japanese kitchen, but the same failures c
 
 ## Why potatoes do not belong in the fridge
 
-- The Ministry of Agriculture, Forestry and Fisheries (MAFF) explains that **at low temperatures (5°C or below) sugars (reducing sugars) increase**, so potatoes **burn more easily when fried or roasted, and more acrylamide (a harmful substance formed by heating) is produced**. Bringing them back to room temperature for **about a week** reduces the sugars.
+- The Ministry of Agriculture, Forestry and Fisheries (MAFF) explains that **at low temperatures (below 8°C) sugars (reducing sugars) increase**, so potatoes **burn more easily when fried or roasted, and more acrylamide (a harmful substance formed by heating) is produced**. Bringing them back to room temperature for **about a week** reduces the sugars.
 - In summer (room temperature above 25°C) the vegetable drawer is unavoidable. In that case, **wrap in newspaper and loosely close a plastic bag**, and use the potatoes for **simmered or steamed dishes**.
 
 > **[Verify]** Check the number of solanine-poisoning cases and the symptoms against MAFF and Ministry of Health, Labour and Welfare (MHLW) materials, and the acrylamide explanation against the relevant MAFF page.

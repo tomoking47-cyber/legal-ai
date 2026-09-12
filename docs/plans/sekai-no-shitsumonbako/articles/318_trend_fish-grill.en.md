@@ -41,7 +41,7 @@ The fish grill built into a Japanese gas hob is the fitting that makes visitors 
 
 ## Misunderstanding 5｜Foil can line any grill
 
-**Foil in the drip tray of a water-type grill stops the water evaporating properly and can let oil touch the flame directly**; **some models forbid it**. **Check the instruction manual.** **If you line the rack with foil, punch holes so the oil drains.**
+**Foil in the drip tray can stop the temperature sensor working correctly and let trapped oil residue smoke or catch fire**, and **blocking the air inlet or outlet can cause incomplete combustion (carbon monoxide) or overheating**; **some models forbid it**. **Check the instruction manual.** **If you line the rack with foil, punch holes so the oil drains.**
 
 ---
 

@@ -51,8 +51,8 @@
 
 - 公益財団法人日本眼科学会「ドライアイ」（目の病気）
   https://www.nichigan.or.jp/public/disease/
-- 厚生労働省「情報機器作業における労働衛生管理のためのガイドライン」（令和元年）
-  https://www.mhlw.go.jp/content/000539604.pdf
+- 厚生労働省「情報機器作業における労働衛生管理のためのガイドライン」（令和元年7月12日策定・令和3年12月1日一部改正）
+  https://www.mhlw.go.jp/content/000580827.pdf
 - 日本OTC医薬品協会「目薬の正しい使い方」
   https://www.jsmi.jp/
 

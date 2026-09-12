@@ -46,8 +46,10 @@
 
 ### 出处
 
-- 家电制品协会 [家電製品協会]「电饭煲的正确使用方法（保温与保养）」[炊飯器の上手な使い方（保温・お手入れ）]
-  https://www.aeha.or.jp/
+- 日本电机工业会（JEMA）「电饭煲的原理／把米饭煮得好吃的 7 个方法／使用注意事项」[炊飯器の仕組み／お米をおいしく炊く７つの方法／使用上のご注意]
+  https://www.jema-net.or.jp/living/suihanki/about.html
+- 家电制品协会 [家電製品協会]「节能家电 de 智慧生活：有助于节能的电饭煲使用要点」[省エネ家電 de スマートライフ：省エネにつながる炊飯器の使い方ポイント]
+  https://shouene-kaden2.net/try/point_use/rice_cooker.html
 - 资源能源厅 [資源エネルギー庁]「家庭节能彻底指南」[家庭の省エネ徹底ガイド]（电饭煲保温）
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 制品评价技术基盘机构（NITE）[製品評価技術基盤機構]「电饭煲的事故（煮饭以外的烹调等）」[炊飯器の事故（炊飯以外の調理等）]

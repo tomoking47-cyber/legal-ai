@@ -2,9 +2,9 @@
 
 - Shelf: `trend` ／ URL: `/en/trend/dishwashing-and-dishwashers` ／ Status: **Draft — English edition, sources unverified**
 
-Washing up is a daily chore, and every country argues about whether hand-washing saves water, whether dishwashers leave things dirty, and how much pre-rinsing is needed. In Japan only about 30% of homes have a dishwasher, far below Europe and North America, and rented flats often have no space for one. Here we set out both the hand-washing know-how and the right way to use a dishwasher.
+Washing up is a daily chore, and every country argues about whether hand-washing saves water, whether dishwashers leave things dirty, and how much pre-rinsing is needed. In Japan just under 40% of homes have a dishwasher (37.3% as of March 2025), far below Europe and North America, and rented flats often have no space for one. Here we set out both the hand-washing know-how and the right way to use a dishwasher.
 
-## A. The biggest misunderstanding is "hand-washing saves more water and energy than a dishwasher." By the Agency for Natural Resources and Energy's estimate, hand-washing in a basin uses about 40–80 L of water per session, while a dishwasher (for five people) uses about 10 L, and once hot-water costs are included the dishwasher usually works out cheaper. For hand-washing the key points are "wash in a basin, wear rubber gloves, do not overuse hot water"; for a dishwasher, "pre-rinse only to remove scraps", "use dishwasher detergent" and "load it properly".
+## A. The biggest misunderstanding is "hand-washing saves more water and energy than a dishwasher." By the Agency for Natural Resources and Energy's estimate, hand-washing under a running tap uses about 65 L of water per session, while a dishwasher (for five people) uses about 7.5–11 L, and once hot-water costs are included the dishwasher usually works out cheaper. For hand-washing the key points are "wash in a basin, wear rubber gloves, do not overuse hot water"; for a dishwasher, "pre-rinse only to remove scraps", "use dishwasher detergent" and "load it properly".
 
 ## In numbers (Agency for Natural Resources and Energy estimates)
 
@@ -13,7 +13,7 @@ Washing up is a daily chore, and every country argues about whether hand-washing
 | Water per session (5 people) | **About 40–80 L** (under a running tap) | **About 10–12 L** |
 | Annual utility cost (incl. hot water) | **About ¥25,000** (running tap at 40°C (104°F)) | **About ¥17,000** (electricity + water) |
 | Washing temperature | **Around 40°C** (as hot as hands can bear) | **60–80°C** (high heat helps with grease and bacteria) |
-| Ownership rate (Japan) | — | **About 30%** (60–70% in Europe and North America) |
+| Ownership rate (Japan) | — | **37.3%** (March 2025, Cabinet Office Consumer Confidence Survey; around 70% in Europe and North America, about 75% in Germany) |
 
 ## Hand-washing: the key points
 

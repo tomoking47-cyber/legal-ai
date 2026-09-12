@@ -17,7 +17,7 @@ Since Japan made plastic checkout bags chargeable in July 2020, reusable shoppin
 | Insulated bags | **Wipe the aluminium lining with a disinfectant wipe or diluted detergent, then dry**. Also wipe **condensation from ice packs** | — |
 | When to replace | **Dark stains inside, smell, fraying seams** | — |
 
-- Since **checkout bags became chargeable in July 2020**, **about 80% of shoppers bring their own bag** (Ministry of the Environment survey). Meanwhile, private surveys find that **around half have "never washed" theirs**.
+- Since **checkout bags became chargeable in July 2020**, **71.9% of people used no plastic checkout bag during the previous week's shopping** (Ministry of the Environment survey, November 2020; **51.9% said they "always carry a reusable bag"**). Meanwhile, private surveys find that **around half have "never washed" theirs**.
 - A **US study (2010, University of Arizona and others; industry-funded, and its interpretation has been criticised)** reported that **bacteria were found in most reusable bags in use, and that washing removed almost all of them**. In Japan, **the Tokyo Metropolitan Government and others have issued hygiene advice** too.
 - An insulated bag **left in a car boot gets very hot in summer, and bacteria multiply easily**. **Empty it and dry it as soon as you get home**.
 
@@ -49,10 +49,10 @@ Since Japan made plastic checkout bags chargeable in July 2020, reusable shoppin
 
 - Ministry of Health, Labour and Welfare (MHLW), "Six points for preventing food poisoning at home" [家庭でできる食中毒予防の6つのポイント] (shopping and carrying food home)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
-- Ministry of the Environment, "Survey on chargeable checkout bags (rate of bringing your own bag)" [レジ袋有料化に関する調査（マイバッグ持参率）]
+- Ministry of the Environment, "Let's All Cut Back: The Plastic Bag Challenge" (survey results) [みんなで減らそう レジ袋チャレンジ]
   https://plastics-smart.env.go.jp/rejibukuro-challenge/
-- Tokyo Metropolitan Government Bureau of Public Health, "Food Hygiene Window — points on shopping and storage" [食品衛生の窓　買い物・保存の注意]
-  https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
+- Tokyo Metropolitan Government Bureau of Public Health, "Food Hygiene Window" [食品衛生の窓]
+  https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

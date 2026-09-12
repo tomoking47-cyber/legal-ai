@@ -45,8 +45,8 @@ PE保鮮膜**在約110℃就可能熔化**，即使是PVDC保鮮膜，在**含�
 
 ### 出處
 
-- 厚生勞動省《食品用器具、容器包裝的正面表列制度》[食品用器具・容器包装のポジティブリスト制度]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
+- 消費者廳《關於食品用器具、容器包裝的正面表列制度（2025年6月1日以後）》[食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）]
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
 - 消費者廳《微波爐的安全使用方法》[電子レンジの安全な使い方]（消費者提醒）
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 日本聚烯烴薄膜工業組合 [日本ポリオレフィンフィルム工業組合] 及各廠商《保鮮膜使用方法Q&A》[ラップの使い方Q&A]

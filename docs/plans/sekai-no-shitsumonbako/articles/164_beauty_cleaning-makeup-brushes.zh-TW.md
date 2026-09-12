@@ -45,8 +45,8 @@
 
 ### 出處
 
-- 日本國民生活中心《化妝品引起的皮膚障礙相關諮詢》[化粧品による皮膚障害に関する相談]
-  https://www.kokusen.go.jp/
+- 日本國民生活中心《化妝品的危害（各類諮詢的件數與趨勢）》[化粧品の危害（各種相談の件数や傾向）]
+  https://www.kokusen.go.jp/soudan_topics/data/cosmetic_harm.html
 - 日本化粧品工業聯合會《化妝品的正確使用方式》[化粧品の正しい使い方]
   https://www.jcia.org/user/public/
 - 日本皮膚科學會《皮膚科 Q&A》[皮膚科Q&A]

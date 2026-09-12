@@ -34,7 +34,7 @@
 
 ## 误解4｜阴天不需要防晒
 
-据日本气象厅，**阴天时仍有晴天约 50～80% 的紫外线到达地面。** UVA 还能穿透窗玻璃。
+据日本气象厅，**以晴天为基准，薄云天仍有约 80～90%、阴天约 60%、雨天也有约 30% 的紫外线到达地面。** UVA 还能穿透窗玻璃。
 
 ## 误解5｜SPF 越高对皮肤越不好
 
@@ -44,8 +44,10 @@ SPF 数值与产品的刺激性之间**没有直接关联。** 在意刺激的�
 
 ### 出处
 
-- 日本化妆品工业联合会《SPF 测定法基准》《PA 表示相关自主基准》[SPF測定法基準／PA表示に関する自主基準]
-  https://www.jcia.org/user/business/spf
+- 日本化妆品工业联合会《SPF 测定法基准》[SPF測定法基準]
+  https://www.jcia.org/user/business/guideline/spf
+- 日本化妆品工业联合会《紫外线防护（SPF・PA 表示相关自主基准）》[紫外線防止／PA表示に関する自主基準]
+  https://www.jcia.org/user/business/guideline/uvprotection
 - 日本气象厅《紫外线的基础知识（阴天的紫外线）》[紫外線に関する基礎知識]
   https://www.data.jma.go.jp/gmd/env/uvhp/3-40uvb.html
 - 环境省《紫外线环境保健手册 2020》[紫外線環境保健マニュアル2020]

@@ -4,7 +4,7 @@
 
 Your face and scalp rest on a pillow for 6–8 hours every night, so it collects skin oil, sweat and dandruff. Even so, many people have never washed the pillow itself. Whether it can be washed depends on the filling, so here is how to read the label and how often to wash. Pillows sold in Japan carry a wide range of fillings, some of which will be unfamiliar.
 
-## A. Wash the pillowcase once a week, and the pillow itself once every 2–3 months if the filling allows. Polyester fibre, plastic pipe and bead fillings can mostly be washed, but memory foam (low-resilience urethane), feather and down, and buckwheat hulls (そばがら, sobagara) either cannot be washed or have limits, so always check the care label. For pillows that cannot be washed, air them in the sun or in the shade to drive out moisture, and put a "pillow pad" (枕パッド, makura paddo) under the cover to keep dirt off. Once a pillow has flattened and no longer springs back, it is time to replace it whatever the filling (1–3 years).
+## A. Wash the pillowcase once a week, and the pillow itself once every 2–3 months if the filling allows. Polyester fibre, plastic pipe and bead fillings can mostly be washed, but memory foam (low-resilience urethane), feather and down, and buckwheat hulls (そばがら, sobagara) either cannot be washed or have limits, so always check the care label. For pillows that cannot be washed, air them in the sun or in the shade to drive out moisture, and put a "pillow pad" (枕パッド, makura paddo) under the cover to keep dirt off. Once a pillow has flattened and no longer springs back, it is time to replace it; as a guide that is **1–5 years** depending on the filling.
 
 ## Washing by filling type
 
@@ -53,8 +53,8 @@ Your face and scalp rest on a pillow for 6–8 hours every night, so it collects
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Tokyo Metropolitan Institute of Public Health (東京都健康安全研究センター), "Measures against mites (ecology and control of indoor mites)"
   https://www.tmiph.metro.tokyo.lg.jp/
-- Japan Bedding Goods Association (全日本寝具寝装品協会), "Caring for bedding"
-  https://www.jbsa.jp/
+- Japan Bedding Association, JBA (一般社団法人日本寝具寝装品協会), "Caring for bedding"
+  https://www.jba210.jp/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

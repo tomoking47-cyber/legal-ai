@@ -51,8 +51,8 @@ With more screen time, an estimated 20 million people in Japan complain of dry o
 
 - Japanese Ophthalmological Society, *Dry eye* (Eye diseases) [ドライアイ（目の病気）]
   https://www.nichigan.or.jp/public/disease/
-- Ministry of Health, Labour and Welfare, *Guidelines on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (2019)
-  https://www.mhlw.go.jp/content/000539604.pdf
+- Ministry of Health, Labour and Welfare, *Guidelines on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (issued 12 July 2019; partially revised 1 December 2021)
+  https://www.mhlw.go.jp/content/000580827.pdf
 - Japan Self-Medication Industry (the OTC medicines association) [日本OTC医薬品協会], *How to use eye drops correctly* [目薬の正しい使い方]
   https://www.jsmi.jp/
 

@@ -53,8 +53,8 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本肥皂洗涤剂工业会（JSDA）「洗涤问答（洗衣网）」[洗濯のQ&A（洗濯ネット）]
   https://jsda.org/w/index.html
-- 家电制品协会（AEHA）「洗衣机的正确使用方法」[洗濯機の上手な使い方]
-  https://www.aeha.or.jp/
+- 家电制品协会（AEHA）「您正确使用家电产品了吗？」（洗衣机）[家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

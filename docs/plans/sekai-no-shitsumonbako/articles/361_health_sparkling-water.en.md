@@ -10,10 +10,10 @@ Unsweetened sparkling water (炭酸水, tansansui) took off in Japan in the 2010
 
 | Item | Details |
 |---|---|
-| pH of unsweetened sparkling water | **About 4.5–5.5** (weakly acidic). Cola and similar drinks are **about 2.5–3**; lemon juice is **about 2** |
-| Teeth | **Enamel is generally described as starting to dissolve at a pH of about 5.5.** Unsweetened sparkling water sits near that boundary, and **the scale of its effect differs from fizzy drinks with sugar and citric acid**. The general dental advice is **do not hold it in your mouth for long, and drink water afterwards** |
+| pH of unsweetened sparkling water | **Roughly 4–5** (weakly acidic; it varies with the product and how strong the carbonation is). Cola and similar drinks are **about 2.5–3**; lemon juice is **about 2** |
+| Teeth | **Enamel is generally described as starting to dissolve at a pH of about 5.5**, and **unsweetened sparkling water sits below that**, but **the scale of its effect differs from fizzy drinks with sugar and citric acid**. The general dental advice is **do not hold it in your mouth for long, and drink water afterwards** |
 | Bone | **No evidence has been confirmed that carbonation itself lowers bone density.** Past studies linked cola consumption with bone density, but **phosphoric acid, caffeine and cola replacing milk** are described as the factors |
-| Hydration | **If unsweetened, it counts the same as water.** It falls **within the scope of the MHLW's "Drink Water for Your Health" campaign** (Ministry of Health, Labour and Welfare) |
+| Hydration | **If unsweetened, it counts the same as water.** It falls **within the thinking of the "Drink Water for Your Health" campaign, run since April 2024 by the Ministry of the Environment and the Ministry of Land, Infrastructure, Transport and Tourism** |
 | Stomach | Carbonation **expands the stomach and gives a temporary feeling of fullness**. Studies find that **a large amount before a meal reduces food intake**, while **a small amount stimulates appetite** (varies by person) |
 | Labels | **"炭酸水" (tansansui, sparkling water) is unsweetened**; **"炭酸飲料" (tansan inryō, carbonated drink) usually contains sugar, flavourings and acidulants**. **A "lemon flavour" product is still sparkling water if it is unsweetened** |
 
@@ -47,8 +47,8 @@ Unsweetened sparkling water (炭酸水, tansansui) took off in Japan in the 2010
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, *"Drink Water for Your Health" campaign* [「健康のため水を飲もう」推進運動]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/nomou/index.html
+- Ministry of the Environment / Ministry of Land, Infrastructure, Transport and Tourism, *"Drink Water for Your Health" campaign* [「健康のため水を飲もう」推進運動] (water-supply administration transferred from the MHLW in April 2024)
+  https://www.env.go.jp/water/water_supply/nomou/index.html
 - Japan Dental Association, *Q&A on Dental and Oral Health (dental erosion)* [歯とお口の健康Q&A（酸蝕症）]
   https://www.jda.or.jp/
 - Consumer Affairs Agency, *Food Labelling Standards* [食品表示基準] (labelling of carbonated drinks and sugars)

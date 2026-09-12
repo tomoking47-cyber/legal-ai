@@ -46,8 +46,10 @@
 
 ### 出典
 
-- 一般財団法人家電製品協会「炊飯器の上手な使い方（保温・お手入れ）」
-  https://www.aeha.or.jp/
+- 一般社団法人日本電機工業会（JEMA）「炊飯器の仕組み／お米をおいしく炊く７つの方法／使用上のご注意」
+  https://www.jema-net.or.jp/living/suihanki/about.html
+- 一般財団法人家電製品協会「省エネ家電 de スマートライフ：省エネにつながる炊飯器の使い方ポイント」
+  https://shouene-kaden2.net/try/point_use/rice_cooker.html
 - 資源エネルギー庁「家庭の省エネ徹底ガイド」（炊飯器の保温）
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 独立行政法人製品評価技術基盤機構（NITE）「炊飯器の事故（炊飯以外の調理等）」

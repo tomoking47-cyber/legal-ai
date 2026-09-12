@@ -16,7 +16,7 @@
 | Enzyme face wash (酵素洗顔, kōso sengan) | Protein-digesting enzymes | Once or twice a week | Go easy if your skin dries out easily |
 
 - The stratum corneum is generally described as **about 0.02 mm** thick, with cells renewing on a cycle of **roughly 28 days** (longer with age). **Removing too much means outrunning that cycle.**
-- The effects a cosmetic may claim are within the 56 items, such as **"removes old dead skin cells" and "smooths the skin"**. **"Normalises skin turnover" cannot be said of a cosmetic under the Pharmaceuticals and Medical Devices Act (Japan's cosmetics and drugs law).**
+- The effects a cosmetic may claim are within the 56 items, such as **"smooths the skin"** (item 32). **"Removes old dead skin cells" is not itself one of the 56 items** — it is treated as a physical cleansing claim resting on item 17, "cleanses the skin (by removing dirt)". **"Normalises skin turnover" cannot be said of a cosmetic under the Pharmaceuticals and Medical Devices Act (Japan's cosmetics and drugs law).**
 - **Chemical peels at a medical clinic** are a medical procedure; the concentrations and purpose differ from cosmetic products.
 
 > **[Verify]** The thickness and renewal cycle of the stratum corneum are general dermatology descriptions; check against Japanese Dermatological Association materials. The 56 items are in MHLW notice Yakushoku-hatsu 0721 No. 1.

@@ -45,8 +45,8 @@ PE 랩은 **약 110℃에서 녹을 수 있고**, PVDC 랩이라도 **기름진 
 
 ### 출처
 
-- 후생노동성 「식품용 기구·용기포장의 포지티브 리스트 제도」[食品用器具・容器包装のポジティブリスト制度]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
+- 소비자청 「식품용 기구·용기포장의 포지티브 리스트 제도에 대하여(2025년 6월 1일 이후)」[食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）]
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
 - 소비자청 「전자레인지의 안전한 사용법」[電子レンジの安全な使い方](소비자 주의 정보)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 일본 폴리올레핀 필름 공업조합 [日本ポリオレフィンフィルム工業組合] 및 각 제조사 「랩 사용법 Q&A」[ラップの使い方Q&A]

@@ -4,18 +4,18 @@
 
 "Do not brush for 30 minutes after eating." "Japanese people hardly floss." Tooth-brushing habits differ from country to country, and opinions split on forums abroad too. Here is what the Japan Dental Association, the Ministry of Health, Labour and Welfare (MHLW) and Japan's "8020 Campaign" (keep 20 of your own teeth at age 80) say.
 
-## A. The biggest misunderstanding is "brushing straight after a meal wears your teeth down, so avoid it." The Japan Dental Association (JDA) says you may brush straight after an ordinary meal. Only after acidic food or drink (fizzy drinks, citrus, vinegar) does it suggest rinsing with water and waiting a little. Floss and interdental brushes remove debris between the teeth where a toothbrush cannot reach. Only about 40% of people in Japan use them, and once a day is recommended to help prevent gum disease.
+## A. The biggest misunderstanding is "brushing straight after a meal wears your teeth down, so avoid it." The Japan Dental Association (JDA) says you may brush straight after an ordinary meal. Only after acidic food or drink (fizzy drinks, citrus, vinegar) does it suggest rinsing with water and waiting a little. Floss and interdental brushes remove debris between the teeth where a toothbrush cannot reach. About 50% of people in Japan have used them (54.2% in the 2024 survey), and once a day is recommended to help prevent gum disease.
 
 ## Numbers and guidelines
 
 | Item | Detail | Source |
 |---|---|---|
-| Brushing frequency | About 80% of adults brush **twice a day or more** (about 30% after every meal) | Survey of Dental Diseases (2022) |
+| Brushing frequency | About 80% brush **twice a day or more** (**82.0%** in the 2024 survey) | Survey of Dental Diseases (2024) |
 | Brushing straight after eating | **Fine after an ordinary meal.** **After acidic food or drink (fizzy drinks, citrus, vinegar, wine), rinse with water and wait about 30 minutes** as a guideline | Japan Dental Association |
-| Floss and interdental brushes | **Used by about 40%.** **A toothbrush alone is generally described as removing only about 60% of the debris between the teeth**; **once a day (at night)** is recommended | Same |
+| Floss and interdental brushes | **About 50% have used them (54.2% in the 2024 survey).** **A toothbrush alone is generally described as removing only about 60% of the debris between the teeth**; **once a day (at night)** is recommended | Same |
 | Replacing your toothbrush | **Once a month** (before the bristles splay) | Same |
 | Toothpaste | **Fluoride toothpaste (1,450 ppm; the upper limit was raised in 2017).** **After brushing, rinse once with a small amount of water** (to leave the fluoride on the teeth) | MHLW; Japanese Society for Oral Health |
-| 8020 Campaign | **20 or more teeth at age 80.** Achieved by **about 51%** (2022) | MHLW |
+| 8020 Campaign | **20 or more teeth at age 80.** Achieved by **about 61.5%** (2024) | MHLW |
 | Check-ups | **A dental check-up once or twice a year.** **The dental check-up rate is a target in Health Japan 21** (the national health-promotion plan) | MHLW |
 
 - **The "do not brush for 30 minutes" idea** comes from research on **brushing enamel softened by acid (erosion)**. **The JDA's position is "no need to worry after an ordinary meal; take care only straight after acidic food or drink."**
@@ -48,7 +48,7 @@ This causes **damaged gums and worn tooth necks (wedge-shaped defects at the gum
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, *Survey of Dental Diseases 2022* [令和4年 歯科疾患実態調査]
+- Ministry of Health, Labour and Welfare, *Survey of Dental Diseases 2024* (published June 2025) [令和6年 歯科疾患実態調査]
   https://www.mhlw.go.jp/toukei/list/62-17.html
 - Japan Dental Association, *Teeth and Oral Health Q&A (timing of brushing, floss)* [歯とお口の健康Q&A（歯みがきのタイミング・フロス）]
   https://www.jda.or.jp/

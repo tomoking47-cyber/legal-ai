@@ -11,7 +11,7 @@ Dried foods (乾物, kanbutsu) are the foundation of the Japanese kitchen and id
 | Dried food | Unopened | Once opened | Caution | Rehydrating |
 |---|---|---|---|---|
 | **Kombu (dried kelp)** | Room temperature, 1 year or more | **Sealed, cool dark place, 1 year** | **The white powder on the surface is mannitol (umami): do not wipe it off.** Goes mouldy in humidity | 30 minutes to overnight in water (see the dashi article) |
-| **Dried shiitake** | Room temperature, 1 year | **Sealed, fridge or freezer** (insects, humidity) | **Fluffy white = mould; white crystals (tyrosine, etc.) are harmless.** If in doubt, throw it out | **Overnight in cold water (draws out the umami)** |
+| **Dried shiitake** | Room temperature, 1 year | **Sealed, fridge or freezer** (insects, humidity) | **Fluffy white is usually aerial mycelium from the mushroom itself and harmless.** **Green, black or bluish powder or stains, and any off smell, are mould.** If in doubt, throw it out | **Overnight in cold water (draws out the umami)** |
 | **Dried sardines (niboshi), bonito flakes** | Room temperature | **Fridge or freezer** (fats go rancid) | Rancid ones turn yellow and smell fishy | — |
 | **Dried wakame, hijiki** | Room temperature | **Sealed, room temperature.** 1 year | Humidity | 5–10 minutes in water (wakame swells to 10 times or more) |
 | **Nori (seaweed sheets)** | Room temperature | **Sealed with a desiccant, or in the fridge** (humidity dulls the flavour) | If it goes limp, **toast it lightly** | — |
@@ -22,7 +22,7 @@ Dried foods (乾物, kanbutsu) are the foundation of the Japanese kitchen and id
 
 - **Mites in flour**: cases have been reported of **opened wheat flour, okonomiyaki mix and similar being kept at room temperature for long periods, mites breeding in them, and the eater developing allergic symptoms** (National Consumer Affairs Center of Japan). **Once opened, seal, refrigerate and use soon.**
 - **The best-before date on dried food** is a **guide for the unopened pack**; **once opened, humidity, oxidation and insects shorten it.** **Write the purchase date on the container.**
-- **The white powder on kombu (mannitol)** is **an umami compound: do not wash it off.** **Powdery white on dried shiitake** is **harmless if it is tyrosine crystals, but fluffy patches or spots are mould.**
+- **The white powder on kombu (mannitol)** is **an umami compound: do not wash it off.** **Fluffy white on dried shiitake** is **usually the mushroom's own mycelium (aerial mycelium) and harmless; green, black or bluish powder or stains, and any off smell, are mould.**
 
 > **[Verify]** Check the flour-mite cases with the National Consumer Affairs Center, and the storage guidelines against the dried-food trade bodies and MAFF material.
 
@@ -32,11 +32,11 @@ Dried foods (乾物, kanbutsu) are the foundation of the Japanese kitchen and id
 
 ## Misunderstanding 2｜Wash the white powder off kombu
 
-**It is umami (mannitol).** **Do not wipe it; put it straight into the dashi.**
+**It is umami (mannitol).** **Do not wash it off.** **If the surface looks dirty, at most wipe it lightly with a well-wrung damp cloth.**
 
 ## Misunderstanding 3｜Anything white on dried shiitake is mould
 
-**Crystals are harmless; fluffy patches and spots are mould.** **If you cannot tell, throw it out.** **Prevent it with the fridge or freezer.**
+**Fluffy white is usually harmless aerial mycelium; green, black or blue powder or stains, and any off smell, are mould.** **If you cannot tell, throw it out.** **Prevent it with the fridge or freezer.**
 
 ## Misunderstanding 4｜Flour can live on the pantry shelf
 

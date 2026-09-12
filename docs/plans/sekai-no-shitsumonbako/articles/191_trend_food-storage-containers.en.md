@@ -4,7 +4,7 @@
 
 With the spread of batch cooking (tsukurioki, 作り置き), storage containers have become a fixture of the Japanese kitchen. "Is plastic dangerous?" and "Can glass take anything?" are questions asked in every country. Here we set out how Japan regulates food utensils and containers, and what each material is good and bad at.
 
-## A. The biggest misunderstanding is "some materials are safer than others." Food containers sold in Japan have been under a positive-list system since 2020, so if you use them as labelled, a safety gap between materials is not the starting point. Where they do differ is heat tolerance, transfer of smells and colours, weight, and whether they can go in the microwave or dishwasher.
+## A. The biggest misunderstanding is "some materials are safer than others." Food containers made of **synthetic resin (plastic)** sold in Japan have been covered by the positive-list system since 2020 (glass, ceramics and metals are outside it and come under separate standards), so if you use them as labelled, a safety gap between materials is not the starting point. Where they do differ is heat tolerance, transfer of smells and colours, weight, and whether they can go in the microwave or dishwasher.
 
 ## The rules, and how the materials compare
 
@@ -45,10 +45,10 @@ A seal only **prevents drying out and smell transfer**; **what stops food going 
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Positive-list system for food utensils and containers/packaging" [食品用器具・容器包装のポジティブリスト制度]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
-- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Quality labelling rules for miscellaneous industrial goods (synthetic-resin products)" [家庭用品品質表示法　雑貨工業品品質表示規程（合成樹脂加工品）]
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- Consumer Affairs Agency, "About the positive-list system for food utensils and containers/packaging (from 1 June 2025)" [食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）]
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
+- Consumer Affairs Agency, "Household Goods Quality Labelling Act — Quality labelling rules for synthetic-resin products (utensils for eating, table use or kitchen use)" [家庭用品品質表示法　合成樹脂加工品品質表示規程（食事用・食卓用又は台所用の器具）]
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/resinous/
 - Tokyo Metropolitan Bureau of Public Health, "Food Hygiene Window — Utensils and containers/packaging" [食品衛生の窓　器具・容器包装]
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

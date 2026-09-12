@@ -4,15 +4,15 @@
 
 Japan's health system lets you walk into almost any medical institution without a referral. That freedom feeds the misunderstanding that you should head straight for a big hospital. Knowing how the system works — the family doctor (かかりつけ医, kakaritsuke-i), referral letters and the #7119 emergency advice line — makes getting care faster and cheaper.
 
-## A. The biggest misunderstanding is "the bigger the hospital, the better the care." In Japan, going to a hospital with 200 beds or more without a referral letter adds a "selected medical care" charge of ¥7,000 or more at the first visit. The basic order is: first your local clinic (kakaritsuke-i), a referral if needed, #7119 if you are unsure, and 119 for an emergency.
+## A. The biggest misunderstanding is "the bigger the hospital, the better the care." In Japan, going without a referral letter to a special functioning hospital, or to a regional medical support hospital or a referral-focused medical institution with 200 or more general beds, adds a "selected medical care" charge of ¥7,000 or more at the first visit (from about ¥7,700 including tax). The basic order is: first your local clinic (kakaritsuke-i), a referral if needed, #7119 if you are unsure, and 119 for an emergency.
 
 ## How the system works
 
 | Item | Details |
 |---|---|
 | **Kakaritsuke-i (family doctor)** | A nearby **clinic** (診療所 or クリニック). Everyday care, health advice, and referrals when needed |
-| **Big hospital without a referral letter** | At **special functioning hospitals (特定機能病院) and regional medical support hospitals with 200 beds or more**, a "selected medical care" charge of **¥7,000 or more for a first visit and ¥3,000 or more for a repeat visit** (since October 2022; not covered by insurance) |
-| **#7119 (Emergency Advice Centre)** | Phone advice **when you are unsure whether to call an ambulance**. Nurses and doctors answer. **Covers about 90% of the population nationwide** (2024) |
+| **Big hospital without a referral letter** | At **special functioning hospitals (特定機能病院), regional medical support hospitals with 200 or more general beds, and referral-focused medical institutions with 200 or more general beds**, a "selected medical care" charge of **¥7,000 or more for a first visit and ¥3,000 or more for a repeat visit** (medical care, before tax; since October 2022; not covered by insurance) |
+| **#7119 (Emergency Advice Centre)** | Phone advice **when you are unsure whether to call an ambulance**. Nurses and doctors answer. **Run in 37 areas nationwide, covering about 80% of the population (79.1%)** (as of May 2025) |
 | **#8000** | Night and holiday phone advice on **children's symptoms** (paediatric emergency phone line) |
 | **119** | **Unconsciousness, abnormal breathing, chest pain, sudden severe headache, slurred speech** — call without hesitating |
 | Holidays and nights | **Municipal holiday and night emergency clinics** (休日夜間急患センター) and **on-duty doctors** (当番医; listed on municipal websites and in newspapers) |
@@ -29,7 +29,7 @@ Japan's health system lets you walk into almost any medical institution without 
 
 ## Misunderstanding 2｜Ambulances are free, so call one when unsure
 
-Ambulances are free, but **call-outs reached about 7.6 million in 2023 (a record)**, and the Fire and Disaster Management Agency flags that **about half are for minor conditions**. **If unsure, call #7119** and ask for **a judgement on urgency**. **If it is a real emergency, call 119 without hesitating.**
+Ambulances are free, but **call-outs ran to about 7.69 million in 2025 (provisional; the record is about 7.72 million in 2024)**, and the Fire and Disaster Management Agency flags that **about half are for minor conditions**. **If unsure, call #7119** and ask for **a judgement on urgency**. **If it is a real emergency, call 119 without hesitating.**
 
 ## Misunderstanding 3｜No need to pick a family doctor
 

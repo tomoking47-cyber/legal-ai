@@ -12,7 +12,7 @@
 |---|---|
 | Legal basis | **Household Goods Quality Labelling Act (Textile Goods Quality Labelling Regulations)**: **fibre composition (%), care label and the labeller's name** are compulsory |
 | Composition | **Fibre name and percentage**, **largest first**, e.g. **"綿 全量" (all cotton), "ポリエステル65% 綿35%" (polyester 65%, cotton 35%)**. **Lining and filling are labelled separately** |
-| Exceptions | **Range labelling such as "wool 90% or more"**; **fibres under 5% may be grouped as "other" (その他)** |
+| Exceptions | **Range labelling such as "wool 90% or more"**; **where two or more fibres each come to under 10% of the blend, they may be shown together as "other" (その他) with their combined percentage** (embroidery and decorative threads may be left out of the composition altogether if they are 5% or less of the whole) |
 | Designated terms | **Cotton (綿), linen/hemp (麻), wool (毛), silk (絹), rayon, cupro, polyester, nylon, acrylic, polyurethane** and so on: **the names fixed by law** must be used (**"コットン" and "ウール" may be added in brackets**) |
 
 ## Main fibres and their properties

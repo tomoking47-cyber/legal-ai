@@ -4,7 +4,7 @@
 
 作り置き文化の広がりで、保存容器は日本の台所の主役になりました。「プラスチックは危ないのか」「ガラスは何でも入れられるのか」という質問は各国で共通です。日本の器具・容器の規制と、素材ごとの得意・不得意を整理します。
 
-## A. 最大の誤解は「素材に優劣がある」です。日本で販売される食品用の容器は2020年からポジティブリスト制度の下にあり、表示どおりに使えば素材による安全性の差は前提になりません。差が出るのは、耐熱温度・においや色の移り・重さ・電子レンジや食洗機の可否です。
+## A. 最大の誤解は「素材に優劣がある」です。日本で販売される**合成樹脂（プラスチック）製**の食品用容器は2020年からポジティブリスト制度の対象で（ガラス・陶磁器・金属などは対象外で、別の規格基準が適用されます）、表示どおりに使えば素材による安全性の差は前提になりません。差が出るのは、耐熱温度・においや色の移り・重さ・電子レンジや食洗機の可否です。
 
 ## 制度と素材の比較
 
@@ -45,10 +45,10 @@
 
 ### 出典
 
-- 厚生労働省「食品用器具・容器包装のポジティブリスト制度」
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
-- 消費者庁「家庭用品品質表示法　雑貨工業品品質表示規程（合成樹脂加工品）」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/zakka/
+- 消費者庁「食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）」
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
+- 消費者庁「家庭用品品質表示法　合成樹脂加工品品質表示規程（食事用・食卓用又は台所用の器具）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/resinous/
 - 東京都保健医療局「食品衛生の窓　器具・容器包装」
   https://www.hokeniryo.metro.tokyo.lg.jp/shokuhin/
 

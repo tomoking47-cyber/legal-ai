@@ -59,8 +59,8 @@ How to hang laundry is one of the household tasks Japan has refined most, and vi
 
 - Japan Soap and Detergent Association (JSDA), "Laundry Q&A (hanging and indoor drying)" [洗濯のQ&A（干し方・部屋干し）]
   https://jsda.org/w/index.html
-- Association for Electric Home Appliances (AEHA), "Tips for washing and drying" [洗濯・乾燥のコツ]
-  https://www.aeha.or.jp/
+- Association for Electric Home Appliances (AEHA), "Are you using your home appliances correctly?" (washing machines and clothes dryers) [家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [洗濯表示（令和6年8月20日以降）] (drying symbols)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 

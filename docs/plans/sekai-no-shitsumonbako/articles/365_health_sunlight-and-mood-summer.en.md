@@ -32,7 +32,7 @@
 
 ## Misunderstanding 3｜On a cloudy day neither UV nor heat is a problem
 
-**Under cloud, UV is still 50–80% of a clear day** (Japan Meteorological Agency). **Humid, cloudy days also bring many cases of heatstroke** (sweat does not evaporate).
+**Under thin cloud about 80–90% of the UV of a clear sky still reaches you, and under cloud about 60%** (Japan Meteorological Agency). **Humid, cloudy days also bring many cases of heatstroke** (sweat does not evaporate).
 
 ## Misunderstanding 4｜Sunglasses prevent eye fatigue
 
@@ -50,8 +50,8 @@
   https://www.env.go.jp/content/900410650.pdf
 - Ministry of the Environment, *Heatstroke Prevention Information Site* [熱中症予防情報サイト]
   https://www.wbgt.env.go.jp/
-- Japan Meteorological Agency, *Basic knowledge about ultraviolet rays* [紫外線に関する基礎知識]
-  https://www.data.jma.go.jp/gmd/env/uvhp/3-40uvb.html
+- Japan Meteorological Agency, *What ultraviolet rays are (Basic knowledge about ultraviolet rays)* [紫外線とは（紫外線に関する基礎知識）]
+  https://www.jma.go.jp/jma/kishou/know/env/uvhp/3-40uv.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

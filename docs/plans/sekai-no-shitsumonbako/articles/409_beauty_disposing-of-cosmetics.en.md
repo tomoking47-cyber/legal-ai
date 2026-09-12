@@ -19,7 +19,7 @@ Half-used cosmetics, old sunscreen, nail polish, aerosol cans — many people ar
 | **Hair dye** | Do not mix parts 1 and 2; **soak each into paper and put in burnable waste** | Containers sorted by material | Mixing causes a reaction and heat |
 | **Unopened or barely used, still fresh** | Consider **reuse (collection boxes, donation)** | — | Some shops and organisations collect them |
 
-- **Fires in collection trucks and at waste plants caused by aerosol cans** have prompted repeated warnings from the Ministry of the Environment, which asks people to **"use up the contents" and "follow the municipality's instructions"**. **Puncture cans outdoors, away from any flame** (and do not puncture at all where the municipality says not to).
+- **Fires in collection trucks and at waste plants caused by aerosol cans** have prompted repeated warnings from the Ministry of the Environment, which asks people to **"use up the contents" and "follow the municipality's instructions"**. **A December 2018 notice from the Ministry asked municipalities nationwide to handle cans without puncturing them, and most municipalities now say not to puncture**. **Only where your municipality asks you to puncture, do it outdoors, away from any flame**.
 - **Pouring cosmetics down the drain** is out because **oils, silicones and fragrances add to the load on sewage treatment**, and **nail polish and remover are flammable**.
 - **Recycling cosmetic containers**: **in-store collection by makers (refill pouches and empty containers)** is spreading.
 

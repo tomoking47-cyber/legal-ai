@@ -53,8 +53,8 @@ The laundry net (洗濯ネット, sentaku netto — a zipped mesh washing bag) i
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Japan Soap and Detergent Association (JSDA), "Laundry Q&A (laundry nets)" [洗濯のQ&A（洗濯ネット）]
   https://jsda.org/w/index.html
-- Association for Electric Home Appliances (AEHA), "Using your washing machine well" [洗濯機の上手な使い方]
-  https://www.aeha.or.jp/
+- Association for Electric Home Appliances (AEHA), "Are you using your home appliances correctly?" (washing machines) [家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

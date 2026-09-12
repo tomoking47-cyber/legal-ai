@@ -11,7 +11,7 @@ The feeling that "taking a break is slacking" runs deep in Japanese workplaces, 
 | Item | Details | Basis |
 |---|---|---|
 | Statutory breaks | **At least 45 minutes for working time over 6 hours; at least 60 minutes for over 8 hours.** **Taken during the working day, and free for the worker to use as they wish** | Labour Standards Act, Article 34 |
-| Display-screen work | **No more than 1 hour of continuous work, with a 10–15-minute pause between blocks**, plus **1–2-minute micro-breaks during the work** | MHLW Guideline on Work with Information Devices (2019) |
+| Display-screen work | **No more than 1 hour of continuous work, with a 10–15-minute pause between blocks**, plus **1–2-minute micro-breaks during the work** | MHLW Guideline on Work with Information Devices (2019; partially revised December 2021) |
 | Sitting | **Stand up once every 30 minutes to 1 hour** | Physical Activity Guide 2023 (sedentary behaviour) |
 | Eyes | **Every 20 minutes, look 6 m away for 20 seconds** (the 20-20-20 rule, a guide used abroad); **step away from the screen at least once an hour** | General advice from ophthalmologists |
 | Lunch break | **If you nap, keep it to 15–30 minutes, early in the afternoon** | Sleep Guide 2023 |
@@ -19,7 +19,7 @@ The feeling that "taking a break is slacking" runs deep in Japanese workplaces, 
 
 - **The law requires that break time be "free to use as the worker wishes".** **A lunch break spent covering the phones** may not count as a break.
 - The idea that **concentration lasts about 90 minutes at most** (the "ultradian rhythm") is well known, but **individual variation is large**, and **the guideline's once-an-hour is the practical yardstick**.
-- **Japan's paid-leave take-up rate was about 65% (2023)**, against a government target of 70%. **Reluctance to "rest"** shows up in how breaks are taken too.
+- **Japan's paid-leave take-up rate was 66.9% (2024, 2025 General Survey on Working Conditions)**, a record high. The government target is **70% by 2028 (Reiwa 10)**. **Reluctance to "rest"** shows up in how breaks are taken too.
 
 > **[Verify]** Check the wording of the Labour Standards Act, the figures in the Guideline on Work with Information Devices, and the paid-leave take-up rate against the latest year of the MHLW's General Survey on Working Conditions.
 
@@ -49,9 +49,9 @@ The feeling that "taking a break is slacking" runs deep in Japanese workplaces, 
 
 - Ministry of Health, Labour and Welfare, *Labour Standards Act — Breaks (Article 34)* [労働基準法　休憩（第34条）]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/
-- Ministry of Health, Labour and Welfare, *Guideline on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (2019)
-  https://www.mhlw.go.jp/content/000539604.pdf
-- Ministry of Health, Labour and Welfare, *2023 General Survey on Working Conditions* [令和5年 就労条件総合調査] (annual paid-leave take-up rate)
+- Ministry of Health, Labour and Welfare, *Guideline on Occupational Health Management for Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (issued July 2019; partially revised 1 December 2021)
+  https://www.mhlw.go.jp/content/000580827.pdf
+- Ministry of Health, Labour and Welfare, *2025 General Survey on Working Conditions* [令和7年 就労条件総合調査] (2024 annual paid-leave take-up rate = 66.9%)
   https://www.mhlw.go.jp/toukei/list/11-23.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

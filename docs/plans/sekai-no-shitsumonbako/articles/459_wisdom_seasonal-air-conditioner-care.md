@@ -20,7 +20,7 @@ Almost every Japanese room has its own wall-mounted air conditioner, used for co
 
 - The **smell** is **mould on the heat exchanger and fan**, fed by condensation that stays wet after cooling stops. **Drying the interior after use** is the single most effective preventive measure; "internal clean" modes exist for this.
 - **Spray-can "air-conditioner cleaners"** are widely sold but **manufacturers advise against them**: residue reaches electrical parts and the fan, and **fires have been reported** (NITE). Leave the inside to professionals.
-- **Filter neglect** raises electricity use by **5–10%** and reduces cooling (Agency for Natural Resources and Energy).
+- **Filter neglect** raises electricity use by **about 4% in cooling and 6% in heating** — clean it every two weeks (Ministry of the Environment / Agency for Natural Resources and Energy).
 - **Life**: **about 10–15 years**; the **design standard use period** label is 10 years (see the warranty article).
 
 > **[Verify]** Energy figures with the Agency for Natural Resources and Energy; spray-cleaner incidents with NITE and manufacturer advisories.

@@ -10,11 +10,11 @@ The market for home light-based (IPL) hair-removal devices has grown in Japan, a
 
 | Class | Who | How it works | What it can do | Legal status |
 |---|---|---|---|---|
-| **Medical laser hair removal** | **Doctors and nurses (medical institution)** | High-output laser destroys the follicle | **Permanent hair removal** (suppresses regrowth long-term) | **Medical procedure** (MHLW notice, 2001) |
+| **Medical laser hair removal** | **Doctors (nurses only under a doctor's instruction)** | High-output laser destroys the follicle | **Permanent hair removal** (suppresses regrowth long-term) | **Medical procedure** (MHLW notice, 2001; the August 2025 notice "Handling of cosmetic medicine" sets out illegal cases) |
 | **Salon light hair removal** | Beauticians | Lower-output light (IPL etc.) | **Hair reduction** (not permanent) | Illegal if it destroys the follicle. **The words "permanent hair removal" may not be used** |
 | **Home light device** | You | Light at still lower output | **Hair removal and reduction** | **General goods (雑貨, zakka — neither a medical device nor a quasi-drug)** |
 
-- The Consumer Affairs Agency and the National Consumer Affairs Center of Japan have received reports of **burns, blisters, pigmentation and eye pain from home devices**, and **have issued warnings since 2019**. Most cases were caused by **ignoring the interval between sessions, using the device on forbidden areas (parts of the face, mucous membranes, moles, freshly tanned skin), or turning the output up too high**.
+- The Consumer Affairs Agency and the National Consumer Affairs Center of Japan have received reports of **burns, blisters, pigmentation and eye pain from salon hair-removal treatments and home devices**; **on 11 May 2017 the National Consumer Affairs Center issued a warning, "Harm from hair-removal treatments is not going away"** (964 cases in the roughly five years to February 2017). Most cases were caused by **ignoring the interval between sessions, using the device on forbidden areas (parts of the face, mucous membranes, moles, freshly tanned skin), or turning the output up too high**.
 - **Problems with salon hair removal** are also reported continuously, and **claims of "permanent hair removal" or "equivalent to medical" are regarded as problematic under the Act against Unjustifiable Premiums and Misleading Representations and the Medical Care Act**.
 - **Use on the VIO area (the Japanese term for the bikini line and intimate area) and on the face is forbidden by some products.** Products carry instructions about **protective goggles and shielding the eyes**.
 
@@ -45,7 +45,9 @@ That is **the main cause of burns, blisters and pigmentation**. Follow **the man
 ### Sources
 
 - Ministry of Health, Labour and Welfare (MHLW), "Handling of hair removal and similar acts by persons without a medical licence" [医師免許を有しない者による脱毛行為等の取扱いについて] (Iseii-hatsu No. 105, 8 November 2001)
-  https://www.mhlw.go.jp/web/t_doc?dataId=00tb2224&dataType=1
+  https://www.mhlw.go.jp/web/t_doc?dataId=00ta6731&dataType=1&pageNo=1
+- Ministry of Health, Labour and Welfare (MHLW), "Handling of cosmetic medicine" [美容医療に関する取扱いについて] (Isei-hatsu 0815 No. 21, 15 August 2025)
+  https://www.mhlw.go.jp/web/t_doc?dataId=00tc9325&dataType=1&pageNo=1
 - Consumer Affairs Agency, "Beware of accidents with home hair-removal devices" [家庭用脱毛器による事故に注意]
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - National Consumer Affairs Center of Japan, "Harm from salon and home hair removal" [エステ・家庭用脱毛器による危害]

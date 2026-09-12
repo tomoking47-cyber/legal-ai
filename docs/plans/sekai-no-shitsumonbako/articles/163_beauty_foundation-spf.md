@@ -34,7 +34,7 @@
 
 ## 誤解4｜曇りの日はSPFなしでよい
 
-**曇天でも紫外線は晴天の50〜80%程度届く**とされます（気象庁の解説）。UVAは窓ガラスも通ります。
+**快晴時を基準にすると、薄曇りで約8〜9割、曇りで約6割、雨でも約3割の紫外線が届く**とされます（気象庁）。UVAは窓ガラスも通ります。
 
 ## 誤解5｜SPFが高いほど肌に悪い
 
@@ -44,8 +44,10 @@ SPF値と刺激の強さは**直接の関係はありません。** 刺激が気
 
 ### 出典
 
-- 日本化粧品工業会「SPF測定法基準」「PA表示に関する自主基準」
-  https://www.jcia.org/user/business/spf
+- 日本化粧品工業会「SPF測定法基準」
+  https://www.jcia.org/user/business/guideline/spf
+- 日本化粧品工業会「紫外線防止（SPF・PA表示に関する自主基準）」
+  https://www.jcia.org/user/business/guideline/uvprotection
 - 気象庁「紫外線に関する基礎知識（曇天時の紫外線）」
   https://www.data.jma.go.jp/gmd/env/uvhp/3-40uvb.html
 - 環境省「紫外線環境保健マニュアル2020」

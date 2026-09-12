@@ -14,7 +14,7 @@ The switch by the bathroom door in a Japanese home often has three settings — 
 | **Dry (乾燥)** | Warm air plus exhaust | **Laundry drying: 2–3 h for a load** hung on the bathroom rail; also to dry the room fast in the rainy season |
 | **Heat (暖房)** | Warms the room before bathing | **Winter, 10–15 min before a bath** — the anti-heat-shock measure for older people (see the bath safety article) |
 | **Cool (涼風)** | Fan only | Summer bathing |
-| Cost | Ventilate: **about ¥1 per hour**; dry: **¥30–60 per load** (heater type) | Cheaper than a tumble dryer for a small load; slower |
+| Cost | Ventilate: **about ¥0.5–0.6 per hour** (a 20 W fan); dry: **about ¥100–120 per load** (1,250 W heater type, 3 h) | Cheaper than a coin laundry; slower than a tumble dryer |
 
 - **Mould** grows above **70% humidity at 20–30°C**; a bathroom after a bath is at 90%+. **Squeegee the walls, run the fan, leave the door closed** (an open door pushes the moisture into the hallway).
 - **Laundry in the bathroom** is standard in flats without a balcony or in the rainy season: the **pole across the bath** is a fitting, not an afterthought. Space the clothes, run "dry"; a fan on the floor speeds it.

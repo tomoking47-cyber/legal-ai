@@ -10,10 +10,10 @@
 
 | Seasonal switch | Change | Effect on skin (general explanation) |
 |---|---|---|
-| **Winter → spring (Feb–Apr)** | Humidity stays in the **50s (%)** while temperatures rise; **UV climbs sharply (March is about the same as September)**; **cedar (sugi) and cypress (hinoki) pollen** | Sebum increases while dryness lingers; pollen brings redness and itching |
+| **Winter → spring (Feb–Apr)** | Humidity stays in the **50s (%)** (rising into the 60s by April) while temperatures rise; **UV climbs sharply (March is about the same as October)**; **cedar (sugi) and cypress (hinoki) pollen** | Sebum increases while dryness lingers; pollen brings redness and itching |
 | **Spring → summer (Jun–Jul)** | Humidity **above 75%**, temperatures of **30°C (86°F)**, sweat and sebum | Greasiness, irritation from sweat, dampness under masks |
 | **Summer → autumn (Sep–Oct)** | Humidity and temperature drop sharply; **summer's UV damage shows on the surface** | Dryness, rough texture, dullness |
-| **Autumn → winter (Nov–Dec)** | Humidity **below 50%**, and **20–30%** indoors with the heating on | Dryness, flaking, itching |
+| **Autumn → winter (Nov–Dec)** | Humidity **falls from the 60s into the 50s (%)** (it drops below 50% only in January–February), and **20–30%** indoors with the heating on | Dryness, flaking, itching |
 
 - **UV levels rise sharply from March and peak in May–August** (Japan Meteorological Agency). **Assuming the spring sun is "still weak"** is the classic reason people start sunscreen too late.
 - **Skin trouble in hay-fever season** (pollen dermatitis, 花粉皮膚炎) typically shows as **redness and itching around the eyes, on the cheeks and on the neck**, and is well known to dermatologists.
@@ -31,7 +31,7 @@
 
 ## Misunderstanding 3｜Spring UV is still weak
 
-**UV in March is about the same as in September.** **Sunscreen from February–March** is the general dermatological advice.
+**UV in March rises to about the same level as October** (September is higher still). **Sunscreen from February–March** is the general dermatological advice.
 
 ## Misunderstanding 4｜You do not need moisturiser in summer
 

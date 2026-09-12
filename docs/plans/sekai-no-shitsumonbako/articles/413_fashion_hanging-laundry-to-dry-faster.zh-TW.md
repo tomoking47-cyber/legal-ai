@@ -59,8 +59,8 @@
 
 - 日本肥皂清潔劑工業會（JSDA）「洗滌問答（晾曬方法・室內晾衣）」[洗濯のQ&A（干し方・部屋干し）]
   https://jsda.org/w/index.html
-- 家電製品協會（AEHA）「洗滌與乾燥的訣竅」[洗濯・乾燥のコツ]
-  https://www.aeha.or.jp/
+- 家電製品協會（AEHA）「您正確使用家電產品了嗎？」（洗衣機・乾衣機）[家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 - 消費者廳「洗滌標示（2024年8月20日起）」[洗濯表示（令和6年8月20日以降）]（乾燥標示）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 

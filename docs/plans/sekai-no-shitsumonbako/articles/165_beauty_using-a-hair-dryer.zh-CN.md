@@ -49,8 +49,8 @@
   https://www.nite.go.jp/jiko/chuikanki/
 - 经济产业省《电气用品安全法（PSE）》[電気用品安全法]
   https://www.meti.go.jp/policy/consumer/seian/denan/
-- 日本皮肤科学会《皮肤科 Q&A —— 头发的疾病》[皮膚科Q&A　髪の毛の病気]
-  https://www.dermatol.or.jp/qa/qa17/index.html
+- 日本皮肤科学会《皮肤科 Q&A》[皮膚科Q&A]
+  https://www.dermatol.or.jp/qa/
 
 > **⚠️ 编辑部注：以上出处链接通过检索确定。本团队的工作环境无法访问 go.jp 域名，尚未核对资料内容与正文是否一致。发布前请务必打开原文核对，并记录核对人与日期。**
 

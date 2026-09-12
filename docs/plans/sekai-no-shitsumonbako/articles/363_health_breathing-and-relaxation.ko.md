@@ -49,8 +49,8 @@
 
 - 후생노동성 『こころの耳』 (이완: 호흡법과 근육 이완)
   https://kokoro.mhlw.go.jp/
-- 후생노동성 e-헬스넷(e-ヘルスネット) 『스트레스와 자율신경』 [ストレスと自律神経]
-  https://kennet.mhlw.go.jp/information/information/heart/
+- 후생노동성 e-헬스넷(e-ヘルスネット) 『휴양・마음의 건강』 [休養・こころの健康] (2025년 4월 「건강일본21 액션 지원 시스템」에 통합)
+  https://kennet.mhlw.go.jp/information/information/heart.html
 - 후생노동성 『まもろうよ こころ』 (마음을 지키자, 상담 창구)
   https://www.mhlw.go.jp/mamorouyokokoro/
 

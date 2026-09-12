@@ -46,8 +46,10 @@
 
 ### 出處
 
-- 家電製品協會 [家電製品協会]「電子鍋的正確使用方法（保溫與保養）」[炊飯器の上手な使い方（保温・お手入れ）]
-  https://www.aeha.or.jp/
+- 日本電機工業會（JEMA）「電子鍋的原理／把米飯煮得好吃的 7 個方法／使用注意事項」[炊飯器の仕組み／お米をおいしく炊く７つの方法／使用上のご注意]
+  https://www.jema-net.or.jp/living/suihanki/about.html
+- 家電製品協會 [家電製品協会]「節能家電 de 智慧生活：有助於節能的電子鍋使用要點」[省エネ家電 de スマートライフ：省エネにつながる炊飯器の使い方ポイント]
+  https://shouene-kaden2.net/try/point_use/rice_cooker.html
 - 資源能源廳 [資源エネルギー庁]「家庭節能徹底指南」[家庭の省エネ徹底ガイド]（電子鍋保溫）
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 製品評價技術基盤機構（NITE）[製品評価技術基盤機構]「電子鍋的事故（煮飯以外的烹調等）」[炊飯器の事故（炊飯以外の調理等）]

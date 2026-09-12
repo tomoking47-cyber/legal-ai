@@ -46,8 +46,10 @@
 
 ### 출처
 
-- 가전제품협회 [家電製品協会] 「밥솥을 잘 쓰는 법(보온·손질)」 [炊飯器の上手な使い方（保温・お手入れ）]
-  https://www.aeha.or.jp/
+- 일본전기공업회(JEMA) 「밥솥의 구조／밥을 맛있게 짓는 7가지 방법／사용상의 주의」 [炊飯器の仕組み／お米をおいしく炊く７つの方法／使用上のご注意]
+  https://www.jema-net.or.jp/living/suihanki/about.html
+- 가전제품협회 [家電製品協会] 「에너지 절약 가전 de 스마트 라이프: 절전으로 이어지는 밥솥 사용 포인트」 [省エネ家電 de スマートライフ：省エネにつながる炊飯器の使い方ポイント]
+  https://shouene-kaden2.net/try/point_use/rice_cooker.html
 - 자원에너지청 [資源エネルギー庁] 「가정의 에너지 절약 완전 가이드」 [家庭の省エネ徹底ガイド] (밥솥 보온)
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - 제품평가기술기반기구(NITE) [製品評価技術基盤機構] 「밥솥 사고(취사 이외의 조리 등)」 [炊飯器の事故（炊飯以外の調理等）]

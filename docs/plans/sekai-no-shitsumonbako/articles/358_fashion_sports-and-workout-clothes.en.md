@@ -19,7 +19,7 @@ With the spread of running and gym-going, the complaint that polyester sportswea
 | Drying | **Quick-drying, so a few hours in the shade is enough**. **A tumble dryer damages stretch fabric** (check the label) |
 | Anti-odour finishes | **"Antibacterial deodorising" finishes wear off gradually with washing** (some labels give a guide number of washes) |
 
-- Detergent-maker research shows that **bacteria that break down skin oil, such as *Moraxella*, are the main cause of damp-dry smell and sportswear smell** (see the article on towels).
+- **Damp-dry smell is attributed mainly to *Moraxella***, while detergent-maker research shows that **the smell of worn, sweaty clothing comes mainly from *Micrococcus* bacteria**, with short- and medium-chain fatty acids as the odour compounds (see the article on towels).
 - **Polyurethane (stretch) blends** are **degraded by heat and chlorine**, so **no hot tumble drying and no chlorine bleach** (the same as swimwear, see that article).
 - **A soak in baking soda (重曹, jūsō, mildly alkaline)** also works on skin oil, but **oxygen bleach is generally described as working on the bacteria as well**.
 

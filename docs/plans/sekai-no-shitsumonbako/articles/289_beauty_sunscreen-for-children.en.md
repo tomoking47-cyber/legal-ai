@@ -12,10 +12,10 @@ Whether to put sunscreen on children divides parents in every country. In Japan 
 |---|---|---|
 | UV protection for children | **Recommended.** A **substantial share of lifetime UV exposure is generally described as received by age 18**, so **prevention of skin cancer and cataracts starts in childhood** | Ministry of the Environment manual; Japan Organization of Clinical Dermatologists |
 | Reply to "UV is needed for the bones" | The UV needed to make vitamin D is **obtained in the short exposures of everyday life** (e.g. on a clear summer day, **the backs of both hands for a few minutes to ten-odd minutes**) | Ministry of the Environment; National Institute for Environmental Studies |
-| Under 6 months | **Avoid direct sunlight and, as a rule, do not use sunscreen** (use clothing, a hat and shade instead) | Japanese Society for Pediatric Dermatology |
-| 6 months and over | **A children's product (low-irritant, mainly mineral UV filters), about SPF 15–30, PA++** on exposed skin | Same |
+| Under 6 months | **Keep direct sunlight off first with clothing, a hat, shade and the pram hood**. The Japanese Society for Pediatric Dermatology says **"sunscreen can be used from a young baby onwards"**, so use a low-irritant product sparingly on skin you cannot cover | Japanese Society for Pediatric Dermatology |
+| 6 months and over | **A children's product (low-irritant) on exposed skin. The Society's guide is SPF 15–20 / PA++ for everyday life, and SPF 20–40 / PA++ to +++ for the sea or the mountains** | Same |
 | Order of priority | **1. Shade and timing (avoid 10:00–14:00) 2. Hat (brim 7 cm or wider) 3. Clothing 4. Sunscreen** | Ministry of the Environment |
-| School | The Ministry of Education (MEXT) and the Ministry of the Environment **do not stand in the way of sunscreen use at school**. **Whether it is allowed at the pool is for each school to decide** (most allow it) | MEXT |
+| School | The Japanese Society of School Health's "Health and hygiene management of school swimming pools" (2016 revision) says **children who burn easily should be allowed to use sunscreen**. **Whether it is allowed at the pool is for each school to decide**, and practice varies | Japanese Society of School Health / Japan Organization of Clinical Dermatologists and Japanese Society for Pediatric Dermatology |
 
 - Sunscreen is a **cosmetic (or quasi-drug — a Japanese category between cosmetics and medicines)**, and **"for children" and "for babies" are not legal categories**. They indicate features such as **low-irritant formulation, mainly mineral (physical) UV filters, and washing off with soap**.
 - **Both chemical UV absorbers and mineral filters are approved ingredients**; mineral-based products are chosen for children on the grounds of **lower irritation**.
@@ -40,7 +40,7 @@ The Ministry of the Environment's explanation is that **the UV needed for vitami
 
 ## Misunderstanding 5｜Sunscreen is banned at the pool
 
-**The Ministry of the Environment and MEXT do not stand in the way of its use, and many schools allow it on condition that it is a "washes off with soap" type.** Check your own school's policy. **Rash guards (ラッシュガード — UV-blocking tops worn over swimwear)** are also widely used.
+**The Japanese Society of School Health's "Health and hygiene management of school swimming pools" (2016 revision) allows its use**, and **the societies state that "water quality is not fouled if a water-resistant product is used".** Practice still differs school by school, so check your own school's policy. **Rash guards (ラッシュガード — UV-blocking tops worn over swimwear)** are also widely used.
 
 ---
 
@@ -48,10 +48,10 @@ The Ministry of the Environment's explanation is that **the UV needed for vitami
 
 - Ministry of the Environment, "UV Environmental Health Manual 2020" [紫外線環境保健マニュアル2020]
   https://www.env.go.jp/content/900410650.pdf
-- Japan Organization of Clinical Dermatologists and Japanese Society for Pediatric Dermatology, "Joint statement on UV protection for children" [こどもの紫外線対策に関する統一見解]
-  https://www.jocd.org/
-- Ministry of Education, Culture, Sports, Science and Technology (MEXT), "UV protection and sunscreen use at school" [学校における紫外線対策・日焼け止めの使用について]
-  https://www.mext.go.jp/
+- Japan Organization of Clinical Dermatologists and Japanese Society for Pediatric Dermatology, "Joint statement on UV protection in school life" / "Joint statement on UV protection in group life at nurseries and kindergartens" [学校生活における紫外線対策に関する統一見解／保育所・幼稚園での集団生活における紫外線対策に関する統一見解] (updated May 2025)
+  https://jspd.umin.jp/pdf/201509_2.pdf
+- Japanese Society of School Health, "Health and hygiene management of school swimming pools (2016 revision)" [学校における水泳プールの保健衛生管理（平成28年度改訂）] (handling of sunscreen)
+  https://www.gakkohoken.jp/book/ebook/ebook_H290010/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

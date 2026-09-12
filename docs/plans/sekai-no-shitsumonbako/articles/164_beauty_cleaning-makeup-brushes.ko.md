@@ -45,8 +45,8 @@
 
 ### 출처
 
-- 일본 국민생활센터 「화장품으로 인한 피부 장애에 관한 상담」 [化粧品による皮膚障害に関する相談]
-  https://www.kokusen.go.jp/
+- 일본 국민생활센터 「화장품에 의한 위해(각종 상담 건수와 경향)」 [化粧品の危害（各種相談の件数や傾向）]
+  https://www.kokusen.go.jp/soudan_topics/data/cosmetic_harm.html
 - 일본화장품공업연합회 「화장품의 올바른 사용법」 [化粧品の正しい使い方]
   https://www.jcia.org/user/public/
 - 일본피부과학회 「피부과 Q&A」 [皮膚科Q&A]

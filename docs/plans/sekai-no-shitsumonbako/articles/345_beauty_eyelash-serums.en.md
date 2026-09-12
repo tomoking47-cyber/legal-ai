@@ -2,7 +2,7 @@
 
 - Shelf: `beauty` ／ URL: `/en/beauty/eyelash-serums` ／ Status: **Draft — English edition, sources unverified**
 
-Eyelash serums (まつげ美容液, matsuge biyōeki) spread rapidly in Japan and are known abroad as products that "make lashes grow." In Japan, however, eye problems from these products have been reported in large numbers to the National Consumer Affairs Center of Japan, which issued a warning in 2015.
+Eyelash serums (まつげ美容液, matsuge biyōeki) spread rapidly in Japan and are known abroad as products that "make lashes grow." In Japan, however, eye problems from these products have been reported in large numbers to the National Consumer Affairs Center of Japan, which issued a warning in August 2019.
 
 ## A. The biggest misunderstanding is "an eyelash serum makes lashes longer or thicker." An eyelash serum sold as a cosmetic may claim only to "protect lashes, moisturise them and give them body and resilience"; "longer" or "more lashes" cannot be claimed (hair growth is the territory of medicines). The skin around the eyes is thin, and this product draws many complaints of rashes, red eyes and dark pigmentation.
 
@@ -14,7 +14,7 @@ Eyelash serums (まつげ美容液, matsuge biyōeki) spread rapidly in Japan an
 | **Medicine (prescription)** | **Topical bimatoprost** (a prescription drug for eyelash hypotrichosis, i.e. sparse lashes) | **Eyelash growth** (an approved indication) | **Doctor's prescription.** Side effects: **pigmentation, red eyes, change in iris colour, effect on eye pressure** |
 | Imported "growth" products | Some contain **prostaglandin analogues** | In Japan these count as **medicinal ingredients and may not be put in cosmetics** | **Problems with personally imported products** have been reported |
 
-- **The National Consumer Affairs Center of Japan (2015)** announced a rise in complaints of **rashes, swelling, red eyes and pigmentation around the eyes caused by eyelash serums.** **Complaints rose sharply between fiscal 2010 and fiscal 2015** (**about 300** injury reports in 2015).
+- **The National Consumer Affairs Center of Japan (August 2019)** announced a sharp rise in **rashes, swelling, red eyes and pigmentation around the eyes caused by eyelash serums.** **Injury reports went from 8 in fiscal 2015 to 281 in fiscal 2018** (**2,140** consultations from fiscal 2015 to the end of May 2019, 381 of them injury reports).
 - The causes cited are **ingredients (certain humectants and preservatives)**, **application that lets the product into the eye**, and **prostaglandin analogues in imported products.**
 - **The skin around the eyes is generally described as the thinnest on the body** (about 0.6 mm) and is easily irritated.
 
@@ -44,8 +44,8 @@ Eyelash serums (まつげ美容液, matsuge biyōeki) spread rapidly in Japan an
 
 ### Sources
 
-- National Consumer Affairs Center of Japan, "Injuries from eyelash serums are increasing" [まつ毛美容液による危害が増加] (2015)
-  https://www.kokusen.go.jp/news/data/n-20150917_1.html
+- National Consumer Affairs Center of Japan, "Injuries from eyelash serums are rising sharply — with a survey of efficacy labelling" [まつ毛美容液による危害が急増！－効能等表示の調査もあわせて実施－] (8 August 2019)
+  https://www.kokusen.go.jp/news/data/n-20190808_2.html
 - Ministry of Health, Labour and Welfare, "Revision of the scope of cosmetic efficacy claims" [化粧品の効能の範囲の改正について] (Yakushoku-hatsu 0721 No. 1)
   https://www.mhlw.go.jp/file/06-Seisakujouhou-11120000-Iyakushokuhinkyoku/kesyouhin_hanni_20111.pdf
 - Pharmaceuticals and Medical Devices Agency (PMDA), package insert for topical bimatoprost solution (eyelash hypotrichosis) [ビマトプロスト外用液（睫毛貧毛症）添付文書]

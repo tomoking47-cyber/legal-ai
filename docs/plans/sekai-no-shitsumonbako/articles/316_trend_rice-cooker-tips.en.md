@@ -46,8 +46,10 @@ The rice cooker is the centre of the Japanese kitchen, and "Japanese rice cooker
 
 ### Sources
 
-- Association for Electric Home Appliances (家電製品協会), "Using your rice cooker well (keep-warm and care)" [炊飯器の上手な使い方（保温・お手入れ）]
-  https://www.aeha.or.jp/
+- Japan Electrical Manufacturers' Association (JEMA), "How rice cookers work / Seven ways to cook rice well / Notes on use" [炊飯器の仕組み／お米をおいしく炊く７つの方法／使用上のご注意]
+  https://www.jema-net.or.jp/living/suihanki/about.html
+- Association for Electric Home Appliances (家電製品協会), "Energy-saving appliances for a smarter life: points for using a rice cooker efficiently" [省エネ家電 de スマートライフ：省エネにつながる炊飯器の使い方ポイント]
+  https://shouene-kaden2.net/try/point_use/rice_cooker.html
 - Agency for Natural Resources and Energy, "Complete guide to saving energy at home" [家庭の省エネ徹底ガイド] (rice cooker keep-warm)
   https://www.enecho.meti.go.jp/category/saving_and_new/saving/general/howto/
 - National Institute of Technology and Evaluation (NITE), "Rice cooker accidents (cooking other than rice, etc.)" [炊飯器の事故（炊飯以外の調理等）]

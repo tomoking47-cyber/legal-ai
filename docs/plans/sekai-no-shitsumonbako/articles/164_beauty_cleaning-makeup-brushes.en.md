@@ -45,8 +45,8 @@ Even when washed, **a sponge loses its bounce and dirt stays in tiny tears.** 1�
 
 ### Sources
 
-- National Consumer Affairs Center of Japan, "Consultations on skin disorders caused by cosmetics" [化粧品による皮膚障害に関する相談]
-  https://www.kokusen.go.jp/
+- National Consumer Affairs Center of Japan, "Harm from cosmetics (numbers and trends in consultations)" [化粧品の危害（各種相談の件数や傾向）]
+  https://www.kokusen.go.jp/soudan_topics/data/cosmetic_harm.html
 - Japan Cosmetic Industry Association, "Using cosmetics correctly" [化粧品の正しい使い方]
   https://www.jcia.org/user/public/
 - Japanese Dermatological Association, "Dermatology Q&A" [皮膚科Q&A]

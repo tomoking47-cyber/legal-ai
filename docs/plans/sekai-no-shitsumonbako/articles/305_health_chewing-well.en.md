@@ -12,7 +12,7 @@
 |---|---|---|
 | Chews per meal (estimate) | **Pre-war about 1,400** → **today about 600** | Estimates in dentistry and nutrition science (research by Shigeru Saito and others) |
 | Guide | **30 chews per mouthful** (**"Kaming 30" (噛ミング30, *kamingu sanmaru*)**, since 2009) | MHLW |
-| 8020 campaign | Keep **20 of your own teeth at age 80**. **About half** of people achieve it (2022 Survey of Dental Diseases) | MHLW, Japan Dental Association |
+| 8020 campaign | Keep **20 of your own teeth at age 80**. The achievement rate is **61.5%** (2024 Survey of Dental Diseases; it was 51.6% in the 2022 survey) | MHLW, Japan Dental Association |
 | Saliva | **1–1.5 L a day**. Chewing increases the flow, which works for **digestion, cleansing and neutralising acid** | General physiology |
 | Fast eating and obesity | **Several Japanese studies find a higher risk of obesity among fast eaters** | Studies linked to the National Health and Nutrition Survey |
 
@@ -48,10 +48,10 @@
 
 - Ministry of Health, Labour and Welfare, *Dental and oral health and food education: Kaming 30* [歯・口の健康と食育〜噛ミング30（カミングサンマル）〜]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/shika/
-- Ministry of Health, Labour and Welfare, *2022 Survey of Dental Diseases* [令和4年 歯科疾患実態調査] (8020 achievement rate)
+- Ministry of Health, Labour and Welfare, *2024 Survey of Dental Diseases* [令和6年 歯科疾患実態調査] (8020 achievement rate)
   https://www.mhlw.go.jp/toukei/list/62-17.html
-- Ministry of Health, Labour and Welfare, e-Healthnet, *Fast eating and obesity* [早食いと肥満]
-  https://kennet.mhlw.go.jp/information/information/food/e-02-010.html
+- Ministry of Health, Labour and Welfare, e-Healthnet, *Fast eating and obesity — chewing food well, and being able to chew* [速食いと肥満の関係 -食べ物をよく「噛むこと」「噛めること」]
+  https://kennet.mhlw.go.jp/information/information/teeth/h-10-002.html
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

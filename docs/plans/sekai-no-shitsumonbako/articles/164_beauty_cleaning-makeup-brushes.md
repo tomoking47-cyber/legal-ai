@@ -45,8 +45,8 @@
 
 ### 出典
 
-- 国民生活センター「化粧品による皮膚障害に関する相談」
-  https://www.kokusen.go.jp/
+- 国民生活センター「化粧品の危害（各種相談の件数や傾向）」
+  https://www.kokusen.go.jp/soudan_topics/data/cosmetic_harm.html
 - 日本化粧品工業会「化粧品の正しい使い方」
   https://www.jcia.org/user/public/
 - 公益社団法人日本皮膚科学会「皮膚科Q&A」

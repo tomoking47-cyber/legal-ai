@@ -18,7 +18,7 @@ Pans range from "used for decades" to "replaced every year", and the material de
 | **Non-stick (fluoropolymer coating)** | Depends on the base metal | Frying, low-oil cooking | **Breaks down when heated empty (above 260°C)**, metal utensils, high heat | Soft sponge; lasts 1–3 years |
 | **Earthenware (donabe) and heat-resistant glass** | Slow, holds heat | Hotpot, rice | Sudden cooling, heating empty | See our donabe article |
 
-- Products on sale meet the **Food Sanitation Act standards for utensils, containers and packaging** (which include metal leaching tests). **The Food Safety Commission of Japan has assessed that using aluminium pans poses no problem under normal use** (most aluminium intake comes from food itself).
+- Products on sale meet the **Food Sanitation Act standards for utensils, containers and packaging** (which include metal leaching tests; responsibility moved to the Consumer Affairs Agency in April 2024). **The Food Safety Commission of Japan has set a tolerable weekly intake for aluminium of 2.1 mg per kg of body weight** (most intake comes from food itself), and ordinary cookware is said to contribute only a small share.
 - **Fluoropolymer (PTFE) non-stick coatings** **start to break down above 260°C and give off harmful gases above 350°C**, so **do not heat the pan empty or preheat on high** — the warning from the Consumer Affairs Agency and NITE (Japan's product-safety agency). **PFOA (a processing aid) was phased out by the major Japanese makers in the 2010s.**
 - **Induction (IH) compatibility** depends on the material: **iron, magnetic stainless steel, and aluminium marked IH-compatible (with a steel plate in the base)** work; **plain aluminium, copper and donabe (unless marked compatible)** do not.
 
@@ -26,7 +26,7 @@ Pans range from "used for decades" to "replaced every year", and the material de
 
 ## Misunderstanding 1｜Aluminium pans are bad for you
 
-**Very little leaches out in normal cooking**, and **the Food Safety Commission considers health effects unlikely**. The advice not to leave **strongly acidic dishes sitting in the pan for long** is about **discolouration and taste**.
+**Very little leaches out in normal cooking**, and **most aluminium intake comes from food and food additives** (the Food Safety Commission has set a tolerable weekly intake of 2.1 mg per kg of body weight). The advice not to leave **strongly acidic dishes sitting in the pan for long** is about **discolouration and taste**.
 
 ## Misunderstanding 2｜Stainless steel does not stick
 
@@ -50,10 +50,10 @@ You need **a material a magnet sticks to (iron, magnetic stainless) or an "IH-co
 
 - Food Safety Commission of Japan, "Aluminium intake from food" [アルミニウムの食品からの摂取について]
   https://www.fsc.go.jp/
-- Consumer Affairs Agency, "Caution: do not heat fluoropolymer-coated frying pans and pots empty" [フッ素樹脂加工のフライパン・鍋の空焚きに注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/caution/
-- Ministry of Health, Labour and Welfare (MHLW), "Standards for foods, additives, etc." [食品、添加物等の規格基準] (utensils, containers and packaging)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/
+- National Institute of Technology and Evaluation (NITE) and cookware makers, warnings about heating pans empty and overheating [空焚き・高温加熱への注意]
+  https://www.nite.go.jp/jiko/chuikanki/poster/sonota/1062.html
+- Consumer Affairs Agency (CAA), "Standards for foods, additives, etc." [食品、添加物等の規格基準] (utensils, containers and packaging)
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

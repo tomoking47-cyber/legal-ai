@@ -53,8 +53,8 @@
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本石鹸洗剤工業会「洗濯のQ&A（洗濯ネット）」
   https://jsda.org/w/index.html
-- 一般財団法人家電製品協会「洗濯機の上手な使い方」
-  https://www.aeha.or.jp/
+- 一般財団法人家電製品協会「家電製品を正しく使っていますか？」（洗濯機）
+  https://www.aeha.or.jp/safety/use/
 
 > **⚠️ 編集部へ：上記の出典URLは検索により特定したものです。当方の作業環境からは go.jp ドメインに接続できないため、資料の中身と本文の記述が一致することを確認できていません。公開前に必ず原文を開いて確認し、確認者と日付を記録してください。**
 

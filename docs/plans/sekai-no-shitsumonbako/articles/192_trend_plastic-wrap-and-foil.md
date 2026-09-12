@@ -45,8 +45,8 @@ PE系は**110℃前後で溶ける**ことがあり、PVDC系でも**油分の�
 
 ### 出典
 
-- 厚生労働省「食品用器具・容器包装のポジティブリスト制度」
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
+- 消費者庁「食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）」
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
 - 消費者庁「電子レンジの安全な使い方」（注意喚起）
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - 日本ポリオレフィンフィルム工業組合／各メーカー「ラップの使い方Q&A」

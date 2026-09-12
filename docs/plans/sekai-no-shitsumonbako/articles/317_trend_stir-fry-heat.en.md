@@ -10,11 +10,11 @@
 
 | Item | Content |
 |---|---|
-| Domestic gas hob output | **About 2,000–4,200 kcal/h** (high-output burner). A commercial Chinese wok burner is **10,000–30,000 kcal/h** |
+| Domestic gas hob output | **About 3,600–4,500 kcal/h for a high-output burner** (**4.2–5.2 kW**; a standard burner is about 2,000–2,600 kcal/h and a small burner about 900 kcal/h). A commercial Chinese wok burner is **10,000–30,000 kcal/h** |
 | Induction (IH) hob | **Maximum 2,000–3,000 W**. Heats only the pan base; **the sides do not get hot** |
 | Non-stick coating heat limit | **Starts to degrade at about 260°C**; reached when heated empty or preheated on high |
 | Smoke point of cooking oil | **About 230–250°C** (refined oils) |
-| Ideal stir-fry temperature | **170–200°C** (just before the oil starts to smoke lightly) |
+| Ideal stir-fry temperature | **170–200°C** (the oil runs thin and shimmers. **Smoke means about 230°C or more — by then it is too hot**) |
 | Amount of food | **Up to 1/2–2/3 of the pan base.** **More and the temperature drops, water comes out and the food stews** |
 
 - **Si-sensor hobs (fitted to Japanese gas hobs since 2008)** **automatically turn the flame down at about 250°C**, so **"the flame weakens even though I set it to high" is the sensor at work**. Some models have a **high-temperature stir-fry mode** that overrides it for a while, but **this is not for non-stick pans**.

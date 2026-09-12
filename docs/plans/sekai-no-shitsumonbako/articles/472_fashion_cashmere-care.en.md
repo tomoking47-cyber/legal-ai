@@ -21,7 +21,7 @@ Cashmere is finer, lighter and warmer than ordinary wool. Because it is expensiv
 
 - **Brushing after wearing**: use a **clothes brush** (洋服ブラシ) with boar or horse bristles, following the nap from top to bottom. It lifts dust, untangles knotted fibres and helps prevent pilling.
 - **Storage**: off-season, **always wash first** (skin oils and food traces attract insects). Store **folded**, with a **moth repellent** (防虫剤, bōchūzai, sold at drugstores and 100-yen shops). Hanging stretches the shoulders. **Cashmere is one of the materials most often attacked by clothes moths and carpet beetles.**
-- **Fibre-content labels**: under Japan's Household Goods Quality Labelling Act, cashmere is shown as "毛（カシミヤ）" (wool (cashmere)). **Where the content is under 5%, use of the word "cashmere" on the label is restricted.** The National Consumer Affairs Center of Japan has in the past published cases where products labelled "Cashmere 100" (all-cashmere) were found to fall short of that content.
+- **Fibre-content labels**: under Japan's Household Goods Quality Labelling Act, cashmere is shown as "毛（カシミヤ）" (wool (cashmere)). **Where two or more fibres each make up less than 10%, they may be grouped together as "other",** and **a tolerance is allowed on the stated content of animal hair (-3% for a "100%" claim, ±5% otherwise).** The Tokyo Metropolitan Government has in the past tested cashmere goods bought by mail order online and reported that some labelled "cashmere 100%" did not in fact contain the stated proportion.
 - **Yellowing of white cashmere** is oxidised skin oil and sweat. **Wash soon after wearing** to prevent it.
 
 > **[Verify]** Check the fibre diameter, the yield per goat and the fibre-content labelling rules against the latest industry documents and legislation.
@@ -54,8 +54,8 @@ Cashmere is finer, lighter and warmer than ordinary wool. Because it is expensiv
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
 - Consumer Affairs Agency, "Care labels (from 20 August 2024 / JIS L 0001:2024)"
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Test results on cashmere fibre content"
-  https://www.kokusen.go.jp/
+- Tokyo Metropolitan Government, Bureau of Citizens, Culture and Sport (東京都生活文化スポーツ局), "Product test: cashmere textile products bought by online mail order" (November 2009)
+  https://www.shouhiseikatu.metro.tokyo.lg.jp/anzen/test/documents/60jbu302.pdf
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

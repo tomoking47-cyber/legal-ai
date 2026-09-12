@@ -19,7 +19,7 @@ If you come from Europe or North America, washing at 40–60°C is probably norm
 - **Using leftover bath water** (残り湯, nokoriyu — many Japanese machines have a pump hose for this): **bath water for the wash cycle only; tap water for the rinse.** Bath water contains skin oil and bacteria, and using it for the rinse too **leaves the laundry smelling.** If the bath contained a bath additive, check its packaging ("can be used for laundry", etc.).
 - **Feeding hot water into the machine**: most fully automatic machines have an **inlet-water limit of about 50°C.** Ignore the manual and you risk degraded hoses and seals, or a breakdown.
 - **Undissolved detergent**: in winter, powder detergent **dissolves poorly at 5–10°C** and may leave white residue. **Switch to liquid**, or **dissolve the powder in warm water before adding it.**
-- **If you use 60°C against mites**, keep it to **cotton sheets and towels whose label says 60 or above.** A tumble dryer's hot cycle achieves a similar effect.
+- **If you use 60°C against mites**, keep it to **cotton sheets and towels whose label says 60 or above.** Note, though, that **domestic washing machines generally accept water only up to about 50°C**, and pouring in 60°C water can damage the machine. It is more practical to soak the items **in the bath or a wash basin** rather than in the drum, or to use **a tumble dryer's hot cycle or a launderette's high-heat dryer.**
 
 > **[Verify]** Seasonal tap-water temperatures, mite-kill temperatures and machine inlet limits vary by region and model. Check the sources and the manuals of common models.
 

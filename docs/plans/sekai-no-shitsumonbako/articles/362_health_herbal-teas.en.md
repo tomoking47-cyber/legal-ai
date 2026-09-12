@@ -20,7 +20,7 @@ FOSHU (トクホ) is Japan's approved "Food for Specified Health Uses" scheme; F
 
 | Herb | Caution |
 |---|---|
-| **St John's wort** | **Weakens the effect of many medicines** (the pill, antidepressants, immunosuppressants, anti-HIV drugs, etc.). The Ministry of Health, Labour and Welfare (MHLW) issued a warning in 2000 |
+| **St John's wort** | **Weakens the effect of many medicines** (oral contraceptives, immunosuppressants (ciclosporin), anti-HIV drugs (indinavir), digoxin, theophylline, warfarin, etc.). **With antidepressants the concern is different — serotonin syndrome.** The Ministry of Health and Welfare (now the MHLW) issued a warning in May 2000 |
 | **Liquorice (甘草, kanzō)** | In large amounts or over a long period, **raised blood pressure and low potassium**. **Caution for people with high blood pressure or on medication** |
 | **Chamomile** | People with **an allergy to the daisy family** (ragweed, etc.) may react. Some sources say **avoid large amounts in pregnancy** |
 | **Hibiscus, rosehip** | Strongly acidic, with reports of **irritation to teeth and stomach** and **effects on blood pressure** |
@@ -60,8 +60,8 @@ FOSHU (トクホ) is Japan's approved "Food for Specified Health Uses" scheme; F
   https://www.mhlw.go.jp/www1/houdou/1205/h0510-1_15.html
 - National Institute of Health and Nutrition, *Information on the safety and effectiveness of "health foods"* [「健康食品」の安全性・有効性情報]
   https://hfnet.nibn.go.jp/
-- Consumer Affairs Agency, *Labelling of health foods (Health Promotion Act; Act against Unjustifiable Premiums and Misleading Representations)* [健康食品の表示（健康増進法・景品表示法）]
-  https://www.caa.go.jp/policies/policy/food_labeling/health_promotion/
+- Consumer Affairs Agency, *Points to note on health foods under the Act against Unjustifiable Premiums and Misleading Representations and the Health Promotion Act* [健康食品に関する景品表示法及び健康増進法上の留意事項について] (issued 2016; partially revised December 2022)
+  https://www.caa.go.jp/policies/policy/representation/extravagant_advertisement/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

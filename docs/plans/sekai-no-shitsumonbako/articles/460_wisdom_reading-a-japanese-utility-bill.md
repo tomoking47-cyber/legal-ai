@@ -15,7 +15,7 @@ Electricity, gas and water bills in Japan arrive as slips or app notifications w
 | **Tier 2** | **121–300 kWh** | ≈ **¥36/kWh** |
 | **Tier 3** | **Over 300 kWh** | ≈ **¥40/kWh** |
 | **Fuel cost adjustment (燃料費調整額)** | ± per kWh, **changes monthly** with fuel import prices; can be negative | ± ¥0–5/kWh (was much higher in 2022–23) |
-| **Renewable levy (再エネ発電促進賦課金)** | Per kWh, set annually | **about ¥3.5–4/kWh (FY2025)** |
+| **Renewable levy (再エネ発電促進賦課金)** | Per kWh, set annually | **¥4.18/kWh (FY2026)**, up from ¥3.98 in FY2025 |
 | Total for a 2-person flat | **250–350 kWh/month** | **¥8,000–12,000**; more in Jan–Feb and Aug |
 
 - **Gas**: **city gas (都市ガス)** is metered in m³ with tiers and a fuel adjustment; **propane (LP gas)** in rural areas and some flats is **2–3× the price** and set by the supplier — a factor when choosing a rental.

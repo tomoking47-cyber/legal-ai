@@ -10,7 +10,7 @@ Japan still sends paper: New Year cards in the billions, mid-summer greetings, t
 
 | Greeting | When | Deadline / rule | Volume or note |
 |---|---|---|---|
-| **Nengajō (New Year card)** | Arrives **1 January** | **Post by 25 December** for delivery on New Year's Day; **not sent to a household in mourning** (they send a mochū-hagaki in November–December) | **About 1.1 billion for 2025**, down from 4.4 billion in 2003 |
+| **Nengajō (New Year card)** | Arrives **1 January** | **Post by 25 December** for delivery on New Year's Day; **not sent to a household in mourning** (they send a mochū-hagaki in November–December) | **About 560 million for 2027** (initial issue 555.92 million, announced 31 August 2026 — a 16th straight annual fall), down from about 4.4 billion at the 2003–04 peak |
 | **Kanchū-mimai (midwinter greeting)** | **8 January – 3 February** | For late replies and to mourning households | — |
 | **Shochū-mimai (midsummer greeting)** | **From the end of the rainy season / early July to about 7 August (Risshū)** | Postcards with summer motifs; "Are you bearing the heat?" | Declining but persistent |
 | **Zansho-mimai (late-summer greeting)** | **8 August – end of August** | Same card, different heading — sending "shochū" after Risshū is a known error | — |
@@ -42,7 +42,7 @@ It is **the required first line of a formal letter**, chosen for the month from 
 
 ## Misunderstanding 5｜Paper greetings are dead
 
-**1.1 billion cards is a lot of dead.** The volume has fallen 75% in twenty years, but the **calendar and the phrases have moved into messaging**; knowing them still matters.
+**More than half a billion cards is a lot of dead.** The volume is down roughly 87% from its peak — and still falling by a quarter a year — but the **calendar and the phrases have moved into messaging**; knowing them still matters.
 
 ---
 

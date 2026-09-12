@@ -12,12 +12,12 @@ The dish sponge is the most bacteria-laden object in most kitchens, in Japan as 
 |---|---|---|
 | **Squeeze and hang** | After each use, wring hard and hang on a **sponge holder** (suction-cup hook or wire rack) with airflow | Moisture is the growth condition |
 | **Separate sponges** | **Dish sponge, sink/counter sponge, drain-basket brush** — different colours | Cross-contamination from the drain to plates |
-| **Weekly sanitising** | **Dilute chlorine bleach soak (per label, a few minutes) then rinse**, or **pour boiling water over**; microwave only if the sponge is **wet and metal-free** (1 minute) | Kills most bacteria; boiling water is simplest |
+| **Weekly sanitising** | **Dilute chlorine bleach soak (per label, a few minutes) then rinse**, or **pour boiling water over**; microwave only if the sponge is **wet and metal-free** (1 minute) | Reduces the load, but the 2017 sponge study found regularly sanitised sponges held a higher share of risk-group-2 species — replacement matters more |
 | **Replacement** | **Every 2–4 weeks**, or when it smells or frays | Bacterial load rises with age regardless of rinsing |
 | **Detergent** | A little on the sponge each time; **rinse residue out fully** at the end | Residue feeds bacteria |
 | **Alternatives** | **Cellulose cloths (dried stiff)**, **loofah (hechima) sponges**, **silicone scrubbers**, **wooden dish brushes with replaceable heads** | Dry faster |
 
-- **Studies of household sponges** (in Germany and the US) found **billions of bacteria per cubic centimetre** and species including those from food and skin; the Japanese consumer body Kokusen has published similar tests on dish sponges and cloths.
+- **Studies of household sponges** (in Germany and the US) found **billions of bacteria per cubic centimetre** and species including those from food and skin; the Tokyo Metropolitan Consumer Affairs Center has published a product test on dish detergents that claim to sanitise sponges.
 - The **"do not mix" rule** applies: **chlorine bleach for the sponge, never combined with acidic cleaners** (see the baking soda article).
 - **Hechima** — the dried loofah gourd grown on a balcony green curtain (see that article) — is the traditional Japanese scrubber, compostable and fast-drying.
 
@@ -46,11 +46,11 @@ The dish sponge is the most bacteria-laden object in most kitchens, in Japan as 
 ---
 
 ### Sources
-- National Consumer Affairs Center of Japan — Tests on kitchen sponges and cloths
-  https://www.kokusen.go.jp/
+- Tokyo Metropolitan Consumer Affairs Center — Product test: dish detergents claiming to sanitise sponges (「スポンジ除菌」のできる台所用合成洗剤)
+  https://www.shouhiseikatu.metro.tokyo.lg.jp/anzen/test/documents/jyokin.pdf
 - Ministry of Health, Labour and Welfare — Six points for preventing food poisoning at home (kitchen tools)
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
-- Tokyo Metropolitan Government Bureau of Public Health — Safe use of chlorine bleach
+- Tokyo Metropolitan Government Bureau of Public Health and Medical Care — Household cleaning agents: using them safely (くらしの安全シリーズ「住まいの洗浄剤」)
   https://www.hokeniryo.metro.tokyo.lg.jp/anzen/iyaku/anzen/senjouzai
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**

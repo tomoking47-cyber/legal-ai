@@ -45,8 +45,8 @@ The main job of cling film is **to cut food waste by preventing drying, oxidatio
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, "Positive-list system for food utensils and containers/packaging" [食品用器具・容器包装のポジティブリスト制度]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
+- Consumer Affairs Agency, "About the positive-list system for food utensils and containers/packaging (from 1 June 2025)" [食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）]
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
 - Consumer Affairs Agency, "Safe use of microwave ovens" [電子レンジの安全な使い方] (consumer alert)
   https://www.caa.go.jp/policies/policy/consumer_safety/caution/
 - Japan Polyolefin Film Industry Association [日本ポリオレフィンフィルム工業組合] / individual makers, "Cling film Q&A" [ラップの使い方Q&A]

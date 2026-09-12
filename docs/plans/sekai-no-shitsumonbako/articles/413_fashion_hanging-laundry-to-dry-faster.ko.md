@@ -59,8 +59,8 @@
 
 - 일본비누세제공업회(JSDA) 「세탁 Q&A(너는 법·실내 건조)」[洗濯のQ&A（干し方・部屋干し）]
   https://jsda.org/w/index.html
-- 가전제품협회(AEHA) 「세탁·건조의 요령」[洗濯・乾燥のコツ]
-  https://www.aeha.or.jp/
+- 가전제품협회(AEHA) 「가전제품을 올바르게 쓰고 계십니까?」(세탁기·의류건조기) [家電製品を正しく使っていますか？]
+  https://www.aeha.or.jp/safety/use/
 - 소비자청 「취급 표시(2024년 8월 20일 이후)」[洗濯表示（令和6年8月20日以降）](건조 기호)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 
