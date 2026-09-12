@@ -51,8 +51,8 @@ In Japan a pearl necklace is the standard piece for weddings, funerals and forma
 
 - Japan Jewellery Association (一般社団法人日本ジュエリー協会), "Caring for and storing jewellery"
   https://jja.ne.jp/
-- Japan Pearl Promotion Society (日本真珠振興会), "Caring for pearls"
-  https://www.japan-pearl.com/
+- Japan Pearl Promotion Society (一般社団法人日本真珠振興会), "Caring for pearls"
+  https://jp-pearl.com/
 - National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Consultations about jewellery and accessories"
   https://www.kokusen.go.jp/
 

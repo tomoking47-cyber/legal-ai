@@ -50,8 +50,8 @@
 
 ### 出處
 
-- 消費者廳（消費者庁）《新的洗滌標籤（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者廳（消費者庁）《洗滌標籤（2024年8月20日以後／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本鞄協會（一般社団法人日本鞄協会）《包袋的保養》
   https://www.kaban.or.jp/
 - 日本國民生活中心（独立行政法人国民生活センター）《關於包袋與ランドセル的諮詢》

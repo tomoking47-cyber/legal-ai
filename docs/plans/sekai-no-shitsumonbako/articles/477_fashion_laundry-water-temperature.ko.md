@@ -47,8 +47,8 @@
 
 ### 출처
 
-- 소비자청(消費者庁) 「새 취급 표시(JIS L0001): 세탁 기호와 온도」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 소비자청(消費者庁) 「세탁 표시(2024년 8월 20일 이후/JIS L 0001:2024): 세탁 기호와 온도」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 일본 비누세제 공업회(日本石鹸洗剤工業会) 「세탁의 기본: 수온과 세정력」
   https://jsda.org/w/03_shiki/
 - 도쿄도 수도국(東京都水道局) 「수질 데이터: 연간 수온」

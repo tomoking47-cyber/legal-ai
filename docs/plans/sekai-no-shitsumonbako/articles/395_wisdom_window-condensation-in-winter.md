@@ -10,7 +10,7 @@ Wake up in a Japanese flat in January and the windows are streaming. Condensatio
 
 | Cause | Detail | Fix |
 |---|---|---|
-| **Single glazing and aluminium frames** | Standard in most homes built before ~2010; the frame conducts cold; the glass surface can drop below 5°C while the room is 20°C | **Inner window (uchimado) or double glazing** — **national subsidies covered up to half the cost in 2023–25**; **insulating film or bubble sheet** as the cheap version |
+| **Single glazing and aluminium frames** | Standard in most homes built before ~2010; the frame conducts cold; the glass surface can drop below 5°C while the room is 20°C | **Inner window (uchimado) or double glazing** — **national subsidies have covered a large share of the cost since 2023 and continue in the 2026 round**; **insulating film or bubble sheet** as the cheap version |
 | **Indoor humidity from living** | A family adds **several litres of water vapour a day** (breathing, cooking, bathing, indoor laundry) | **Ventilate** (two windows, 5–10 min, twice a day); **bathroom fan on**; **dehumidifier for laundry** |
 | **Unvented combustion heaters** | Kerosene and gas fan heaters release **about 1 L of water per litre of fuel** | Ventilate hourly (also for CO); or switch to air-conditioner/heat pump |
 | **Furniture against exterior walls** | Cold, still air behind it condenses | Leave **5–10 cm** gap; check behind the wardrobe in February |
@@ -18,7 +18,7 @@ Wake up in a Japanese flat in January and the windows are streaming. Condensatio
 | The water itself | — | **Wipe each morning** with a squeegee or cloth; **condensation-absorbing tape** on the frame bottom; **keep the sill dry** |
 
 - **Mould conditions** are met on a window frame at **70%+ local humidity**; the black mould on frames and rubber seals is a common spring cleaning task.
-- **Insulation standards**: only about **13% of existing homes** meet the 1999 standard (see the kotatsu article); **windows are the largest heat-loss path**, and the government's **2023–25 "Advanced Window Renovation" subsidy** paid **up to ¥2 million per home** to switch to insulated glass.
+- **Insulation standards**: only about **13% of existing homes** meet the 1999 standard (see the kotatsu article); **windows are the largest heat-loss path**, and the government's **"Advanced Window Renovation" subsidy** paid **up to ¥2 million per home** through the 2025 round and continues in 2026 with the cap reduced to **¥1 million per home**.
 - **Inner windows (uchimado)** — a second sliding window inside the existing frame — are the renter-friendly option (removable) and cut condensation dramatically.
 
 > **[Verify]** Subsidy figures with MLIT/METI/MoE joint window-renovation programme; insulation statistics with MLIT.
@@ -47,7 +47,7 @@ Wake up in a Japanese flat in January and the windows are streaming. Condensatio
 
 ### Sources
 - Ministry of Land, Infrastructure, Transport and Tourism / METI / MoE — Advanced window renovation subsidy (先進的窓リノベ事業)
-  https://window-renovation2025.env.go.jp/
+  https://window-renovation2026.env.go.jp/
 - Ministry of Land, Infrastructure, Transport and Tourism — Insulation performance of the housing stock
   https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk4_000103.html
 - Tokyo Metropolitan Government Bureau of Public Health — Condensation and mould in the home

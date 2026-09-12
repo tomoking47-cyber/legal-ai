@@ -12,7 +12,7 @@ The market for protein products has grown worldwide, and in Japan too "protein d
 |---|---|---|
 | Recommended intake (age 18–64) | **Men 65 g / women 50 g** a day | Dietary Reference Intakes for Japanese (2025 edition) |
 | Recommended intake (age 65+) | **Men 60 g / women 50 g**, but with a **target range set higher, at 15–20% of total energy** | Same |
-| Actual intake (average, age 20+) | **About 70 g** (men about 78 g, women about 64 g) | National Health and Nutrition Survey (2023) |
+| Actual intake (average, age 20+) | **About 70 g** (men about 78 g, women about 64 g) | National Health and Nutrition Survey (2024) |
 | Intake in the 1950s | About 70 g (**the amount has not changed; the share from animal sources has grown**) | Various studies in nutrition history |
 
 | Food (typical serving) | Protein |
@@ -53,8 +53,8 @@ Anything above **about 1.2–2.0 g per kg of body weight** (depending on how act
 
 - Ministry of Health, Labour and Welfare, *Dietary Reference Intakes for Japanese (2025 edition)* [日本人の食事摂取基準（2025年版）]
   https://www.mhlw.go.jp/stf/newpage_44138.html
-- Ministry of Health, Labour and Welfare, *Summary of the 2023 National Health and Nutrition Survey* [令和5年 国民健康・栄養調査結果の概要]
-  https://www.mhlw.go.jp/stf/newpage_47433.html
+- Ministry of Health, Labour and Welfare, *Summary of the 2024 National Health and Nutrition Survey* [令和6年 国民健康・栄養調査結果の概要] (published 2 December 2025)
+  https://www.mhlw.go.jp/content/10900000/001603146.pdf
 - Ministry of Education, Culture, Sports, Science and Technology, *Standard Tables of Food Composition in Japan, 8th revised edition, 2023 supplement* [日本食品標準成分表（八訂）増補2023年]
   https://www.mext.go.jp/a_menu/syokuhinseibun/mext_00001.html
 

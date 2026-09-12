@@ -13,7 +13,7 @@
 | 1–2 hours before bed | **Dim the lights (indirect lighting, warm colour)**. **Avoid phone and PC screens, or dim them** | Sleep Guide 2023 |
 | Bedroom (while asleep) | **As dark as possible**. If needed, **a weak warm-coloured light at floor level (a few lux)** | Same as above |
 | Morning | **Open the curtains after getting up and take in the light**. Even on a cloudy day, outdoors is **several thousand lux** | Same as above |
-| Typical indoor lighting | **300–500 lux** (living room); offices about **750 lux** (JIS Z9110) | JIS |
+| Typical indoor lighting | In a living room the figures are set by activity — about **200 lux for family time, 500 lux for reading**; an office is **750 lux** (JIS Z9125:2023 / JIS Z9110:2024) | JIS |
 | Night light (mame-denkyū) | **1 to a few lux** (varies by product) | — |
 
 - **Bluish-white light ("daylight colour", a high colour temperature) is generally described as promoting wakefulness, while warm light ("bulb colour") has a smaller effect.** Use **warm "bulb colour" lighting in the bedroom** (on Japanese bulb packaging: 電球色, *denkyū-shoku*).
@@ -28,7 +28,7 @@
 
 ## Misunderstanding 2｜A night light is dim, so it is no problem
 
-**A weak, warm-coloured light at floor level is generally described as having little effect.** **Avoid white light near the face or from the ceiling.**
+**A weak, warm-coloured light at floor level is generally described as having less effect than white light from the ceiling.** Even so, **an average bedroom illuminance of 3 lux or more while asleep has been linked to obesity, dyslipidaemia and arterial stiffening** (the Heijo-Kyo study), so it is safer to **switch it on only when you need it**. **Avoid white light near the face or from the ceiling.**
 
 ## Misunderstanding 3｜If you dim the screen, a phone is fine right before bed
 
@@ -48,8 +48,8 @@ They are effective at **blocking city light at night**, but they **also block th
 
 - Ministry of Health, Labour and Welfare, *Sleep Guide for Health Promotion 2023* [健康づくりのための睡眠ガイド2023]
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html
-- Japanese Industrial Standards Committee (JISC), JIS Z9110 *General rules of recommended lighting levels* [照明基準総則]
-  https://www.jisc.go.jp/
+- JIS Z9125:2023 *Indoor lighting standards* [屋内照明基準] (the indoor illuminance figures moved here when JIS Z9110 was revised in 2024)
+  https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS+Z+9125%3A2023
 - Ministry of Health, Labour and Welfare, e-Healthnet, *The body clock and light* [体内時計と光]
   https://kennet.mhlw.go.jp/information/information/heart/k-02-002.html
 

@@ -51,8 +51,8 @@
 
 - 一般社団法人日本ジュエリー協会「ジュエリーのお手入れ・保管方法」
   https://jja.ne.jp/
-- 日本真珠振興会「真珠のお手入れ」
-  https://www.japan-pearl.com/
+- 一般社団法人日本真珠振興会「真珠のお手入れ」
+  https://jp-pearl.com/
 - 独立行政法人国民生活センター「装身具（アクセサリー）に関する相談」
   https://www.kokusen.go.jp/
 

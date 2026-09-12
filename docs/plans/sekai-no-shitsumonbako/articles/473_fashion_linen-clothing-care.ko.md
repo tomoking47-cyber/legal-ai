@@ -53,8 +53,8 @@
 
 - 소비자청(消費者庁) 「가정용품 품질표시법: 섬유제품 품질표시 규정」(「麻」의 정의)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 소비자청 「새로운 취급 표시(JIS L0001)」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 소비자청 「세탁 표시(2024년 8월 20일 이후/JIS L 0001:2024)」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 일본 마방적 협회(日本麻紡績協会) 「리넨과 라미의 기초 지식」
   https://www.asabo.jp/
 

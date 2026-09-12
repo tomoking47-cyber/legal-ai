@@ -49,8 +49,8 @@ Every Japanese window and balcony door has a sliding insect screen, and resident
 ### Sources
 - Ministry of Health, Labour and Welfare — Dengue fever: the 2014 domestic outbreak and prevention
   https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou19/dengue_fever.html
-- Ministry of the Environment — Mosquito control and standing water
-  https://www.env.go.jp/nature/dokuhou/
+- Ministry of Health, Labour and Welfare — Specific guidelines for the prevention of mosquito-borne infectious diseases (standing water and mosquito source control)
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000131650.pdf
 - Japan DIY Home Centre Association — DIY guides (screen replacement)
   https://www.diy.or.jp/
 

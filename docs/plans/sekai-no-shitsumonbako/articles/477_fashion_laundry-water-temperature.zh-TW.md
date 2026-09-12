@@ -47,8 +47,8 @@
 
 ### 出處
 
-- 消費者廳（消費者庁）《新的洗滌標籤（JIS L0001）：洗滌符號與溫度》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者廳（消費者庁）《洗滌標籤（2024年8月20日以後／JIS L 0001:2024）：洗滌符號與溫度》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本肥皂洗劑工業會（日本石鹸洗剤工業会）《洗衣基礎：水溫與去污力》
   https://jsda.org/w/03_shiki/
 - 東京都水道局（東京都水道局）《水質資料：全年水溫》

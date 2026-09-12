@@ -49,8 +49,8 @@ Your face and scalp rest on a pillow for 6–8 hours every night, so it collects
 
 ### Sources
 
-- Consumer Affairs Agency (消費者庁), "The new care labels (JIS L0001)"
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- Consumer Affairs Agency (消費者庁), "Care labels (from 20 August 2024 / JIS L 0001:2024)"
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Tokyo Metropolitan Institute of Public Health (東京都健康安全研究センター), "Measures against mites (ecology and control of indoor mites)"
   https://www.tmiph.metro.tokyo.lg.jp/
 - Japan Bedding Goods Association (全日本寝具寝装品協会), "Caring for bedding"

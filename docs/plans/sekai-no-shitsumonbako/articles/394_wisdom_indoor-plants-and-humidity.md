@@ -18,7 +18,7 @@ Japanese homes keep plants — bonsai, kokedama, the ubiquitous pothos — but t
 - The **plants that thrive** in Japanese flats are the ones sold everywhere for that reason: **pothos, sansevieria, monstera, ZZ plant, ficus, peace lily, ivy** — tolerant of low light and irregular water.
 - **Soil**: Japanese gardening centres sell **"kanyō-shokubutsu no tsuchi"** (houseplant mix) with **akadama (fired clay granules)** for drainage — the traditional bonsai medium that suits the humidity.
 - **Kokedama** (moss-ball plants) and **bonsai** are outdoor or windowsill plants that need light and airflow; keeping bonsai indoors permanently is the most common killer of them.
-- **Mould and mosquitoes**: **standing water in saucers breeds mosquitoes** (dengue prevention notices from the Ministry of the Environment) and **soil mould**; empty saucers, top-dress with grit.
+- **Mould and mosquitoes**: **standing water in saucers breeds mosquitoes** (dengue and mosquito-borne disease prevention guidance from the Ministry of Health, Labour and Welfare) and **soil mould**; empty saucers, top-dress with grit.
 
 > **[Verify]** Humidity ranges with JMA normals and indoor-environment surveys; dengue/mosquito guidance with the Ministry of the Environment.
 
@@ -45,8 +45,8 @@ Japanese homes keep plants — bonsai, kokedama, the ubiquitous pothos — but t
 ---
 
 ### Sources
-- Ministry of the Environment — Mosquito-borne disease prevention: removing standing water (デング熱対策)
-  https://www.env.go.jp/nature/dokuhou/
+- Ministry of Health, Labour and Welfare — Dengue fever: mosquito control and removing standing water (デング熱)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000131101.html
 - Japan Meteorological Agency — Climatological normals (humidity)
   https://www.data.jma.go.jp/stats/etrn/
 - Tokyo Metropolitan Government Bureau of Public Health — Indoor mould prevention

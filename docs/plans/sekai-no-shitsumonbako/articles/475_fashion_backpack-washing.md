@@ -50,8 +50,8 @@
 
 ### 出典
 
-- 消費者庁「新しい洗濯表示（JIS L0001）」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者庁「洗濯表示（令和6年8月20日以降／JIS L 0001:2024）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 一般社団法人日本鞄協会「かばんのお手入れ」
   https://www.kaban.or.jp/
 - 独立行政法人国民生活センター「かばん・ランドセルに関する相談」

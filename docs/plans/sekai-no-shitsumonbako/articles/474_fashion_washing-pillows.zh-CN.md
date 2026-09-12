@@ -49,8 +49,8 @@
 
 ### 出处
 
-- 消费者厅（消費者庁）《新的洗涤标签（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消费者厅（消費者庁）《洗涤标签（2024年8月20日以后／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 东京都健康安全研究中心（東京都健康安全研究センター）《螨虫对策（室内螨虫的生态与防治）》
   https://www.tmiph.metro.tokyo.lg.jp/
 - 全日本寝具寝装品协会（全日本寝具寝装品協会）《寝具的保养》

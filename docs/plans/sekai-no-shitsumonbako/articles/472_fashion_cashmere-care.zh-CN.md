@@ -52,8 +52,8 @@
 
 - 消费者厅（消費者庁）《家庭用品品质标示法：纤维制品品质标示规程》（羊绒的标示）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 消费者厅《新的洗涤标签（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消费者厅《洗涤标签（2024年8月20日以后／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本国民生活中心（独立行政法人国民生活センター）《关于羊绒纤维含量的测试结果》
   https://www.kokusen.go.jp/
 

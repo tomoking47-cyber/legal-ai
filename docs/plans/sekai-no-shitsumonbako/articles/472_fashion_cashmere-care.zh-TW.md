@@ -52,8 +52,8 @@
 
 - 消費者廳（消費者庁）《家庭用品品質標示法：纖維製品品質標示規程》（喀什米爾的標示）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 消費者廳《新的洗滌標籤（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者廳《洗滌標籤（2024年8月20日以後／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本國民生活中心（独立行政法人国民生活センター）《關於喀什米爾纖維含量的測試結果》
   https://www.kokusen.go.jp/
 

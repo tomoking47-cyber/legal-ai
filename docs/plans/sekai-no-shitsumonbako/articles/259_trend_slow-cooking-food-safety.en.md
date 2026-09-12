@@ -14,7 +14,7 @@
 | Foods involved | **Curry, stew, simmered dishes, soup**: **made in bulk and left standing** | Same |
 | Growth temperature | **About 12–50°C**, **fastest at 43–47°C**. Multiplies **at the bottom of the pot, where there is little oxygen** | Same |
 | Spores | **Survive several hours at 100°C**. Germinate and multiply as the food cools | Same |
-| Countermeasures | **Divide into small portions and cool quickly (to 20°C or below within 2 hours), then refrigerate**. **Reheat to 75°C or above, stirring the whole pot** | Same |
+| Countermeasures | **Divide into small portions and cool quickly — the guideline in the Sanitation Management Manual for Large-Scale Cooking Facilities is a core temperature of around 20°C within 30 minutes, or around 10°C within 60 minutes — then refrigerate**. **Reheat to 75°C or above for at least 1 minute, stirring the whole pot** | Ministry of Health, Labour and Welfare |
 
 - **Retained-heat cooking (turning off the flame and leaving the lid on, or using a thermal cooker)** works as an energy-saving method **if the food is eaten within a few hours**. **The problem is "leaving it as it is until tomorrow".**
 - **A thermal cooker keeps the food warm, which means it stays for a long time in the temperature range where bacteria multiply.** **If it will be hours before you eat, cool it and refrigerate.**

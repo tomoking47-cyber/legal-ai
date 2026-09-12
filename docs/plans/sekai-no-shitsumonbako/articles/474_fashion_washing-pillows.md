@@ -49,8 +49,8 @@
 
 ### 出典
 
-- 消費者庁「新しい洗濯表示（JIS L0001）」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者庁「洗濯表示（令和6年8月20日以降／JIS L 0001:2024）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 東京都健康安全研究センター「ダニ対策（屋内ダニの生態と防除）」
   https://www.tmiph.metro.tokyo.lg.jp/
 - 全日本寝具寝装品協会「寝具のお手入れ」

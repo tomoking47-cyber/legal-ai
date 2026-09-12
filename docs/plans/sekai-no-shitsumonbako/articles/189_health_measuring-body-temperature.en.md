@@ -50,8 +50,8 @@ The beep gives a **predicted value**. **To know precisely, leave it in place for
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
 - Japanese Industrial Standards Committee (JISC), JIS T 1140 "Electronic clinical thermometers" [電子体温計]
   https://www.jisc.go.jp/
-- Ministry of Health, Labour and Welfare, COVID-19 Q&A, "Definition of fever under the Infectious Diseases Control Act (37.5°C or above)" [感染症法に基づく発熱の定義（37.5℃以上）]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
+- Ministry of Health, Labour and Welfare, "Guidelines for physicians' notifications under the Infectious Diseases Control Act (notification criteria)" [感染症法に基づく医師の届出のガイドライン（届出基準）] (fever = 37.5°C or above; high fever = 38.0°C or above)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/kekkaku-kansenshou11/
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

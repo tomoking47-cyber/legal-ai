@@ -4,7 +4,7 @@
 
 The upright bicycle with a basket, a bell and often a child seat — the "mamachari" — is how Japan runs its errands. It is unglamorous, ubiquitous and governed by a set of rules that changed significantly in 2023 and 2026.
 
-## A. The common misunderstanding is that Japan's everyday bicycles are casual, rule-free transport. They are registered, expected to carry a light, increasingly ridden with helmets under a 2023 duty-of-effort law, subject to on-the-spot fines for phone use and drunk riding since November 2024, and from 2026 to a "blue ticket" fine system for common violations. Parking is regulated too: leaving a bike outside a station's designated area gets it impounded.
+## A. The common misunderstanding is that Japan's everyday bicycles are casual, rule-free transport. They are registered, expected to carry a light, increasingly ridden with helmets under a 2023 duty-of-effort law, subject to on-the-spot fines for phone use and drunk riding since November 2024, and, since April 2026, to a "blue ticket" fine system for common violations. Parking is regulated too: leaving a bike outside a station's designated area gets it impounded.
 
 ## The bicycle and its rules
 
@@ -12,15 +12,15 @@ The upright bicycle with a basket, a bell and often a child seat — the "mamach
 |---|---|
 | The mamachari | **Upright frame, 26–27-inch wheels, basket, mudguards, chain guard, hub dynamo light, rear rack**; 1–3 gears; **¥15,000–40,000**; electric-assist (e-mamachari) **¥100,000–150,000**, dominant for parents |
 | **Registration** | **Anti-theft registration (防犯登録) is mandatory** — about ¥600 at purchase; the sticker is checked by police |
-| **Helmets** | **Duty of effort for all ages since 1 April 2023**; not yet a fine; adoption around 15–20% nationally in 2024 |
+| **Helmets** | **Duty of effort for all ages since 1 April 2023**; still carries no penalty; the national wearing rate was **about 21% in 2025** (National Police Agency), ranging from about 70% in Ehime to about 7% in Osaka |
 | **Lights** | **Required after dark**; fines apply |
 | **Where to ride** | **Roadway, left side, in principle**; **pavements only where signed, for children under 13, over 70, or where the road is dangerous**; ride slowly and give way to pedestrians |
-| **Prohibited** | **Phone use while riding**, **riding under the influence**, **umbrella in hand**, **two abreast**, **riding without lights**, **carrying an adult passenger**; **children: up to two under 6 in approved seats with helmets** |
-| **Penalties** | **Since 1 November 2024: phone use up to ¥100,000 fine / 6 months; drunk riding up to ¥500,000 / 3 years** (criminal). **From April 2026: "blue ticket" administrative fines (¥5,000–12,000)** for common violations by riders 16+ |
+| **Prohibited** | **Phone use while riding**, **riding under the influence**, **umbrella in hand**, **two abreast**, **riding without lights**, **carrying an adult passenger**; **children: up to two pre-school children (up to the start of elementary school) in approved seats with helmets** |
+| **Penalties** | **Since 1 November 2024: phone use up to ¥100,000 fine / 6 months; drunk riding up to ¥500,000 / 3 years** (criminal). **Since 1 April 2026: "blue ticket" administrative fines (¥3,000–12,000)** for common violations by riders 16+ |
 | **Parking** | **Station and shopping-area bicycle parks** (free or ¥100–200/day); **bikes left outside are removed** by the municipality, **retrieval fee ¥2,000–5,000** |
 | **Insurance** | **Liability insurance mandatory in Tokyo and most prefectures** since 2020; often bundled with household policies |
 
-- Japan has about **70 million bicycles**, roughly one per two people; **bicycle deaths were about 340 in 2023**, with **helmet use cutting fatality risk substantially** (National Police Agency).
+- Japan has about **57 million bicycles** (2021 industry survey), roughly one per two people; **bicycle deaths were 346 in 2023**, the first year-on-year rise in eight years, with **helmet use cutting fatality risk substantially** (National Police Agency).
 - **Electric-assist bicycles** are regulated: **assist up to 24 km/h**, no throttle; **e-bikes with throttles are mopeds** needing a licence and plate.
 - **Child seats**: front seat to about **4 years / 15 kg**, rear seat to **6 years / 22 kg**; the child must wear a helmet; **two children** allowed only on frames certified for it (BAA "幼児2人同乗基準").
 

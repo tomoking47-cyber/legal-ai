@@ -50,8 +50,8 @@
 
 ### 出处
 
-- 消费者厅（消費者庁）《新的洗涤标签（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消费者厅（消費者庁）《洗涤标签（2024年8月20日以后／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本箱包协会（一般社団法人日本鞄協会）《包的保养》
   https://www.kaban.or.jp/
 - 日本国民生活中心（独立行政法人国民生活センター）《关于箱包与ランドセル的咨询》

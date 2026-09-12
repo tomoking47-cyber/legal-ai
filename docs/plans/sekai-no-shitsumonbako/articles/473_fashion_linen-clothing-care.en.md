@@ -53,8 +53,8 @@ Linen shirts and dresses have become a summer staple in Japan's humid heat. They
 
 - Consumer Affairs Agency (消費者庁), "Household Goods Quality Labelling Act: Textile Goods Quality Labelling Regulations" (definition of 麻)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- Consumer Affairs Agency, "The new care labels (JIS L0001)"
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- Consumer Affairs Agency, "Care labels (from 20 August 2024 / JIS L 0001:2024)"
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Japan Linen, Ramie and Jute Spinners' Association (日本麻紡績協会), "Basic knowledge of linen and ramie"
   https://www.asabo.jp/
 

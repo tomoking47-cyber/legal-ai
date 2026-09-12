@@ -50,8 +50,8 @@
 
 ### 출처
 
-- 소비자청(消費者庁) 「새로운 취급 표시(JIS L0001)」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 소비자청(消費者庁) 「세탁 표시(2024년 8월 20일 이후/JIS L 0001:2024)」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 일본 가방 협회(一般社団法人日本鞄協会) 「가방 손질법」
   https://www.kaban.or.jp/
 - 일본 국민생활센터(独立行政法人国民生活センター) 「가방·란도세루에 관한 상담」

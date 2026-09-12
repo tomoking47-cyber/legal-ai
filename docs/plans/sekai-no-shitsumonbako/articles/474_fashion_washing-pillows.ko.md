@@ -49,8 +49,8 @@
 
 ### 출처
 
-- 소비자청(消費者庁) 「새로운 취급 표시(JIS L0001)」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 소비자청(消費者庁) 「세탁 표시(2024년 8월 20일 이후/JIS L 0001:2024)」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 도쿄도 건강안전연구센터(東京都健康安全研究センター) 「진드기 대책(실내 진드기의 생태와 방제)」
   https://www.tmiph.metro.tokyo.lg.jp/
 - 전일본 침구·침장품 협회(全日本寝具寝装品協会) 「침구 손질법」

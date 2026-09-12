@@ -50,8 +50,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
 - 日本產業標準調查會（JISC）JIS T 1140「電子體溫計」[電子体温計]
   https://www.jisc.go.jp/
-- 厚生勞動省 新冠病毒感染症Q&A「《感染症法》中發燒的定義（37.5℃以上）」[感染症法に基づく発熱の定義（37.5℃以上）]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
+- 厚生勞動省「《感染症法》下醫師通報的指引（通報基準）」[感染症法に基づく医師の届出のガイドライン（届出基準）]（發燒＝37.5℃以上，高燒＝38.0℃以上）
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/kekkaku-kansenshou11/
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

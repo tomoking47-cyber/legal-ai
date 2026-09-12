@@ -17,8 +17,8 @@ Cheese consumption is rising in Japan too, and two questions come up again and a
 | **Blue** (Gorgonzola, blue cheese) | The blue mould is edible | **2–3 weeks** | Its mould spreads easily to other foods. Seal tightly |
 | **Grated and shredded cheese** | Large surface area | **Refrigerate after opening, 2–3 weeks**. **Can be frozen** | Humidity causes mould and clumping |
 
-- Under Japan's **Ministerial Ordinance on Milk and Milk Products (乳等省令)**, cheese is classified as either **"natural cheese" or "processed cheese"**, and the label tells you which (look for the line 種類別, "type").
-- **Mould on cheese**: **on a hard cheese, unintended mould can be cut away with a 1–2 cm margin and the rest used**, according to general guidance; **mould on soft or shredded cheese has spread through the whole piece, so discard it** (this matches the general advice of the US Department of Agriculture).
+- Under Japan's **Order on Milk and Milk Products (乳等命令 — renamed from the Ministerial Ordinance 乳等省令 on 1 April 2024, when responsibility moved from MHLW to the Consumer Affairs Agency)**, cheese is classified as either **"natural cheese" or "processed cheese"**, and the label tells you which (look for the line 種類別, "type").
+- **Mould on cheese**: **on a hard cheese, unintended mould can be cut away — at least 2.5 cm (1 inch) around and below the mouldy spot — and the rest used**; **mould on soft or shredded cheese has spread through the whole piece, so discard it** (this follows the advice of the US Department of Agriculture).
 - **Freezing**: **shredded and pizza cheese freeze well** (heat straight from frozen). **Blocks change texture** (crumbly), so keep them for cooked dishes. **Soft cheeses do not freeze well.**
 
 > **[Verify]** Check the classification under the Ministerial Ordinance on Milk and Milk Products with MHLW, and the handling of mould against general food-safety guidance (USDA, MAFF).
@@ -47,8 +47,8 @@ Cheese consumption is rising in Japan too, and two questions come up again and a
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare (MHLW), "Ministerial Ordinance on Compositional Standards for Milk and Milk Products" [乳及び乳製品の成分規格等に関する省令] (cheese classification)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/
+- Consumer Affairs Agency (CAA), "Order on Compositional Standards for Milk and Milk Products" [乳及び乳製品の成分規格等に関する命令] (the 乳等命令; cheese classification)
+  https://www.caa.go.jp/policies/policy/standards_evaluation/other/category_002/
 - Cheese Professional Association (C.P.A.) [NPO法人チーズプロフェッショナル協会], "How to store cheese" [チーズの保存方法]
   https://www.cheese-professional.com/
 - Consumer Affairs Agency, "About date labelling on food" [食品の期限表示について]

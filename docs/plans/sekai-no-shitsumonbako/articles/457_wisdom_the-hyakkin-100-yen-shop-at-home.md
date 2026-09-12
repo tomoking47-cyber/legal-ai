@@ -21,7 +21,7 @@ The 100-yen shop is where much of Japan's household ingenuity is sold — the dr
 | **Knives, scissors** | **Scissors fine; knives poor** | A ¥1,000 knife from a home centre lasts years |
 | **Cosmetics** | **Legal and safe (same regulation); quality varies** | See the beauty articles |
 
-- The three big chains have **about 9,000 stores** in Japan and **over ¥1 trillion in combined sales**; **¥100 items are about 70% of the range**, with ¥200–500 tiers for larger goods.
+- The four big chains (Daiso, Seria, Can Do, Watts) have **about 9,400 stores** in Japan (March 2026) and **about ¥1.11 trillion in combined sales** (FY2025), with ¥200–500 tiers for larger goods.
 - The **organisation system logic**: measure the space, buy the exact number of identical containers, label them. The shops sell **rulers and label makers** next to the boxes for this reason.
 - **Renter-friendly**: adhesive hooks, tension rods, magnetic strips and door-hanging racks — the 100-yen shop is the rental flat's hardware store.
 

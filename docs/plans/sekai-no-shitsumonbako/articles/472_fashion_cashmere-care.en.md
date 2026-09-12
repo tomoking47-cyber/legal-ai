@@ -52,8 +52,8 @@ Cashmere is finer, lighter and warmer than ordinary wool. Because it is expensiv
 
 - Consumer Affairs Agency (消費者庁), "Household Goods Quality Labelling Act: Textile Goods Quality Labelling Regulations" (cashmere labelling)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- Consumer Affairs Agency, "The new care labels (JIS L0001)"
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- Consumer Affairs Agency, "Care labels (from 20 August 2024 / JIS L 0001:2024)"
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Test results on cashmere fibre content"
   https://www.kokusen.go.jp/
 

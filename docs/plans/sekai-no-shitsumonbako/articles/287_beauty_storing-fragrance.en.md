@@ -19,7 +19,7 @@
 
 - In Japan perfume is a **cosmetic** under the Pharmaceuticals and Medical Devices Act (some products are sold as general goods), and **full ingredient labelling** is compulsory. **Alcohol (ethanol) helps preserve it** but **does not stop the fragrance oils oxidising.**
 - **Decanting into an atomiser** exposes the liquid to **air and light, so it degrades faster than the bottle.** **Decant only as much as you will use in a few weeks.**
-- Perfume is **a hazardous material under the Fire Service Act (depending on alcohol content)**: **keep it away from open flames**, **carry-on for aircraft is limited to 100 mL per container**, and **perfume containing alcohol cannot be sent through Japan Post at all** (it is a prohibited item under the Postal Act). Some private courier firms accept it on condition of ground transport (see the article on posting parcels).
+- Perfume is **a hazardous material (alcohols) under the Fire Service Act once ethanol content reaches 60% or more**: **keep it away from open flames**, **international-flight carry-on is limited to 100 mL per container** (domestic flights follow different rules — containers up to 0.5 L, 2 L in total), and **perfume with a high alcohol content cannot be sent through Japan Post** (it is a prohibited item under the Postal Act; solid perfume and alcohol-free types are fine). Some private courier firms accept it on condition of ground transport (see the article on posting parcels).
 
 > **[Verify]** The guide for opened bottles is based on general industry and maker guidance. Check the hazardous-material handling against the Fire Service Act and airline rules, and check whether it can be posted against the latest guidance from Japan Post and each courier firm.
 
@@ -49,8 +49,8 @@ It is **the colour of oxidation**, and the scent has changed. **A sour top note*
 
 - Ministry of Health, Labour and Welfare (MHLW), "Labelling of use-by dates on cosmetics" [化粧品の使用期限の表示について] (Article 61 of the Pharmaceuticals and Medical Devices Act)
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/keshouhin/index.html
-- Japan Fragrance Association, "Storing and using fragrance" [フレグランスの保管と使い方]
-  http://japanfragrance.org/
+- Japan Fragrance Association, "Fragrance ABC (web edition)" [フレグランスのABC（WEB版）]
+  http://japanfragrance.org/abc-web/
 - Fire and Disaster Management Agency, Ministry of Internal Affairs and Communications, "Hazardous materials under the Fire Service Act (alcohols)" [消防法における危険物（アルコール類）]
   https://www.fdma.go.jp/
 

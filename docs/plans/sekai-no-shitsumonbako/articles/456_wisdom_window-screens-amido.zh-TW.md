@@ -49,8 +49,8 @@
 ### 出處
 - 厚生勞動省（Ministry of Health, Labour and Welfare）——登革熱：2014 年國內疫情與預防
   https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou19/dengue_fever.html
-- 環境省（Ministry of the Environment）——蚊蟲防治與積水
-  https://www.env.go.jp/nature/dokuhou/
+- 厚生勞動省（Ministry of Health, Labour and Welfare）——蚊媒傳染病預防特定指針（積水與蚊蟲孳生源管理）
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000131650.pdf
 - 日本 DIY 居家修繕中心協會（Japan DIY Home Centre Association）——DIY 指南（紗窗更換）
   https://www.diy.or.jp/
 

@@ -4,7 +4,7 @@
 
 Green tea has spread around the world, but "bitter" and "astringent" are common reactions, and questions about brewing never stop. Japanese teas differ sharply in the water temperature they need, and that temperature decides the taste. Here is the guide, type by type.
 
-## A. The biggest misunderstanding is "tea is made with boiling water". The astringency of green tea (catechins) comes out at high temperatures; the savoury umami (theanine) comes out even at low temperatures. The basic rule is gyokuro at 50–60°C (122–140°F), sencha at 70–80°C (158–176°F), and boiling water for hōjicha and genmaicha.
+## A. The biggest misunderstanding is "tea is made with boiling water". The astringency of green tea (catechins) comes out at high temperatures; the savoury umami (theanine) comes out even at low temperatures. The basic rule is gyokuro at 50–60°C (122–140°F), sencha at 70–90°C (158–194°F; the higher the grade, the lower the temperature), and boiling water for hōjicha and genmaicha.
 
 ## Guide by type
 
@@ -18,7 +18,7 @@ Green tea has spread around the world, but "bitter" and "astringent" are common 
 
 - The temperatures are based on guidance from the **Japan Tea Central Public Interest Incorporated Association (Nihon Cha-gyō Chūōkai)** and others. The rule of thumb shared in Japanese households: **each time you pour boiled water into another vessel — a cooling bowl (yuzamashi) or a cup — it drops by about 10°C**.
 - **Caffeine in brewed sencha is about 20 mg per 100 mL** (about a third of coffee); gyokuro is higher, at **about 160 mg** (Standard Tables of Food Composition in Japan).
-- Japan produces **about 75,000 tonnes** of tea a year (2023), with **Shizuoka and Kagoshima accounting for over 70%** (MAFF).
+- Japan produces **about 68,000 tonnes** of crude tea (aracha) a year across the main producing prefectures (2025 crop, MAFF "Crop Statistics Survey"), with **Kagoshima and Shizuoka accounting for over 70%**. Since the 2024 crop, **Kagoshima has been the largest producer in Japan**.
 
 > **[Verify]** Check the caffeine figures under "infusions" in the Standard Tables of Food Composition in Japan (8th edition), and the production figures against MAFF's "Crop Statistics".
 

@@ -19,7 +19,7 @@ Electric kettles have spread rapidly through Japanese homes and, alongside the t
 - **Scale is crystallised calcium and magnesium** and **is not harmful**, but it **lowers heating efficiency, flakes off and floats, and can confuse the sensors.** **It dissolves in citric acid (an acid).** **Baking soda (an alkali) does not work on scale.**
 - **Scald accidents**: the Consumer Affairs Agency and NITE (Japan's product-safety body) publish figures every year on **children scalded by kettles tipping over.** Choose a product with a **"spill-proof when tipped" (転倒お湯漏れ防止) design**, and **place it where the cord cannot be pulled and never at the edge of a table.**
 - **Re-boiling**: **there is no safety problem in re-boiling water that has already been boiled**, though **the minerals become more concentrated and the taste may change.** **Boiling only what you need** saves energy.
-- **Keep-warm mode on a hot-water pot**: **keeping water hot costs electricity** (about ¥10–20 a day). Switching to a **vacuum-insulated pot (keeps water hot without electricity)** is another energy-saving option.
+- **Keep-warm mode on a hot-water pot**: **keeping water hot costs electricity** (on a 2.2 L class pot, **roughly ¥20–40 a day**; vacuum-insulated (VE) types sit at the lower end, microcomputer types at the higher end). Switching to a **vacuum-insulated pot (keeps water hot without electricity)** is another energy-saving option.
 
 > **[Verify]** Check the quantity and method for citric acid against the manual for your product, and the accident cases against Consumer Affairs Agency and NITE material.
 
@@ -41,14 +41,14 @@ They are **minerals such as calcium** and are not harmful. **They dissolve in ci
 
 ## Misunderstanding 5｜Keeping the pot warm is economical
 
-**It costs ¥10–20 a day in electricity.** **A vacuum-insulated pot, or boiling only what you need, is cheaper.** **Change water that has been kept hot every day.**
+**It costs roughly ¥20–40 a day in electricity, depending on capacity and keep-warm type.** **A vacuum-insulated pot, or boiling only what you need, is cheaper.** **Change water that has been kept hot every day.**
 
 ---
 
 ### Sources
 
-- Consumer Affairs Agency, "Beware of scald accidents from electric kettles tipping over" [電気ケトルの転倒によるやけど事故に注意]
-  https://www.caa.go.jp/policies/policy/consumer_safety/child/
+- Consumer Affairs Agency, "Protect children from accidents! Mail Magazine Vol.489: Beware of scald accidents from electric kettles and similar appliances tipping over" [子どもを事故から守る！メールマガジン Vol.489 電気ケトル等の転倒によるやけど事故に注意!] (13 February 2020; hot-water spills are covered in Vol.645, 7 February 2024)
+  https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20200213/
 - National Institute of Technology and Evaluation (NITE), "Accidents involving electric kettles and hot-water pots" [電気ケトル・電気ポットの事故]
   https://www.nite.go.jp/jiko/chuikanki/
 - Association for Electric Home Appliances, "Caring for electric kettles and pots" [電気ケトル・ポットのお手入れ]

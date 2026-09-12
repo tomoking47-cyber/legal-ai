@@ -12,7 +12,7 @@ Neck strain from looking down at a smartphone is called "tech neck" around the w
 |---|---|
 | Weight of the head | **About 4–6 kg** (roughly 8–10% of body weight) |
 | Estimated load on the neck (from a research model) | About 5 kg upright; **about 12 kg at 15° forward tilt, 18 kg at 30°, 22 kg at 45°, 27 kg at 60°** (Hansraj, 2014) |
-| Average smartphone use | **About 3–4 hours a day** (Ministry of Internal Affairs and Communications survey on media use; over 5 hours for people in their teens and 20s) |
+| Average smartphone use | Internet use on mobile devices runs at **about 2.5 hours a day on weekdays across all age groups** (Ministry of Internal Affairs and Communications survey on media use; only teenagers on weekdays, and people in their teens and 20s at weekends, go over 200 minutes) |
 | Guideline for work with display screens | **No more than 1 hour of continuous work, with a 10–15 minute break in between**; **top of the screen below eye level**; **viewing distance 40 cm or more** |
 
 - **"Straight neck" is not a formal diagnosis**; it is an informal term for a reduced forward curve (lordosis) of the cervical spine. **Many people show it on imaging yet have no symptoms**, so it is not in itself a "disease".
@@ -44,9 +44,9 @@ For long periods **your arms tire and the phone drops anyway.** What works in pr
 
 ### Sources
 
-- Ministry of Health, Labour and Welfare, *Guidelines for Occupational Health Management in Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (2019)
+- Ministry of Health, Labour and Welfare, *Guidelines for Occupational Health Management in Work with Information Devices* [情報機器作業における労働衛生管理のためのガイドライン] (Notification Kihatsu 0712 No. 3 of 12 July 2019, partially amended by Kihatsu 1201 No. 7 of 1 December 2021)
   https://www.mhlw.go.jp/content/000539604.pdf
-- Ministry of Internal Affairs and Communications, *FY2023 Survey on Information and Communications Media Usage Time and Information Behaviour* [令和5年度 情報通信メディアの利用時間と情報行動に関する調査]
+- Ministry of Internal Affairs and Communications, *FY2025 Survey on Information and Communications Media Usage Time and Information Behaviour* [令和7年度 情報通信メディアの利用時間と情報行動に関する調査] (published June 2026)
   https://www.soumu.go.jp/iicp/research/results/media_usage-time.html
 - Japanese Orthopaedic Association, "Cervical spondylosis and neck pain" [頸椎症・首の痛み]
   https://www.joa.or.jp/public/sick/

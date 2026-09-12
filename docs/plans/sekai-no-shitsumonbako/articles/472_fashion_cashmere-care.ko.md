@@ -52,8 +52,8 @@
 
 - 소비자청(消費者庁) 「가정용품 품질표시법: 섬유제품 품질표시 규정」(캐시미어 표시)
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 소비자청 「새로운 취급 표시(JIS L0001)」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 소비자청 「세탁 표시(2024년 8월 20일 이후/JIS L 0001:2024)」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 일본 국민생활센터(独立行政法人国民生活センター) 「캐시미어 혼용률에 관한 시험 결과」
   https://www.kokusen.go.jp/
 

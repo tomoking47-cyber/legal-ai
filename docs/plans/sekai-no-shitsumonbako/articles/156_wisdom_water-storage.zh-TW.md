@@ -49,8 +49,8 @@
   https://www.bousai.go.jp/kyoiku/keigen/gensai/index.html
 - 東京都水道局（東京都水道局）——在家儲存自來水（くみ置く際の留意事項）
   https://www.waterworks.metro.tokyo.lg.jp/kurashi/shinsai/sonae/kumioki
-- 厚生勞動省（厚生労働省）——自來水受災與復原報告
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/topics/bukyoku/kenkou/suido/
+- 國土交通省（国土交通省）——自來水受災與復原（自來水的整備·管理行政已於 2024 年 4 月 1 日由厚生勞動省移交國土交通省，水質則歸環境省）
+  https://www.mlit.go.jp/mizukokudo/watersupply/index.html
 
 > **⚠️ 編輯部注：以上出處連結由檢索確定。本團隊的工作環境無法連線 go.jp 網域，尚未核對資料內容與正文是否一致。發布前請務必開啟原文核對，並記錄核對人與日期。**
 

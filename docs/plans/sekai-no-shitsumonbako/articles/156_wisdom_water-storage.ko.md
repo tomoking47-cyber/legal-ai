@@ -47,8 +47,8 @@
 ### 출처
 - 내각부(内閣府) — 방재 교육: 물과 식품의 비축
   https://www.bousai.go.jp/kyoiku/keigen/gensai/index.html
-- 도쿄도 수도국(東京都水道局) — 가정에서 수돗물 보관하기
-  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shitsu/
+- 도쿄도 수도국(東京都水道局) — 가정에서 수돗물 보관하기(くみ置く際の留意事項)
+  https://www.waterworks.metro.tokyo.lg.jp/kurashi/shinsai/sonae/kumioki
 - 국토교통성(国土交通省) — 수도 피해 및 복구(수도 정비·관리 행정은 2024년 4월 1일 후생노동성에서 이관되었고, 수질은 환경성 소관이 되었습니다)
   https://www.mlit.go.jp/mizukokudo/watersupply/index.html
 

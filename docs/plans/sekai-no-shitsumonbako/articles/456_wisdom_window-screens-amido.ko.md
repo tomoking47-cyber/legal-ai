@@ -49,8 +49,8 @@
 ### 출처
 - 후생노동성(Ministry of Health, Labour and Welfare) — 뎅기열: 2014년 국내 유행과 예방
   https://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou19/dengue_fever.html
-- 환경성(Ministry of the Environment) — 모기 방제와 고인 물
-  https://www.env.go.jp/nature/dokuhou/
+- 후생노동성(Ministry of Health, Labour and Welfare) — 모기 매개 감염병 예방을 위한 특정 지침(고인 물과 모기 발생원 관리)
+  https://www.mhlw.go.jp/file/06-Seisakujouhou-10900000-Kenkoukyoku/0000131650.pdf
 - 일본 DIY 홈센터 협회(Japan DIY Home Centre Association) — DIY 가이드(방충망 교체)
   https://www.diy.or.jp/
 

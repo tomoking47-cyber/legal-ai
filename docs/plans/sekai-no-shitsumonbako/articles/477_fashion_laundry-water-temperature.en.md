@@ -47,8 +47,8 @@ If you come from Europe or North America, washing at 40–60°C is probably norm
 
 ### Sources
 
-- Consumer Affairs Agency (消費者庁), "The new care labels (JIS L0001): washing symbols and temperatures"
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- Consumer Affairs Agency (消費者庁), "Care labels (from 20 August 2024 / JIS L 0001:2024): washing symbols and temperatures"
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Japan Soap and Detergent Association (日本石鹸洗剤工業会), "Laundry basics: water temperature and cleaning"
   https://jsda.org/w/03_shiki/
 - Tokyo Metropolitan Government Bureau of Waterworks (東京都水道局), "Water quality data: water temperature over the year"

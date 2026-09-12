@@ -50,8 +50,8 @@
   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iyakuhin/index.html
 - 일본산업표준조사회(JISC) JIS T 1140 「전자체온계」 [電子体温計]
   https://www.jisc.go.jp/
-- 후생노동성 코로나19 Q&A 「감염증법에 따른 발열의 정의(37.5℃ 이상)」 [感染症法に基づく発熱の定義（37.5℃以上）]
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
+- 후생노동성 「감염증법에 따른 의사의 신고 가이드라인(신고 기준)」 [感染症法に基づく医師の届出のガイドライン（届出基準）] (발열＝37.5℃ 이상, 고열＝38.0℃ 이상)
+  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/kekkaku-kansenshou11/
 
 > **⚠️ 편집부 주: 위 출처 URL은 검색으로 확인한 것입니다. 저희 작업 환경에서는 go.jp 도메인에 접속할 수 없어 자료 내용과 본문의 일치 여부를 확인하지 못했습니다. 게재 전 반드시 원문을 열어 확인하고, 확인자와 날짜를 기록해 주십시오.**
 

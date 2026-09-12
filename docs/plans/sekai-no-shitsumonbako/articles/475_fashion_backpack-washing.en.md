@@ -50,8 +50,8 @@ The backpack you carry to work or school every day, the tote you take shopping: 
 
 ### Sources
 
-- Consumer Affairs Agency (消費者庁), "The new care labels (JIS L0001)"
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- Consumer Affairs Agency (消費者庁), "Care labels (from 20 August 2024 / JIS L 0001:2024)"
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - Japan Bag Association (一般社団法人日本鞄協会), "Caring for bags"
   https://www.kaban.or.jp/
 - National Consumer Affairs Center of Japan (独立行政法人国民生活センター), "Consultations about bags and randoseru"

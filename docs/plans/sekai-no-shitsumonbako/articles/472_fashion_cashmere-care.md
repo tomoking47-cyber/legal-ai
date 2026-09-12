@@ -52,8 +52,8 @@
 
 - 消費者庁「家庭用品品質表示法：繊維製品品質表示規程」（カシミヤの表示）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 消費者庁「新しい洗濯表示（JIS L0001）」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者庁「洗濯表示（令和6年8月20日以降／JIS L 0001:2024）」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 独立行政法人国民生活センター「カシミヤ混率に関するテスト結果」
   https://www.kokusen.go.jp/
 

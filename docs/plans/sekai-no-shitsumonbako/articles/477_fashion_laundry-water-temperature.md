@@ -47,8 +47,8 @@
 
 ### 出典
 
-- 消費者庁「新しい洗濯表示（JIS L0001）：洗濯処理記号と温度」
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消費者庁「洗濯表示（令和6年8月20日以降／JIS L 0001:2024）：洗濯処理記号と温度」
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本石鹸洗剤工業会「洗濯の基礎知識：水温と洗浄」
   https://jsda.org/w/03_shiki/
 - 東京都水道局「水質データ：水温の推移」

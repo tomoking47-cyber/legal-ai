@@ -15,8 +15,8 @@ Home beauty devices (ion, EMS, LED, ultrasound, RF and so on) and electric clean
 | **Controlled medical device (Class II)** | Some home light-therapy and low-frequency devices | Approved indications | A certification number |
 | **Clinic equipment** | Medical RF, laser, HIFU | At a doctor's discretion | **Private cosmetic medicine (自由診療, not covered by health insurance)** |
 
-- **The Consumer Affairs Agency and the National Consumer Affairs Center of Japan** receive complaints about **burns from home beauty devices (RF, heat), rashes, eye pain (LED) and skin damage from EMS stimulation**. Most are caused by **exceeding the usage time, working the same spot repeatedly, or using a prohibited area (around the eyes, mucous membranes)**.
-- **Electric cleansing brushes** attract complaints of **irritation and redness from friction**; many makers advise **against daily use** (once or twice a week, a soft brush, no pressing). **Not suited to sensitive or acne-prone skin**.
+- **The Consumer Affairs Agency and the National Consumer Affairs Center of Japan** receive complaints about **burns from home beauty devices (RF, heat), rashes, eye pain (LED) and skin damage from EMS stimulation**. Most are caused by **exceeding the usage time, working the same spot repeatedly, or using a prohibited area (around the eyes, mucous membranes)**. **On 11 April 2024 the Consumer Safety Investigation Commission issued an advisory** reporting cases where using a home EMS beauty device near the neck led to **dizziness and fainting (with secondary head injuries from falls)**.
+- **Electric cleansing brushes** attract complaints of **irritation and redness from friction**; **the recommended frequency differs by product** (some are designed for daily use, others suggest two or three times a week). **Follow the manual's frequency and contact time (a few to a dozen or so seconds per area), and do not press**. **Not suited to sensitive or acne-prone skin**.
 - **Claims for a "device plus dedicated cosmetic"** cannot exceed **the 56 permitted cosmetic claims** (the list set by Japan's health ministry). **"Penetration" means only as far as the stratum corneum** (the outermost layer of skin).
 
 > **[Verify]** Check the category descriptions against the PMDA medical-device database, and the accident cases against Consumer Affairs Agency and National Consumer Affairs Center materials.
@@ -31,11 +31,11 @@ Home beauty devices (ion, EMS, LED, ultrasound, RF and so on) and electric clean
 
 ## Misunderstanding 3｜Daily use of a cleansing brush means cleaner pores
 
-**Daily friction causes irritation and redness**. **Once or twice a week, a soft brush, no pressing**. **Not for sensitive or acne-prone skin**.
+**Strong friction or overuse causes irritation and redness**. **Follow the frequency in the product's manual** (some are fine daily, others suggest two or three times a week). **Use a soft brush and do not press**. **Not for sensitive or acne-prone skin**.
 
 ## Misunderstanding 4｜It can be used anywhere on the body
 
-Most products **prohibit use around the eyes, on mucous membranes, wounds, moles and inflamed areas**. **Do not hold RF or heat devices on one spot for long**.
+Most products **prohibit use around the eyes, on mucous membranes, wounds, moles and inflamed areas**. **Do not apply EMS devices near the neck** — the government has warned about cases of dizziness and fainting. **Do not hold RF or heat devices on one spot for long**.
 
 ## Misunderstanding 5｜An expensive device equals a salon
 

@@ -51,7 +51,7 @@ Most Japanese junior-high and high-school students wear a uniform, and the famil
 
 - Consumer Affairs Agency, "Care labelling (from 20 August 2024)" [消費者庁「洗濯表示（令和6年8月20日以降）」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
-- Japan Apparel Industry Federation (school uniform makers), "Caring for school uniforms" [一般社団法人日本被服工業組合連合会「学生服のお手入れ」]
+- Japan Apparel Industry Federation (school uniform makers), "Caring for school uniforms" [日本被服工業組合連合会「学生服のお手入れ」]
   http://nippiren.com/
 - Consumer Affairs Agency, "Household Goods Quality Labelling Act — Textile Goods Quality Labelling Regulations" [消費者庁「家庭用品品質表示法　繊維製品品質表示規程」]
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/

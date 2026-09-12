@@ -17,7 +17,7 @@ The kitchen cloth — fukin (布巾) — has been used in Japanese homes for gen
 | Replace | **When it smells, darkens or wears thin.** **Monthly to every few months** | — |
 | Paper towels | **Disposable, so hygienic.** Suited to **raw meat and fish juices, oil and spills** | General food-hygiene guidance |
 
-- **Surveys by the Tokyo Metropolitan Government and others** report cases where **kitchen cloths and sponges carried more bacteria than the chopping board or the sink**.
+- **Surveys of household kitchens by private and local-government bodies** report that **washing-up sponges and kitchen cloths carry large numbers of bacteria, including coliforms** (the drain strainer, the sponge and the sink come out highest).
 - **Paper towels are household goods, not "utensils" under the Food Sanitation Act**, but **for uses that touch food directly (as a drop-lid on a simmering pot, in the microwave)** choose a product **labelled for food use (食品用)**. **Products made only from recycled paper may not be food-grade.**
 - **Boil only cotton or linen cloths** (synthetics melt). **Never mix chlorine bleach with other cleaning products.**
 
@@ -51,8 +51,8 @@ The kitchen cloth — fukin (布巾) — has been used in Japanese homes for gen
   https://www.mhlw.go.jp/www1/houdou/0903/h0331-1.html
 - Tokyo Metropolitan Institute of Public Health, "Survey of bacterial contamination in household kitchens" [家庭の台所の細菌汚染に関する調査]
   https://www.tmiph.metro.tokyo.lg.jp/
-- MHLW, "Positive list system for food utensils, containers and packaging" [食品用器具・容器包装のポジティブリスト制度] (how paper products are handled)
-  https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/kigu/index_00001.html
+- Consumer Affairs Agency (CAA), "The positive list system for food utensils, containers and packaging (from 1 June 2025)" [食品用器具・容器包装のポジティブリスト制度について（2025年6月1日以降）] (how paper products are handled)
+  https://www.caa.go.jp/policies/policy/standards_evaluation/appliance/positive_list_new
 
 > **⚠️ Editorial note: the source URLs above were identified by search. Our working environment cannot reach go.jp domains, so the contents have not been checked against the text. Verify every source before publication and record who checked it and when.**
 

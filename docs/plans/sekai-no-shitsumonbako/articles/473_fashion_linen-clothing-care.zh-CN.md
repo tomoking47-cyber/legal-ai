@@ -53,8 +53,8 @@
 
 - 消费者厅（消費者庁）《家庭用品品质标示法：纤维制品品质标示规程》（「麻」的定义）
   https://www.caa.go.jp/policies/policy/representation/household_goods/guide/fiber/
-- 消费者厅《新的洗涤标签（JIS L0001）》
-  https://www.caa.go.jp/policies/policy/representation/household_goods/laundry_symbols/
+- 消费者厅《洗涤标签（2024年8月20日以后／JIS L 0001:2024）》
+  https://www.caa.go.jp/policies/policy/representation/household_goods/guide/wash_02.html
 - 日本麻纺织协会（日本麻紡績協会）《亚麻与苎麻的基础知识》
   https://www.asabo.jp/
 
